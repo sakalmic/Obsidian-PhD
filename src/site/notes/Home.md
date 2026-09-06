@@ -17,34 +17,24 @@ This garden documents a reproducible investigation of how measured laser-channel
 
 ---
 
-## Research map
+## Research map & Category Index
 
-| Area | Focus | Access |
-| :--- | :--- | :---: |
-| **01 · Research** | Plasma physics, laser-triggered spark gaps, COMSOL modelling and diagnostics | [[II Areas/01_Research/01_MOC\|Explore research]] |
-| **02 · Publications** | Manuscript pipeline, target journals, conferences and research outputs | [[II Areas/02_Publications/02_MOC\|View publications]] |
-| **03 · Thesis** | Thesis architecture, claim ledger, evidence mapping and LaTeX integration | [[II Areas/03_Thesis/03_MOC\|Open dissertation hub]] |
-| **04 · Teaching** | Courses, laboratory teaching and supervised theses | Private workspace |
-| **05 · Grants** | Research grants, mobility and conference funding | Private workspace |
-| **06 · Administration** | Study plan, doctoral examination, regulations and supervision | [[II Areas/06_Administration/06_MOC\|Administration hub]] |
-| **07 · Academic Profile** | Researcher profiles, scientific identifiers, certifications and career milestones | [[II Areas/07_Academic_Profile/07_MOC\|Academic profile]] |
-
+| Area | Category Tag | Focus & Key Deliverables | Access Hub |
+| :--- | :---: | :--- | :---: |
+| **01 · Research** | <span style="background: rgba(46,160,67,0.15); color: #3fb950; border: 1px solid rgba(46,160,67,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600; font-size: 0.8em; white-space: nowrap;">🟢 Research</span> | Plasma physics, laser-triggered spark gaps, COMSOL modelling & diagnostics | [[II Areas/01_Research/01_MOC\|Explore research]] |
+| **02 · Publications** | <span style="background: rgba(56,139,253,0.15); color: #58a6ff; border: 1px solid rgba(56,139,253,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600; font-size: 0.8em; white-space: nowrap;">🔵 Publications</span> | Manuscript pipeline, target journals (IEEE, PSST), conferences & outputs | [[II Areas/02_Publications/02_MOC\|View publications]] |
+| **03 · Thesis** | <span style="background: rgba(56,139,253,0.15); color: #58a6ff; border: 1px solid rgba(56,139,253,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600; font-size: 0.8em; white-space: nowrap;">🔵 Thesis</span> | Thesis architecture, claim ledger (CL-01–06), evidence mapping & SDZ | [[II Areas/03_Thesis/03_MOC\|Open dissertation hub]] |
+| **04 · Teaching** | <span style="background: rgba(227,179,65,0.15); color: #e3b341; border: 1px solid rgba(227,179,65,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600; font-size: 0.8em; white-space: nowrap;">🟡 Teaching</span> | Physics & plasma lab courses, student consultation, supervised theses (BP/DP) | [[II Areas/04_Teaching/04_MOC\|Teaching hub]] |
+| **05 · Grants** | <span style="background: rgba(210,153,34,0.15); color: #f0883e; border: 1px solid rgba(210,153,34,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600; font-size: 0.8em; white-space: nowrap;">🟠 Grants</span> | CTU SGS grant applications, budgets, procurement, mobility & external funding | [[II Areas/05_Grants/05_MOC\|Grants overview]] |
+| **06 · Administration** | <span style="background: rgba(110,118,129,0.2); color: #8b949e; border: 1px solid rgba(110,118,129,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600; font-size: 0.8em; white-space: nowrap;">⚫ Administration</span> | Individual Study Plan (ISP), doctoral exams, credits, faculty directives & supervisor sync | [[II Areas/06_Administration/06_MOC\|Administration hub]] |
+| **07 · Academic Profile** | <span style="background: rgba(163,113,247,0.15); color: #a371f7; border: 1px solid rgba(163,113,247,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600; font-size: 0.8em; white-space: nowrap;">🟣 Profile</span> | Researcher profiles (ORCID, WoS), laser safety certifications (LSO) & academic CV | [[II Areas/07_Academic_Profile/07_MOC\|Academic profile]] |
 ---
 
 ## ⚡ Operational Sprint Kanban (Short-Term Focus)
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 16px 0; font-size: 0.78em; font-family: var(--font-interface, sans-serif);">
-  <span style="font-weight: 600; color: var(--text-muted, #7f848e); margin-right: 4px; display: flex; align-items: center;">Category Filter:</span>
-  <span style="background: rgba(46,160,67,0.15); color: #3fb950; border: 1px solid rgba(46,160,67,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600;">🟢 Research</span>
-  <span style="background: rgba(110,118,129,0.2); color: #8b949e; border: 1px solid rgba(110,118,129,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600;">⚫ Administration</span>
-  <span style="background: rgba(56,139,253,0.15); color: #58a6ff; border: 1px solid rgba(56,139,253,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600;">🔵 Publications &amp; Thesis</span>
-  <span style="background: rgba(210,153,34,0.15); color: #f0883e; border: 1px solid rgba(210,153,34,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600;">🟠 Grants &amp; Funding</span>
-  <span style="background: rgba(227,179,65,0.15); color: #e3b341; border: 1px solid rgba(227,179,65,0.3); padding: 2px 8px; border-radius: 12px; font-weight: 600;">🟡 Teaching &amp; Mentoring</span>
-</div>
-
 <div class="phd-kanban-board" style="display: flex; gap: 14px; overflow-x: auto; padding: 6px 0 18px 0; font-family: var(--font-interface, sans-serif);">
   <!-- Column 1: Backlog / Upcoming -->
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
+  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
     <div style="padding: 10px 12px; border-bottom: 2px solid #8b949e; display: flex; justify-content: space-between; align-items: center; background: rgba(255,255,255,0.03); border-top-left-radius: 8px; border-top-right-radius: 8px;">
       <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">📥 Sprint Backlog</span>
       <span style="background: rgba(255,255,255,0.1); color: var(--text-muted, #aaa); font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">3</span>
@@ -93,7 +83,7 @@ This garden documents a reproducible investigation of how measured laser-channel
   </div>
 
   <!-- Column 2: In Progress -->
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
+  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
     <div style="padding: 10px 12px; border-bottom: 2px solid #388bfd; display: flex; justify-content: space-between; align-items: center; background: rgba(56,139,253,0.06); border-top-left-radius: 8px; border-top-right-radius: 8px;">
       <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">⏳ In Progress</span>
       <span style="background: rgba(56,139,253,0.15); color: #58a6ff; font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">3</span>
@@ -142,7 +132,7 @@ This garden documents a reproducible investigation of how measured laser-channel
   </div>
 
   <!-- Column 3: Review / Validation -->
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
+  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
     <div style="padding: 10px 12px; border-bottom: 2px solid #d29922; display: flex; justify-content: space-between; align-items: center; background: rgba(210,153,34,0.06); border-top-left-radius: 8px; border-top-right-radius: 8px;">
       <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">🔍 Review &amp; QC</span>
       <span style="background: rgba(210,153,34,0.15); color: #f0883e; font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">2</span>
@@ -178,7 +168,7 @@ This garden documents a reproducible investigation of how measured laser-channel
   </div>
 
   <!-- Column 4: Completed -->
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
+  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
     <div style="padding: 10px 12px; border-bottom: 2px solid #2ea043; display: flex; justify-content: space-between; align-items: center; background: rgba(46,160,67,0.06); border-top-left-radius: 8px; border-top-right-radius: 8px;">
       <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">✅ Sprint Completed</span>
       <span style="background: rgba(46,160,67,0.15); color: #3fb950; font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">3</span>
@@ -233,7 +223,7 @@ This garden documents a reproducible investigation of how measured laser-channel
 
 <div class="phd-kanban-board" style="display: flex; gap: 14px; overflow-x: auto; padding: 6px 0 18px 0; font-family: var(--font-interface, sans-serif);">
   <!-- Year 1 -->
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
+  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
     <div style="padding: 10px 12px; border-bottom: 2px solid #2ea043; display: flex; justify-content: space-between; align-items: center; background: rgba(46,160,67,0.06); border-top-left-radius: 8px; border-top-right-radius: 8px;">
       <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">🚀 Year 1 (2024–2025)</span>
       <span style="background: rgba(46,160,67,0.15); color: #3fb950; font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">Foundations</span>
@@ -282,7 +272,7 @@ This garden documents a reproducible investigation of how measured laser-channel
   </div>
 
   <!-- Year 2 -->
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
+  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
     <div style="padding: 10px 12px; border-bottom: 2px solid #388bfd; display: flex; justify-content: space-between; align-items: center; background: rgba(56,139,253,0.06); border-top-left-radius: 8px; border-top-right-radius: 8px;">
       <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">🔬 Year 2 (2025–2026)</span>
       <span style="background: rgba(56,139,253,0.15); color: #58a6ff; font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">Active</span>
@@ -331,7 +321,7 @@ This garden documents a reproducible investigation of how measured laser-channel
   </div>
 
   <!-- Year 3 -->
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
+  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
     <div style="padding: 10px 12px; border-bottom: 2px solid #d29922; display: flex; justify-content: space-between; align-items: center; background: rgba(210,153,34,0.06); border-top-left-radius: 8px; border-top-right-radius: 8px;">
       <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">📄 Year 3 (2026–2027)</span>
       <span style="background: rgba(210,153,34,0.15); color: #f0883e; font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">Publications</span>
@@ -380,7 +370,7 @@ This garden documents a reproducible investigation of how measured laser-channel
   </div>
 
   <!-- Year 4 -->
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
+  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
     <div style="padding: 10px 12px; border-bottom: 2px solid #8b949e; display: flex; justify-content: space-between; align-items: center; background: rgba(255,255,255,0.03); border-top-left-radius: 8px; border-top-right-radius: 8px;">
       <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">🎓 Year 4 (2027–2028)</span>
       <span style="background: rgba(255,255,255,0.1); color: var(--text-muted, #aaa); font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">Defense</span>

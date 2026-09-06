@@ -74,10 +74,10 @@ body {
 }
 
 main.content {
-  width: min(100%, 920px) !important;
-  max-width: 920px !important;
+  width: min(100%, 1420px) !important;
+  max-width: 1420px !important;
   margin: 0 auto !important;
-  padding: 4.5rem 3.5rem 7rem !important;
+  padding: 3.5rem 2.5rem 6rem !important;
   color: var(--ink) !important;
   font-family: var(--font-editorial);
 }
@@ -387,94 +387,14 @@ td li {
   font-size: 0.72rem;
 }
 
-/* Home research map as a hierarchy preview */
-.phd-home > .table-wrapper:first-of-type {
-  overflow: visible;
-  border: 0;
-  background: transparent;
-  box-shadow: none;
-}
-
-.phd-home > .table-wrapper:first-of-type table,
-.phd-home > .table-wrapper:first-of-type tbody {
-  display: block;
-}
-
-.phd-home > .table-wrapper:first-of-type thead {
-  display: none;
-}
-
-.phd-home > .table-wrapper:first-of-type tbody {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-}
-
-.phd-home > .table-wrapper:first-of-type tr {
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-  min-height: 188px;
-  padding: 1.2rem 1.25rem 1.15rem;
-  border: 1px solid var(--line);
-  border-top: 3px solid var(--blue);
-  border-radius: var(--radius-md);
-  background: var(--surface) !important;
-  box-shadow: 0 10px 28px rgba(23, 54, 80, 0.06);
-}
-
-.phd-home > .table-wrapper:first-of-type tr:nth-child(2),
-.phd-home > .table-wrapper:first-of-type tr:nth-child(5) {
-  border-top-color: var(--copper);
-}
-
-.phd-home > .table-wrapper:first-of-type tr:nth-child(3),
-.phd-home > .table-wrapper:first-of-type tr:nth-child(6) {
-  border-top-color: var(--sage);
-}
-
+/* Home research map table styling */
 .phd-home > .table-wrapper:first-of-type td {
-  display: block;
-  padding: 0 !important;
-  border: 0 !important;
+  vertical-align: middle !important;
 }
 
 .phd-home > .table-wrapper:first-of-type td:first-child {
-  margin-bottom: 0.55rem;
-  color: var(--navy-deep) !important;
-  font-size: 0.98rem;
-}
-
-.phd-home > .table-wrapper:first-of-type td:nth-child(2) {
-  font-family: var(--font-editorial);
-  font-size: 0.93rem;
-  line-height: 1.55;
-}
-
-.phd-home > .table-wrapper:first-of-type td:last-child {
-  margin-top: 0.95rem;
-  color: var(--muted) !important;
-  font-size: 0.72rem;
   font-weight: 600;
-  letter-spacing: 0.05em;
-  text-align: left !important;
-  text-transform: uppercase;
-}
-
-.phd-home > .table-wrapper:first-of-type td:last-child a {
-  display: inline-flex;
-  align-items: center;
-  min-height: 34px;
-  padding: 0.45rem 0.72rem;
-  border: 1px solid var(--line-strong);
-  border-radius: 999px;
-  background: var(--surface-raised);
-  color: var(--navy) !important;
-  text-decoration: none;
-}
-
-.phd-home > .table-wrapper:first-of-type td:last-child a:hover {
-  border-color: var(--copper);
-  color: var(--copper) !important;
+  color: var(--navy-deep) !important;
 }
 
 /* Tags and metadata */
@@ -759,8 +679,22 @@ aside,
 
 @media (min-width: 1400px) {
   main.content {
-    max-width: 980px !important;
-    padding-inline: 4.4rem !important;
+    max-width: 1560px !important;
+    padding-inline: 3.5rem !important;
+  }
+}
+
+@media (min-width: 1800px) {
+  main.content {
+    max-width: 1720px !important;
+    padding-inline: 4rem !important;
+  }
+}
+
+@media (min-width: 1800px) {
+  main.content {
+    max-width: 1720px !important;
+    padding-inline: 4rem !important;
   }
 }
 
