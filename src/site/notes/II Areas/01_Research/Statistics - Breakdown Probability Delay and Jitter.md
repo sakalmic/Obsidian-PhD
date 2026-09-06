@@ -158,5 +158,5 @@ Physics failures must not be relabelled as technical failures. Predeclare tolera
 - [[Hierarchical Shot-Level Models Separate Effects from Drift\|Hierarchical Shot-Level Models Separate Effects from Drift]]
 - [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
 - [[Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]
-- [[II Areas/01_Research/Experiments/Indices/Data_and_Simulations/Experimental Measurements Archive\|Experimental Measurements Archive]]
+- [[II Areas/01_Research/Experiments/Experimental Measurements Archive\|Experimental Measurements Archive]]
 - [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]

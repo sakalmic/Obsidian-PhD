@@ -70,6 +70,9 @@ This garden documents a reproducible investigation of how measured laser-channel
 
 ## Essential links
 
+- **Dissertation keystones:** [[Keystones/Keystones\|Core Claims & Findings]]
+- **Experimental archive:** [[II Areas/01_Research/Experiments/Experiments Index\|Experiments & Diagnostics]]
+- **Numerical simulations:** [[II Areas/01_Research/Simulations/Simulations Index\|COMSOL & Multiphysics Models]]
 - **Evidence and traceability:** [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
 - **Dissertation structure:** [[II Areas/03_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
 - **Publication strategy:** [[II Areas/02_Publications/Publication Strategy & Targets\|Publication Strategy & Targets]]
