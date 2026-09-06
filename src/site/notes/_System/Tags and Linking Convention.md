@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/system/tags-and-linking-convention/","title":"Properties, Tags and Linking Convention","tags":["topic/system/metadata"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Properties, Tags and Linking Convention","aliases":["Tags and Linking Convention","Tagging Rules"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/metadata"],"tags":["topic/system/metadata"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+title: "Properties, Tags and Linking Convention"
+aliases:
+  - Tags and Linking Convention
+  - Tagging Rules
+type: guide
+status: evergreen
+context: phd
+topics:
+  - topic/system/metadata
+tags:
+  - topic/system/metadata
+date: 2026-09-01
+last_updated: 2026-09-03
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Properties, Tags and Linking Convention
 
@@ -139,27 +152,18 @@ Use the narrowest useful topical tag. Do not create synonyms such as both `theme
 
 Active evidence for CL-03:
 
-| File | type | evidence_state | dataset_id | last_updated |
-| ---- | ---- | -------------- | ---------- | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE type, evidence_state, dataset_id, last_updated
+FROM "III Resources/Evidence"
+WHERE contains(claims, "CL-03")
+SORT last_updated DESC
+```
 
 Upcoming projects:
 
-| File                                                                                                                                         | priority | due                | status      |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | ----------- |
-| [[I Projects/04_Grants/Grant SGS 2026-2027\|Grant SGS 2026-2027]]                                                                         | high     | \-                 | in-progress |
-| [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] | critical | September 24, 2026 | active      |
-| [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]]                                                           | critical | August 31, 2027    | active      |
-| [[I Projects/Experimental Diagnostics Campaign\|Experimental Diagnostics Campaign]]                                                       | high     | October 31, 2027   | active      |
-| [[I Projects/02_Campaigns/Experimental Diagnostics Campaign\|Experimental Diagnostics Campaign]]                                          | high     | October 31, 2027   | active      |
-| [[I Projects/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                                                             | high     | November 30, 2027  | active      |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                                              | high     | November 30, 2027  | active      |
-| [[I Projects/COMSOL Plasma Simulation Model\|COMSOL Plasma Simulation Model]]                                                             | high     | February 29, 2028  | active      |
-| [[I Projects/02_Campaigns/COMSOL Plasma Simulation Model\|COMSOL Plasma Simulation Model]]                                                | high     | February 29, 2028  | active      |
-| [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]                                                 | critical | April 30, 2028     | active      |
-| [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]                                    | critical | April 30, 2028     | active      |
-| [[I Projects/Dissertation Manuscript\|Dissertation Manuscript]]                                                                           | high     | August 31, 2028    | active      |
-| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]                                                            | high     | August 31, 2028    | active      |
-
-{ .block-language-dataview}
+```dataview
+TABLE priority, due, status
+FROM "I Projects"
+WHERE status != "complete" AND status != "archived"
+SORT due ASC
+```

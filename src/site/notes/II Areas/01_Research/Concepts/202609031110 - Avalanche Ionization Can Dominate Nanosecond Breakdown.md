@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031110-avalanche-ionization-can-dominate-nanosecond-breakdown/","title":"Avalanche Ionization Can Dominate Nanosecond Breakdown","tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/breakdown"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Avalanche Ionization Can Dominate Nanosecond Breakdown","aliases":["Inverse Bremsstrahlung avalanche","Cascade ionization"],"type":"concept","status":"evergreen","context":"research","claims":["CL-01","CL-03","CL-05"],"topics":["topic/ltsg/channel","topic/ltsg/breakdown"],"tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/breakdown"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+title: "Avalanche Ionization Can Dominate Nanosecond Breakdown"
+aliases:
+  - Inverse Bremsstrahlung avalanche
+  - Cascade ionization
+type: concept
+status: evergreen
+context: research
+claims: [CL-01, CL-03, CL-05]
+topics:
+  - topic/ltsg/channel
+  - topic/ltsg/breakdown
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/channel
+  - topic/ltsg/breakdown
+created: 2026-09-03
+last_updated: 2026-09-03
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Avalanche Ionization Can Dominate Nanosecond Breakdown
 
@@ -38,9 +56,9 @@ The collision frequency affects energy absorption; pressure can increase collisi
 
 ## Connections
 
-- **Up:** [[Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]]
-- **Side:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
-- **Down:** [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]
+- **Up:** [[Keldysh Parameter Separates Strong-Field Ionization Regimes]]
+- **Side:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
+- **Down:** [[CL-01 - Laser-assisted breakdown probability]] · [[CL-03 - Channel state versus pulse energy]]
 
 ## Anchor sources
 

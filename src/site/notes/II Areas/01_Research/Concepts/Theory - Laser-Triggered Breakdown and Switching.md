@@ -1,7 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/theory-laser-triggered-breakdown-and-switching/","title":"Theory - Laser-Triggered Breakdown and Switching","tags":["topic/ltsg/breakdown","topic/ltsg/channel"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-03","dg-note-properties":{"title":"Theory - Laser-Triggered Breakdown and Switching","aliases":["LTSG Theory","Laser-Triggered Breakdown Theory"],"type":"synthesis","status":"evergreen","context":"research","topics":["topic/ltsg/breakdown","topic/ltsg/channel"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel"],"date":"2026-09-02","last_updated":"2026-09-03"}}
+title: "Theory - Laser-Triggered Breakdown and Switching"
+aliases:
+  - LTSG Theory
+  - Laser-Triggered Breakdown Theory
+type: synthesis
+status: evergreen
+context: research
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+date: 2026-09-02
+last_updated: 2026-09-03
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Theory - Laser-Triggered Breakdown and Switching
 
@@ -29,13 +44,13 @@ The dissertation should therefore distinguish at least four timescales:
 
 The atomic derivations, assumptions and measurement consequences are maintained separately:
 
-- **Optics and seed production:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] → [[Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] / [[Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
-- **Electron kinetics:** [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]] → [[Electron Energy Distribution Determines Transport Coefficients\|Electron Energy Distribution Determines Transport Coefficients]] → [[Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]]
-- **Discharge transition:** [[Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]] → [[Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]] → [[Photoionization Enables Positive Streamer Propagation in Air\|Photoionization Enables Positive Streamer Propagation in Air]]
-- **Delayed channel:** [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]] and [[Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]]
-- **Geometry and history:** [[Electrode Geometry and Polarity Shape the Local Field\|Electrode Geometry and Polarity Shape the Local Field]] and [[Electrode Conditioning Creates History Dependence\|Electrode Conditioning Creates History Dependence]]
-- **Measurement and inference:** [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]], [[Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]] and [[Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]
-- **Post-breakdown dynamics:** [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]]
+- **Optics and seed production:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] → [[Keldysh Parameter Separates Strong-Field Ionization Regimes]] / [[Avalanche Ionization Can Dominate Nanosecond Breakdown]]
+- **Electron kinetics:** [[Reduced Electric Field Governs Electron Kinetics]] → [[Electron Energy Distribution Determines Transport Coefficients]] → [[Electron Attachment Recombination and Diffusion Erase Plasma Memory]]
+- **Discharge transition:** [[Townsend Avalanche Is Exponential but Not Yet a Streamer]] → [[Space Charge Marks the Avalanche to Streamer Transition]] → [[Photoionization Enables Positive Streamer Propagation in Air]]
+- **Delayed channel:** [[Hydrodynamic Density Depression Creates Electrical Memory]] and [[Competing Timescales Determine the Triggering Regime]]
+- **Geometry and history:** [[Electrode Geometry and Polarity Shape the Local Field]] and [[Electrode Conditioning Creates History Dependence]]
+- **Measurement and inference:** [[Timing Jitter Must Be De-Embedded from the Measurement Chain]], [[Measurement Uncertainty Must Propagate Through Derived Quantities]] and [[Predictive Validation Must Be Separated from Model Calibration]]
+- **Post-breakdown dynamics:** [[Plasma and External Circuit Form One Dynamical System]]
 
 ## 2. Laser field and focal intensity
 
@@ -238,13 +253,13 @@ Mandatory controls are therefore:
 
 ## Related notes
 
-- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
-- [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
-- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
-- [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]]
-- [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
-- [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]
+- [[LTSG Core Research Package 2026-2028]]
+- [[Diagnostics - Timing EMP and Radiation]]
+- [[Laser-Triggered Spark Gaps (LTSG)]]
+- [[Laser-Induced Plasma Dynamics]]
+- [[Research Extensions Roadmap]]
+- [[LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
+- [[LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]
 
 ## Anchor references
 

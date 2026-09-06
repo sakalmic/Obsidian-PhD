@@ -1,12 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/techno-economic-modeling-of-grid-switching/","title":"Techno-Economic Modeling of Grid Switching","tags":["topic/ltsg/economics","topic/ltsg/application"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Techno-Economic Modeling of Grid Switching","aliases":["Techno-Economic Modeling of Grid Switching","Techno-Economics in Power Engineering"],"type":"synthesis","status":"planned","context":"research","topics":["topic/ltsg/economics","topic/ltsg/application"],"tags":["topic/ltsg/economics","topic/ltsg/application"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+title: "Techno-Economic Modeling of Grid Switching"
+aliases:
+  - Techno-Economic Modeling of Grid Switching
+  - Techno-Economics in Power Engineering
+type: synthesis
+status: planned
+context: research
+topics:
+  - topic/ltsg/economics
+  - topic/ltsg/application
+tags:
+  - topic/ltsg/economics
+  - topic/ltsg/application
+date: 2026-09-01
+last_updated: 2026-09-03
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Techno-Economic Modeling of Grid Switching
 
 ## Research context
-The dissertation can connect discharge physics with economic evaluation within the *Economics of Energy and Electrical Engineering* doctoral programme at CTU FEE. Faster trigger timing creates economic value only if it produces a verified improvement in the complete protection or switching system. Until [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#EX-APP-01\|EX-APP-01]] is supported, this is an extension scenario rather than a core dissertation result.
+The dissertation can connect discharge physics with economic evaluation within the *Economics of Energy and Electrical Engineering* doctoral programme at CTU FEE. Faster trigger timing creates economic value only if it produces a verified improvement in the complete protection or switching system. Until [[Claim Ledger & Evidence Matrix#EX-APP-01|EX-APP-01]] is supported, this is an extension scenario rather than a core dissertation result.
 
 ---
 
@@ -25,6 +40,6 @@ Activate the economic work package only after a demonstrator provides measured d
 ---
 
 ## Related permanent notes
-- [[II Areas/01_Research/Concepts/202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection\|202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection]]
-- [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#EX-ECO-01\|EX-ECO-01]]
-- [[II Areas/03_Thesis/Thesis Structure & Chapter Outline#Chapter 6: Pulsed-Power Application and Conditional Techno-Economics\|Chapter 6]]
+- [[202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection]]
+- [[Claim Ledger & Evidence Matrix#EX-ECO-01|EX-ECO-01]]
+- [[Thesis Structure & Chapter Outline#Chapter 6: Pulsed-Power Application and Conditional Techno-Economics|Chapter 6]]

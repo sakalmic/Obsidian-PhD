@@ -25,7 +25,8 @@ This garden documents a reproducible investigation of how measured laser-channel
 | **03 · Thesis** | Thesis architecture, claim ledger, evidence mapping and LaTeX integration | [[II Areas/03_Thesis/03_MOC\|Open dissertation hub]] |
 | **04 · Teaching** | Courses, laboratory teaching and supervised theses | Private workspace |
 | **05 · Grants** | Research grants, mobility and conference funding | Private workspace |
-| **06 · Administration** | Study plan, doctoral examination, regulations and supervision | Private workspace |
+| **06 · Administration** | Study plan, doctoral examination, regulations and supervision | [[II Areas/06_Administration/06_MOC\|Administration hub]] |
+| **07 · Academic Profile** | Researcher profiles, scientific identifiers, certifications and career milestones | [[II Areas/07_Academic_Profile/07_MOC\|Academic profile]] |
 
 ---
 

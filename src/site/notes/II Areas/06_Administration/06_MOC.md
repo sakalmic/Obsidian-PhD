@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/06-administration/06-moc/","title":"06_MOC: Administration & ISP","tags":["type/moc","context/admin"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-06","dg-note-properties":{"title":"06_MOC: Administration & ISP","aliases":["06_MOC","Administration MOC"],"tags":["type/moc","context/admin"],"date":"2026-09-01","last_updated":"2026-09-06"}}
+title: "06_MOC: Administration & ISP"
+aliases:
+  - 06_MOC
+  - Administration MOC
+tags:
+  - type/moc
+  - context/admin
+date: 2026-09-01
+last_updated: 2026-09-06
+dg-publish: true
+dg-render-dataview: true
 ---
-
 
 # 06 — Administration and ISP
 
@@ -11,21 +20,25 @@ This area covers the formal study requirements and doctoral administration at th
 
 ## Administration map
 
-- [[II Areas/06_Administration/Individual Study Plan (ISP)\|Individual Study Plan and annual review]]
-- [[II Areas/06_Administration/Doctoral Study Regulations & Directives\|Doctoral regulations and faculty directives]]
-- [[II Areas/06_Administration/Supervisor Meetings Log\|Supervisor meeting records]]
-- [[II Areas/06_Administration/Credits & Exam Tracker\|Course, credit, and examination tracker]]
-- [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Critical Path]]
+- [[Individual Study Plan (ISP)|Individual Study Plan and annual review]]
+- [[Doctoral Study Regulations & Directives|Doctoral regulations and faculty directives]]
+- [[Supervisor Meetings Log|Supervisor meeting records]]
+- [[Credits & Exam Tracker|Course, credit, and examination tracker]]
+- [[I Projects/03_Milestones/ISP & Milestone Tracking|ISP & Milestone Critical Path]]
 
 ---
 
 ## Recent supervisor meetings
 
-| File                                                                                                         | Meeting date                  | Attendees                                                               |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------------- | ----------------------------------------------------------------------- |
-| [[II Areas/06_Administration/Meeting - 2026-09-01 Supervisor Sync\|Meeting - 2026-09-01 Supervisor Sync]] | 11:08 AM - September 06, 2026 | <ul><li>Ing. Michal Sakala</li><li>doc. Ing. Jan Mikeš, Ph.D.</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+TABLE
+    file.ctime as "Meeting date",
+    attendees as "Attendees"
+FROM "II Areas/06_Administration"
+WHERE type = "meeting" OR contains(tags, "type/meeting")
+SORT file.name DESC
+LIMIT 5
+```
 
 ---
 
