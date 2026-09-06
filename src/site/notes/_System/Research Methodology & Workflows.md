@@ -1,11 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/system/research-methodology-and-workflows/","title":"Research Methodology & Workflows","tags":["topic/system/workflow","topic/ltsg/metrology"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Research Methodology & Workflows","aliases":["Scientific Workflow","Research Operating Manual"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/workflow","topic/ltsg/metrology"],"tags":["topic/system/workflow","topic/ltsg/metrology"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+title: "Research Methodology & Workflows"
+aliases:
+  - Scientific Workflow
+  - Research Operating Manual
+type: guide
+status: evergreen
+context: phd
+topics:
+  - topic/system/workflow
+  - topic/ltsg/metrology
+tags:
+  - topic/system/workflow
+  - topic/ltsg/metrology
+date: 2026-09-01
+last_updated: 2026-09-03
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Research Methodology & Workflows
 
-This is the canonical operating manual for converting literature, models and laboratory work into defensible dissertation claims. The active scientific programme is [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]] and the immediate priority is [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]].
+This is the canonical operating manual for converting literature, models and laboratory work into defensible dissertation claims. The active scientific programme is [[LTSG Core Research Package 2026-2028]] and the immediate priority is [[Minimum Dissertation Study & Research Discussion 2026]].
 
 ## 1. Research spine
 
@@ -162,7 +177,7 @@ The core evidence package is complete when:
 
 ## Related system notes
 
-- [[_System/PhD Vault Architecture Guide\|PhD Vault Architecture Guide]]
-- [[_System/Tags and Linking Convention\|Tags and Linking Convention]]
-- [[_System/Digital Garden & Vercel Deployment Guide\|Digital Garden & Vercel Deployment Guide]]
+- [[PhD Vault Architecture Guide]]
+- [[Tags and Linking Convention]]
+- [[Digital Garden & Vercel Deployment Guide]]
 

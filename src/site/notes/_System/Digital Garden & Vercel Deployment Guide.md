@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/system/digital-garden-and-vercel-deployment-guide/","tags":["type/guide","context/phd","theme/system"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-01","dg-note-properties":{"aliases":["Digital Garden & Vercel Deployment Guide","Digital Garden Setup"],"tags":["type/guide","context/phd","theme/system"],"date":"2026-09-01","last_updated":"2026-09-01"}}
+aliases:
+  - Digital Garden & Vercel Deployment Guide
+  - Digital Garden Setup
+tags:
+  - type/guide
+  - context/phd
+  - theme/system
+date: 2026-09-01
+last_updated: 2026-09-01
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Digital Garden & Vercel Deployment Guide
 

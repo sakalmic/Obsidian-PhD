@@ -1,7 +1,16 @@
+﻿---
+title: "Simulation Datasets & Models"
+aliases:
+  - Simulation Datasets
+tags:
+  - type/study
+  - context/research
+  - theme/comsol-simulation
+  - status/in-progress
+date: 2026-09-01
+last_updated: 2026-09-01
+dg-publish: true
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/simulations/simulation-datasets-and-models/","title":"Simulation Datasets & Models","tags":["type/study","context/research","theme/comsol-simulation","status/in-progress"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-01","dg-note-properties":{"title":"Simulation Datasets & Models","aliases":["Simulation Datasets"],"tags":["type/study","context/research","theme/comsol-simulation","status/in-progress"],"date":"2026-09-01","last_updated":"2026-09-01"}}
----
-
 
 # Simulation Datasets and Models
 

@@ -1,7 +1,16 @@
+﻿---
+title: "COMSOL Multiphysics Setups"
+aliases:
+  - COMSOL Multiphysics Setups
+tags:
+  - type/study
+  - context/research
+  - theme/comsol-simulation
+  - status/in-progress
+date: 2026-09-01
+last_updated: 2026-09-01
+dg-publish: true
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/simulations/comsol-multiphysics-setups/","title":"COMSOL Multiphysics Setups","tags":["type/study","context/research","theme/comsol-simulation","status/in-progress"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-01","dg-note-properties":{"title":"COMSOL Multiphysics Setups","aliases":["COMSOL Multiphysics Setups"],"tags":["type/study","context/research","theme/comsol-simulation","status/in-progress"],"date":"2026-09-01","last_updated":"2026-09-01"}}
----
-
 
 # COMSOL Multiphysics Setups
 
