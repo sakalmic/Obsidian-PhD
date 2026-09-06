@@ -32,19 +32,6 @@ This garden documents a reproducible investigation of how measured laser-channel
 
 ## 📋 Task & Administration Kanban Board
 
-<<<<<<< HEAD
-<pre class="dataview dataview-error">Evaluation Error: TypeError: task.link.fileName.replace is not a function
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:65:63)
-    at DataviewInlineApi.eval (plugin:dataview:19027:16)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:727041)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:13326:21)
-    at Generator.next (&lt;anonymous&gt;)</pre>
-=======
 <div class="phd-kanban-board" style="display: flex; gap: 14px; overflow-x: auto; padding: 10px 0 16px 0; font-family: var(--font-interface, sans-serif);">
   <!-- Column 1: Immediate Tasks -->
   <div style="flex: 1; min-width: 250px; max-width: 320px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
@@ -182,7 +169,6 @@ This garden documents a reproducible investigation of how measured laser-channel
     </div>
   </div>
 </div>
->>>>>>> c619b85 (feat(home): add visual Kanban board compatible with Obsidian and Digital Garden)
 
 ---
 
