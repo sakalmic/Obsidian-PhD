@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/theory-laser-triggered-breakdown-and-switching/","title":"Theory - Laser-Triggered Breakdown and Switching","tags":["topic/ltsg/breakdown","topic/ltsg/channel"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-03","dg-note-properties":{"title":"Theory - Laser-Triggered Breakdown and Switching","aliases":["LTSG Theory","Laser-Triggered Breakdown Theory"],"type":"synthesis","status":"evergreen","context":"research","topics":["topic/ltsg/breakdown","topic/ltsg/channel"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel"],"date":"2026-09-02","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/theory-laser-triggered-breakdown-and-switching/","title":"Theory - Laser-Triggered Breakdown and Switching","tags":["topic/ltsg/breakdown","topic/ltsg/channel"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-03","dg-note-properties":{"title":"Theory - Laser-Triggered Breakdown and Switching","aliases":["LTSG Theory","Laser-Triggered Breakdown Theory"],"type":"synthesis","status":"evergreen","context":"research","topics":["topic/ltsg/breakdown","topic/ltsg/channel"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel"],"date":"2026-09-02","last_updated":"2026-09-03"}}
 ---
 
 

@@ -1,24 +1,7 @@
 ---
-title: "Thesis Structure & Chapter Outline"
-aliases:
-  - Thesis Structure
-  - Chapter Outline
-type: chapter
-status: active
-context: thesis
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/model
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/model
-date: 2026-09-01
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/la-te-x-thesis/thesis-structure-and-chapter-outline/","title":"Thesis Structure & Chapter Outline","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Thesis Structure & Chapter Outline","aliases":["Thesis Structure","Chapter Outline"],"type":"chapter","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-03"}}
 ---
+
 
 # Thesis Structure & Chapter Outline
 
@@ -57,7 +40,7 @@ The September 2026 discussion must approve or explicitly revise this wording. Th
 - Statistical versus formative delay as operational models.
 - Probability, survival/censoring and jitter estimators.
 
-Basis: [[Theory - Laser-Triggered Breakdown and Switching]] and [[Statistics - Breakdown Probability Delay and Jitter]].
+Basis: [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]] and [[II Areas/01_Research/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]].
 
 ### Chapter 3 - Metrology and reduced predictive model
 
@@ -99,12 +82,12 @@ Basis: [[Theory - Laser-Triggered Breakdown and Switching]] and [[Statistics - B
 
 ## Minimum-thesis boundary
 
-Chapters 1-5 plus Chapter 7 form the defensible core. Chapter 6 is conditional and may not delay completion. The immediate scientific-study/minimum structure is defined in [[Minimum Dissertation Study & Research Discussion 2026#Structure of the minimum-study document]].
+Chapters 1-5 plus Chapter 7 form the defensible core. Chapter 6 is conditional and may not delay completion. The immediate scientific-study/minimum structure is defined in [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026#Structure of the minimum-study document\|Minimum Dissertation Study & Research Discussion 2026#Structure of the minimum-study document]].
 
 ## Related notes
 
-- [[Minimum Dissertation Study & Research Discussion 2026]]
-- [[Claim Ledger & Evidence Matrix]]
-- [[LTSG Core Research Package 2026-2028]]
-- [[Dissertation Manuscript]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/Dissertation Manuscript\|Dissertation Manuscript]]
 

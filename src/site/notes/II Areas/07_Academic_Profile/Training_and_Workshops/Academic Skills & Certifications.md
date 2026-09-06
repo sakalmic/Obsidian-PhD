@@ -1,21 +1,7 @@
 ---
-title: "Academic Skills & Certifications"
-aliases:
-  - Academic Skills
-  - Certifications
-  - Training & Workshops
-tags:
-  - type/training
-  - context/career
-type: training
-status: active
-context: career
-date: 2026-09-01
-last_updated: 2026-09-06
-dg-publish: true
-dg-home-link: true
-dg-render-dataview: true
+{"dg-publish":true,"permalink":"/ii-areas/07-academic-profile/training-and-workshops/academic-skills-and-certifications/","title":"Academic Skills & Certifications","tags":["type/training","context/career"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-06","dg-note-properties":{"title":"Academic Skills & Certifications","aliases":["Academic Skills","Certifications","Training & Workshops"],"tags":["type/training","context/career"],"type":"training","status":"active","context":"career","date":"2026-09-01","last_updated":"2026-09-06"}}
 ---
+
 
 # Academic Skills & Certifications
 
@@ -40,6 +26,6 @@ Record of formal qualifications, safety certifications, technical competencies, 
 
 ## 🔗 Related Notes
 
-- [[07_MOC|Academic Profile MOC]]
-- [[LTSG Apparatus & Laboratory Safety|LTSG Apparatus & Safety]]
-- [[Credits & Exam Tracker|Credits & Exam Tracker]]
+- [[II Areas/07_Academic_Profile/07_MOC\|Academic Profile MOC]]
+- [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety\|LTSG Apparatus & Safety]]
+- [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker\|Credits & Exam Tracker]]

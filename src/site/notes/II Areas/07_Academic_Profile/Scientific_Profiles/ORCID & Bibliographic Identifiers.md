@@ -1,21 +1,7 @@
 ---
-title: "ORCID & Bibliographic Identifiers"
-aliases:
-  - Scientific Profiles
-  - Bibliographic Identifiers
-  - ORCID
-tags:
-  - type/profile
-  - context/career
-type: profile
-status: active
-context: career
-date: 2026-09-01
-last_updated: 2026-09-06
-dg-publish: true
-dg-home-link: true
-dg-render-dataview: true
+{"dg-publish":true,"permalink":"/ii-areas/07-academic-profile/scientific-profiles/orcid-and-bibliographic-identifiers/","title":"ORCID & Bibliographic Identifiers","tags":["type/profile","context/career"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-06","dg-note-properties":{"title":"ORCID & Bibliographic Identifiers","aliases":["Scientific Profiles","Bibliographic Identifiers","ORCID"],"tags":["type/profile","context/career"],"type":"profile","status":"active","context":"career","date":"2026-09-01","last_updated":"2026-09-06"}}
 ---
+
 
 # ORCID & Bibliographic Identifiers
 
@@ -38,6 +24,6 @@ This note indexes unique researcher identifiers, academic profiles, and database
 
 ## 🔗 Related Notes
 
-- [[07_MOC|Academic Profile MOC]]
-- [[Publication Strategy & Targets|Publication Strategy]]
-- [[Academic CV & Honors|Academic CV]]
+- [[II Areas/07_Academic_Profile/07_MOC\|Academic Profile MOC]]
+- [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy]]
+- [[II Areas/07_Academic_Profile/Academic_CV_and_Awards/Academic CV & Honors\|Academic CV]]

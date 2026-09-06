@@ -1,19 +1,7 @@
 ---
-title: Doctoral Study Regulations & Directives
-aliases:
-  - Doctoral Study Regulations
-  - CTU FEE Directives
-type: administration
-status: review
-context: administration
-topics:
-  - topic/system/workflow
-tags:
-  - topic/system/workflow
-date: 2026-09-01
-last_updated: 2026-09-03
-dg-publish: true
+{"dg-publish":true,"permalink":"/ii-areas/06-administration/directives-and-regulations/doctoral-study-regulations-and-directives/","title":"Doctoral Study Regulations & Directives","tags":["topic/system/workflow"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Doctoral Study Regulations & Directives","aliases":["Doctoral Study Regulations","CTU FEE Directives"],"type":"administration","status":"review","context":"administration","topics":["topic/system/workflow"],"tags":["topic/system/workflow"],"date":"2026-09-01","last_updated":"2026-09-03"}}
 ---
+
 
 # Doctoral Study Regulations and Directives
 
@@ -54,5 +42,5 @@ This note is a verification register, not an independent legal interpretation. A
 
 ## Operating rule
 
-Do not copy numerical requirements into several notes. Store the verified answer here and link to it from [[ISP & Milestone Tracking]], [[Credits & Exam Tracker]] and [[Publication Strategy & Targets]].
+Do not copy numerical requirements into several notes. Store the verified answer here and link to it from [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]], [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker\|Credits & Exam Tracker]] and [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy & Targets]].
 

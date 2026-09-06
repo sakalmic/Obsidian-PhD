@@ -1,23 +1,7 @@
 ---
-title: "Kerr Self-Focusing Creates Extended Filamentary Channels"
-aliases:
-  - Laser filamentation
-  - Critical self-focusing power
-type: concept
-status: evergreen
-context: research
-claims: [CL-03, CL-06]
-topics:
-  - topic/ltsg/channel
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/channel
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031130-kerr-self-focusing-creates-extended-filamentary-channels/","title":"Kerr Self-Focusing Creates Extended Filamentary Channels","tags":["type/permanent","context/research","topic/ltsg/channel"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Kerr Self-Focusing Creates Extended Filamentary Channels","aliases":["Laser filamentation","Critical self-focusing power"],"type":"concept","status":"evergreen","context":"research","claims":["CL-03","CL-06"],"topics":["topic/ltsg/channel"],"tags":["type/permanent","context/research","topic/ltsg/channel"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # Kerr Self-Focusing Creates Extended Filamentary Channels
 
@@ -53,9 +37,9 @@ The controlling ratio $P/P_{cr}$ is more relevant to self-focusing onset than pu
 
 ## Connections
 
-- **Up:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
-- **Side:** [[Hydrodynamic Density Depression Creates Electrical Memory]]
-- **Down:** [[CL-03 - Channel state versus pulse energy]] · [[Research Extensions Roadmap]]
+- **Up:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
+- **Side:** [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]] · [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]]
 
 ## Anchor sources
 

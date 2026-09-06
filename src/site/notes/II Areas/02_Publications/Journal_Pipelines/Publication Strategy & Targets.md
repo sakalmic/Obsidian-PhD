@@ -1,22 +1,7 @@
 ---
-title: "Publication Strategy & Targets"
-aliases:
-  - Publication Strategy
-type: project
-status: active
-context: publications
-priority: high
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-date: 2026-09-01
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/02-publications/journal-pipelines/publication-strategy-and-targets/","title":"Publication Strategy & Targets","tags":["topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Publication Strategy & Targets","aliases":["Publication Strategy"],"type":"project","status":"active","context":"publications","priority":"high","topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-03"}}
 ---
+
 
 # Publication Strategy & Targets
 
@@ -36,14 +21,14 @@ Do not retain unverified statements such as “two WoS articles” as settled fa
 
 ### Existing output — APL 2025
 
-[[LN - Sakala2025 - APL Lightning Protection]] establishes the prior parameter-study context. Attach and review the full paper before reusing numerical results.
+[[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]] establishes the prior parameter-study context. Attach and review the full paper before reusing numerical results.
 
 ### Paper 1 — experimental operating window
 
 - **Claims:** CL-01, CL-02, CL-03.
 - **Content:** self-breakdown normalisation, measured channel state, probability, censored delay/jitter, held-out comparison and independent repeat.
 - **Target submission:** October-November 2027.
-- **Project:** [[Paper - IEEE Transactions 2026]].
+- **Project:** [[I Projects/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]].
 
 ### Paper 2 — mechanism and predictive model
 
@@ -74,9 +59,9 @@ Waiting until April 2028 for the first journal submission leaves insufficient re
 
 ## Related notes
 
-- [[Paper - IEEE Transactions 2026]]
-- [[Claim Ledger & Evidence Matrix]]
-- [[Minimum Dissertation Study & Research Discussion 2026]]
-- [[Conference Pipeline]]
-- [[Co-Authorship & Contribution Records]]
+- [[I Projects/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[II Areas/02_Publications/Conferences/Conference Pipeline\|Conference Pipeline]]
+- [[II Areas/02_Publications/Journal_Pipelines/Co-Authorship & Contribution Records\|Co-Authorship & Contribution Records]]
 

@@ -1,16 +1,7 @@
-﻿---
-title: "Experimental Measurements Archive"
-aliases:
-  - Experimental Measurements Archive
-tags:
-  - type/study
-  - context/research
-  - theme/optical-diagnostics
-  - status/in-progress
-date: 2026-09-01
-last_updated: 2026-09-01
-dg-publish: true
 ---
+{"dg-publish":true,"permalink":"/ii-areas/01-research/experiments/experimental-measurements-archive/","title":"Experimental Measurements Archive","tags":["type/study","context/research","theme/optical-diagnostics","status/in-progress"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-01","dg-note-properties":{"title":"Experimental Measurements Archive","aliases":["Experimental Measurements Archive"],"tags":["type/study","context/research","theme/optical-diagnostics","status/in-progress"],"date":"2026-09-01","last_updated":"2026-09-01"}}
+---
+
 
 # Experimental Measurements Archive
 

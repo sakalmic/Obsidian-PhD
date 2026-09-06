@@ -1,33 +1,7 @@
 ---
-title: "CL-02 - Delay and jitter response"
-aliases:
-  - CL-02
-claim_id: CL-02
-type: claim
-status: hypothesis
-claim_role: primary
-contribution: C-A
-context: thesis
-work_packages:
-  - WP0
-  - WP3
-  - WP4
-datasets: []
-analyses: []
-manuscripts:
-  - Paper-1
-chapters:
-  - Chapter-4
-topics:
-  - topic/ltsg/timing
-  - topic/ltsg/statistics
-tags:
-  - topic/ltsg/timing
-  - topic/ltsg/statistics
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/cl-02-delay-and-jitter-response/","title":"CL-02 - Delay and jitter response","tags":["topic/ltsg/timing","topic/ltsg/statistics"],"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"CL-02 - Delay and jitter response","aliases":["CL-02"],"claim_id":"CL-02","type":"claim","status":"hypothesis","claim_role":"primary","contribution":"C-A","context":"thesis","work_packages":["WP0","WP3","WP4"],"datasets":[],"analyses":[],"manuscripts":["Paper-1"],"chapters":["Chapter-4"],"topics":["topic/ltsg/timing","topic/ltsg/statistics"],"tags":["topic/ltsg/timing","topic/ltsg/statistics"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # CL-02 - Delay and jitter response
 
@@ -55,9 +29,9 @@ Support requires a predeclared trend or model comparison that remains after adju
 
 ## Links
 
-- [[Claim Ledger & Evidence Matrix]]
-- [[Statistics - Breakdown Probability Delay and Jitter]]
-- [[Minimum Dissertation Study & Research Discussion 2026]]
-- [[Statistical and Formative Time Lags Are Different Processes]]
-- [[Censored Breakdown Delays Require Survival Analysis]]
-- [[Timing Jitter Must Be De-Embedded from the Measurement Chain]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[II Areas/01_Research/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[Statistical and Formative Time Lags Are Different Processes\|Statistical and Formative Time Lags Are Different Processes]]
+- [[Censored Breakdown Delays Require Survival Analysis\|Censored Breakdown Delays Require Survival Analysis]]
+- [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]

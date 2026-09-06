@@ -1,19 +1,7 @@
 ---
-title: Credits & Exam Tracker
-aliases:
-  - Credits & Exam Tracker
-  - Courses and Credits
-type: administration
-status: review
-context: administration
-topics:
-  - topic/system/workflow
-tags:
-  - topic/system/workflow
-date: 2026-09-01
-last_updated: 2026-09-03
-dg-publish: true
+{"dg-publish":true,"permalink":"/ii-areas/06-administration/credits-and-exams/credits-and-exam-tracker/","title":"Credits & Exam Tracker","tags":["topic/system/workflow"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Credits & Exam Tracker","aliases":["Credits & Exam Tracker","Courses and Credits"],"type":"administration","status":"review","context":"administration","topics":["topic/system/workflow"],"tags":["topic/system/workflow"],"date":"2026-09-01","last_updated":"2026-09-03"}}
 ---
+
 
 # Credits and Examination Tracker
 
@@ -33,7 +21,7 @@ dg-publish: true
 | Required professional courses | Verify |  | Export/check KOS |
 | English examination/certificate | Verify |  | Record accepted evidence |
 | Required principal-author publication for study block | Verify |  | Confirm whether APL 2025 satisfies it |
-| Scientific study/minimum | In progress |  | [[Minimum Dissertation Study & Research Discussion 2026]] |
+| Scientific study/minimum | In progress |  | [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] |
 | Professional discussion | Scheduled |  | Confirm exact date and formal status |
 | SDZ application eligibility | Not verified |  | Ask OVV after study-block audit |
 | Approved SDZ topics | Planned |  | Select with supervisor and programme board |
@@ -46,12 +34,12 @@ dg-publish: true
 | Publication requirement | Verify | Obtain written programme-specific rule and count existing outputs |
 | Internationalisation | Verify | Confirm acceptable form, duration and documentation |
 | Dissertation format and formal attachments | Verify | Check current dean's directive before submission |
-| Co-author contribution statements | Planned | Maintain in [[Co-Authorship & Contribution Records]] |
+| Co-author contribution statements | Planned | Maintain in [[II Areas/02_Publications/Journal_Pipelines/Co-Authorship & Contribution Records\|Co-Authorship & Contribution Records]] |
 | V3S/KOS publication records | In progress | Reconcile after every accepted output |
 
 ## Related notes
 
-- [[ISP & Milestone Tracking]]
-- [[State Doctoral Exam & Minimum Thesis]]
-- [[Individual Study Plan (ISP)]]
+- [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
+- [[II Areas/03_Thesis/State_Exam_Minimum/State Doctoral Exam & Minimum Thesis\|State Doctoral Exam & Minimum Thesis]]
+- [[II Areas/06_Administration/ISP_and_Evaluations/Individual Study Plan (ISP)\|Individual Study Plan (ISP)]]
 

@@ -1,33 +1,7 @@
 ---
-title: "CL-03 - Channel state versus pulse energy"
-aliases:
-  - CL-03
-claim_id: CL-03
-type: claim
-status: hypothesis
-claim_role: primary
-contribution: C-B
-context: thesis
-work_packages:
-  - WP2
-  - WP3
-  - WP4
-datasets: []
-analyses: []
-manuscripts:
-  - Paper-1
-chapters:
-  - Chapter-4
-topics:
-  - topic/ltsg/channel
-  - topic/ltsg/breakdown
-tags:
-  - topic/ltsg/channel
-  - topic/ltsg/breakdown
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/cl-03-channel-state-versus-pulse-energy/","title":"CL-03 - Channel state versus pulse energy","tags":["topic/ltsg/channel","topic/ltsg/breakdown"],"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"CL-03 - Channel state versus pulse energy","aliases":["CL-03"],"claim_id":"CL-03","type":"claim","status":"hypothesis","claim_role":"primary","contribution":"C-B","context":"thesis","work_packages":["WP2","WP3","WP4"],"datasets":[],"analyses":[],"manuscripts":["Paper-1"],"chapters":["Chapter-4"],"topics":["topic/ltsg/channel","topic/ltsg/breakdown"],"tags":["topic/ltsg/channel","topic/ltsg/breakdown"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # CL-03 - Channel state versus pulse energy
 
@@ -53,9 +27,9 @@ The metric and minimum worthwhile predictive improvement are fixed after screeni
 
 ## Links
 
-- [[Claim Ledger & Evidence Matrix]]
-- [[Laser-Induced Plasma Dynamics]]
-- [[Minimum Dissertation Study & Research Discussion 2026]]
-- [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
-- [[Hydrodynamic Density Depression Creates Electrical Memory]]
-- [[Predictive Validation Must Be Separated from Model Calibration]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
+- [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
+- [[Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]
