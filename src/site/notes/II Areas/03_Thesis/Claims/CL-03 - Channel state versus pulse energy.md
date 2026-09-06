@@ -28,8 +28,8 @@ The metric and minimum worthwhile predictive improvement are fixed after screeni
 ## Links
 
 - [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[II Areas/01_Research/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
-- [[I Projects/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
 - [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
 - [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
 - [[Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]

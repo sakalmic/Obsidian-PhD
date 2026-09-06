@@ -39,7 +39,7 @@ For delays, the same grouping can enter a survival or accelerated-failure-time m
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
+- **Up:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
 - **Side:** [[Breakdown Voltage Is a Probability Distribution Not a Constant\|Breakdown Voltage Is a Probability Distribution Not a Constant]] · [[Electrode Conditioning Creates History Dependence\|Electrode Conditioning Creates History Dependence]]
 - **Down:** [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]
 

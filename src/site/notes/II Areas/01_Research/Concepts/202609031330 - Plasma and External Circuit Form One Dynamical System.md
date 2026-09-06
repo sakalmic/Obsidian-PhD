@@ -45,7 +45,7 @@ $$y_m(t)=h_m(t)*y(t)+\epsilon(t).$$
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
+- **Up:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
 - **Side:** [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]] · [[Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]]
 - **Down:** [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]]
 

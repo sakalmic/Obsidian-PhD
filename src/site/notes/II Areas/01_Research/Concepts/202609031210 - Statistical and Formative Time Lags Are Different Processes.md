@@ -36,7 +36,7 @@ The formative component can be narrow near high overvoltage but broaden when ava
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
+- **Up:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
 - **Side:** [[Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]] · [[Censored Breakdown Delays Require Survival Analysis\|Censored Breakdown Delays Require Survival Analysis]]
 - **Down:** [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]]
 

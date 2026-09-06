@@ -48,7 +48,7 @@ which must create an adequate artificial current zero in DC or accelerate curren
 
 - **Up:** [[Arc Quenching Dynamics in Hybrid Breakers\|Arc Quenching Dynamics in Hybrid Breakers]]
 - **Side:** [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]]
-- **Down:** [[II Areas/01_Research/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]] · [[Techno-Economic Valuation of Ultrafast Grid Protection\|Techno-Economic Valuation of Ultrafast Grid Protection]]
+- **Down:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]] · [[Techno-Economic Valuation of Ultrafast Grid Protection\|Techno-Economic Valuation of Ultrafast Grid Protection]]
 
 ## Anchor sources
 

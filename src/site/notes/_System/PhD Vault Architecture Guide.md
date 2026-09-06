@@ -56,12 +56,12 @@ The existing PARA structure is retained. Public notes are not moved merely for c
 | Question | Canonical note |
 | --- | --- |
 | What is the active scientific programme and schedule? | [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]] |
-| What must be delivered in the next three weeks? | [[I Projects/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] |
+| What must be delivered in the next three weeks? | [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] |
 | What is the dissertation title and chapter structure? | [[II Areas/03_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] |
 | Which scientific assertions are allowed? | [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]] and atomic CL notes |
 | How is evidence generated and promoted? | [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]] |
 | Which metadata are valid? | [[_System/Tags and Linking Convention\|Tags and Linking Convention]] |
-| What are the doctoral deadlines? | [[I Projects/ISP & Milestone Tracking\|ISP & Milestone Tracking]] |
+| What are the doctoral deadlines? | [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]] |
 
 Other notes link to or embed these sections. They must not maintain independent copies of the same schedule or claim status.
 

@@ -13,12 +13,12 @@ This map brings together the scientific and experimental foundations of the doct
 
 Core physical theory, analytical scaling laws, and atomic conceptual notes:
 
-- [[II Areas/01_Research/Laser-Induced Plasma Dynamics\|Physical dynamics of laser-induced plasma]]
-- [[II Areas/01_Research/Laser-Triggered Spark Gaps (LTSG)\|Laser-triggered spark gaps and switching mechanisms]]
+- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Physical dynamics of laser-induced plasma]]
+- [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-triggered spark gaps and switching mechanisms]]
 - [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|Theory, scaling laws and modelling assumptions]]
-- [[II Areas/01_Research/Diagnostics - Timing EMP and Radiation\|Timing, EMP and ionising-radiation diagnostics]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Timing, EMP and ionising-radiation diagnostics]]
 - [[II Areas/01_Research/Statistics - Breakdown Probability Delay and Jitter\|Breakdown probability, censoring and jitter statistics]]
-- [[II Areas/01_Research/High-Voltage Arc Quenching & Protection\|High-voltage arc quenching and grid protection]]
+- [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-voltage arc quenching and grid protection]]
 - [[II Areas/01_Research/Techno-Economic Modeling of Grid Switching\|Techno-economic modelling of transmission and distribution protection]]
 - [[II Areas/01_Research/Concepts/Zettelkasten Index\|Atomic Permanent Notes Index (Concepts)]]
 
@@ -78,10 +78,10 @@ Finite-element numerical modelling, plasma kinetics, fluid dynamics, and solver 
 
 ## Executable Research Plan & Outputs
 
-- [[I Projects/Minimum Dissertation Study & Research Discussion 2026\|Immediate three-week topic-freeze and minimum project]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Immediate three-week topic-freeze and minimum project]]
 - [[I Projects/LTSG Core Research Package 2026-2028\|Core research package and 2026-2028 schedule]]
 - [[I Projects/Experimental Diagnostics Campaign\|Experimental campaign task board]]
-- [[II Areas/01_Research/Research Extensions Roadmap\|Staged extensions and activation gates]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Staged extensions and activation gates]]
 - [[I Projects/Paper - IEEE Transactions 2026\|IEEE Transactions manuscript]]
 - [[I Projects/Dissertation Manuscript\|Dissertation manuscript]]
 - [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim ledger and evidence matrix]]

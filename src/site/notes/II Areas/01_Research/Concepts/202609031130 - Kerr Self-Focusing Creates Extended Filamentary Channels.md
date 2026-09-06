@@ -39,7 +39,7 @@ The controlling ratio $P/P_{cr}$ is more relevant to self-focusing onset than pu
 
 - **Up:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
 - **Side:** [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
-- **Down:** [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]] · [[II Areas/01_Research/Research Extensions Roadmap\|Research Extensions Roadmap]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]] · [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]]
 
 ## Anchor sources
 

@@ -44,7 +44,7 @@ $E/N$ parameterisation assumes a local-field or local-mean-energy closure. It be
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
+- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
 - **Side:** [[Electron Energy Distribution Determines Transport Coefficients\|Electron Energy Distribution Determines Transport Coefficients]] · [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
 - **Down:** [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]]
 

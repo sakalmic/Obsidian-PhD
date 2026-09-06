@@ -12,7 +12,7 @@ Index of reviewed scientific literature, research syntheses and bibliographic no
 - [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|Cikhardt 2026 - EMP, particles and pulsed-power diagnostics]]
 - [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|Štěpánová 2026 - mixed radiation fields of impulse generators]]
 - [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|Cross-paper theoretical synthesis for the LTSG core]]
-- [[II Areas/01_Research/Diagnostics - Timing EMP and Radiation\|Diagnostic synthesis and false-signal controls]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostic synthesis and false-signal controls]]
 
 | File | Authors | Year | Journal / conference | DOI |
 | ---- | ------- | ---- | -------------------- | --- |

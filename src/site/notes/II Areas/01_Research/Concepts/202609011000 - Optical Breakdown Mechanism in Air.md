@@ -31,7 +31,7 @@ where $\nu_i$ is an effective ionisation frequency, $\nu_a$ attachment, $\nu_r$ 
 - Treat visible emission as a proxy, not a direct measurement of electron density.
 - Record failed shots and right-censored delays instead of deleting them.
 - Vary focus position and delay because the optically produced channel and the electrically useful channel need not coincide in space or time.
-- Use the mechanism-resolved treatment in [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]].
+- Use the mechanism-resolved treatment in [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]].
 
 ## Atomic mechanism map
 
@@ -45,8 +45,8 @@ where $\nu_i$ is an effective ionisation frequency, $\nu_a$ attachment, $\nu_r$ 
 ---
 
 ## Knowledge-graph connections
-- **Parent concept:** [[II Areas/01_Research/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]] · [[II Areas/01_Research/01_MOC\|01_Research MOC]]
-- **Application:** [[II Areas/01_Research/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
+- **Parent concept:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]] · [[II Areas/01_Research/01_MOC\|01_Research MOC]]
+- **Application:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
 - **Dissertation links:** [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#CL-03\|CL-03]] · [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#CL-05\|CL-05]] · [[II Areas/03_Thesis/Thesis Structure & Chapter Outline#Chapter 2: Theoretical & Physical Foundations of Plasma Switching\|Chapter 2]]
 - **Primary anchors:** Rosenthal et al. 2020, [doi:10.1364/OE.398836](https://doi.org/10.1364/OE.398836); Gao et al. 2022, [doi:10.1007/s00340-022-07907-7](https://doi.org/10.1007/s00340-022-07907-7)
 - **Unverified lead:** [[III Resources/03_Literature/LN - Mikes2024 - Laser Spark Gaps\|LN - Mikes2024 - Laser Spark Gaps]] — do not use as evidence until its metadata and full text are verified.

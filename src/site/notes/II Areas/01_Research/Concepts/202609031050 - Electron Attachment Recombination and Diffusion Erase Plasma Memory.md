@@ -36,7 +36,7 @@ which is not exponential. If first-order attachment dominates, $n_e\propto e^{-t
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
+- **Up:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
 - **Side:** [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]] · [[Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]]
 - **Down:** [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]]
 

@@ -164,7 +164,7 @@ Review this ledger weekly during acquisition and at every supervisor meeting. Th
 
 ## Related notes
 
-- [[I Projects/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
 - [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - [[II Areas/03_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
 - [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
