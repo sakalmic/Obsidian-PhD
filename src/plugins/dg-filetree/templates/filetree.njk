@@ -5,8 +5,9 @@
     {%if fileOrFolder.isNote or fileOrFolder.isFolder%}
         <div x-show="isOpen" style="display:none" class="{{'filelist' if step>0}}">
             {%if fileOrFolder.isNote and not fileOrFolder.hide %}
-                <div @click.stop class="notelink {{ 'active-note' if fileOrFolder.permalink === permalink}}">
-                    <a data-note-icon="{{fileOrFolder.noteIcon}}" style="text-decoration: none;" class="filename" href="{{fileOrFolder.permalink}}"{% if fileOrFolder.permalink === permalink %} aria-current="page"{% endif %}>{{fileOrFolder.name}} </a>
+                {% set isCurrent = (page.url and fileOrFolder.permalink === page.url) or (permalink and fileOrFolder.permalink === permalink and permalink !== '/') %}
+                <div @click.stop class="notelink {{ 'active-note' if isCurrent }}">
+                    <a data-note-icon="{{fileOrFolder.noteIcon}}" style="text-decoration: none;" class="filename" href="{{fileOrFolder.permalink}}"{% if isCurrent %} aria-current="page"{% endif %}>{{fileOrFolder.name}} </a>
                 </div>
             {% elif fileOrFolder.isFolder%}
                 <div class="folder inner-folder"

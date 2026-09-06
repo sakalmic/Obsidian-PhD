@@ -91,7 +91,7 @@ const sortTree = (unsorted, navigationOrder, currentPath) => {
 };
 
 function getPermalinkMeta(note, key) {
-  let permalink = "/";
+  let permalink = note.url || (note.data && note.data.permalink) || "/";
   let parts = note.filePathStem.split("/");
   let name = parts[parts.length - 1];
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
@@ -99,24 +99,24 @@ function getPermalinkMeta(note, key) {
   let pinned = false;
   let folders = null;
   try {
-    if (note.data.permalink) {
+    if (note.data && note.data.permalink) {
       permalink = note.data.permalink;
     }
-    if (note.data.tags && note.data.tags.indexOf("gardenEntry") != -1) {
+    if (note.data && note.data.tags && note.data.tags.indexOf("gardenEntry") != -1) {
       permalink = "/";
     }    
-    if (note.data.title) {
+    if (note.data && note.data.title) {
       name = note.data.title;
     }
-    if (note.data.noteIcon) {
+    if (note.data && note.data.noteIcon) {
       noteIcon = note.data.noteIcon;
     }
     // Reason for adding the hide flag instead of removing completely from file tree is to
     // allow users to use the filetree data elsewhere without the fear of losing any data.
-    if (note.data.hide || note.data.hideInFiletree) {
+    if (note.data && (note.data.hide || note.data.hideInFiletree)) {
       hide = true;
     }
-    if (note.data.pinned) {
+    if (note.data && note.data.pinned) {
       pinned = note.data.pinned;
     }
     if (note.data["dg-path"]) {
