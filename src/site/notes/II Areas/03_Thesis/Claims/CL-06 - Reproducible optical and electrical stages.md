@@ -1,33 +1,7 @@
 ---
-title: "CL-06 - Reproducible optical and electrical stages"
-aliases:
-  - CL-06
-claim_id: CL-06
-type: claim
-status: hypothesis
-claim_role: primary
-contribution: C-B
-context: thesis
-work_packages:
-  - WP0
-  - WP2
-  - WP4
-datasets: []
-analyses: []
-manuscripts:
-  - Paper-2
-chapters:
-  - Chapter-4
-topics:
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-tags:
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/cl-06-reproducible-optical-and-electrical-stages/","title":"CL-06 - Reproducible optical and electrical stages","tags":["topic/ltsg/channel","topic/ltsg/timing"],"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"CL-06 - Reproducible optical and electrical stages","aliases":["CL-06"],"claim_id":"CL-06","type":"claim","status":"hypothesis","claim_role":"primary","contribution":"C-B","context":"thesis","work_packages":["WP0","WP2","WP4"],"datasets":[],"analyses":[],"manuscripts":["Paper-2"],"chapters":["Chapter-4"],"topics":["topic/ltsg/channel","topic/ltsg/timing"],"tags":["topic/ltsg/channel","topic/ltsg/timing"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # CL-06 - Reproducible optical and electrical stages
 
@@ -49,9 +23,9 @@ Support requires stable event ordering or a predeclared model comparison across 
 
 ## Links
 
-- [[Claim Ledger & Evidence Matrix]]
-- [[Diagnostics - Timing EMP and Radiation]]
-- [[Minimum Dissertation Study & Research Discussion 2026]]
-- [[Space Charge Marks the Avalanche to Streamer Transition]]
-- [[Competing Timescales Determine the Triggering Regime]]
-- [[Timing Jitter Must Be De-Embedded from the Measurement Chain]]
+- [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
+- [[Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]]
+- [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]

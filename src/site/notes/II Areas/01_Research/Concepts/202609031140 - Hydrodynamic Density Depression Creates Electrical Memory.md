@@ -1,27 +1,7 @@
 ---
-title: "Hydrodynamic Density Depression Creates Electrical Memory"
-aliases:
-  - Low-density channel
-  - Hydrodynamic plasma-channel memory
-type: concept
-status: evergreen
-context: research
-claims: [CL-02, CL-03, CL-05, CL-06]
-topics:
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-  - topic/ltsg/model
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-  - topic/ltsg/model
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031140-hydrodynamic-density-depression-creates-electrical-memory/","title":"Hydrodynamic Density Depression Creates Electrical Memory","tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Hydrodynamic Density Depression Creates Electrical Memory","aliases":["Low-density channel","Hydrodynamic plasma-channel memory"],"type":"concept","status":"evergreen","context":"research","claims":["CL-02","CL-03","CL-05","CL-06"],"topics":["topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # Hydrodynamic Density Depression Creates Electrical Memory
 
@@ -65,9 +45,9 @@ Thus a channel may become electrically more favourable even while $n_e$ falls.
 
 ## Connections
 
-- **Up:** [[Laser-Induced Plasma Dynamics]]
-- **Side:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Reduced Electric Field Governs Electron Kinetics]]
-- **Down:** [[CL-06 - Reproducible optical and electrical stages]] · [[CL-05 - Reduced predictive model]]
+- **Up:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
+- **Side:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] · [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]
 
 ## Anchor sources
 

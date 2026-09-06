@@ -1,18 +1,7 @@
 ---
-title: "Arc Quenching Dynamics in Hybrid Breakers"
-aliases:
-  - "Zettel - Arc Quenching Dynamics in Hybrid Breakers"
-  - "Arc Quenching Dynamics in Hybrid Breakers"
-tags:
-  - type/permanent
-  - context/research
-  - theme/arc-quenching
-  - status/evergreen
-date: 2026-09-01
-last_updated: 2026-09-02
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609011015-arc-quenching-dynamics-in-hybrid-breakers/","title":"Arc Quenching Dynamics in Hybrid Breakers","tags":["type/permanent","context/research","theme/arc-quenching","status/evergreen"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-02","dg-note-properties":{"title":"Arc Quenching Dynamics in Hybrid Breakers","aliases":["Zettel - Arc Quenching Dynamics in Hybrid Breakers","Arc Quenching Dynamics in Hybrid Breakers"],"tags":["type/permanent","context/research","theme/arc-quenching","status/evergreen"],"date":"2026-09-01","last_updated":"2026-09-02"}}
 ---
+
 
 # Arc Quenching Dynamics in Hybrid Breakers
 
@@ -28,7 +17,7 @@ $$
 $$
 An LTSG could contribute to the timing of an auxiliary commutation pulse, but the switch alone does not create an artificial current zero. That system-level outcome additionally requires a commutation circuit, sufficient opposing current, insulation recovery and acceptable recovery-voltage stress. The core PhD campaign therefore measures trigger probability, delay, jitter, recovery and erosion first; breaker claims remain conditional on a later demonstrator.
 
-The coupled thermal/electrical mechanism is developed in [[Arc Conductance and Recovery Compete After Current Zero]]. Near current zero, a Mayr-type conductance model can be used as an identified black-box model, but its cooling power and time constant must be estimated from the specific interrupter; they are not transferable constants.
+The coupled thermal/electrical mechanism is developed in [[Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]]. Near current zero, a Mayr-type conductance model can be used as an identified black-box model, but its cooling power and time constant must be estimated from the specific interrupter; they are not transferable constants.
 
 ## Demonstrator evidence needed
 
@@ -41,10 +30,10 @@ The coupled thermal/electrical mechanism is developed in [[Arc Conductance and R
 ---
 
 ## Knowledge-graph connections
-- **Parent concept:** [[High-Voltage Arc Quenching & Protection]] · [[01_MOC|01_Research MOC]]
-- **Application:** [[Techno-Economic Modeling of Grid Switching]]
-- **Physical model:** [[Arc Conductance and Recovery Compete After Current Zero]] · [[Plasma and External Circuit Form One Dynamical System]]
-- **Dissertation link:** [[Claim Ledger & Evidence Matrix#EX-APP-01|EX-APP-01]] · [[Research Extensions Roadmap#E9 - Power-engineering demonstrator|E9 demonstrator]]
+- **Parent concept:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]] · [[II Areas/01_Research/01_MOC\|01_Research MOC]]
+- **Application:** [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]]
+- **Physical model:** [[Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]] · [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]]
+- **Dissertation link:** [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#EX-APP-01\|EX-APP-01]] · [[II Areas/01_Research/Concepts/Research Extensions Roadmap#E9 - Power-engineering demonstrator\|E9 demonstrator]]
 
 ## Anchor sources
 

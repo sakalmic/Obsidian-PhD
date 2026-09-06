@@ -1,19 +1,7 @@
 ---
-title: "PhD Vault Architecture Guide"
-aliases:
-  - System Guide
-type: guide
-status: evergreen
-context: phd
-topics:
-  - topic/system/vault
-tags:
-  - topic/system/vault
-date: 2026-09-01
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/system/ph-d-vault-architecture-guide/","title":"PhD Vault Architecture Guide","tags":["topic/system/vault"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"PhD Vault Architecture Guide","aliases":["System Guide"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/vault"],"tags":["topic/system/vault"],"date":"2026-09-01","last_updated":"2026-09-03"}}
 ---
+
 
 # PhD Vault Architecture Guide
 
@@ -67,13 +55,13 @@ The existing PARA structure is retained. Public notes are not moved merely for c
 
 | Question | Canonical note |
 | --- | --- |
-| What is the active scientific programme and schedule? | [[LTSG Core Research Package 2026-2028]] |
-| What must be delivered in the next three weeks? | [[Minimum Dissertation Study & Research Discussion 2026]] |
-| What is the dissertation title and chapter structure? | [[Thesis Structure & Chapter Outline]] |
-| Which scientific assertions are allowed? | [[Claim Ledger & Evidence Matrix]] and atomic CL notes |
-| How is evidence generated and promoted? | [[Research Methodology & Workflows]] |
-| Which metadata are valid? | [[Tags and Linking Convention]] |
-| What are the doctoral deadlines? | [[ISP & Milestone Tracking]] |
+| What is the active scientific programme and schedule? | [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]] |
+| What must be delivered in the next three weeks? | [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] |
+| What is the dissertation title and chapter structure? | [[II Areas/03_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] |
+| Which scientific assertions are allowed? | [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]] and atomic CL notes |
+| How is evidence generated and promoted? | [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]] |
+| Which metadata are valid? | [[_System/Tags and Linking Convention\|Tags and Linking Convention]] |
+| What are the doctoral deadlines? | [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]] |
 
 Other notes link to or embed these sections. They must not maintain independent copies of the same schedule or claim status.
 

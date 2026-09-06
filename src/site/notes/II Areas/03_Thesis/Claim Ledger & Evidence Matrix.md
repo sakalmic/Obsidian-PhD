@@ -1,25 +1,7 @@
 ---
-title: "Claim Ledger & Evidence Matrix"
-aliases:
-  - Claim Ledger
-  - Evidence Matrix
-type: moc
-status: active
-context: thesis
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-  - topic/ltsg/model
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-  - topic/ltsg/model
-date: 2026-09-01
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
-dg-render-dataview: true
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claim-ledger-and-evidence-matrix/","title":"Claim Ledger & Evidence Matrix","tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Claim Ledger & Evidence Matrix","aliases":["Claim Ledger","Evidence Matrix"],"type":"moc","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-03"}}
 ---
+
 
 # Claim Ledger & Evidence Matrix
 
@@ -29,42 +11,32 @@ This is the dashboard for all scientific claims permitted in the dissertation. T
 
 | Contribution | Claims | Role | Completion condition |
 | --- | --- | --- | --- |
-| **C-A — Reproducible operating window** | [[CL-01 - Laser-assisted breakdown probability]], [[CL-02 - Delay and jitter response]] | Primary | Confirmatory effect or quantitative bound with independent repeat |
-| **C-B — Channel state and mechanism** | [[CL-03 - Channel state versus pulse energy]], [[CL-06 - Reproducible optical and electrical stages]] | Primary | Held-out channel-informed comparison and defensible timing interpretation |
-| **C-C — Predictive reduced model** | [[CL-05 - Reduced predictive model]] | Primary | One untouched core outcome predicted within predeclared tolerance |
-| Supporting robustness | [[CL-04 - Polarity and field geometry]] | Supporting | Interaction estimate or quantitative bound if activated |
+| **C-A — Reproducible operating window** | [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]], [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] | Primary | Confirmatory effect or quantitative bound with independent repeat |
+| **C-B — Channel state and mechanism** | [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]], [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] | Primary | Held-out channel-informed comparison and defensible timing interpretation |
+| **C-C — Predictive reduced model** | [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] | Primary | One untouched core outcome predicted within predeclared tolerance |
+| Supporting robustness | [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]] | Supporting | Interaction estimate or quantitative bound if activated |
 
 The minimum defensible dissertation requires C-A, C-B and C-C to be tested, not necessarily confirmed. CL-04 may remain bounded. Optional extension claims may not replace a missing core contribution.
 
 ## Claim dashboard
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Claim",
-    contribution AS "Contribution",
-    claim_role AS "Role",
-    status AS "State",
-    work_packages AS "WP",
-    datasets AS "Datasets",
-    manuscripts AS "Output"
-FROM "II Areas/03_Thesis/Claims"
-SORT claim_id ASC
-```
+| Claim                                                                                                                                   | Contribution          | Role       | State      | WP                                            | Datasets  | Output                    |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------- | ---------- | --------------------------------------------- | --------- | ------------------------- |
+| [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]]             | C-A                   | primary    | hypothesis | <ul><li>WP1</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
+| [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]                                   | C-A                   | primary    | hypothesis | <ul><li>WP0</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
+| [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]                   | C-B                   | primary    | hypothesis | <ul><li>WP2</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
+| [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]]                               | Supporting robustness | supporting | hypothesis | <ul><li>WP1</li><li>WP4</li></ul>             | <ul></ul> | <ul></ul>                 |
+| [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]                                     | C-C                   | primary    | hypothesis | <ul><li>WP2</li><li>WP5</li></ul>             | <ul></ul> | <ul><li>Paper-2</li></ul> |
+| [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] | C-B                   | primary    | hypothesis | <ul><li>WP0</li><li>WP2</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-2</li></ul> |
+
+{ .block-language-dataview}
 
 ## Evidence linked to claims
 
-```dataview
-TABLE WITHOUT ID
-    file.link AS "Evidence",
-    type AS "Type",
-    evidence_state AS "Evidence state",
-    claims AS "Claims",
-    dataset_id AS "Dataset",
-    last_updated AS "Updated"
-FROM "III Resources/Evidence"
-WHERE length(claims) > 0
-SORT last_updated DESC
-```
+| Evidence | Type | Evidence state | Claims | Dataset | Updated |
+| -------- | ---- | -------------- | ------ | ------- | ------- |
+
+{ .block-language-dataview}
 
 ## Evidence-state vocabulary
 
@@ -131,8 +103,8 @@ Extension results are included only if their activation gate is passed without d
 | Luther et al. 2001, [doi:10.1063/1.1419036](https://doi.org/10.1063/1.1419036) | Very low jitter is possible in an optimised small pressurised gap | Performance of the present atmospheric system |
 | Arantchouk et al. 2013, [doi:10.1063/1.4802927](https://doi.org/10.1063/1.4802927) | Filament triggering can achieve high-current, low-jitter switching | Transfer to the present geometry and laser regime |
 | Rosenthal et al. 2020, [doi:10.1364/OE.398836](https://doi.org/10.1364/OE.398836) | Heating and density-channel evolution can be central | Dominance under the present pulse duration and timing |
-| [[LN - Cikhardt2026 - Electromagnetic and Particle Pulses]] | EMP measurement and source-attribution discipline | Atmospheric LTSG EMP amplitude or particle yield |
-| [[LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Passive diagnostics, spatial mapping and background controls | Radiation presence or mechanism in laser-triggered shots |
+| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]] | EMP measurement and source-attribution discipline | Atmospheric LTSG EMP amplitude or particle yield |
+| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Passive diagnostics, spatial mapping and background controls | Radiation presence or mechanism in laser-triggered shots |
 
 ## Integrity note
 
@@ -144,27 +116,27 @@ These headings preserve existing block links. The atomic claim note is authorita
 
 ### CL-01
 
-See [[CL-01 - Laser-assisted breakdown probability]].
+See [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]].
 
 ### CL-02
 
-See [[CL-02 - Delay and jitter response]].
+See [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]].
 
 ### CL-03
 
-See [[CL-03 - Channel state versus pulse energy]].
+See [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]].
 
 ### CL-04
 
-See [[CL-04 - Polarity and field geometry]].
+See [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]].
 
 ### CL-05
 
-See [[CL-05 - Reduced predictive model]].
+See [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]].
 
 ### CL-06
 
-See [[CL-06 - Reproducible optical and electrical stages]].
+See [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]].
 
 ### EX-EMP-01
 
@@ -192,8 +164,8 @@ Review this ledger weekly during acquisition and at every supervisor meeting. Th
 
 ## Related notes
 
-- [[Minimum Dissertation Study & Research Discussion 2026]]
-- [[LTSG Core Research Package 2026-2028]]
-- [[Thesis Structure & Chapter Outline]]
-- [[Research Methodology & Workflows]]
-- [[Paper - IEEE Transactions 2026]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
+- [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
+- [[I Projects/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]

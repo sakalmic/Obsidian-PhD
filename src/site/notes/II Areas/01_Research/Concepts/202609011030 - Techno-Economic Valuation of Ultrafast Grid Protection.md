@@ -1,18 +1,7 @@
 ---
-title: "Techno-Economic Valuation of Ultrafast Grid Protection"
-aliases:
-  - "Zettel - Techno-Economic Valuation of Ultrafast Grid Protection"
-  - "Techno-Economic Valuation of Ultrafast Grid Protection"
-tags:
-  - type/permanent
-  - context/research
-  - theme/techno-economics
-  - status/evergreen
-date: 2026-09-01
-last_updated: 2026-09-02
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609011030-techno-economic-valuation-of-ultrafast-grid-protection/","title":"Techno-Economic Valuation of Ultrafast Grid Protection","tags":["type/permanent","context/research","theme/techno-economics","status/evergreen"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-02","dg-note-properties":{"title":"Techno-Economic Valuation of Ultrafast Grid Protection","aliases":["Zettel - Techno-Economic Valuation of Ultrafast Grid Protection","Techno-Economic Valuation of Ultrafast Grid Protection"],"tags":["type/permanent","context/research","theme/techno-economics","status/evergreen"],"date":"2026-09-01","last_updated":"2026-09-02"}}
 ---
+
 
 # Techno-Economic Valuation of Ultrafast Grid Protection
 
@@ -45,7 +34,7 @@ Uncertain physical performance must enter before economic aggregation. Monte Car
 ---
 
 ## Knowledge-graph connections
-- **Parent concept:** [[Techno-Economic Modeling of Grid Switching]] · [[01_MOC|01_Research MOC]]
-- **Physical prerequisites:** [[Plasma and External Circuit Form One Dynamical System]] · [[Arc Conductance and Recovery Compete After Current Zero]]
-- **Uncertainty:** [[Measurement Uncertainty Must Propagate Through Derived Quantities]]
-- **Dissertation link:** [[Claim Ledger & Evidence Matrix#EX-ECO-01|EX-ECO-01]] · [[Thesis Structure & Chapter Outline#Chapter 6: Pulsed-Power Application and Conditional Techno-Economics|Chapter 6]]
+- **Parent concept:** [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] · [[II Areas/01_Research/01_MOC\|01_Research MOC]]
+- **Physical prerequisites:** [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]] · [[Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]]
+- **Uncertainty:** [[Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]]
+- **Dissertation link:** [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#EX-ECO-01\|EX-ECO-01]] · [[II Areas/03_Thesis/Thesis Structure & Chapter Outline#Chapter 6: Pulsed-Power Application and Conditional Techno-Economics\|Chapter 6]]

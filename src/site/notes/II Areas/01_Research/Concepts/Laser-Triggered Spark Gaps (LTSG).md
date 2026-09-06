@@ -1,22 +1,7 @@
 ---
-title: "Laser-Triggered Spark Gaps (LTSG)"
-aliases:
-  - Laser-Triggered Spark Gaps
-  - LTSG
-type: synthesis
-status: evergreen
-context: research
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/timing
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/timing
-date: 2026-09-01
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/laser-triggered-spark-gaps-ltsg/","title":"Laser-Triggered Spark Gaps (LTSG)","tags":["topic/ltsg/breakdown","topic/ltsg/timing"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Laser-Triggered Spark Gaps (LTSG)","aliases":["Laser-Triggered Spark Gaps","LTSG"],"type":"synthesis","status":"evergreen","context":"research","topics":["topic/ltsg/breakdown","topic/ltsg/timing"],"tags":["topic/ltsg/breakdown","topic/ltsg/timing"],"date":"2026-09-01","last_updated":"2026-09-03"}}
 ---
+
 
 # Laser-Triggered Spark Gaps (LTSG)
 
@@ -24,7 +9,7 @@ dg-home-link: true
 
 A laser-triggered spark gap uses an optically created seed or low-density channel to control where and when a high-voltage gap becomes conductive. Optical triggering provides galvanic separation of the trigger source and can remove the need for an immersed trigger electrode. Actual voltage, current, delay and jitter depend strongly on gap geometry, gas/pressure, working coefficient, laser pulse duration and channel topology; no single literature value should be treated as a device specification.
 
-The full physical basis is maintained in [[Theory - Laser-Triggered Breakdown and Switching]]. The executable dissertation plan is [[LTSG Core Research Package 2026-2028]], and the September 2026 scope freeze is [[Minimum Dissertation Study & Research Discussion 2026]].
+The full physical basis is maintained in [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]. The executable dissertation plan is [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]], and the September 2026 scope freeze is [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]].
 
 ---
 
@@ -48,18 +33,18 @@ These results motivate hypotheses; they do not verify the performance of the pre
 
 **Core:** breakdown probability, delay, jitter, electrical waveforms, channel imaging and a reduced physical model.
 
-**Extensions:** quantitative EMP, passive/active radiation diagnostics, filament triggering, repetition/recovery, gas mixtures, coupled plasma-circuit modelling and a pulsed-power demonstrator. See [[Research Extensions Roadmap]].
+**Extensions:** quantitative EMP, passive/active radiation diagnostics, filament triggering, repetition/recovery, gas mixtures, coupled plasma-circuit modelling and a pulsed-power demonstrator. See [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]].
 
 ---
 
 ## Related notes
-- [[Laser-Induced Plasma Dynamics]]
-- [[Theory - Laser-Triggered Breakdown and Switching]]
-- [[Reduced Electric Field Governs Electron Kinetics]]
-- [[Space Charge Marks the Avalanche to Streamer Transition]]
-- [[Competing Timescales Determine the Triggering Regime]]
-- [[Plasma and External Circuit Form One Dynamical System]]
-- [[Diagnostics - Timing EMP and Radiation]]
-- [[LTSG Core Research Package 2026-2028]]
-- [[Research Extensions Roadmap]]
-- [[High-Voltage Arc Quenching & Protection]]
+- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
+- [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]]
+- [[Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
+- [[Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]]
+- [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
+- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]]
+- [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]]
