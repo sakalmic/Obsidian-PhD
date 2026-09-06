@@ -1,33 +1,7 @@
 ---
-title: "CL-01 - Laser-assisted breakdown probability"
-aliases:
-  - CL-01
-claim_id: CL-01
-type: claim
-status: hypothesis
-claim_role: primary
-contribution: C-A
-context: thesis
-work_packages:
-  - WP1
-  - WP3
-  - WP4
-datasets: []
-analyses: []
-manuscripts:
-  - Paper-1
-chapters:
-  - Chapter-4
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/cl-01-laser-assisted-breakdown-probability/","title":"CL-01 - Laser-assisted breakdown probability","tags":["topic/ltsg/breakdown","topic/ltsg/statistics"],"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"CL-01 - Laser-assisted breakdown probability","aliases":["CL-01"],"claim_id":"CL-01","type":"claim","status":"hypothesis","claim_role":"primary","contribution":"C-A","context":"thesis","work_packages":["WP1","WP3","WP4"],"datasets":[],"analyses":[],"manuscripts":["Paper-1"],"chapters":["Chapter-4"],"topics":["topic/ltsg/breakdown","topic/ltsg/statistics"],"tags":["topic/ltsg/breakdown","topic/ltsg/statistics"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # CL-01 - Laser-assisted breakdown probability
 
@@ -54,9 +28,9 @@ If the interval includes no practically relevant change, report a quantitative u
 
 ## Links
 
-- [[Claim Ledger & Evidence Matrix]]
-- [[LTSG Core Research Package 2026-2028]]
-- [[Minimum Dissertation Study & Research Discussion 2026]]
-- [[Breakdown Voltage Is a Probability Distribution Not a Constant]]
-- [[Townsend Avalanche Is Exponential but Not Yet a Streamer]]
-- [[Hierarchical Shot-Level Models Separate Effects from Drift]]
+- [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[Breakdown Voltage Is a Probability Distribution Not a Constant\|Breakdown Voltage Is a Probability Distribution Not a Constant]]
+- [[Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]]
+- [[Hierarchical Shot-Level Models Separate Effects from Drift\|Hierarchical Shot-Level Models Separate Effects from Drift]]

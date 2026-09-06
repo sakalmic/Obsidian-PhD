@@ -1,25 +1,7 @@
 ---
-title: "Keldysh Parameter Separates Strong-Field Ionization Regimes"
-aliases:
-  - Keldysh parameter
-  - Multiphoton versus tunnelling ionisation
-type: concept
-status: evergreen
-context: research
-claims: [CL-03, CL-05]
-topics:
-  - topic/ltsg/channel
-  - topic/ltsg/model
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/channel
-  - topic/ltsg/model
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031100-keldysh-parameter-separates-strong-field-ionization-regimes/","title":"Keldysh Parameter Separates Strong-Field Ionization Regimes","tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Keldysh Parameter Separates Strong-Field Ionization Regimes","aliases":["Keldysh parameter","Multiphoton versus tunnelling ionisation"],"type":"concept","status":"evergreen","context":"research","claims":["CL-03","CL-05"],"topics":["topic/ltsg/channel","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # Keldysh Parameter Separates Strong-Field Ionization Regimes
 
@@ -62,9 +44,9 @@ For nanosecond air breakdown, impurities, aerosols, excited-state pathways and i
 
 ## Connections
 
-- **Up:** [[Optical Breakdown Mechanism in Air]]
-- **Side:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[Avalanche Ionization Can Dominate Nanosecond Breakdown]]
-- **Down:** [[CL-03 - Channel state versus pulse energy]] · [[CL-05 - Reduced predictive model]]
+- **Up:** [[Optical Breakdown Mechanism in Air\|Optical Breakdown Mechanism in Air]]
+- **Side:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]] · [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]
 
 ## Anchor sources
 

@@ -1,18 +1,7 @@
 ---
-title: "Optical Breakdown Mechanism in Air"
-aliases:
-  - "Zettel - Optical Breakdown Mechanism in Air"
-  - "Optical Breakdown Mechanism in Air"
-tags:
-  - type/permanent
-  - context/research
-  - theme/breakdown-physics
-  - status/evergreen
-date: 2026-09-01
-last_updated: 2026-09-02
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609011000-optical-breakdown-mechanism-in-air/","title":"Optical Breakdown Mechanism in Air","tags":["type/permanent","context/research","theme/breakdown-physics","status/evergreen"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-02","dg-note-properties":{"title":"Optical Breakdown Mechanism in Air","aliases":["Zettel - Optical Breakdown Mechanism in Air","Optical Breakdown Mechanism in Air"],"tags":["type/permanent","context/research","theme/breakdown-physics","status/evergreen"],"date":"2026-09-01","last_updated":"2026-09-02"}}
 ---
+
 
 # Optical Breakdown Mechanism in Air
 
@@ -42,22 +31,22 @@ where $\nu_i$ is an effective ionisation frequency, $\nu_a$ attachment, $\nu_r$ 
 - Treat visible emission as a proxy, not a direct measurement of electron density.
 - Record failed shots and right-censored delays instead of deleting them.
 - Vary focus position and delay because the optically produced channel and the electrically useful channel need not coincide in space or time.
-- Use the mechanism-resolved treatment in [[Theory - Laser-Triggered Breakdown and Switching]].
+- Use the mechanism-resolved treatment in [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]].
 
 ## Atomic mechanism map
 
-- **Strong-field seed production:** [[Keldysh Parameter Separates Strong-Field Ionization Regimes]]
-- **Nanosecond cascade growth:** [[Avalanche Ionization Can Dominate Nanosecond Breakdown]]
-- **Measured optical input:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
-- **Electron kinetics:** [[Reduced Electric Field Governs Electron Kinetics]] · [[Electron Energy Distribution Determines Transport Coefficients]]
-- **Electrical avalanche and streamer:** [[Townsend Avalanche Is Exponential but Not Yet a Streamer]] · [[Space Charge Marks the Avalanche to Streamer Transition]]
-- **Channel decay and delayed assistance:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Hydrodynamic Density Depression Creates Electrical Memory]]
+- **Strong-field seed production:** [[Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]]
+- **Nanosecond cascade growth:** [[Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
+- **Measured optical input:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
+- **Electron kinetics:** [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]] · [[Electron Energy Distribution Determines Transport Coefficients\|Electron Energy Distribution Determines Transport Coefficients]]
+- **Electrical avalanche and streamer:** [[Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]] · [[Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
+- **Channel decay and delayed assistance:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
 
 ---
 
 ## Knowledge-graph connections
-- **Parent concept:** [[Laser-Induced Plasma Dynamics]] · [[01_MOC|01_Research MOC]]
-- **Application:** [[Laser-Triggered Spark Gaps (LTSG)]]
-- **Dissertation links:** [[Claim Ledger & Evidence Matrix#CL-03|CL-03]] · [[Claim Ledger & Evidence Matrix#CL-05|CL-05]] · [[Thesis Structure & Chapter Outline#Chapter 2: Theoretical & Physical Foundations of Plasma Switching|Chapter 2]]
+- **Parent concept:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]] · [[II Areas/01_Research/01_MOC\|01_Research MOC]]
+- **Application:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
+- **Dissertation links:** [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#CL-03\|CL-03]] · [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#CL-05\|CL-05]] · [[II Areas/03_Thesis/Thesis Structure & Chapter Outline#Chapter 2: Theoretical & Physical Foundations of Plasma Switching\|Chapter 2]]
 - **Primary anchors:** Rosenthal et al. 2020, [doi:10.1364/OE.398836](https://doi.org/10.1364/OE.398836); Gao et al. 2022, [doi:10.1007/s00340-022-07907-7](https://doi.org/10.1007/s00340-022-07907-7)
-- **Unverified lead:** [[LN - Mikes2024 - Laser Spark Gaps]] — do not use as evidence until its metadata and full text are verified.
+- **Unverified lead:** [[III Resources/03_Literature/LN - Mikes2024 - Laser Spark Gaps\|LN - Mikes2024 - Laser Spark Gaps]] — do not use as evidence until its metadata and full text are verified.

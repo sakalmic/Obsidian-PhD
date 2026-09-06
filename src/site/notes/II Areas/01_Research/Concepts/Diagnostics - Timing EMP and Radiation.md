@@ -1,26 +1,7 @@
 ---
-title: "Diagnostics - Timing, EMP and Radiation"
-aliases:
-  - LTSG Diagnostics
-  - EMP and Radiation Diagnostics
-type: method
-status: evergreen
-context: research
-topics:
-  - topic/ltsg/metrology
-  - topic/ltsg/timing
-  - topic/ltsg/emp
-  - topic/ltsg/radiation
-tags:
-  - topic/ltsg/metrology
-  - topic/ltsg/timing
-  - topic/ltsg/emp
-  - topic/ltsg/radiation
-date: 2026-09-02
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/diagnostics-timing-emp-and-radiation/","title":"Diagnostics - Timing, EMP and Radiation","tags":["topic/ltsg/metrology","topic/ltsg/timing","topic/ltsg/emp","topic/ltsg/radiation"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-03","dg-note-properties":{"title":"Diagnostics - Timing, EMP and Radiation","aliases":["LTSG Diagnostics","EMP and Radiation Diagnostics"],"type":"method","status":"evergreen","context":"research","topics":["topic/ltsg/metrology","topic/ltsg/timing","topic/ltsg/emp","topic/ltsg/radiation"],"tags":["topic/ltsg/metrology","topic/ltsg/timing","topic/ltsg/emp","topic/ltsg/radiation"],"date":"2026-09-02","last_updated":"2026-09-03"}}
 ---
+
 
 # Diagnostics - Timing, EMP and Radiation
 
@@ -243,13 +224,13 @@ Campaign-level products include calibration files, sensor positions, uncertainty
 
 ## Related notes
 
-- [[LTSG Core Research Package 2026-2028]]
-- [[Statistics - Breakdown Probability Delay and Jitter]]
-- [[Theory - Laser-Triggered Breakdown and Switching]]
-- [[Research Extensions Roadmap]]
-- [[LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
-- [[LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]
-- [[Experimental Diagnostics Campaign]]
+- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]]
+- [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
+- [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]
+- [[I Projects/Experimental Diagnostics Campaign\|Experimental Diagnostics Campaign]]
 
 ## Anchor sources
 

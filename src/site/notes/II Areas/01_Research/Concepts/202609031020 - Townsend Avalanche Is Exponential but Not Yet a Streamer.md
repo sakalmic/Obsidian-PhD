@@ -1,25 +1,7 @@
 ---
-title: "Townsend Avalanche Is Exponential but Not Yet a Streamer"
-aliases:
-  - Townsend avalanche
-  - Effective ionisation integral
-type: concept
-status: evergreen
-context: research
-claims: [CL-01, CL-05]
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031020-townsend-avalanche-is-exponential-but-not-yet-a-streamer/","title":"Townsend Avalanche Is Exponential but Not Yet a Streamer","tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Townsend Avalanche Is Exponential but Not Yet a Streamer","aliases":["Townsend avalanche","Effective ionisation integral"],"type":"concept","status":"evergreen","context":"research","claims":["CL-01","CL-05"],"topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # Townsend Avalanche Is Exponential but Not Yet a Streamer
 
@@ -58,9 +40,9 @@ is therefore a useful reduced-model diagnostic, not a universal breakdown switch
 
 ## Connections
 
-- **Up:** [[Optical Breakdown Mechanism in Air]]
-- **Side:** [[Reduced Electric Field Governs Electron Kinetics]] · [[Space Charge Marks the Avalanche to Streamer Transition]]
-- **Down:** [[CL-01 - Laser-assisted breakdown probability]] · [[CL-05 - Reduced predictive model]]
+- **Up:** [[Optical Breakdown Mechanism in Air\|Optical Breakdown Mechanism in Air]]
+- **Side:** [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]] · [[Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]
 
 ## Anchor sources
 

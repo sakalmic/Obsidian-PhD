@@ -1,18 +1,7 @@
 ---
-title: "Conference Pipeline"
-aliases:
-  - Conference Pipeline
-  - Conference Overview
-tags:
-  - type/study
-  - context/publications
-  - status/in-progress
-status: in-progress
-date: 2026-09-01
-last_updated: 2026-09-01
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/02-publications/conference-pipeline/","title":"Conference Pipeline","tags":["type/study","context/publications","status/in-progress"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-01","dg-note-properties":{"title":"Conference Pipeline","aliases":["Conference Pipeline","Conference Overview"],"tags":["type/study","context/publications","status/in-progress"],"status":"in-progress","date":"2026-09-01","last_updated":"2026-09-01"}}
 ---
+
 
 # Conference Pipeline
 
@@ -33,5 +22,5 @@ Planned international conferences for presenting results from the doctoral resea
 
 ## Related notes
 
-- [[03_MOC|03_Publications MOC]]
-- [[Publication Strategy & Targets]]
+- [[II Areas/03_Thesis/03_MOC\|03_Publications MOC]]
+- [[II Areas/02_Publications/Publication Strategy & Targets\|Publication Strategy & Targets]]
