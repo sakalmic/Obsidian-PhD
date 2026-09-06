@@ -6,7 +6,7 @@
 # Techno-Economic Modeling of Grid Switching
 
 ## Research context
-The dissertation can connect discharge physics with economic evaluation within the *Economics of Energy and Electrical Engineering* doctoral programme at CTU FEE. Faster trigger timing creates economic value only if it produces a verified improvement in the complete protection or switching system. Until [[II Areas/02_Thesis/Claim Ledger & Evidence Matrix#EX-APP-01\|EX-APP-01]] is supported, this is an extension scenario rather than a core dissertation result.
+The dissertation can connect discharge physics with economic evaluation within the *Economics of Energy and Electrical Engineering* doctoral programme at CTU FEE. Faster trigger timing creates economic value only if it produces a verified improvement in the complete protection or switching system. Until [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#EX-APP-01\|EX-APP-01]] is supported, this is an extension scenario rather than a core dissertation result.
 
 ---
 
@@ -25,6 +25,6 @@ Activate the economic work package only after a demonstrator provides measured d
 ---
 
 ## Related permanent notes
-- [[III Resources/Zettelkasten/202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection\|202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection]]
-- [[II Areas/02_Thesis/Claim Ledger & Evidence Matrix#EX-ECO-01\|EX-ECO-01]]
-- [[II Areas/02_Thesis/Thesis Structure & Chapter Outline#Chapter 6: Pulsed-Power Application and Conditional Techno-Economics\|Chapter 6]]
+- [[II Areas/01_Research/Concepts/202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection\|202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection]]
+- [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix#EX-ECO-01\|EX-ECO-01]]
+- [[II Areas/03_Thesis/Thesis Structure & Chapter Outline#Chapter 6: Pulsed-Power Application and Conditional Techno-Economics\|Chapter 6]]

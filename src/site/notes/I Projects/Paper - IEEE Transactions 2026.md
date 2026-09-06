@@ -44,7 +44,7 @@ Methods, literature and figure shells should be written before this gate.
 
 ## Claim and thesis mapping
 
-- [[II Areas/02_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]]
-- [[II Areas/02_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]
-- [[II Areas/02_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]
-- [[II Areas/02_Thesis/Thesis Structure & Chapter Outline#Chapter 4 - Experimental design, results and validation\|Chapter 4]]
+- [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]]
+- [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]
+- [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]
+- [[II Areas/03_Thesis/Thesis Structure & Chapter Outline#Chapter 4 - Experimental design, results and validation\|Chapter 4]]

@@ -17,7 +17,7 @@ Final wording is decided through [[I Projects/Minimum Dissertation Study & Resea
 
 Determine how measured laser-channel state controls breakdown probability, delay and jitter at a normalised working voltage and evaluate whether a reduced model predicts at least one core outcome under held-out conditions.
 
-The three contribution groups are C-A, C-B and C-C as defined in [[II Areas/02_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]. A broad grid-breaker or techno-economic claim is not part of the minimum promise.
+The three contribution groups are C-A, C-B and C-C as defined in [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]. A broad grid-breaker or techno-economic claim is not part of the minimum promise.
 
 ## Format and repositories
 
@@ -74,8 +74,8 @@ The authoritative scientific calendar is embedded from the core programme rather
 ## Related documents
 
 - [[I Projects/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- [[II Areas/02_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
-- [[II Areas/02_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[II Areas/03_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
+- [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
 - [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
 

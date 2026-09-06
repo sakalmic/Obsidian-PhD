@@ -145,7 +145,7 @@ Physics failures must not be relabelled as technical failures. Predeclare tolera
 - scripts generating every figure/table;
 - software environment/version lock;
 - read-only confirmatory dataset snapshot;
-- machine-readable claim-to-result map linked to [[II Areas/02_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]].
+- machine-readable claim-to-result map linked to [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]].
 
 ## Related notes
 
@@ -158,5 +158,5 @@ Physics failures must not be relabelled as technical failures. Predeclare tolera
 - [[Hierarchical Shot-Level Models Separate Effects from Drift\|Hierarchical Shot-Level Models Separate Effects from Drift]]
 - [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
 - [[Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]
-- [[III Resources/Data_and_Simulations/Experimental Measurements Archive\|Experimental Measurements Archive]]
-- [[II Areas/02_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[II Areas/01_Research/Experiments/Indices/Data_and_Simulations/Experimental Measurements Archive\|Experimental Measurements Archive]]
+- [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]

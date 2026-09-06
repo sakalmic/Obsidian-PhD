@@ -18,26 +18,29 @@ The existing PARA structure is retained. Public notes are not moved merely for c
 <span style="color: #8796a0;">├── _Daily/                         daily research log, progress and decisions</span>
 <span style="color: #ffffff;">├── _System/                        canonical rules, workflow and publishing guides</span>
 <span style="color: #ffffff;">├── I Projects/                     time-bounded outcomes with deadlines</span>
-<span style="color: #ffffff;">├── II Areas/                       long-lived responsibilities and synthesis</span>
-<span style="color: #ffffff;">│   ├── 01_Research/                research questions, theory and method synthesis</span>
-<span style="color: #ffffff;">│   ├── 02_Thesis/                  dissertation structure, argument and evidence map</span>
+<span style="color: #ffffff;">│   ├── 01_Manuscripts/             journal papers and manuscripts in preparation</span>
+<span style="color: #ffffff;">│   ├── 02_Campaigns/               measurement and diagnostic campaigns</span>
+<span style="color: #ffffff;">│   ├── 03_Milestones/              doctoral minimum study and defense</span>
+<span style="color: #ffffff;">│   └── 04_Grants/                  active grant proposals and reports</span>
+<span style="color: #ffffff;">├── II Areas/                       author's scientific work and long-term responsibilities</span>
+<span style="color: #ffffff;">│   ├── 01_Research/                core research questions, models and evidence</span>
+<span style="color: #ffffff;">│   │   ├── Concepts/               atomic permanent notes (Zettelkasten)</span>
+<span style="color: #8796a0;">│   │   ├── Experiments/            measurement datasets, calibrations, logs (HiLASE)</span>
+<span style="color: #8796a0;">│   │   └── Simulations/            numerical models, configurations and scripts (COMSOL)</span>
+<span style="color: #ffffff;">│   ├── 02_Publications/            manuscript pipeline, venues, reviews and publication status</span>
+<span style="color: #ffffff;">│   ├── 03_Thesis/                  dissertation structure, argument and evidence map</span>
+<span style="color: #ffffff;">│   │   ├── LaTeX_Thesis/           LaTeX manuscript source (main.tex)</span>
 <span style="color: #ffffff;">│   │   └── Claims/                 one atomic note per stable CL identifier</span>
-<span style="color: #ffffff;">│   ├── 03_Publications/            manuscripts, venues, reviews and publication status</span>
-<span style="color: #8796a0;">│   ├── 04_Administration/          ISP, examinations, regulations and official records</span>
-<span style="color: #8796a0;">│   ├── 05_Teaching/                courses, teaching evidence and supervised work</span>
-<span style="color: #8796a0;">│   └── 06_Grants_Funding/          funding calls, proposals, budgets and mobility support</span>
-<span style="color: #ffffff;">├── III Resources/                  reusable references, concepts and evidence</span>
-<span style="color: #ffffff;">│   ├── Literature/                 one source note per paper, book or thesis</span>
-<span style="color: #ffffff;">│   ├── Zettelkasten/               atomic concepts written in the author's words</span>
-<span style="color: #8796a0;">│   ├── Methods/                    reusable protocols, statistics and SOPs</span>
-<span style="color: #8796a0;">│   ├── Evidence/                   reproducibility records linked to claims and outputs</span>
-<span style="color: #8796a0;">│   │   ├── Calibrations/           instrument calibration, uncertainty and validity records</span>
-<span style="color: #8796a0;">│   │   ├── Experiments/            acquisition runs, conditions and observation records</span>
-<span style="color: #8796a0;">│   │   ├── Simulations/            model inputs, configurations and computed outputs</span>
-<span style="color: #8796a0;">│   │   ├── Dataset Manifests/      dataset identity, provenance, checksums and versions</span>
-<span style="color: #8796a0;">│   │   └── Analysis Records/       analysis decisions, scripts, outputs and claim links</span>
-<span style="color: #8796a0;">│   ├── Data_and_Simulations/       legacy indexes and external data pointers</span>
-<span style="color: #ffffff;">│   └── Conferences_and_Events/     event calendar, submissions and participation records</span>
+<span style="color: #8796a0;">│   ├── 04_Teaching/                courses, teaching evidence and supervised work</span>
+<span style="color: #8796a0;">│   ├── 05_Grants/                  SGS funding, proposals, budgets and mobility support</span>
+<span style="color: #8796a0;">│   └── 06_Administration/          ISP, examinations, regulations and official records</span>
+<span style="color: #ffffff;">├── III Resources/                  external inputs, references and literature from others</span>
+<span style="color: #8796a0;">│   ├── 01_Books/                   reference books and monographs</span>
+<span style="color: #8796a0;">│   ├── 02_Lectures/                doctoral courses and lecture materials</span>
+<span style="color: #ffffff;">│   ├── 03_Literature/              source notes (LN - ...) and external scientific papers</span>
+<span style="color: #8796a0;">│   ├── 04_Methods/                 standard protocols, measurement SOPs and datasheets</span>
+<span style="color: #8796a0;">│   ├── 05_External_Data/           external databases (e.g. LXCat cross sections)</span>
+<span style="color: #ffffff;">│   └── 06_Conferences/             event calendar, submissions and conference proceedings</span>
 <span style="color: #8796a0;">├── IV Archives/                    completed or superseded records retained for traceability</span>
 <span style="color: #8796a0;">├── Keystones/                      legacy location; do not add new notes</span>
 <span style="color: #8796a0;">└── TEMPLATES/                      canonical templates for repeatable research records</span>
@@ -54,8 +57,8 @@ The existing PARA structure is retained. Public notes are not moved merely for c
 | --- | --- |
 | What is the active scientific programme and schedule? | [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]] |
 | What must be delivered in the next three weeks? | [[I Projects/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] |
-| What is the dissertation title and chapter structure? | [[II Areas/02_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] |
-| Which scientific assertions are allowed? | [[II Areas/02_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]] and atomic CL notes |
+| What is the dissertation title and chapter structure? | [[II Areas/03_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] |
+| Which scientific assertions are allowed? | [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]] and atomic CL notes |
 | How is evidence generated and promoted? | [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]] |
 | Which metadata are valid? | [[_System/Tags and Linking Convention\|Tags and Linking Convention]] |
 | What are the doctoral deadlines? | [[I Projects/ISP & Milestone Tracking\|ISP & Milestone Tracking]] |
@@ -66,15 +69,21 @@ Other notes link to or embed these sections. They must not maintain independent 
 
 ### I Projects
 
-A project has a deadline, deliverable and finish condition. Examples are the minimum study, an experimental campaign, a manuscript or the dissertation submission. A project note must contain `due`, `status`, `project_id` and a definition of done.
+A project has a deadline, deliverable and finish condition. Divided into `01_Manuscripts`, `02_Campaigns`, `03_Milestones`, and `04_Grants`.
 
 ### II Areas
 
-Areas contain living syntheses and long-term responsibilities. Research notes explain what is known; they do not serve as task boards. Thesis claims are atomic notes under `02_Thesis/Claims/` and are aggregated by the claim ledger.
+Areas contain the author's primary scientific work, living syntheses and long-term responsibilities:
+- `01_Research/`: Concepts (Permanent notes), Experiments (HiLASE raw/processed data), Simulations (COMSOL models).
+- `02_Publications/`: Publication strategy, target journals, review records.
+- `03_Thesis/`: LaTeX thesis manuscript and atomic claims under `Claims/`.
+- `04_Teaching/`: Supervised student theses and course teaching.
+- `05_Grants/`: SGS grant administration and funding calls.
+- `06_Administration/`: ISP, study plan, and official faculty directives.
 
 ### III Resources
 
-Resources are reusable inputs. Raw binary data, COMSOL projects and large waveforms remain in their controlled external storage. Obsidian stores a manifest with location, checksum or immutable identifier, protocol version, QC state and linked claims.
+Resources are external reference inputs created by other authors (Books, Lectures, Literature, Methods, External Data, Conferences).
 
 ### IV Archives
 
