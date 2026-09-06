@@ -1,13 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/statistics-breakdown-probability-delay-and-jitter/","title":"Statistics - Breakdown Probability, Delay and Jitter","tags":["topic/ltsg/statistics","topic/ltsg/timing"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-03","dg-note-properties":{"title":"Statistics - Breakdown Probability, Delay and Jitter","aliases":["LTSG Statistics","Breakdown Statistics"],"type":"method","status":"evergreen","context":"research","topics":["topic/ltsg/statistics","topic/ltsg/timing"],"tags":["topic/ltsg/statistics","topic/ltsg/timing"],"date":"2026-09-02","last_updated":"2026-09-03"}}
+title: "Statistics - Breakdown Probability, Delay and Jitter"
+aliases:
+  - LTSG Statistics
+  - Breakdown Statistics
+type: method
+status: evergreen
+context: research
+topics:
+  - topic/ltsg/statistics
+  - topic/ltsg/timing
+tags:
+  - topic/ltsg/statistics
+  - topic/ltsg/timing
+date: 2026-09-02
+last_updated: 2026-09-03
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Statistics - Breakdown Probability, Delay and Jitter
 
 ## Why a statistical model is part of the physics
 
-Gas breakdown is stochastic because seed production, avalanche development, streamer branching, surface state and environmental conditions fluctuate. Reporting one “breakdown voltage” or only successful delays discards this structure. The statistical plan must be frozen before the confirmatory campaign in [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]].
+Gas breakdown is stochastic because seed production, avalanche development, streamer branching, surface state and environmental conditions fluctuate. Reporting one “breakdown voltage” or only successful delays discards this structure. The statistical plan must be frozen before the confirmatory campaign in [[LTSG Core Research Package 2026-2028]].
 
 ## 1. Binary trigger outcome
 
@@ -145,18 +160,18 @@ Physics failures must not be relabelled as technical failures. Predeclare tolera
 - scripts generating every figure/table;
 - software environment/version lock;
 - read-only confirmatory dataset snapshot;
-- machine-readable claim-to-result map linked to [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]].
+- machine-readable claim-to-result map linked to [[Claim Ledger & Evidence Matrix]].
 
 ## Related notes
 
-- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
-- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
-- [[Breakdown Voltage Is a Probability Distribution Not a Constant\|Breakdown Voltage Is a Probability Distribution Not a Constant]]
-- [[Statistical and Formative Time Lags Are Different Processes\|Statistical and Formative Time Lags Are Different Processes]]
-- [[Censored Breakdown Delays Require Survival Analysis\|Censored Breakdown Delays Require Survival Analysis]]
-- [[Hierarchical Shot-Level Models Separate Effects from Drift\|Hierarchical Shot-Level Models Separate Effects from Drift]]
-- [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
-- [[Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]
-- [[II Areas/01_Research/Experiments/Experimental Measurements Archive\|Experimental Measurements Archive]]
-- [[II Areas/03_Thesis/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[LTSG Core Research Package 2026-2028]]
+- [[Diagnostics - Timing EMP and Radiation]]
+- [[Theory - Laser-Triggered Breakdown and Switching]]
+- [[Breakdown Voltage Is a Probability Distribution Not a Constant]]
+- [[Statistical and Formative Time Lags Are Different Processes]]
+- [[Censored Breakdown Delays Require Survival Analysis]]
+- [[Hierarchical Shot-Level Models Separate Effects from Drift]]
+- [[Timing Jitter Must Be De-Embedded from the Measurement Chain]]
+- [[Predictive Validation Must Be Separated from Model Calibration]]
+- [[Experimental Measurements Archive]]
+- [[Claim Ledger & Evidence Matrix]]

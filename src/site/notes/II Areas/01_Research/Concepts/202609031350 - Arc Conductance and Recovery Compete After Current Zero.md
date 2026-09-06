@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031350-arc-conductance-and-recovery-compete-after-current-zero/","title":"Arc Conductance and Recovery Compete After Current Zero","tags":["type/permanent","context/research","topic/grid/arc-quenching","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Arc Conductance and Recovery Compete After Current Zero","aliases":["Mayr arc model","Arc recovery and TRV"],"type":"concept","status":"evergreen","context":"research","claims":["EX-APP-01"],"topics":["topic/grid/arc-quenching","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/grid/arc-quenching","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+title: "Arc Conductance and Recovery Compete After Current Zero"
+aliases:
+  - Mayr arc model
+  - Arc recovery and TRV
+type: concept
+status: evergreen
+context: research
+claims: [EX-APP-01]
+topics:
+  - topic/grid/arc-quenching
+  - topic/ltsg/model
+tags:
+  - type/permanent
+  - context/research
+  - topic/grid/arc-quenching
+  - topic/ltsg/model
+created: 2026-09-03
+last_updated: 2026-09-03
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Arc Conductance and Recovery Compete After Current Zero
 
@@ -46,9 +64,9 @@ which must create an adequate artificial current zero in DC or accelerate curren
 
 ## Connections
 
-- **Up:** [[Arc Quenching Dynamics in Hybrid Breakers\|Arc Quenching Dynamics in Hybrid Breakers]]
-- **Side:** [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]]
-- **Down:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]] · [[Techno-Economic Valuation of Ultrafast Grid Protection\|Techno-Economic Valuation of Ultrafast Grid Protection]]
+- **Up:** [[Arc Quenching Dynamics in Hybrid Breakers]]
+- **Side:** [[Plasma and External Circuit Form One Dynamical System]]
+- **Down:** [[High-Voltage Arc Quenching & Protection]] · [[Techno-Economic Valuation of Ultrafast Grid Protection]]
 
 ## Anchor sources
 
