@@ -8,19 +8,7 @@ import { drag as d3Drag } from 'd3-drag';
 const { Application, Container, Graphics, Text, Circle } = PIXI;
 
 async function fetchGraphData() {
-    const graphData = await fetch('/graph.json').then(res => res.json());
-    const fullGraphData = filterFullGraphData(graphData);
-    return { graphData, fullGraphData };
-}
-
-function filterFullGraphData(graphData) {
-    if (!graphData) return null;
-    graphData = JSON.parse(JSON.stringify(graphData));
-    const hiddens = Object.values(graphData.nodes).filter(n => n.hide).map(n => n.id);
-    return {
-        links: graphData.links.filter(l => hiddens.indexOf(l.source) === -1 && hiddens.indexOf(l.target) === -1),
-        nodes: Object.values(graphData.nodes).filter(n => !n.hide),
-    };
+    return fetch('/graph.json').then(res => res.json());
 }
 
 function filterLocalGraphData(graphData, depth) {
@@ -444,7 +432,6 @@ function renderGraph(graphData, containerId, isFullScreen) {
 
 // --- Initialize ---
 let graphDataCache = null;
-let fullGraphDataCache = null;
 let localGraphCleanup = null;
 let globalGraphCleanup = null;
 let localGraphDepth = 1;
@@ -452,9 +439,7 @@ let localGraphObserver = null;
 let lastLocalGraphWidth = 0;
 
 async function init() {
-    const { graphData, fullGraphData } = await fetchGraphData();
-    graphDataCache = graphData;
-    fullGraphDataCache = fullGraphData;
+    graphDataCache = await fetchGraphData();
     observeLocalGraphVisibility();
     renderLocal();
 }
@@ -504,8 +489,9 @@ function openModal(data) {
     }, 50);
 }
 
-function openFullGraph() {
-    openModal(fullGraphDataCache);
+function openExpandedLocalGraph() {
+    const data = filterLocalGraphData(graphDataCache, localGraphDepth);
+    openModal(data);
 }
 
 function closeFullGraph() {
@@ -517,7 +503,7 @@ function closeFullGraph() {
 }
 
 // Expose to Alpine
-window.__graph = { openFullGraph, closeFullGraph, rerenderLocal: renderLocal, setLocalGraphDepth };
+window.__graph = { openExpandedLocalGraph, closeFullGraph, rerenderLocal: renderLocal, setLocalGraphDepth };
 
 // Re-render when the style editor changes CSS variables
 document.addEventListener('forestry:css-changed', function() {
@@ -538,7 +524,7 @@ init();
             </div>
             {% endif %}
             <div class="ctrl-right">
-                <button id="global-graph-btn" type="button" aria-label="Open full knowledge graph" title="Open full knowledge graph" x-on:click="showFullGraph = true; window.__graph.openFullGraph()"><i data-lucide="globe" aria-hidden="true"></i></button>
+                <button id="global-graph-btn" type="button" aria-label="Expand connected pages graph" title="Expand connected pages graph" x-on:click="showFullGraph = true; window.__graph.openExpandedLocalGraph()"><i data-lucide="maximize-2" aria-hidden="true"></i></button>
             </div>
         </div>
     </div>
