@@ -47,6 +47,20 @@ This garden documents a reproducible investigation of how measured laser-channel
 .phd-kanban-board span[style*="rgba(210,153,34"]::after { content: "◆ GRANTS"; font-size: 10px; }
 .phd-kanban-board span[style*="rgba(110,118,129"] { font-size: 0 !important; }
 .phd-kanban-board span[style*="rgba(110,118,129"]::after { content: "✖ ADMIN"; font-size: 10px; }
+/* Neutralise legacy inline palette across the board, including card edges and column headers. */
+.phd-kanban-board [style*="border-left"] { border-left-color: var(--background-modifier-border, #8b949e) !important; }
+.phd-kanban-board [style*="border-bottom"] { border-bottom-color: var(--background-modifier-border, #8b949e) !important; }
+.phd-kanban-board [style*="background: rgba(46,160,67"],
+.phd-kanban-board [style*="background: rgba(56,139,253"],
+.phd-kanban-board [style*="background: rgba(227,179,65"],
+.phd-kanban-board [style*="background: rgba(210,153,34"],
+.phd-kanban-board [style*="background: rgba(110,118,129"] { background: transparent !important; color: var(--text-normal, #d0d7de) !important; }
+.phd-kanban-board span[style*="color: #3fb950"],
+.phd-kanban-board span[style*="color: #58a6ff"],
+.phd-kanban-board span[style*="color: #e3b341"],
+.phd-kanban-board span[style*="color: #f0883e"],
+.phd-kanban-board span[style*="color: #8b949e"],
+.phd-kanban-board span[style*="color: #e5c07b"] { color: var(--text-muted, #8b949e) !important; }
 </style>
 
 <div class="phd-kanban-board" style="display: flex; gap: 14px; overflow-x: auto; padding: 6px 0 18px 0; font-family: var(--font-interface, sans-serif);">
