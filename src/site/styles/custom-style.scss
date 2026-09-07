@@ -951,7 +951,30 @@ aside,
 }
 
 .phd-home .phd-area-symbol--research {
-  font-size: 1.25em !important;
+  width: 0.62em;
+  height: 0.62em;
+  overflow: hidden;
+  border-radius: 50%;
+  background: var(--text-normal, #202124) !important;
+  color: transparent !important;
+  font-size: 1em !important;
+  line-height: 0.62em;
+  text-indent: -9999px;
+}
+
+.phd-home .phd-kanban-board > div > div:first-child {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12) !important;
+  background: var(--navy, #173650) !important;
+  color: #f8f5ed !important;
+}
+
+.phd-home .phd-kanban-board > div > div:first-child > span {
+  color: #f8f5ed !important;
+}
+
+.phd-home .phd-kanban-board > div > div:first-child > span:last-child {
+  background: rgba(255, 255, 255, 0.12) !important;
+  color: #f8f5ed !important;
 }
 
 .phd-home .phd-kanban-board [style*="border-left"],
