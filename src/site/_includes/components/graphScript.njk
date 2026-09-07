@@ -212,7 +212,9 @@ function renderGraph(graphData, containerId, isFullScreen) {
         const r = nodeRadius(n.id, degreeMap);
 
         const label = new Text(n.text, {
-            fontSize: 16,
+            // Labels are rendered at 1/3 scale for crisp Pixi text; 48px yields
+            // an effective 16px label in both the compact and expanded graph.
+            fontSize: 48,
             fill: textColor,
             fontFamily: bodyFont,
         });
