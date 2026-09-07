@@ -26,7 +26,7 @@ This garden documents a reproducible investigation of how measured laser-channel
 | **03 · Thesis** | <span class="phd-area-tag"><strong class="phd-area-symbol">◉</strong> THESIS</span> | Thesis architecture, claim ledger (CL-01–06), evidence mapping & SDZ | [[II Areas/03_Thesis/03_MOC\|Open dissertation hub]] |
 | **04 · Teaching** | <span class="phd-area-tag"><strong class="phd-area-symbol">▯</strong> TEACHING</span> | Physics & plasma lab courses, student consultation, supervised theses (BP/DP) | [[II Areas/04_Teaching/04_MOC\|Teaching hub]] |
 | **05 · Grants** | <span class="phd-area-tag"><strong class="phd-area-symbol">▤</strong> GRANTS</span> | CTU SGS grant applications, budgets, procurement, mobility & external funding | [[II Areas/05_Grants/05_MOC\|Grants overview]] |
-| **06 · Administration** | <span class="phd-area-tag"><strong class="phd-area-symbol">✖</strong> ADMIN</span> | Individual Study Plan (ISP), doctoral exams, credits, faculty directives & supervisor sync | [[II Areas/06_Administration/06_MOC\|Administration hub]] |
+| **06 · Administration** | <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span> | Individual Study Plan (ISP), doctoral exams, credits, faculty directives & supervisor sync | [[II Areas/06_Administration/06_MOC\|Administration hub]] |
 | **07 · Academic Profile** | <span class="phd-area-tag"><strong class="phd-area-symbol">★</strong> PROFILE</span> | Researcher profiles (ORCID, WoS), laser safety certifications (LSO) & academic CV | [[II Areas/07_Academic_Profile/07_MOC\|Academic profile]] |
 ---
 
@@ -118,7 +118,7 @@ This garden documents a reproducible investigation of how measured laser-channel
       <!-- Administration Card (Black/Slate) -->
       <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid #484f58; border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">✖</strong> ADMIN</span>
+          <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span>
           <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Year 1</span>
         </div>
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Year 1 ISP Annual Report Synthesis</div>
@@ -154,7 +154,7 @@ This garden documents a reproducible investigation of how measured laser-channel
       <!-- Administration Card (Black/Slate) -->
       <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid #484f58; border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">✖</strong> ADMIN</span>
+          <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span>
           <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">09/2026</span>
         </div>
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Supervisor Meeting Action Review</div>
@@ -232,7 +232,7 @@ This garden documents a reproducible investigation of how measured laser-channel
       <!-- Admin Card (Black) -->
       <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid #484f58; border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">✖</strong> ADMIN</span>
+          <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span>
           <span style="color: #3fb950; font-size: 0.75em;">Passed</span>
         </div>
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Doctoral Coursework &amp; Exams</div>
@@ -405,7 +405,7 @@ This garden documents a reproducible investigation of how measured laser-channel
       <!-- Admin Card (Black) -->
       <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid #484f58; border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">✖</strong> ADMIN</span>
+          <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span>
           <span style="color: #e5c07b; font-size: 0.75em;">Final</span>
         </div>
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Dissertation Review &amp; Doctoral Defense</div>
