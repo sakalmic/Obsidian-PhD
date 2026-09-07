@@ -459,7 +459,6 @@ This garden documents a reproducible investigation of how measured laser-channel
 | [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]               | high     | active | 2026-09-03 |
 | [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Channel-State-Dependent Laser Triggering]] | high | active | 2026-09-03 |
 
-{ .block-language-dataview}
 
 ---
 
@@ -469,7 +468,6 @@ This garden documents a reproducible investigation of how measured laser-channel
 | -------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------- | ----------------- |
 | [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Channel-State-Dependent Laser Triggering]] | Venue selected after WP3 | active | November 30, 2027 |
 
-{ .block-language-dataview}
 
 ---
 
@@ -486,7 +484,6 @@ This garden documents a reproducible investigation of how measured laser-channel
 | [[III Resources/03_Literature/Literature Index\|Literature Index]]                                                                                                             | 2026-09-01 | \-     |
 | [[III Resources/06_Conferences/Academic Conferences Directory\|Academic Conferences Directory]]                                                                                 | 2026-09-01 | \-     |
 
-{ .block-language-dataview}
 
 ---
 
