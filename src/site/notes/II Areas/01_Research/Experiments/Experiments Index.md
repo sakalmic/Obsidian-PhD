@@ -5,13 +5,10 @@
 
 # Experiments Index
 
-| File                                                                                                         | experiment_id | date_performed | work_package | protocol_version | evidence_state | dataset_id | claims |
-| ------------------------------------------------------------------------------------------------------------ | ------------- | -------------- | ------------ | ---------------- | -------------- | ---------- | ------ |
-| [[II Areas/01_Research/Experiments/Analysis Records/Analysis Records Index\|Analysis Records Index]]      | \-            | \-             | \-           | \-               | \-             | \-         | \-     |
-| [[II Areas/01_Research/Experiments/Calibrations/Calibrations Index\|Calibrations Index]]                  | \-            | \-             | \-           | \-               | \-             | \-         | \-     |
-| [[II Areas/01_Research/Experiments/Dataset Manifests/Dataset Manifests Index\|Dataset Manifests Index]]   | \-            | \-             | \-           | \-               | \-             | \-         | \-     |
-| [[II Areas/01_Research/Experiments/Evidence Index\|Evidence Index]]                                       | \-            | \-             | \-           | \-               | \-             | \-         | \-     |
-| [[II Areas/01_Research/Experiments/Experimental Measurements Archive\|Experimental Measurements Archive]] | \-            | \-             | \-           | \-               | \-             | \-         | \-     |
-
-{ .block-language-dataview}
+```dataview
+TABLE experiment_id, date_performed, work_package, protocol_version, evidence_state, dataset_id, claims
+FROM "II Areas/01_Research/Experiments"
+WHERE file.name != this.file.name
+SORT date_performed DESC
+```
 

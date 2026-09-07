@@ -5,8 +5,10 @@
 
 # Analysis Records Index
 
-| File | analysis_id | dataset_id | analysis_role | code_commit | status | claims |
-| ---- | ----------- | ---------- | ------------- | ----------- | ------ | ------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE analysis_id, dataset_id, analysis_role, code_commit, status, claims
+FROM "II Areas/01_Research/Experiments/Analysis Records"
+WHERE file.name != this.file.name
+SORT last_updated DESC
+```
 

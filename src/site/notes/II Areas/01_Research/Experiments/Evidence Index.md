@@ -11,22 +11,23 @@ This area contains metadata and interpretive records, not bulk raw data. Every e
 
 ## Evidence requiring attention
 
-| Record                                                                                                       | Type | State | Claims | Dataset | Updated            |
-| ------------------------------------------------------------------------------------------------------------ | ---- | ----- | ------ | ------- | ------------------ |
-| [[II Areas/01_Research/Experiments/Analysis Records/Analysis Records Index\|Analysis Records Index]]      | moc  | \-    | \-     | \-      | September 03, 2026 |
-| [[II Areas/01_Research/Experiments/Calibrations/Calibrations Index\|Calibrations Index]]                  | moc  | \-    | \-     | \-      | September 03, 2026 |
-| [[II Areas/01_Research/Experiments/Dataset Manifests/Dataset Manifests Index\|Dataset Manifests Index]]   | moc  | \-    | \-     | \-      | September 03, 2026 |
-| [[II Areas/01_Research/Experiments/Experiments Index\|Experiments Index]]                                 | moc  | \-    | \-     | \-      | September 03, 2026 |
-| [[II Areas/01_Research/Experiments/Experimental Measurements Archive\|Experimental Measurements Archive]] | \-   | \-    | \-     | \-      | September 01, 2026 |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID file.link AS "Record", type AS "Type", evidence_state AS "State", claims AS "Claims", dataset_id AS "Dataset", last_updated AS "Updated"
+FROM "II Areas/01_Research/Experiments"
+WHERE file.name != this.file.name AND evidence_state != "published"
+SORT last_updated DESC
+```
 
 ## Evidence by claim
 
-| claim | Evidence | State | Dataset |
-| ----- | -------- | ----- | ------- |
-
-{ .block-language-dataview}
+```dataview
+TABLE rows.file.link AS "Evidence", rows.evidence_state AS "State", rows.dataset_id AS "Dataset"
+FROM "II Areas/01_Research/Experiments"
+FLATTEN claims AS claim
+WHERE claim
+GROUP BY claim
+SORT key ASC
+```
 
 ## Rules
 

@@ -47,5 +47,9 @@ Index of permanent, interconnected concepts that form the intellectual core of t
 
 ## Dynamic list
 
-
-{ .block-language-dataview}
+```dataview
+LIST
+FROM "III Resources/Zettelkasten"
+WHERE (type = "concept" OR contains(tags, "type/permanent")) AND dg-publish = true
+SORT file.name ASC
+```

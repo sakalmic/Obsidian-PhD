@@ -5,10 +5,10 @@
 
 # Simulations Index
 
-| File                                                                                               | simulation_id | model_version | calibration_dataset | validation_dataset | evidence_state | claims |
-| -------------------------------------------------------------------------------------------------- | ------------- | ------------- | ------------------- | ------------------ | -------------- | ------ |
-| [[II Areas/01_Research/Simulations/COMSOL Multiphysics Setups\|COMSOL Multiphysics Setups]]     | \-            | \-            | \-                  | \-                 | \-             | \-     |
-| [[II Areas/01_Research/Simulations/Simulation Datasets & Models\|Simulation Datasets & Models]] | \-            | \-            | \-                  | \-                 | \-             | \-     |
-
-{ .block-language-dataview}
+```dataview
+TABLE simulation_id, model_version, calibration_dataset, validation_dataset, evidence_state, claims
+FROM "II Areas/01_Research/Simulations"
+WHERE file.name != this.file.name
+SORT last_updated DESC
+```
 

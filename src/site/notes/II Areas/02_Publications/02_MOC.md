@@ -19,11 +19,16 @@ This map coordinates the doctoral publication pipeline, from early research conc
 
 ## Manuscript pipeline
 
-| Manuscript                                                                                      | Target venue                                                                                                                                             | Status | Submission deadline |
-| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------- |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]] | Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal. | active | November 30, 2027   |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+    file.link as "Manuscript",
+    target_journal_conference as "Target venue",
+    status as "Status",
+    submission_deadline as "Submission deadline"
+FROM "I Projects/01_Manuscripts" OR "II Areas/02_Publications"
+WHERE (type = "manuscript" OR contains(tags, "type/paper")) AND dg-publish = true
+SORT submission_deadline ASC
+```
 
 ---
 

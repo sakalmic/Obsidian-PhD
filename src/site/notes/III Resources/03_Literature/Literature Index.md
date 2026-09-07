@@ -14,7 +14,13 @@ Index of reviewed scientific literature, research syntheses and bibliographic no
 - [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Cross-paper theoretical synthesis for the LTSG core]]
 - [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostic synthesis and false-signal controls]]
 
-| File | Authors | Year | Journal / conference | DOI |
-| ---- | ------- | ---- | -------------------- | --- |
-
-{ .block-language-dataview}
+```dataview
+TABLE 
+    authors as "Authors",
+    year as "Year",
+    journal_conference as "Journal / conference",
+    doi as "DOI"
+FROM "III Resources/Literature"
+WHERE (type = "literature" OR contains(tags, "type/literature")) AND dg-publish = true
+SORT year DESC
+```

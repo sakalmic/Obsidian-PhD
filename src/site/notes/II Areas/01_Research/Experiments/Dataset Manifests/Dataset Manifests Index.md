@@ -5,8 +5,10 @@
 
 # Dataset Manifests Index
 
-| File | dataset_id | data_freeze | qc_state | storage_location | protocol_version | claims |
-| ---- | ---------- | ----------- | -------- | ---------------- | ---------------- | ------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE dataset_id, data_freeze, qc_state, storage_location, protocol_version, claims
+FROM "II Areas/01_Research/Experiments/Dataset Manifests"
+WHERE file.name != this.file.name
+SORT data_freeze DESC
+```
 

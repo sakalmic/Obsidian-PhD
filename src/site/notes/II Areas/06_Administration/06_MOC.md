@@ -21,11 +21,15 @@ This area covers the formal study requirements and doctoral administration at th
 
 ## Recent supervisor meetings
 
-| File                                                                                                                         | Meeting date                  | Attendees                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------------------------------------------- |
-| [[II Areas/06_Administration/Supervisor_Sync/Meeting - 2026-09-01 Supervisor Sync\|Meeting - 2026-09-01 Supervisor Sync]] | 11:23 PM - September 01, 2026 | <ul><li>Ing. Michal Sakala</li><li>doc. Ing. Jan Mikeš, Ph.D.</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+TABLE
+    file.ctime as "Meeting date",
+    attendees as "Attendees"
+FROM "II Areas/06_Administration"
+WHERE type = "meeting" OR contains(tags, "type/meeting")
+SORT file.name DESC
+LIMIT 5
+```
 
 ---
 
