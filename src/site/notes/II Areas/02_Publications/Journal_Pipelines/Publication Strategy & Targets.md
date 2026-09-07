@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/02-publications/journal-pipelines/publication-strategy-and-targets/","title":"Publication Strategy & Targets","tags":["topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Publication Strategy & Targets","aliases":["Publication Strategy"],"type":"project","status":"active","context":"publications","priority":"high","topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/02-publications/journal-pipelines/publication-strategy-and-targets/","title":"Publication Strategy & Targets","tags":["topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"Publication Strategy & Targets","aliases":["Publication Strategy"],"type":"project","status":"active","context":"publications","priority":"high","topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-07"}}
 ---
 
 
@@ -28,7 +28,7 @@ Do not retain unverified statements such as “two WoS articles” as settled fa
 - **Claims:** CL-01, CL-02, CL-03.
 - **Content:** self-breakdown normalisation, measured channel state, probability, censored delay/jitter, held-out comparison and independent repeat.
 - **Target submission:** October-November 2027.
-- **Project:** [[I Projects/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]].
+- **Project:** [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]].
 
 ### Paper 2 — mechanism and predictive model
 
@@ -43,6 +43,12 @@ Create only if required or scientifically justified. Preferred routes are a mode
 ## Venue selection rule
 
 Select the venue after WP3/WP4 clarifies the actual contribution. Candidate audiences include plasma science, high-voltage dielectrics and pulsed-power switching. Recheck journal scope, indexing and quartile at submission time rather than storing unstable metrics in the vault.
+
+## Submission is not acceptance
+
+The dates above are submission targets. Track co-author review, submission, editorial decision, revision, acceptance, publication and indexing separately. Acceptance and indexing dates remain unknown until evidenced; the April 2028 submission target is a schedule risk if the result is required for dissertation eligibility.
+
+Do not count a submitted manuscript as an accepted output. Resolve the required publication state before fixing the final submission package.
 
 ## Publication workflow
 
@@ -59,9 +65,8 @@ Waiting until April 2028 for the first journal submission leaves insufficient re
 
 ## Related notes
 
-- [[I Projects/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]
+- [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
 - [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
 - [[II Areas/02_Publications/Conferences/Conference Pipeline\|Conference Pipeline]]
 - [[II Areas/02_Publications/Journal_Pipelines/Co-Authorship & Contribution Records\|Co-Authorship & Contribution Records]]
-

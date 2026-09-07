@@ -15,11 +15,11 @@ Core physical theory, analytical scaling laws, and atomic conceptual notes:
 
 - [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Physical dynamics of laser-induced plasma]]
 - [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-triggered spark gaps and switching mechanisms]]
-- [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|Theory, scaling laws and modelling assumptions]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory, scaling laws and modelling assumptions]]
 - [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Timing, EMP and ionising-radiation diagnostics]]
-- [[II Areas/01_Research/Statistics - Breakdown Probability Delay and Jitter\|Breakdown probability, censoring and jitter statistics]]
+- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Breakdown probability, censoring and jitter statistics]]
 - [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-voltage arc quenching and grid protection]]
-- [[II Areas/01_Research/Techno-Economic Modeling of Grid Switching\|Techno-economic modelling of transmission and distribution protection]]
+- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-economic modelling of transmission and distribution protection]]
 - [[II Areas/01_Research/Concepts/Zettelkasten Index\|Atomic Permanent Notes Index (Concepts)]]
 
 - [[II Areas/01_Research/Concepts/202609011000 - Optical Breakdown Mechanism in Air\|202609011000 - Optical Breakdown Mechanism in Air]]
@@ -87,11 +87,11 @@ Experimental rig configuration, optical beamline specifications, and high-voltag
 ## Executable Research Plan & Outputs
 
 - [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Immediate three-week topic-freeze and minimum project]]
-- [[I Projects/LTSG Core Research Package 2026-2028\|Core research package and 2026-2028 schedule]]
-- [[I Projects/Experimental Diagnostics Campaign\|Experimental campaign task board]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core research package and 2026-2028 schedule]]
+- [[I Projects/02_Campaigns/Experimental Diagnostics Campaign\|Experimental campaign task board]]
 - [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Staged extensions and activation gates]]
-- [[I Projects/Paper - IEEE Transactions 2026\|IEEE Transactions manuscript]]
-- [[I Projects/Dissertation Manuscript\|Dissertation manuscript]]
+- [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|IEEE Transactions manuscript]]
+- [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation manuscript]]
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim ledger and evidence matrix]]
 
 ---

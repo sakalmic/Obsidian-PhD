@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/01-manuscripts/dissertation-manuscript/","title":"Dissertation Manuscript","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Dissertation Manuscript","aliases":["Project - Dissertation Manuscript"],"project_id":"PhD-Dissertation","type":"project","status":"active","context":"thesis","priority":"high","due":"2028-08-31","definition_of_done":"A reviewed dissertation with traceable original results, reproducibility package and all formal submission materials.","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/i-projects/01-manuscripts/dissertation-manuscript/","title":"Dissertation Manuscript","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"Dissertation Manuscript","aliases":["Project - Dissertation Manuscript"],"project_id":"PhD-Dissertation","type":"project","status":"active","context":"thesis","priority":"high","due":"2028-08-31","definition_of_done":"A reviewed dissertation with traceable original results, reproducibility package and all formal submission materials.","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-07"}}
 ---
 
 
@@ -10,6 +10,8 @@
 **Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling**
 
 Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování**
+
+Document hierarchy: [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]. This is a working proposal, not a recorded formal approval.
 
 Final wording is decided through [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]].
 
@@ -23,8 +25,12 @@ The three contribution groups are C-A, C-B and C-C as defined in [[II Areas/03_T
 
 - **Format:** monograph or annotated collection of publications, subject to supervisor/programme approval.
 - **Language:** English, with required Czech and English summaries.
-- **LaTeX entry point:** `PhD/thesis/main.tex`.
+- **LaTeX entry point:** `II Areas/03_Thesis/LaTeX_Thesis/main.tex` (workspace-relative; existing broad-scope source awaiting migration).
 - **Evidence:** Obsidian CL/evidence records plus external versioned datasets and analysis code.
+
+## Source status
+
+[[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] is the current structural target. The existing LaTeX source and PDFs have not yet been rewritten to this scope; do not present them as a current final minimum or dissertation. The adjacent manuscript README identifies reusable and historical material.
 
 ## Milestone policy
 
@@ -61,12 +67,12 @@ The authoritative scientific calendar is embedded from the core programme rather
 - Chapter 3 methods/model: write alongside model development.
 - Chapter 4 methods section: write before WP4; results after dataset freeze.
 - Introduction, limitations and conclusions: update after each claim decision.
-- Full draft: June 2028; July-August reserved for review and submission.
+- Full draft: June 2028; July-August reserved for review and submission. These are internal targets; the individual deadline and a separate defence date require confirmation.
 
 ## Next actions
 
 - [ ] Freeze title, question and contribution map at the September 2026 discussion.
-- [ ] Transfer only verified sources from [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]].
+- [ ] Transfer only verified sources from [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]].
 - [ ] Add a claim ID to every intended original statement.
 - [ ] Create the apparatus, causal-chain and claim-to-evidence figures during the minimum sprint.
 - [ ] Confirm the permitted dissertation format and formal requirements.
@@ -76,6 +82,5 @@ The authoritative scientific calendar is embedded from the core programme rather
 - [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
 - [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
-

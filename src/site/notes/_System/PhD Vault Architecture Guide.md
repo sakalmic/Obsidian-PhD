@@ -55,7 +55,7 @@ The existing PARA structure is retained. Public notes are not moved merely for c
 
 | Question | Canonical note |
 | --- | --- |
-| What is the active scientific programme and schedule? | [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]] |
+| What is the active scientific programme and schedule? | [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]] |
 | What must be delivered in the next three weeks? | [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] |
 | What is the dissertation title and chapter structure? | [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] |
 | Which scientific assertions are allowed? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]] and atomic CL notes |

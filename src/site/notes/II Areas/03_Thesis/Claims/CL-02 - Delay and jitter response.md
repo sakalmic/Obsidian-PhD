@@ -30,7 +30,7 @@ Support requires a predeclared trend or model comparison that remains after adju
 ## Links
 
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[II Areas/01_Research/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
+- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
 - [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
 - [[Statistical and Formative Time Lags Are Different Processes\|Statistical and Formative Time Lags Are Different Processes]]
 - [[Censored Breakdown Delays Require Survival Analysis\|Censored Breakdown Delays Require Survival Analysis]]

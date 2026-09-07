@@ -7,7 +7,7 @@
 
 ## Why a statistical model is part of the physics
 
-Gas breakdown is stochastic because seed production, avalanche development, streamer branching, surface state and environmental conditions fluctuate. Reporting one “breakdown voltage” or only successful delays discards this structure. The statistical plan must be frozen before the confirmatory campaign in [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]].
+Gas breakdown is stochastic because seed production, avalanche development, streamer branching, surface state and environmental conditions fluctuate. Reporting one “breakdown voltage” or only successful delays discards this structure. The statistical plan must be frozen before the confirmatory campaign in [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]].
 
 ## 1. Binary trigger outcome
 
@@ -149,7 +149,7 @@ Physics failures must not be relabelled as technical failures. Predeclare tolera
 
 ## Related notes
 
-- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
 - [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
 - [[Breakdown Voltage Is a Probability Distribution Not a Constant\|Breakdown Voltage Is a Probability Distribution Not a Constant]]

@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/06-administration/isp-and-evaluations/individual-study-plan-isp/","title":"Individual Study Plan (ISP)","tags":["topic/system/workflow"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Individual Study Plan (ISP)","aliases":["Individual Study Plan","ISP"],"type":"administration","status":"active","context":"administration","topics":["topic/system/workflow"],"tags":["topic/system/workflow"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/06-administration/isp-and-evaluations/individual-study-plan-isp/","title":"Individual Study Plan (ISP)","tags":["topic/system/workflow"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"Individual Study Plan (ISP)","aliases":["Individual Study Plan","ISP"],"type":"administration","status":"active","context":"administration","topics":["topic/system/workflow"],"tags":["topic/system/workflow"],"date":"2026-09-01","last_updated":"2026-09-07"}}
 ---
 
 
 # Individual Study Plan
 
 This note records the narrative alignment of the research programme with the official ISP. Exact courses, results and formal obligations are verified in KOS and tracked in [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker\|Credits & Exam Tracker]].
+
+Approval evidence and unresolved dates are maintained in the private decision register. This narrative does not certify study-block completion.
 
 ## Year 1 — 2024/2025
 
@@ -44,8 +46,7 @@ Working historical record, to be checked against KOS:
 
 ## Canonical plans
 
-- Scientific programme: [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- Scientific programme: [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - Immediate minimum sprint: [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
 - Administrative critical path: [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
 - Evidence status: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-

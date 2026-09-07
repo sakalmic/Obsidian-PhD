@@ -46,7 +46,7 @@ The model chain is decomposed into permanent notes:
 - [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
 - [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
 - [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
-- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - [[II Areas/01_Research/Concepts/202609011000 - Optical Breakdown Mechanism in Air\|202609011000 - Optical Breakdown Mechanism in Air]]
 - [[Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]]
 - [[Kerr Self-Focusing Creates Extended Filamentary Channels\|Kerr Self-Focusing Creates Extended Filamentary Channels]]

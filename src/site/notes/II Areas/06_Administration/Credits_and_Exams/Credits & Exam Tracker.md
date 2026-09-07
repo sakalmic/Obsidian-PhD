@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/06-administration/credits-and-exams/credits-and-exam-tracker/","title":"Credits & Exam Tracker","tags":["topic/system/workflow"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Credits & Exam Tracker","aliases":["Credits & Exam Tracker","Courses and Credits"],"type":"administration","status":"review","context":"administration","topics":["topic/system/workflow"],"tags":["topic/system/workflow"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/06-administration/credits-and-exams/credits-and-exam-tracker/","title":"Credits & Exam Tracker","tags":["topic/system/workflow"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"Credits & Exam Tracker","aliases":["Credits & Exam Tracker","Courses and Credits"],"type":"administration","status":"review","context":"administration","topics":["topic/system/workflow"],"tags":["topic/system/workflow"],"date":"2026-09-01","last_updated":"2026-09-07"}}
 ---
 
 
@@ -7,6 +7,8 @@
 
 > [!danger] KOS verification required
 > Previous placeholder course codes, instructors and results have been removed because they were not supported by an inspectable KOS record. Enter only verified values and record the verification date.
+
+The historical filename is retained for links. Do not assume the older credit system applies: record the study regime applicable to the individual cohort alongside verified obligations.
 
 ## Verified courses and examinations
 
@@ -22,7 +24,7 @@
 | English examination/certificate | Verify |  | Record accepted evidence |
 | Required principal-author publication for study block | Verify |  | Confirm whether APL 2025 satisfies it |
 | Scientific study/minimum | In progress |  | [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] |
-| Professional discussion | Scheduled |  | Confirm exact date and formal status |
+| Professional discussion | Date unconfirmed |  | Confirm exact date and formal status |
 | SDZ application eligibility | Not verified |  | Ask OVV after study-block audit |
 | Approved SDZ topics | Planned |  | Select with supervisor and programme board |
 | Preferred SDZ term | June 2027 |  | Confirm available term and deadline |
@@ -42,4 +44,3 @@
 - [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
 - [[II Areas/03_Thesis/State_Exam_Minimum/State Doctoral Exam & Minimum Thesis\|State Doctoral Exam & Minimum Thesis]]
 - [[II Areas/06_Administration/ISP_and_Evaluations/Individual Study Plan (ISP)\|Individual Study Plan (ISP)]]
-

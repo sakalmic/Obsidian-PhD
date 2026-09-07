@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/01-manuscripts/paper-ieee-transactions-2026/","title":"Paper 1 - Channel-State-Dependent Laser Triggering","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Paper 1 - Channel-State-Dependent Laser Triggering","aliases":["Paper - IEEE Transactions 2026","Paper 1 - Core LTSG Study"],"project_id":"Paper-1","type":"manuscript","status":"active","context":"publications","priority":"high","parent_project":"LTSG-Core","due":"2027-11-30","submission_deadline":"2027-11-30","definition_of_done":"Submitted reproducible core manuscript supporting CL-01, CL-02 and CL-03 with an independent repeat.","target_journal_conference":"Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal.","authors":"Michal Sakala, Jan Mikeš, collaborators to be confirmed by contribution","claims":["CL-01","CL-02","CL-03"],"topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/i-projects/01-manuscripts/paper-ieee-transactions-2026/","title":"Paper 1 - Channel-State-Dependent Laser Triggering","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"Paper 1 - Channel-State-Dependent Laser Triggering","aliases":["Paper - IEEE Transactions 2026","Paper 1 - Core LTSG Study"],"project_id":"Paper-1","type":"manuscript","status":"active","context":"publications","priority":"high","parent_project":"LTSG-Core","due":"2027-11-30","submission_deadline":"2027-11-30","definition_of_done":"Submitted reproducible core manuscript supporting CL-01, CL-02 and CL-03 with an independent repeat.","target_journal_conference":"Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal.","authors":"Michal Sakala, Jan Mikeš, collaborators to be confirmed by contribution","claims":["CL-01","CL-02","CL-03"],"topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing"],"date":"2026-09-01","last_updated":"2026-09-07"}}
 ---
 
 
@@ -22,6 +22,10 @@ The complete results narrative requires:
 - independent repeat on another day or after an electrode-service boundary.
 
 Methods, literature and figure shells should be written before this gate.
+
+## Schedule status
+
+November 2027 is the current planning target, not an acceptance date. An earlier meeting record refers to December 2026; whether this is the same manuscript and whether a revised date was approved remain unresolved in the private decision register.
 
 ## Delivery schedule
 

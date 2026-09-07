@@ -224,13 +224,13 @@ Campaign-level products include calibration files, sensor positions, uncertainty
 
 ## Related notes
 
-- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
 - [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
 - [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]]
 - [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
 - [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]
-- [[I Projects/Experimental Diagnostics Campaign\|Experimental Diagnostics Campaign]]
+- [[I Projects/02_Campaigns/Experimental Diagnostics Campaign\|Experimental Diagnostics Campaign]]
 
 ## Anchor sources
 

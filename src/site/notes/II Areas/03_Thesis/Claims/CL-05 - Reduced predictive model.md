@@ -31,8 +31,8 @@ Specify prediction tolerance and interval-coverage target before opening the val
 ## Links
 
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/COMSOL Plasma Simulation Model\|COMSOL Plasma Simulation Model]]
-- [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
+- [[I Projects/02_Campaigns/COMSOL Plasma Simulation Model\|COMSOL Plasma Simulation Model]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
 - [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]]
 - [[Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]]
 - [[Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]

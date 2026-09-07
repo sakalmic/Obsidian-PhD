@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/03-moc/","title":"03_MOC: Thesis & Dissertation","tags":["topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-06","dg-note-properties":{"title":"03_MOC: Thesis & Dissertation","aliases":["03_MOC","Thesis MOC"],"type":"moc","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-06"}}
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/03-moc/","title":"03_MOC: Thesis & Dissertation","tags":["topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"03_MOC: Thesis & Dissertation","aliases":["03_MOC","Thesis MOC"],"type":"moc","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-07"}}
 ---
 
 
@@ -17,6 +17,8 @@ Central workspace for the proposed dissertation **Laser-Controlled Breakdown in 
 
 ## Dissertation spine
 
+- [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Start here: document hierarchy and current status]]
+
 - [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
 - [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
@@ -27,38 +29,28 @@ Central workspace for the proposed dissertation **Laser-Controlled Breakdown in 
 
 ## Atomic claims
 
-| Claim                                                                                                                                   | Contribution          | Role       | State      |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------- | ---------- |
-| [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]]             | C-A                   | primary    | hypothesis |
-| [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]                                   | C-A                   | primary    | hypothesis |
-| [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]                   | C-B                   | primary    | hypothesis |
-| [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]]                               | Supporting robustness | supporting | hypothesis |
-| [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]                                     | C-C                   | primary    | hypothesis |
-| [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] | C-B                   | primary    | hypothesis |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID file.link AS "Claim", contribution AS "Contribution", claim_role AS "Role", status AS "State"
+FROM "II Areas/03_Thesis/Claims"
+SORT claim_id ASC
+```
 
 ---
 
 ## Evidence status
 
-| Evidence                                                                                                     | Type | State | Claims |
-| ------------------------------------------------------------------------------------------------------------ | ---- | ----- | ------ |
-| [[II Areas/01_Research/Experiments/Calibrations/Calibrations Index\|Calibrations Index]]                  | moc  | \-    | \-     |
-| [[II Areas/01_Research/Experiments/Analysis Records/Analysis Records Index\|Analysis Records Index]]      | moc  | \-    | \-     |
-| [[II Areas/01_Research/Experiments/Dataset Manifests/Dataset Manifests Index\|Dataset Manifests Index]]   | moc  | \-    | \-     |
-| [[II Areas/01_Research/Experiments/Experiments Index\|Experiments Index]]                                 | moc  | \-    | \-     |
-| [[II Areas/01_Research/Experiments/Evidence Index\|Evidence Index]]                                       | moc  | \-    | \-     |
-| [[II Areas/01_Research/Experiments/Experimental Measurements Archive\|Experimental Measurements Archive]] | \-   | \-    | \-     |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID file.link AS "Evidence", type AS "Type", evidence_state AS "State", claims AS "Claims"
+FROM "II Areas/01_Research/Experiments"
+SORT last_updated DESC
+```
 
 ---
 
 ## Administration
 
-- [[II Areas/03_Thesis/State_Exam_Minimum/State Doctoral Exam & Minimum Thesis\|State Doctoral Examination and minimum planning]]
-- [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP, SDZ, publication and internationalisation critical path]]
+- [[State Doctoral Exam & Minimum Thesis|State Doctoral Examination and minimum planning]]
+- [[I Projects/03_Milestones/ISP & Milestone Tracking|ISP, SDZ, publication and internationalisation critical path]]
 
 ---
 

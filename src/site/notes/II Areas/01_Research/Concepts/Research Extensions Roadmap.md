@@ -17,7 +17,7 @@ $$
 \rightarrow \text{EMP/radiation/recovery}.
 $$
 
-The core package is [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]. Each extension below has an activation gate and a distinct research output.
+The core package is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]. Each extension below has an activation gate and a distinct research output.
 
 ## E1 - Quantitative EMP fingerprinting
 
@@ -145,7 +145,7 @@ The core package is [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core
 
 ## Related notes
 
-- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
 - [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
 - [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]]

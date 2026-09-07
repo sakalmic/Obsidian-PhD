@@ -1,41 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/apparatus-and-safety/ltsg-apparatus-and-laboratory-safety/","title":"LTSG Apparatus & Laboratory Safety","tags":["type/apparatus","context/research","topic/ltsg/breakdown"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-06","dg-note-properties":{"title":"LTSG Apparatus & Laboratory Safety","aliases":["LTSG Apparatus","Laboratory Safety","LTSG Setup"],"tags":["type/apparatus","context/research","topic/ltsg/breakdown"],"type":"apparatus","status":"active","context":"research","topics":["topic/ltsg/breakdown"],"date":"2026-09-01","last_updated":"2026-09-06"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/apparatus-and-safety/ltsg-apparatus-and-laboratory-safety/","title":"LTSG Apparatus & Laboratory Safety","tags":["type/apparatus","context/research","topic/ltsg/breakdown"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"LTSG Apparatus & Laboratory Safety","aliases":["LTSG Apparatus","Laboratory Safety","LTSG Setup"],"tags":["type/apparatus","context/research","topic/ltsg/breakdown"],"type":"apparatus","status":"active","context":"research","topics":["topic/ltsg/breakdown"],"date":"2026-09-01","last_updated":"2026-09-07"}}
 ---
 
 
 # LTSG Apparatus & Laboratory Safety
 
-This note documents the physical, optical, and electrical configuration of the Laser-Triggered Spark Gap (LTSG) test facility, alongside critical high-voltage and laser safety protocols.
+## Configuration status
 
----
+No single apparatus configuration is certified by this note. Earlier planning material contains incompatible Nd:YAG and PERLA laser specifications. Treat voltage, pulse duration, wavelength, energy, geometry and diagnostic bandwidth as unverified until linked to a laboratory record.
 
-## ⚡ 1. High-Voltage Discharge Geometry
+## Required configuration record before WP0
 
-- **Electrode Configuration:** Hemispherical and needle-plane electrode geometries with inter-electrode spacing adjustable from $d = 1.0\,\text{mm}$ to $15.0\,\text{mm}$.
-- **Electrode Materials:** Copper-tungsten (CuW 80/20) and brass for minimum erosion and stable surface conditioning.
-- **Gas Atmosphere:** Atmospheric-pressure synthetic air ($80\%\,\text{N}_2, 20\%\,\text{O}_2$), dry nitrogen ($	ext{N}_2$), and variable pressure chamber setup.
-- **Charging Circuit:** High-voltage DC power supply ($0 - 40\,\text{kV}$), low-inductance capacitive storage bank ($C = 1 - 10\,\text{nF}$), and damping resistors.
+| Item | Evidence required | Current status |
+| --- | --- | --- |
+| Laser | System/branch ID, laboratory owner, measured wavelength, duration, energy and operating mode | Unconfirmed |
+| Electrical circuit | Approved schematic, source mode, voltage/current waveform, return path and stored-energy configuration | Unconfirmed |
+| Geometry and medium | Electrode material, gap, polarity, conditioning and environmental record | Unconfirmed |
+| Timing | Laser marker, HV event if applicable, channel offsets and uncertainty | Unconfirmed |
+| Diagnostics | Instrument IDs, transfer responses, calibration dates and acquisition settings | Unconfirmed |
+| Availability | Named owner, access confirmation and reserved sessions | Unconfirmed |
 
----
+Private configuration and approval records belong in the internal experimental records. Public summaries must omit sensitive storage paths and operational details.
 
-## 🔬 2. Laser Diagnostics & Optical Delivery (HiLASE)
+## Experimental scope
 
-- **Laser Source:** Q-switched Nd:YAG laser system operating at fundamental wavelength $\lambda = 1064\,\text{nm}$ and frequency-doubled $\lambda = 532\,\text{nm}$.
-- **Pulse Parameters:** Pulse duration $\tau_p \approx 5 - 10\,\text{ns}$, pulse energy variable from $E_p = 5\,\text{mJ}$ to $150\,\text{mJ}$.
-- **Focal Optics:** Anti-reflection coated plano-convex quartz lenses with focal lengths $f = 75\,\text{mm}, 100\,\text{mm}, 150\,\text{mm}$.
-- **Diagnostics:** High-speed photodiode synchronization, Rogowski coil current probes ($t_r < 1\,\text{ns}$), and calibrated capacitive voltage dividers.
+Begin with one confirmed reference geometry, polarity and laser configuration. A second geometry, wavelength or shaped beam requires an explicit scientific reason and compatible measurements. Distinguish requirements from equipment actually available.
 
----
+## Laboratory authorisation
 
-## 🛡️ 3. Safety Protocols & Interlocks
+The campaign requires the laboratory's approved risk assessment and operating procedure. This planning note does not specify protective-equipment ratings or certify existing interlocks. Record the responsible person and the applicable approved procedure before operation.
 
-- **Laser Safety:** Class 4 laser area designation. Mandatory certified safety goggles matched to $1064\,\text{nm} / 532\,\text{nm}$ OD > 6+. Optical shutter interlocks.
-- **High-Voltage Safety:** Automatic ground discharge sticks, safety cage interlocks with dual-contact microswitches, and Faraday cage enclosure for EMP shielding.
+## Related notes
 
----
-
-## 🔗 Related Notes & Indexes
-
+- [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]
+- [[II Areas/01_Research/Experiments/Evidence Index\|Evidence Index]]
 - [[II Areas/01_Research/01_MOC\|Research MOC]]
-- [[II Areas/01_Research/Experiments/Evidence Index\|Experimental Evidence Index]]
-- [[II Areas/01_Research/Simulations/COMSOL Multiphysics Setups\|COMSOL Simulation Setup]]

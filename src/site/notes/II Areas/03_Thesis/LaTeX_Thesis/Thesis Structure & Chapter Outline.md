@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/la-te-x-thesis/thesis-structure-and-chapter-outline/","title":"Thesis Structure & Chapter Outline","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Thesis Structure & Chapter Outline","aliases":["Thesis Structure","Chapter Outline"],"type":"chapter","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/la-te-x-thesis/thesis-structure-and-chapter-outline/","title":"Thesis Structure & Chapter Outline","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"Thesis Structure & Chapter Outline","aliases":["Thesis Structure","Chapter Outline"],"type":"chapter","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-07"}}
 ---
 
 
@@ -12,6 +12,10 @@
 Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování**
 
 The September 2026 discussion must approve or explicitly revise this wording. The broad previous title is retained only as historical context because it promised grid protection and techno-economics beyond the validated core.
+
+## Structure status
+
+This outline is the target architecture, not a description of the existing LaTeX chapter numbering. [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]] identifies the current baseline. Migration of the older nine-chapter manuscript requires content review before its title or PDF can be treated as current.
 
 ## Dissertation argument
 
@@ -40,7 +44,7 @@ The September 2026 discussion must approve or explicitly revise this wording. Th
 - Statistical versus formative delay as operational models.
 - Probability, survival/censoring and jitter estimators.
 
-Basis: [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]] and [[II Areas/01_Research/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]].
+Basis: [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]] and [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]].
 
 ### Chapter 3 - Metrology and reduced predictive model
 
@@ -49,6 +53,7 @@ Basis: [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|
 - 0D/1D electron balance and density-channel parameterisation.
 - Calibration/validation separation and sensitivity analysis.
 - Full 3D chemistry only if justified by predictive improvement.
+- Define the model here; present its held-out validation once, in Chapter 5.
 
 ### Chapter 4 - Experimental design, results and validation
 
@@ -56,8 +61,8 @@ Basis: [[II Areas/01_Research/Theory - Laser-Triggered Breakdown and Switching\|
 - Self-breakdown and definition of $k$.
 - Channel calibration and laser-to-HV delay scan.
 - Confirmatory probability and censored-delay results.
-- Independent repeat and held-out comparisons.
-- Claim decisions for C-A and C-B.
+- Independent repeat and held-out energy-only versus channel-informed comparisons (CL-03).
+- Claim decisions for C-A and C-B; physical-model validation (CL-05) belongs to Chapter 5.
 
 ### Chapter 5 - Model validation and engineering operating envelope
 
@@ -88,6 +93,5 @@ Chapters 1-5 plus Chapter 7 form the defensible core. Chapter 6 is conditional a
 
 - [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[I Projects/Dissertation Manuscript\|Dissertation Manuscript]]
-
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]
