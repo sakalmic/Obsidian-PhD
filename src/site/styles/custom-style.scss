@@ -918,3 +918,42 @@ aside,
     padding: 0 !important;
   }
 }
+
+/* Home dashboard: neutral category badges and Kanban accents. */
+.phd-home .phd-area-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.12em 0.55em;
+  border: 1px solid var(--background-modifier-border, #8b949e);
+  border-radius: 999px;
+  background: transparent !important;
+  color: var(--text-normal, #202124) !important;
+  font-family: var(--font-interface, sans-serif);
+  font-size: inherit !important;
+  font-weight: 400;
+  line-height: 1.15;
+  white-space: nowrap;
+}
+
+.phd-home .phd-area-symbol {
+  display: inline-block;
+  color: var(--text-normal, #202124) !important;
+  font-family: "Segoe UI Symbol", "Noto Sans Symbols 2", sans-serif !important;
+  font-size: 1.5em !important;
+  font-weight: 400;
+  line-height: 0.75;
+}
+
+.phd-home .phd-kanban-board [style*="border-left"],
+.phd-home .phd-kanban-board [style*="border-bottom"] {
+  border-color: var(--background-modifier-border, #8b949e) !important;
+}
+
+.phd-home .phd-kanban-board [style*="background: rgba"] {
+  background: var(--background-secondary, #f5f5f3) !important;
+}
+
+.phd-home .phd-kanban-board [style*="color: #"] {
+  color: var(--text-muted, #6b7280) !important;
+}
