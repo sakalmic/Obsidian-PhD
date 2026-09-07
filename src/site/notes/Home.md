@@ -32,37 +32,6 @@ This garden documents a reproducible investigation of how measured laser-channel
 
 ## ⚡ Operational Sprint Kanban (Short-Term Focus)
 
-<style>
-/* Monochrome area key: shape identifies the domain; status and priority remain textual. */
-.phd-kanban-board .phd-area-label { display: inline-block; background: transparent !important; color: var(--text-normal, #d0d7de) !important; border: 1px solid var(--background-modifier-border, #8b949e) !important; border-radius: 3px !important; padding: 1px 6px !important; font-size: 0.72em !important; letter-spacing: .02em; }
-.phd-kanban-board span[style*="rgba(46,160,67"] { font-size: 0 !important; }
-.phd-kanban-board span[style*="rgba(46,160,67"]::after { content: "● RESEARCH"; font-size: 10px; }
-.phd-kanban-board span[style*="rgba(56,139,253"] { font-size: 0 !important; }
-.phd-kanban-board span[style*="rgba(56,139,253"]::after { content: "■ THESIS"; font-size: 10px; }
-.phd-kanban-board .phd-publication-label { font-size: 0 !important; background: transparent !important; color: var(--text-normal, #d0d7de) !important; border: 1px solid var(--background-modifier-border, #8b949e) !important; border-radius: 3px !important; }
-.phd-kanban-board .phd-publication-label::after { content: "▲ PUBLICATIONS"; font-size: 10px; }
-.phd-kanban-board span[style*="rgba(227,179,65"] { font-size: 0 !important; }
-.phd-kanban-board span[style*="rgba(227,179,65"]::after { content: "⬟ TEACHING"; font-size: 10px; }
-.phd-kanban-board span[style*="rgba(210,153,34"] { font-size: 0 !important; }
-.phd-kanban-board span[style*="rgba(210,153,34"]::after { content: "◆ GRANTS"; font-size: 10px; }
-.phd-kanban-board span[style*="rgba(110,118,129"] { font-size: 0 !important; }
-.phd-kanban-board span[style*="rgba(110,118,129"]::after { content: "✖ ADMIN"; font-size: 10px; }
-/* Neutralise legacy inline palette across the board, including card edges and column headers. */
-.phd-kanban-board [style*="border-left"] { border-left-color: var(--background-modifier-border, #8b949e) !important; }
-.phd-kanban-board [style*="border-bottom"] { border-bottom-color: var(--background-modifier-border, #8b949e) !important; }
-.phd-kanban-board [style*="background: rgba(46,160,67"],
-.phd-kanban-board [style*="background: rgba(56,139,253"],
-.phd-kanban-board [style*="background: rgba(227,179,65"],
-.phd-kanban-board [style*="background: rgba(210,153,34"],
-.phd-kanban-board [style*="background: rgba(110,118,129"] { background: transparent !important; color: var(--text-normal, #d0d7de) !important; }
-.phd-kanban-board span[style*="color: #3fb950"],
-.phd-kanban-board span[style*="color: #58a6ff"],
-.phd-kanban-board span[style*="color: #e3b341"],
-.phd-kanban-board span[style*="color: #f0883e"],
-.phd-kanban-board span[style*="color: #8b949e"],
-.phd-kanban-board span[style*="color: #e5c07b"] { color: var(--text-muted, #8b949e) !important; }
-</style>
-
 <div class="phd-kanban-board" style="display: flex; gap: 14px; overflow-x: auto; padding: 6px 0 18px 0; font-family: var(--font-interface, sans-serif);">
   <!-- Column 1: Backlog / Upcoming -->
   <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
