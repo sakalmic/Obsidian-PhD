@@ -32,6 +32,23 @@ This garden documents a reproducible investigation of how measured laser-channel
 
 ## ⚡ Operational Sprint Kanban (Short-Term Focus)
 
+<style>
+/* Monochrome area key: shape identifies the domain; status and priority remain textual. */
+.phd-kanban-board .phd-area-label { display: inline-block; background: transparent !important; color: var(--text-normal, #d0d7de) !important; border: 1px solid var(--background-modifier-border, #8b949e) !important; border-radius: 3px !important; padding: 1px 6px !important; font-size: 0.72em !important; letter-spacing: .02em; }
+.phd-kanban-board span[style*="rgba(46,160,67"] { font-size: 0 !important; }
+.phd-kanban-board span[style*="rgba(46,160,67"]::after { content: "● RESEARCH"; font-size: 10px; }
+.phd-kanban-board span[style*="rgba(56,139,253"] { font-size: 0 !important; }
+.phd-kanban-board span[style*="rgba(56,139,253"]::after { content: "■ THESIS"; font-size: 10px; }
+.phd-kanban-board .phd-publication-label { font-size: 0 !important; background: transparent !important; color: var(--text-normal, #d0d7de) !important; border: 1px solid var(--background-modifier-border, #8b949e) !important; border-radius: 3px !important; }
+.phd-kanban-board .phd-publication-label::after { content: "▲ PUBLICATIONS"; font-size: 10px; }
+.phd-kanban-board span[style*="rgba(227,179,65"] { font-size: 0 !important; }
+.phd-kanban-board span[style*="rgba(227,179,65"]::after { content: "⬟ TEACHING"; font-size: 10px; }
+.phd-kanban-board span[style*="rgba(210,153,34"] { font-size: 0 !important; }
+.phd-kanban-board span[style*="rgba(210,153,34"]::after { content: "◆ GRANTS"; font-size: 10px; }
+.phd-kanban-board span[style*="rgba(110,118,129"] { font-size: 0 !important; }
+.phd-kanban-board span[style*="rgba(110,118,129"]::after { content: "✖ ADMIN"; font-size: 10px; }
+</style>
+
 <div class="phd-kanban-board" style="display: flex; gap: 14px; overflow-x: auto; padding: 6px 0 18px 0; font-family: var(--font-interface, sans-serif);">
   <!-- Column 1: Backlog / Upcoming -->
   <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
@@ -105,7 +122,7 @@ This garden documents a reproducible investigation of how measured laser-channel
       <!-- Publications Card (Blue) -->
       <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid #388bfd; border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span style="background: rgba(56,139,253,0.15); color: #58a6ff; font-size: 0.72em; padding: 1px 6px; border-radius: 8px; font-weight: 600;">🔵 Publications</span>
+          <span class="phd-publication-label" style="background: rgba(56,139,253,0.15); color: #58a6ff; font-size: 0.72em; padding: 1px 6px; border-radius: 8px; font-weight: 600;">🔵 Publications</span>
           <span style="color: #58a6ff; font-size: 0.75em;">Active</span>
         </div>
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Paper 1 Manuscript Drafting</div>
@@ -330,7 +347,7 @@ This garden documents a reproducible investigation of how measured laser-channel
       <!-- Publications Card (Blue) -->
       <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid #388bfd; border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span style="background: rgba(56,139,253,0.15); color: #58a6ff; font-size: 0.72em; padding: 1px 6px; border-radius: 8px; font-weight: 600;">🔵 Publications</span>
+          <span class="phd-publication-label" style="background: rgba(56,139,253,0.15); color: #58a6ff; font-size: 0.72em; padding: 1px 6px; border-radius: 8px; font-weight: 600;">🔵 Publications</span>
           <span style="color: #e5c07b; font-size: 0.75em;">Target Q1/Q2</span>
         </div>
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Paper 1: Channel-State Dependent Triggering</div>
@@ -356,7 +373,7 @@ This garden documents a reproducible investigation of how measured laser-channel
       <!-- Publications Card (Blue) -->
       <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid #388bfd; border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span style="background: rgba(56,139,253,0.15); color: #58a6ff; font-size: 0.72em; padding: 1px 6px; border-radius: 8px; font-weight: 600;">🔵 Publications</span>
+          <span class="phd-publication-label" style="background: rgba(56,139,253,0.15); color: #58a6ff; font-size: 0.72em; padding: 1px 6px; border-radius: 8px; font-weight: 600;">🔵 Publications</span>
           <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Conference</span>
         </div>
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">International Conference Contribution</div>
