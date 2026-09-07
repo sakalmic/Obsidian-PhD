@@ -139,18 +139,7 @@ Use the narrowest useful topical tag. Do not create synonyms such as both `theme
 
 Active evidence for CL-03:
 
-```dataview
-TABLE type, evidence_state, dataset_id, last_updated
-FROM "III Resources/Evidence"
-WHERE contains(claims, "CL-03")
-SORT last_updated DESC
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>File</th><th>type</th><th>evidence_state</th><th>dataset_id</th><th>last_updated</th></tr></thead><tbody><tr><td colspan="5">No matching published records.</td></tr></tbody></table></div>
 Upcoming projects:
 
-```dataview
-TABLE priority, due, status
-FROM "I Projects"
-WHERE status != "complete" AND status != "archived"
-SORT due ASC
-```
+<div class="block-language-dataview"><table><thead><tr><th>File</th><th>priority</th><th>due</th><th>status</th></tr></thead><tbody><tr><td><a class="internal-link" href="/i-projects/01-manuscripts/dissertation-manuscript/">Dissertation Manuscript</a></td><td>high</td><td>2028-08-31</td><td>active</td></tr><tr><td><a class="internal-link" href="/i-projects/01-manuscripts/paper-ieee-transactions-2026/">Paper 1 - Channel-State-Dependent Laser Triggering</a></td><td>high</td><td>2027-11-30</td><td>active</td></tr></tbody></table></div>

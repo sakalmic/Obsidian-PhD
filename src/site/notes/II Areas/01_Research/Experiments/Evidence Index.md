@@ -11,24 +11,10 @@ This area contains metadata and interpretive records, not bulk raw data. Every e
 
 ## Evidence requiring attention
 
-```dataview
-TABLE WITHOUT ID file.link AS "Record", type AS "Type", evidence_state AS "State", claims AS "Claims", dataset_id AS "Dataset", last_updated AS "Updated"
-FROM "II Areas/01_Research/Experiments"
-WHERE file.name != this.file.name AND evidence_state != "published"
-SORT last_updated DESC
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>Record</th><th>Type</th><th>State</th><th>Claims</th><th>Dataset</th><th>Updated</th></tr></thead><tbody><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/experimental-measurements-archive/">Experimental Measurements Archive</a></td><td>—</td><td>—</td><td>—</td><td>—</td><td>2026-09-01</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/analysis-records/analysis-records-index/">Analysis Records Index</a></td><td>moc</td><td>—</td><td>—</td><td>—</td><td>2026-09-03</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/calibrations/calibrations-index/">Calibrations Index</a></td><td>moc</td><td>—</td><td>—</td><td>—</td><td>2026-09-03</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/dataset-manifests/dataset-manifests-index/">Dataset Manifests Index</a></td><td>moc</td><td>—</td><td>—</td><td>—</td><td>2026-09-03</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/experiments-index/">Experiments Index</a></td><td>moc</td><td>—</td><td>—</td><td>—</td><td>2026-09-03</td></tr></tbody></table></div>
 ## Evidence by claim
 
-```dataview
-TABLE rows.file.link AS "Evidence", rows.evidence_state AS "State", rows.dataset_id AS "Dataset"
-FROM "II Areas/01_Research/Experiments"
-FLATTEN claims AS claim
-WHERE claim
-GROUP BY claim
-SORT key ASC
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>claim</th><th>Evidence</th><th>State</th><th>Dataset</th></tr></thead><tbody><tr><td colspan="4">No matching published records.</td></tr></tbody></table></div>
 ## Rules
 
 - No raw file is considered archived until its storage location and immutable identifier/checksum are recorded.

@@ -19,17 +19,7 @@ This map coordinates the doctoral publication pipeline, from early research conc
 
 ## Manuscript pipeline
 
-```dataview
-TABLE WITHOUT ID
-    file.link as "Manuscript",
-    target_journal_conference as "Target venue",
-    status as "Status",
-    submission_deadline as "Submission deadline"
-FROM "I Projects/01_Manuscripts" OR "II Areas/02_Publications"
-WHERE (type = "manuscript" OR contains(tags, "type/paper")) AND dg-publish = true
-SORT submission_deadline ASC
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>Manuscript</th><th>Target venue</th><th>Status</th><th>Submission deadline</th></tr></thead><tbody><tr><td><a class="internal-link" href="/i-projects/01-manuscripts/paper-ieee-transactions-2026/">Paper 1 - Channel-State-Dependent Laser Triggering</a></td><td>Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal.</td><td>active</td><td>2027-11-30</td></tr></tbody></table></div>
 ---
 
 ## Published and active outputs

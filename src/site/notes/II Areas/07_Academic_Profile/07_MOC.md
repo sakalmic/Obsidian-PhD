@@ -9,7 +9,7 @@ This Map of Content maintains personal academic profiles, bibliographic identifi
 
 ---
 
-## 🏛️ Profile Architecture
+## Profile Architecture
 
 ```
 07_Academic_Profile/
@@ -20,7 +20,7 @@ This Map of Content maintains personal academic profiles, bibliographic identifi
 
 ---
 
-## 📑 Core Records
+## Core Records
 
 - [[ORCID & Bibliographic Identifiers|Scientific Profiles & Identifiers (ORCID, WoS, Scopus)]]
 - [[Academic Skills & Certifications|Training, Certifications & Summer Schools]]
@@ -28,7 +28,7 @@ This Map of Content maintains personal academic profiles, bibliographic identifi
 
 ---
 
-## 🔗 Navigation
+## Navigation
 
 - [[Home|Return to Main Dashboard]]
 - [[06_MOC|06 · Administration & ISP]]

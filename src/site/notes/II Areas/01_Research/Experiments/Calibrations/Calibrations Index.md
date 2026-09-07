@@ -5,10 +5,4 @@
 
 # Calibrations Index
 
-```dataview
-TABLE calibration_id, instrument_id, valid_from, valid_until, status, claims
-FROM "II Areas/01_Research/Experiments/Calibrations"
-WHERE file.name != this.file.name
-SORT valid_until ASC
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>File</th><th>calibration_id</th><th>instrument_id</th><th>valid_from</th><th>valid_until</th><th>status</th><th>claims</th></tr></thead><tbody><tr><td colspan="7">No matching published records.</td></tr></tbody></table></div>

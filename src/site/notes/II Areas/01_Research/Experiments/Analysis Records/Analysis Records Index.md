@@ -5,10 +5,4 @@
 
 # Analysis Records Index
 
-```dataview
-TABLE analysis_id, dataset_id, analysis_role, code_commit, status, claims
-FROM "II Areas/01_Research/Experiments/Analysis Records"
-WHERE file.name != this.file.name
-SORT last_updated DESC
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>File</th><th>analysis_id</th><th>dataset_id</th><th>analysis_role</th><th>code_commit</th><th>status</th><th>claims</th></tr></thead><tbody><tr><td colspan="7">No matching published records.</td></tr></tbody></table></div>

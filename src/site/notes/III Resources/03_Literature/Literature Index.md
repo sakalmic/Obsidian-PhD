@@ -14,13 +14,4 @@ Index of reviewed scientific literature, research syntheses and bibliographic no
 - [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Cross-paper theoretical synthesis for the LTSG core]]
 - [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostic synthesis and false-signal controls]]
 
-```dataview
-TABLE 
-    authors as "Authors",
-    year as "Year",
-    journal_conference as "Journal / conference",
-    doi as "DOI"
-FROM "III Resources/Literature"
-WHERE (type = "literature" OR contains(tags, "type/literature")) AND dg-publish = true
-SORT year DESC
-```
+<div class="block-language-dataview"><table><thead><tr><th>File</th><th>Authors</th><th>Year</th><th>Journal / conference</th><th>DOI</th></tr></thead><tbody><tr><td><a class="internal-link" href="/iii-resources/03-literature/ln-sakala2025-apl-lightning-protection/">The Dynamics of Laser-Driven Ionisation in High-Voltage Circuit Switching</a></td><td>Michal Sakala, Jan Mikeš, Ondřej Hanuš, Marcela Efmertová, Martin Mydlar</td><td>2025</td><td>IEEE APL 2025</td><td>10.1109/APL65034.2025.11108944</td></tr></tbody></table></div>

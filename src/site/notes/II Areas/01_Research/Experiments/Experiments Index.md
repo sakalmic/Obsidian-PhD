@@ -5,10 +5,4 @@
 
 # Experiments Index
 
-```dataview
-TABLE experiment_id, date_performed, work_package, protocol_version, evidence_state, dataset_id, claims
-FROM "II Areas/01_Research/Experiments"
-WHERE file.name != this.file.name
-SORT date_performed DESC
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>File</th><th>experiment_id</th><th>date_performed</th><th>work_package</th><th>protocol_version</th><th>evidence_state</th><th>dataset_id</th><th>claims</th></tr></thead><tbody><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/analysis-records/analysis-records-index/">Analysis Records Index</a></td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/calibrations/calibrations-index/">Calibrations Index</a></td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/dataset-manifests/dataset-manifests-index/">Dataset Manifests Index</a></td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/evidence-index/">Evidence Index</a></td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/experimental-measurements-archive/">Experimental Measurements Archive</a></td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr></tbody></table></div>

@@ -29,22 +29,12 @@ Central workspace for the proposed dissertation **Laser-Controlled Breakdown in 
 
 ## Atomic claims
 
-```dataview
-TABLE WITHOUT ID file.link AS "Claim", contribution AS "Contribution", claim_role AS "Role", status AS "State"
-FROM "II Areas/03_Thesis/Claims"
-SORT claim_id ASC
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>Claim</th><th>Contribution</th><th>Role</th><th>State</th></tr></thead><tbody><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-01-laser-assisted-breakdown-probability/">CL-01 - Laser-assisted breakdown probability</a></td><td>C-A</td><td>primary</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-02-delay-and-jitter-response/">CL-02 - Delay and jitter response</a></td><td>C-A</td><td>primary</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-03-channel-state-versus-pulse-energy/">CL-03 - Channel state versus pulse energy</a></td><td>C-B</td><td>primary</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-04-polarity-and-field-geometry/">CL-04 - Polarity and field geometry</a></td><td>Supporting robustness</td><td>supporting</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-05-reduced-predictive-model/">CL-05 - Reduced predictive model</a></td><td>C-C</td><td>primary</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-06-reproducible-optical-and-electrical-stages/">CL-06 - Reproducible optical and electrical stages</a></td><td>C-B</td><td>primary</td><td>hypothesis</td></tr></tbody></table></div>
 ---
 
 ## Evidence status
 
-```dataview
-TABLE WITHOUT ID file.link AS "Evidence", type AS "Type", evidence_state AS "State", claims AS "Claims"
-FROM "II Areas/01_Research/Experiments"
-SORT last_updated DESC
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>Evidence</th><th>Type</th><th>State</th><th>Claims</th></tr></thead><tbody><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/experimental-measurements-archive/">Experimental Measurements Archive</a></td><td>—</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/analysis-records/analysis-records-index/">Analysis Records Index</a></td><td>moc</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/calibrations/calibrations-index/">Calibrations Index</a></td><td>moc</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/dataset-manifests/dataset-manifests-index/">Dataset Manifests Index</a></td><td>moc</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/evidence-index/">Evidence Index</a></td><td>moc</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/experiments-index/">Experiments Index</a></td><td>moc</td><td>—</td><td>—</td></tr></tbody></table></div>
 ---
 
 ## Administration

@@ -21,16 +21,7 @@ This area covers the formal study requirements and doctoral administration at th
 
 ## Recent supervisor meetings
 
-```dataview
-TABLE
-    file.ctime as "Meeting date",
-    attendees as "Attendees"
-FROM "II Areas/06_Administration"
-WHERE type = "meeting" OR contains(tags, "type/meeting")
-SORT file.name DESC
-LIMIT 5
-```
-
+<div class="block-language-dataview"><table><thead><tr><th>File</th><th>Meeting date</th><th>Attendees</th></tr></thead><tbody><tr><td colspan="3">No matching published records.</td></tr></tbody></table></div>
 ---
 
 ## Upcoming administrative deadlines
