@@ -927,7 +927,7 @@ aside,
   padding: 0.12em 0.55em;
   border: 1px solid var(--background-modifier-border, #8b949e);
   border-radius: 999px;
-  background: transparent !important;
+  background: var(--paper-deep, var(--background-secondary, #f3f3f1)) !important;
   color: var(--text-normal, #202124) !important;
   font-family: var(--font-interface, sans-serif);
   font-size: inherit !important;
