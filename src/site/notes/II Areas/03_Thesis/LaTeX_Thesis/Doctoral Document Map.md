@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/","title":"Doctoral Document Map","noteIcon":"","created":"2026-09-07","updated":"2026-09-07","dg-note-properties":{"title":"Doctoral Document Map","type":"administration","status":"active","context":"thesis","date":"2026-09-07","last_updated":"2026-09-07"}}
+title: "Doctoral Document Map"
+type: administration
+status: active
+context: thesis
+date: 2026-09-07
+last_updated: 2026-09-09
+dg-publish: true
+permalink: /ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/
 ---
-
 
 # Doctoral Document Map
 
@@ -13,12 +19,14 @@ The working proposal is laser-controlled atmospheric-pressure breakdown, measure
 
 | Question | Authoritative working document | Role |
 | --- | --- | --- |
-| What is the dissertation about? | [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]] | Working title, promise and writing status |
-| How is the argument organised? | [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] | Chapter architecture |
-| What must be tested? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]] and atomic CL notes | Claims and evidence rules |
-| What evidence exists? | [[II Areas/01_Research/Experiments/Evidence Index\|Evidence Index]] | Calibrations, datasets and analyses |
-| Which outputs are planned? | [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy & Targets]] | Scientific publication sequence |
-| What is the experimental baseline? | [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety\|LTSG Apparatus & Laboratory Safety]] | Verified configuration versus requirements |
+| Which dissertation variants have been compared? | [[Variant Dissertation Topics 2026]] | Six executable variants with equipment and schedule estimates |
+| Which emerging commercial directions are worth testing? | [[Outside-the-Box Dissertation Topics 2026]] | Opportunity scan with gates, risks and market routes |
+| What is the dissertation about? | [[Dissertation Manuscript]] | Working title, promise and writing status |
+| How is the argument organised? | [[Thesis Structure & Chapter Outline]] | Chapter architecture |
+| What must be tested? | [[Claim Ledger & Evidence Matrix]] and atomic CL notes | Claims and evidence rules |
+| What evidence exists? | [[Evidence Index]] | Calibrations, datasets and analyses |
+| Which outputs are planned? | [[Publication Strategy & Targets]] | Scientific publication sequence |
+| What is the experimental baseline? | [[LTSG Apparatus & Laboratory Safety]] | Verified configuration versus requirements |
 
 Scientific claims, formal approvals and manuscript completion are separate states. A polished PDF is not evidence that any of these has been completed.
 

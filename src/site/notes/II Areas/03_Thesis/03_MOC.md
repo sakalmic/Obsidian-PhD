@@ -1,11 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/03-moc/","title":"03_MOC: Thesis & Dissertation","tags":["topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"03_MOC: Thesis & Dissertation","aliases":["03_MOC","Thesis MOC"],"type":"moc","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-07"}}
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/03-moc/","title":"03_MOC: Thesis & Dissertation","tags":["topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-09","dg-note-properties":{"title":"03_MOC: Thesis & Dissertation","aliases":["03_MOC","Thesis MOC"],"type":"moc","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-09"}}
 ---
 
 
 # 03_MOC: Thesis & Dissertation
 
 Central workspace for the proposed dissertation **Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling**.
+
+---
+
+## Topic selection
+
+- [[I Projects/03_Milestones/Variant Dissertation Topics 2026\|Six executable dissertation variants — comparison, equipment and schedules]]
+- [[I Projects/03_Milestones/Outside-the-Box Dissertation Topics 2026\|Outside-the-box topics — SF6-free technology, optical diagnostics and high-risk moonshots]]
+- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum and professional discussion — proposed scope-freeze package]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Minimum defensible experimental core]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Extensions activated only after the core gates]]
+
+The documents above are public proposals for comparison. They do not represent a supervisor, committee or KOS approval.
 
 ---
 
