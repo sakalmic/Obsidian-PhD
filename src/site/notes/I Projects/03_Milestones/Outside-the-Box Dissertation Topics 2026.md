@@ -1,19 +1,19 @@
 ---
-title: "Outside-the-Box témata disertační práce 2026"
+title: "Outside-the-Box Dissertation Topics 2026"
 aliases:
-  - Outside-the-Box Dissertation Topics 2026
-  - Odvážná témata disertace
+  - Emerging Dissertation Topics
+  - Commercial Dissertation Opportunities
 type: decision-support
 status: proposal
 context: thesis
 topics:
   - topic/ltsg/application
-  - topic/ltsg/economics
   - topic/ltsg/breakdown
+  - topic/ltsg/economics
 tags:
   - topic/ltsg/application
-  - topic/ltsg/economics
   - topic/ltsg/breakdown
+  - topic/ltsg/economics
 date: 2026-09-09
 last_updated: 2026-09-09
 dg-publish: true
@@ -21,247 +21,250 @@ dg-home-link: true
 permalink: /outside-the-box-dissertation-topics-2026/
 ---
 
-# Outside-the-Box témata disertační práce 2026
+# Outside-the-Box Dissertation Topics 2026
 
-## Proč hledat za hranicí původního zadání
+> [!info] Document status
+> This is a public opportunity scan for supervisor discussion. It does not constitute an approved dissertation assignment, a laboratory reservation, a commercial forecast, or a patent-freedom opinion. The lower-risk continuation options are assessed in [[Variant Dissertation Topics 2026]].
 
-Diplomová práce a navazující experimenty dávají dobrý základ v laserem řízeném průrazu, časování výboje a vysokonapěťové diagnostice. Komerčně nejsilnější pokračování však nemusí být „ještě přesnější jiskřiště“. Větší hodnotu může mít měřicí metoda, zkušební služba, algoritmus kvalifikace nebo opticky izolovaný modul, který řeší konkrétní problém vznikající při dekarbonizaci energetiky.
+## Why look beyond the original assignment
 
-Tento dokument rozšiřuje [[Variant Dissertation Topics 2026|šest proveditelných variant]] o směry motivované současným trhem a regulací. Nejde o schválená témata ani o patentovou rešerši. Komerční potenciál znamená identifikovatelnou skupinu zákazníků a měřitelnou hodnotu; neznamená připravený výrobek.
+The master’s thesis established a useful experimental platform for laser-assisted high-voltage breakdown. A dissertation can remain close to that platform while addressing a market transition, a measurable engineering bottleneck, or a high-risk physical question. The best topic should combine a defensible scientific hypothesis with equipment that can realistically be obtained and a result that a manufacturer, laboratory, or infrastructure operator could evaluate.
 
-## Nejdůležitější současný impuls
+The most immediate external driver is the European phase-down of fluorinated greenhouse gases. Regulation (EU) 2024/573 introduces staged restrictions on new switchgear using fluorinated gases. Relevant dates include 2026 for equipment up to 24 kV, 2028 for parts of the 52–145 kV range, 2030 for 24–52 kV, and 2032 for higher-voltage classes, subject to the regulation’s exact conditions and exceptions. From 2035, SF6 used for maintenance is also increasingly restricted to reclaimed or recycled gas. This creates demand for qualification, monitoring, and lifetime evidence for vacuum and alternative-gas equipment. [O1]
 
-Nařízení Evropské unie 2024/573 postupně omezuje uvádění nových rozváděčů využívajících fluorované skleníkové plyny do provozu. Pro hladiny do 24 kV nastal první termín 1. ledna 2026, pro více než 24 až 52 kV následuje rok 2030, pro část zařízení nad 52 až 145 kV rok 2028 a pro vyšší hladiny rok 2032; text obsahuje přesně vymezené výjimky. Od roku 2035 je navíc servisní použití SF6 omezeno převážně na regenerovaný nebo recyklovaný plyn. [Nařízení EU 2024/573, článek 13](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02024R0573-20240220)
+Commercial systems already use different technology paths. Siemens Energy markets vacuum interruption with clean-air insulation up to 145 kV, while Hitachi Energy’s 420 kV EconiQ GIS uses a fluoronitrile/CO2/O2 mixture. These examples show that “SF6 replacement” is not one material question: the research opportunity lies in diagnostics, breakdown control, recovery, by-products, ageing, and validation across competing architectures. [O2, O3]
 
-Trh už nabízí různé cesty. Siemens Energy komerčně používá vakuové vypínání a technický vzduch až do 145 kV, zatímco Hitachi Energy nabízí pro 420 kV směs fluoronitrilu, CO2 a O2. Tyto přístupy mají odlišné nároky na velikost, materiály, diagnostiku, tlak a práci s produkty rozkladu. Příležitostí pro disertaci proto není prosté „nalezení plynu místo SF6“, ale vytvoření ověřitelné metody pro návrh, diagnostiku nebo kvalifikaci konkrétní bezfluorové či nízkoemisní technologie. [Siemens Energy Blue](https://www.siemens-energy.com/global/en/home/products-services/product-offerings/blue-high-voltage-products.html) • [Hitachi Energy EconiQ 420 kV](https://www.hitachienergy.com/us/en/products-and-solutions/high-voltage-switchgear-and-breakers/gas-insulated-switchgear/gis-for-72-5-1200-kv/econiq-gis-elk-3-420-kv)
+## Opportunity comparison
 
-## Rychlé srovnání příležitostí
+| ID | Direction | Continuity with current work | Commercial potential | Scientific risk | Capital demand | Recommended role |
+| --- | --- | :---: | :---: | :---: | :---: | --- |
+| O1 | Optical condition diagnostics for SF6-free switchgear | High | Very high | Medium | Medium | Best commercial branch |
+| O2 | Breakdown and dielectric recovery in fluorine-free media | Very high | High | Medium-high | Medium-high | Best physics/engineering branch |
+| O3 | Probabilistic digital twin for eco-efficient switchgear | High | High | Medium | Medium | Strong data/model branch |
+| O4 | Optically isolated hybrid crowbar | High | Medium-high | Medium | Medium | Fastest demonstrator |
+| O5 | Photonic synchronisation of multiple spark gaps | High | Medium | Medium-high | Medium-high | Pulsed-power niche |
+| O6 | Laser-guided lightning attachment | Medium | Potentially high | Very high | Very high | Collaboration-dependent |
+| O7 | Long-lived luminous structures inspired by ball lightning | Medium | Uncertain | Extreme | Medium-high | Time-boxed moonshot |
+| O8 | Laser-plasma ignition of hydrogen and ammonia | Medium | High | High | High | Energy-transition branch |
 
-Hodnocení 1–5 je expertní filtr pro rozhodování, nikoli předpověď obchodního úspěchu. U náročnosti znamená 5 největší zatížení.
+## O1 — Optical condition diagnostics for SF6-free switchgear
 
-| Kód | Směr | Návaznost na dosavadní práci | Regulační nebo tržní tah | Komerční potenciál | Proveditelnost do 2028 | Náročnost techniky |
-| --- | --- | :---: | :---: | :---: | :---: | :---: |
-| O1 | Optická diagnostika bez-SF6 rozváděčů | 3 | 5 | 5 | 4 | 3 |
-| O2 | Průraz a obnova v čistém vzduchu a směsích CO2/N2/O2 | 4 | 5 | 5 | 3 | 4 |
-| O3 | Digitální dvojče a prediktivní údržba ekologických rozváděčů | 3 | 5 | 5 | 4 při dostupných datech | 2–3 |
-| O4 | Opticky izolovaný hybridní crowbar pro pulzní a výkonovou elektroniku | 5 | 3 | 4 | 4 | 3–4 |
-| O5 | Fotonická synchronizace více jiskřišť | 5 | 2 | 3–4 | 3 | 4 |
-| O6 | Laserové řízení připojení blesku k chráněnému objektu | 3 | 3 | 5 | 1 | 5 |
-| O7 | Dlouhožijící svítivé struktury inspirované kulovým bleskem | 3 | 1 | 2–3 | 2 | 4 |
-| O8 | Laserově-plazmové zapalování vodíku a amoniaku | 2 | 4 | 5 | 2–3 s partnerem | 5 |
+### Working title
 
-## O1 Optická diagnostika stavu bez-SF6 rozváděčů
+**Optical and Electrical Precursors of Breakdown in Fluorine-Free High-Voltage Insulation Systems**
 
-### Pracovní název
+### Research question
 
-**Optická identifikace výbojových a rozkladných dějů v ekologických izolačních médiích pro elektrické rozváděče**
+Can non-contact optical signals detect changes in discharge mode, contamination, surface condition, or insulation margin before a fluorine-free switchgear compartment reaches unacceptable breakdown risk?
 
-### Výzkumná otázka
+### Minimum doctoral contribution
 
-Lze z časově rozlišeného optického spektra a elektrického průběhu rozlišit koronu, částečný výboj, lokální přehřátí a obloukovou událost v čistém vzduchu nebo ve vybrané náhradní směsi a odhadnout změnu izolačního stavu?
+- identify optical or combined optical/electrical descriptors that change before breakdown;
+- distinguish useful precursors from environmental and sensor drift;
+- build a probabilistic condition indicator with uncertainty and false-alarm analysis;
+- validate it on operating conditions not used for model fitting;
+- state clearly which gas, geometry, pressure, and voltage range the indicator covers.
 
-### Minimální doktorský přínos
+### Equipment and demonstrator
 
-- vytvořit reprodukovatelný soubor optických a elektrických signatur pro omezený počet známých vad;
-- prokázat, zda optická data přidávají predikční informaci nad běžné elektrické měření částečných výbojů;
-- ověřit klasifikaci na jiné měřicí sérii nebo jiném zkušebním tělese;
-- stanovit detekční meze, falešné poplachy a vliv stárnutí senzoru.
+A sealed, pressure-rated test chamber; dry-air/CO2/N2/O2 handling; representative electrode and spacer samples; high-voltage source; emission spectroscopy or selected optical bands; fast imaging or photodetection; current/voltage diagnostics; temperature, pressure, and humidity sensors; and controlled contamination or surface-conditioning protocols. A commercially legible demonstrator would classify healthy, conditioned, contaminated, and pre-breakdown states without galvanic contact to the high-voltage compartment.
 
-### Technika a demonstrátor
+### Commercial route
 
-Utěsněná cela s řízeným tlakem a složením, zdroj reprodukovatelné korony nebo částečných výbojů, optické vlákno, spektrometr, širokopásmové elektrické měření a referenční analýza plynu, například FTIR nebo GC-MS prostřednictvím partnerské laboratoře. Minimálním demonstrátorem je servisní optická sonda nebo offline diagnostický postup, nikoli celý rozváděč.
+The most realistic product is a diagnostic module or qualification method for manufacturers, service organisations, and test laboratories. The value proposition is earlier fault detection, lower commissioning uncertainty, and condition-based maintenance. A partnership with a switchgear producer would greatly improve access to representative geometries and failure modes.
 
-### Komerční cesta
+### Decision gate
 
-Zákazníky mohou být výrobci rozváděčů, zkušebny, provozovatelé distribučních sítí a servisní firmy. Výstup může mít podobu licencovatelné knihovny signatur, algoritmu včasného varování nebo specializované diagnostické služby. Výzkum rozkladných produktů fluoronitrilových směsí i jejich monitorování rychle roste; vlastní řešení však musí být porovnáno s jednoduššími IR a plynovými senzory. [Příklad výzkumu rozkladu ve 12kV RMU](https://ieeexplore.ieee.org/abstract/document/11510496)
+Continue only if a repeatable optical descriptor separates at least two physically meaningful states after controlling for pressure, temperature, sensor alignment, and electrode history. Otherwise narrow the thesis to metrology and physics rather than predictive maintenance.
 
-### Rozhodovací brána
+## O2 — Breakdown and dielectric recovery in fluorine-free media
 
-Do tří měsíců předvést opakovatelně rozlišitelný optický signál alespoň dvou fyzikálně odlišných stavů. Bez referenční chemické analýzy omezit tvrzení na klasifikaci výbojového režimu, nikoli na přesnou koncentraci produktů.
+### Working title
 
-## O2 Průraz a obnova izolační pevnosti v bezfluorových médiích
+**Laser-Assisted Breakdown and Dielectric Recovery in Fluorine-Free Gas Mixtures for High-Voltage Switching**
 
-### Pracovní název
+### Research question
 
-**Laserem asistovaná charakterizace průrazu a dielektrické obnovy bezfluorových izolačních médií pro vysokonapěťová zařízení**
+How do gas composition, density, laser-created channel state, and deposited discharge energy determine breakdown probability, delay, and post-discharge dielectric recovery in clean air, CO2, N2/O2, or another justified fluorine-free medium?
 
-### Výzkumná otázka
+### Contribution and scope control
 
-Jak se v suchém vzduchu a vybraných směsích CO2/N2/O2 mění statistika průrazu, časování a obnovená izolační pevnost po výboji a může laserový kanál sloužit jako přesně lokalizovaná zkušební excitace?
+This is the strongest direct extension of the present spark-gap work. The dissertation should compare a small number of deliberately selected media rather than screen many mixtures. Its original contribution should be a reduced, validated relationship linking channel diagnostics, breakdown dynamics, and recovery. It must avoid implying direct replacement of an industrial circuit breaker unless current interruption and recovery under representative transient voltage are actually tested.
 
-### Přínos a potřebné omezení
+### Equipment and demonstrator
 
-Nejsilnější přínos by nebyl nový plyn, ale metoda oddělující iniciační podmínky, elektrické namáhání a obnovu. Začít čistým vzduchem a jednou další bezfluorovou směsí. Fluoronitril může být průmyslový komparátor pouze v laboratoři s odpovídajícím schválením, manipulací a analýzou produktů. Rozsah plného vypínání zkratového proudu do disertace neslibovat bez syntetické zkušebny.
+The setup needs a sealed pressure-capable chamber, certified gas handling and leak testing, interchangeable electrodes, high-voltage and fast timing diagnostics, optical channel measurements, and a two-pulse or controlled recovery test. The demonstrator could provide a comparative qualification protocol or a trigger/recovery map for a selected fluorine-free medium.
 
-### Technika a demonstrátor
+### Commercial route
 
-Tlaková cela, vakuování a přesné mísení plynu, bezpečnostní a odsávací postup, řízený impulzní zdroj, VN a proudová diagnostika, fotodioda, optické zobrazení kanálu a dvouimpulzní zkouška obnovy. Komerčním demonstrátorem je kvalifikační metoda nebo parametrizovaný model pro návrh izolační vzdálenosti a doby obnovy.
+Potential users include switchgear developers, high-voltage test houses, gas-mixture suppliers, and pulsed-power laboratories. The near-term deliverable is measurement methodology and design data; a production switching device would require substantial additional qualification.
 
-### Komerční cesta
+### Decision gate
 
-Regulace vytváří přímou potřebu ověřovat nové konstrukce. Potenciální výstupy jsou zkušební služba, návrhový software a databáze dielektrických parametrů s nejistotami. Partnerství s výrobcem je důležitější než široká mřížka plynů bez cílového zařízení.
+By the end of the pilot, the chamber must be leak-tight and safe, gas composition and density traceable, and at least one non-air medium must show a measurable and repeatable difference in breakdown or recovery. Otherwise retain air as the defensible baseline.
 
-### Rozhodovací brána
+## O3 — Probabilistic digital twin for eco-efficient switchgear
 
-Do šesti měsíců musí být k dispozici schválená cela a reprodukovatelná reference. Pokud není možné měřit obnovu, zúžit téma na diagnostiku O1 nebo na statistiku průrazu v jedné směsi.
+### Working title
 
-## O3 Digitální dvojče a prediktivní údržba ekologického rozváděče
+**A Physics-Informed Probabilistic Digital Twin for Breakdown Risk and Maintenance of SF6-Free Switchgear**
 
-### Pracovní název
+### Research question
 
-**Pravděpodobnostní digitální dvojče izolačního a spínacího stavu bez-SF6 rozváděče**
+Can a reduced physics model updated by sparse optical and electrical measurements predict insulation margin, failure probability, or maintenance need better than fixed thresholds?
 
-### Výzkumná otázka
+### Doctoral contribution
 
-Lze spojit fyzikálně odůvodněný model s provozními signály tak, aby předpovídal změnu izolační rezervy, potřebu údržby nebo riziko neúspěšné operace lépe než pevné servisní intervaly?
+The contribution would integrate a reduced breakdown/recovery model, uncertainty propagation, sensor evidence, and held-out validation. The term “digital twin” should be used only if the model is updated with observations from a physical asset or representative test object. A static COMSOL model alone is not a digital twin.
 
-### Doktorský přínos
+### Equipment and commercial route
 
-Model musí poskytovat kalibrovanou nejistotu a být ověřen na datech, která nebyla použita k učení. Nestačí dashboard ani neuronová síť nad syntetickými daty. Silná varianta propojí laboratorně vyvolané vady O1 s anonymizovanými provozními daty partnera.
+The topic uses the O1/O2 test platform plus repeatable metadata and model infrastructure. It is attractive as a software and diagnostics layer that can be licensed or integrated into asset-management systems. It also allows progress when access to a large industrial prototype is intermittent, provided the experimental evidence remains sufficient.
 
-### Technika a komerční cesta
+### Decision gate
 
-Datová platforma, spolehlivá synchronizace signálů, environmentální a provozní senzory, fyzikální model pole a stárnutí a hlavně smluvně dostupná data o událostech a údržbě. Výstupem může být modul pro správu aktiv, rizikově orientovaný servis nebo nástroj pro přejímací zkoušky. Bez průmyslového datového partnera je komerční příběh silný, ale vědecká validace slabá.
+Continue only if the model improves calibrated probability or decision performance on held-out data and its uncertainty changes rationally with new evidence. If not, report a reduced engineering model without the digital-twin label.
 
-### Rozhodovací brána
+## O4 — Optically isolated hybrid crowbar
 
-Ještě před volbou tématu získat datový slovník, rozsah historických dat a souhlas s publikovatelnou validační studií. Pokud jsou dostupná jen laboratorní data, formulovat výsledek jako digitální model zkušební cely, ne celého rozváděče.
+### Working title
 
-## O4 Opticky izolovaný hybridní crowbar
+**An Optically Triggered Hybrid Crowbar for Fast Protection of High-Voltage Pulsed Systems**
 
-### Pracovní název
+### Research question
 
-**Laserem spouštěný hybridní ochranný spínač pro rychlé odvedení impulzní energie**
+Can a laser-triggered gap provide galvanic isolation and robust fast activation while a complementary solid-state or passive branch limits energy, recovery stress, and component wear?
 
-### Výzkumná otázka
+### Contribution, equipment, and demonstrator
 
-Může opticky spouštěné jiskřiště doplnit polovodičový prvek jako levný a elektromagneticky oddělený crowbar při poruše pulzního zdroje nebo výkonového měniče?
+The thesis would co-design the plasma switch and external circuit, measure delay/jitter and transferred energy, and compare the hybrid system with a purely electrical trigger for the same protection function. Required additions are a representative protected load, calibrated current/voltage measurements, energy-limiting components, and a safe fault-injection protocol. This is the fastest route to a visible functional demonstrator because it uses the spark gap as one component of a bounded protection problem.
 
-### Přínos, technika a demonstrátor
+### Commercial route and gate
 
-Navrhnout omezený obvod, ve kterém polovodič detekuje či zahájí ochranu a jiskřiště převezme impulzní energii. Měřit celkovou dobu ochranné reakce, energii přenesenou chráněným prvkem, falešná sepnutí, opakovatelnost a obnovu. Je potřebný řízený energetický zásobník, bezpečná zátěž, rychlá optická a elektrická diagnostika a jednoznačný referenční polovodičový nebo elektricky spouštěný crowbar.
+Applications include capacitor-bank protection, pulsed lasers, accelerators, and specialised power supplies. Continue after the first year only if the hybrid system demonstrates a quantified advantage in isolation, timing, fault energy, or survivability. A visually successful discharge is insufficient.
 
-Komerční cíle jsou ochrana drahých pulzních zdrojů, modulátorů, zkušebních zařízení a některých DC meziobvodů. Výsledek není síťový vypínač: crowbar energii odvede, ale sám nemusí přerušit trvalý poruchový proud.
+## O5 — Photonic synchronisation of multiple spark gaps
 
-### Rozhodovací brána
+### Working title
 
-Předem vybrat jeden chráněný obvod a hodnotu, kterou zákazník získá. Pokud optický systém nezlepší izolaci, dobu reakce nebo odolnost proti rušení proti jednodušší referenci, ukončit aplikační větev.
+**Photonic Distribution and Relative-Jitter Control in Multi-Gap Pulsed-Power Switching**
 
-## O5 Fotonická synchronizace více jiskřišť
+### Research question
 
-### Pracovní název
+Can one optical source distribute a common trigger to several gaps with lower relative jitter and electromagnetic susceptibility than electrical triggering?
 
-**Společné optické spouštění distribuovaných jiskřišť s predikcí relativního jitteru**
+The contribution would separate optical-distribution imbalance, common-mode laser variation, and gap-specific stochastic delay. The demonstrator could operate two or more coordinated discharge channels or stages of a compact pulse generator. Required equipment includes optical splitting and energy monitoring, independently instrumented gaps, multi-channel acquisition, and a circuit in which synchronisation has a measurable functional consequence.
 
-### Výzkumná otázka
+The commercial market is specialised but credible: pulsed-power systems, accelerators, intense radiation sources, and electromagnetic compatibility test equipment. Scalability beyond two gaps must be analysed rather than assumed.
 
-Které zdroje zpoždění jsou společné a které nezávislé a jak rozdělení laserové energie ovlivní pravděpodobnost současného sepnutí dvou či více mezer?
+## O6 — Laser control of lightning attachment
 
-Minimální demonstrátor tvoří dvě energeticky omezené větve se samostatnými optickými značkami a měřením časů sepnutí. Komerční využití je úzké, ale konkrétní: pulzní zdroje, kompaktní rentgenové systémy, zkoušení výkonových součástek a vědecké modulátory. Rozšíření na Marxův generátor je vhodné teprve po statisticky uzavřeném výsledku dvojice.
+### Working title
 
-Téma velmi dobře navazuje na dosavadní aparaturu, ale je blízké variantě E z hlavního přehledu. „Outside the box“ se stává až volbou konkrétního komerčního demonstrátoru a společného optického distribučního systému.
+**Laser-Induced Control of Leader Inception and Attachment to Protected Infrastructure**
 
-## O6 Laserové řízení připojení blesku
+### Current question
 
-### Pracovní název
+The 2023 Säntis experiment demonstrated that a high-repetition-rate laser filament could guide a lightning leader over approximately 50 m. The unresolved engineering questions concern repeatability, weather envelope, energy and alignment cost, attachment-point control, and integration with conventional protection. [O5]
 
-**Opticky řízená preferenční dráha atmosférického výboje pro ochranu vysokých a pohyblivých konstrukcí**
+### Realistic doctoral scope
 
-### Aktuální otázka
+A local thesis should not promise a full outdoor lightning-control system without an established collaboration and facility. A defensible contribution could investigate scaled leader inception, channel persistence, optical diagnostics, or attachment to a representative electrode geometry. Outdoor validation should be a partner-dependent extension.
 
-Terénní experiment publikovaný v roce 2023 ukázal vedení vzestupného záporného leaderu laserovým filamentem přibližně na 50 m. Otevírá to dlouhodobou možnost doplnit klasický jímač u letišť, kosmodromů, větrných elektráren nebo rozsáhlé infrastruktury. [Houard a kol., Laser-guided lightning](https://www.nature.com/articles/s41566-022-01139-z)
+### Commercial route and risk
 
-### Realistický doktorský rozsah
+Possible users include operators of launch sites, airports, wind farms, high structures, and sensitive industrial infrastructure. The capital and regulatory barriers are extreme, and conventional lightning rods are inexpensive. Commercial value therefore depends on a clearly defined case in which controlled attachment provides a benefit unavailable from passive protection.
 
-V podmínkách současné práce neplánovat vlastní venkovní ochranu před bleskem. Zvládnutelným příspěvkem může být laboratorní model připojení leaderu k definované elektrodě, diagnostika polarity a kanálu nebo model energetické a geometrické škálovatelnosti. Terénní validace vyžaduje mezinárodní konsorcium, terawattový laser, meteorologii a povolovací režim.
+## O7 — Long-lived luminous structures inspired by ball lightning
 
-### Komerční cesta a riziko
+### Working title
 
-Hodnota případné technologie je vysoká, ale čas k produktu dlouhý a provozní náklady laseru zásadní. Téma je vhodné pouze s již existujícím konsorciem a přiděleným dílčím úkolem. Jinak by disertace nesla nepřiměřené riziko závislé na počasí a infrastruktuře.
+**Reproducible Long-Lived Luminous Plasma–Aerosol Structures after Pulsed Electrical Discharge**
 
-## O7 Dlouhožijící svítivé struktury inspirované kulovým bleskem
+### Scientific formulation
 
-### Pracovní název
+The thesis should not be framed as “creating ball lightning”. Natural ball lightning lacks a settled mechanism, and laboratory reports often involve hot particles, combustion, surface ablation, or short-lived plasma chemistry rather than a unique phenomenon. A scientific topic should instead define measurable lifetime, spectrum, energy balance, motion, composition, and reproducibility.
 
-**Vznik a energetická bilance dlouhožijících svítivých struktur po laserem iniciovaném výboji v reaktivním aerosolu**
+Natural-event spectroscopy reported emission associated with soil elements, while a laboratory study produced luminous ball-like objects through discharges into silicon. These observations motivate hypotheses involving aerosol oxidation and stored chemical energy, but they do not establish a universal model of ball lightning. [O6, O7]
 
-### Jak téma formulovat vědecky
+### Equipment and evidence
 
-Přírodní kulový blesk je vzácný a jeho mechanismus není uzavřen. Spektrální pozorování přírodního jevu po úderu blesku zjistilo po celou dobu záření prvky půdy. Laboratorní práce zároveň vytvořila sekundy trvající svítivé koule elektrickým výbojem do křemíku, což podporuje model hoření nanočástic, ale nedokazuje jednotné vysvětlení všech hlášení kulového blesku. [Cen, Yuan a Xue 2014](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.035001) • [Paiva a kol. 2007](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.048501)
+The pilot would require a shielded discharge chamber, fast and time-integrated spectroscopy, high-speed imaging, thermal diagnostics, aerosol/particle collection, mass or surface analysis, and a rigorous energy balance. Controls must distinguish afterglow, burning electrode material, camera saturation, and reflections.
 
-Disertační téma proto nemá znít „výroba kulového blesku“. Testovatelná otázka je, zda řízený elektrický a laserový impulz vytvoří oddělenou svítivou strukturu s reprodukovatelnou dobou života a uzavřenou bilancí energie a hmoty a zda její životnost určuje oxidace aerosolových částic, proudění nebo pokračující elektrické napájení.
+### Commercial potential
 
-### Technika a důkaz
+Direct commercial demand for ball lightning is weak. Useful spillovers could include plasma ignition, nanoparticle synthesis, reactive-aerosol chemistry, decontamination, combustion diagnostics, or persistent optical markers. These applications should be treated as hypotheses until a controllable structure and transferable mechanism exist.
 
-Uzavřená komora, řízený aerosol s velikostní charakterizací, vysokorychlostní a spektrální kamera, kalorimetrická nebo radiometrická bilance, elektrická diagnostika, měření produktů a odsávání. Vyžadují se nehořlavé hranice experimentu a posouzení nanočástic. Kritickým kontrolním experimentem je stejné elektrické buzení bez laseru a stejné laserové buzení bez materiálového terče.
+### Decision gate
 
-### Komerční potenciál
+Limit the initial study to three months. Continue only if the phenomenon is reproducible, lives substantially longer than the excitation pulse, has a measured spectrum and energy source, and can be controlled through at least one independent parameter. Otherwise archive it as a documented negative pilot without affecting the dissertation core.
 
-Přímý produkt „kulový blesk“ nemá věrohodný trh. Přenositelné výsledky mohou mít hodnotu pro plazmové zapalování, tvorbu částic, dekontaminaci plynu, optické zdroje nebo studium prachových výbuchů. Komerční potenciál je proto vedlejší a objeví se jen při získání řízeného procesu. Toto je vysoce rizikový průzkumný balíček, ne doporučené základní zadání.
+## O8 — Laser-plasma ignition of hydrogen and ammonia
 
-### Rozhodovací brána
+### Working title
 
-Omezit pilot na nejvýše tři měsíce. Pokračovat pouze při reprodukovatelné životnosti výrazně přesahující elektrický impulz, uzavřené energetické bilanci a identifikovaném mechanismu, který lze cíleně měnit.
+**Laser-Plasma Ignition and Stability Control of Hydrogen–Ammonia Energy Mixtures**
 
-## O8 Laserově-plazmové zapalování vodíku a amoniaku
+### Current question and continuity
 
-### Pracovní název
+Hydrogen and ammonia can support low-carbon energy systems but present ignition, flame-speed, emissions, and safety challenges. Recent engine studies continue to examine how hydrogen enrichment improves ammonia combustion. The present expertise in laser-created channels, timing, breakdown probability, and optical diagnostics could transfer to non-contact ignition and ignition-stability measurements. [O8]
 
-**Prostorově řízené laserově-plazmové zapalování směsí vodíku a amoniaku při zvýšeném tlaku**
+### Contribution and equipment
 
-### Aktuální otázka a návaznost
+The thesis would quantify ignition probability, delay, energy threshold, kernel development, and operating stability for a tightly selected mixture range. It would require a certified combustion vessel, gas handling and detection, pressure measurement, optical access, high-speed imaging, emissions analysis, and a separate safety programme. This is a substantial infrastructure change from the current spark-gap apparatus.
 
-Amoniak je nosič vodíku a bezuhlíkové palivo, ale má pomalé hoření a vysoké požadavky na zapálení; příměs vodíku a strategie zapalování jsou aktivní výzkumnou oblastí. Současné experimenty ukazují praktický význam zapalování a stabilizace směsí NH3/H2. [Příklad studie motoru NH3/H2 z roku 2024](https://doi.org/10.1016/j.ijhydene.2024.03.035)
+### Commercial route and gate
 
-Dosavadní zkušenost s přesně umístěným plazmovým kanálem lze převést na tvorbu a časový vývoj zárodečného plamene. Nové téma by však patřilo do spalování, nikoli primárně do vysokonapěťové techniky. Potřebuje partnera s tlakovou spalovací komorou, měřením emisí a bezpečností pro vodík a toxický amoniak.
+Potential applications include engines, turbines, industrial burners, and research combustors. Continue only with a combustion partner, approved facility, and a demonstrated laser-ignition effect that is not reproduced by a simpler electrical igniter at equivalent function and cost.
 
-### Komerční cesta
+## Recommended order for supervisor discussion
 
-Průmyslové hořáky, lodní motory, plynové turbíny a výzkumné spalovací systémy potřebují spolehlivé zapálení s omezením NOx, N2O a nespáleného amoniaku. Výstupem může být optická zapalovací hlavice nebo mapa zapalitelnosti. Bez partnera a cílového zařízení je tento směr příliš vzdálený od současné infrastruktury.
+### 1. Best new commercial branch: O1
 
-### Rozhodovací brána
+Optical condition diagnostics for SF6-free switchgear addresses an immediate regulatory and industrial transition. It preserves the project’s strengths in optical diagnostics and stochastic breakdown while producing a component or method that an industrial partner can evaluate.
 
-Před změnou tématu musí existovat schválená komora, bezpečnostní odpovědnost, partner pro chemickou kinetiku a konkrétní srovnávací zapalovací systém. Jinak ponechat směr jako budoucí spolupráci.
+### 2. Best physics and engineering branch: O2
 
-## Doporučené pořadí pro jednání se školitelem
+Breakdown and recovery in fluorine-free media offers the strongest continuity with the present apparatus and can generate fundamental as well as application-oriented results. Its feasibility depends mainly on a suitable sealed chamber and gas-handling capability.
 
-### Nejlepší nová komerční větev
+### 3. Fastest route to a demonstrator: O4
 
-**O1 optická diagnostika stavu bez-SF6 rozváděčů** nabízí nejlepší poměr aktuálnosti, proveditelnosti a obchodní cesty. Lze ji rozdělit na laboratorní metodu, knihovnu signatur a validační demonstrátor. K zachování silné vazby na vlastní výsledky má využít laserem iniciovaný kanál jako reprodukovatelnou excitaci, ale její hodnota nesmí záviset pouze na laseru.
+The hybrid crowbar turns the current spark gap into a bounded system function and allows fair before/after metrics. It is a strong choice if a visible demonstrator and power-engineering narrative are priorities.
 
-### Nejlepší fyzikálně-technická větev
+### 4. Moonshot: O7
 
-**O2 průraz a dielektrická obnova bezfluorových médií** nejlépe spojuje dosavadní vysokonapěťový experiment s naléhavou změnou odvětví. Je vhodná, pokud lze do šesti měsíců zajistit tlakovou celu a průmyslového partnera. Praktické zadání by mělo zůstat u kvalifikace izolace a obnovy, nikoli slibovat plnohodnotný nový vypínač.
+The ball-lightning-inspired topic is scientifically intriguing but commercially weak and highly uncertain. It should remain a short gated pilot or a side collaboration, not the default dissertation core.
 
-### Nejlepší cesta k rychlému demonstrátoru
+## Recommended combined topic
 
-**O4 hybridní crowbar** nejrychleji vede k zařízení, na kterém lze měřit hodnotu pro uživatele. Má menší regulatorní tah než náhrada SF6, ale největší přímou návaznost na laserem spouštěné jiskřiště.
+**Laser-Assisted Diagnostics of Breakdown and Dielectric Recovery in Fluorine-Free Insulating Media for High-Voltage Equipment**
 
-### Moonshot
+The combined topic would aim to deliver five contributions:
 
-**O7 téma inspirované kulovým bleskem** má vysoký popularizační a vědecký půvab, ale slabší přímý trh a velké riziko nejednoznačného výsledku. Doporučuji ho pouze jako ohraničený pilot vedle hlavního tématu. **O6 laserové řízení blesku** má skutečný dlouhodobý komerční cíl, avšak jen v konsorciu s terénní infrastrukturou.
+1. a traceable protocol for breakdown probability, delay, jitter, and recovery in selected fluorine-free media;
+2. optical descriptors of the channel and pre-breakdown state;
+3. a reduced probabilistic model validated on held-out conditions;
+4. a diagnostic or qualification demonstrator relevant to SF6-free equipment;
+5. design and monitoring rules with explicit pressure, geometry, voltage, and uncertainty limits.
 
-## Kombinované zadání doporučené k dalšímu rozpracování
+The core should compare air with one industrially justified medium or mixture. If a pressure-rated chamber or industrial partner is unavailable by the first major gate, the fallback is the air-based channel-state topic in [[Variant Dissertation Topics 2026]], preserving the metrology and modelling work.
 
-**Laserem asistovaná diagnostika průrazu a dielektrické obnovy bezfluorových izolačních médií pro vysokonapěťová zařízení**
+## Sources and assessment boundaries
 
-Tato formulace spojuje O1 a O2, ale musí být zúžena na jednu referenční bezfluorovou směs a jeden měřitelný typ degradace. Minimální přínosy:
+**[O1] European Union.** [Regulation (EU) 2024/573 on fluorinated greenhouse gases](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02024R0573-20240220), particularly Article 13 and Annex IV.
 
-1. metrologicky ověřená optická a elektrická signatura průrazu;
-2. model pravděpodobnosti a doby obnovy s nejistotou;
-3. rozlišení alespoň dvou známých stavů nebo vad;
-4. nezávislá validace na jiné sérii či geometrii;
-5. návrh diagnostického nebo kvalifikačního demonstrátoru s vyčíslenou hodnotou pro partnera.
+**[O2] Siemens Energy.** [Blue high-voltage products](https://www.siemens-energy.com/global/en/home/products-services/product-offerings/blue-high-voltage-products.html): vacuum interruption and clean-air insulation product information.
 
-Pokud nebude tlaková cela nebo průmyslový partner potvrzen do března 2027, je bezpečnější zachovat [[LTSG Core Research Package 2026-2028|současné jádro]] a O1 realizovat jako omezené rozšíření v čistém vzduchu.
+**[O3] Hitachi Energy.** [EconiQ GIS ELK-3, 420 kV](https://www.hitachienergy.com/us/en/products-and-solutions/high-voltage-switchgear-and-breakers/gas-insulated-switchgear/gis-for-72-5-1200-kv/econiq-gis-elk-3-420-kv): fluoronitrile/CO2/O2 product information.
 
-## Zdroje a hranice posouzení
+**[O4] IEEE Xplore.** [2026 study of arc-decomposition characteristics of C4F7N/CO2 in a 12 kV ring-main unit](https://ieeexplore.ieee.org/abstract/document/11510496).
 
-- [Nařízení Evropského parlamentu a Rady EU 2024/573](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02024R0573-20240220)
-- [Siemens Energy Blue SF6-free switchgear](https://www.siemens-energy.com/global/en/home/products-services/product-offerings/blue-high-voltage-products.html)
-- [Hitachi Energy EconiQ 420 kV GIS](https://www.hitachienergy.com/us/en/products-and-solutions/high-voltage-switchgear-and-breakers/gas-insulated-switchgear/gis-for-72-5-1200-kv/econiq-gis-elk-3-420-kv)
-- [Houard a kol. Laser-guided lightning, Nature Photonics 2023](https://www.nature.com/articles/s41566-022-01139-z)
-- [Cen, Yuan a Xue. Observation of Ball Lightning, Physical Review Letters 2014](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.035001)
-- [Paiva a kol. Ball-Lightning-Like Luminous Balls, Physical Review Letters 2007](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.048501)
+**[O5] Houard et al.** [Laser-guided lightning](https://www.nature.com/articles/s41566-022-01139-z). Nature Photonics 17, 231–235 (2023).
 
-Veřejné zdroje byly ověřeny 9. září 2026. Posouzení není úplnou systematickou rešerší, bezpečnostním návrhem, analýzou svobody k využití ani obchodním plánem. Před změnou formálního tématu je nutná rešerše přesné hypotézy, inventura techniky, partner se smluveným přístupem k datům nebo zařízení a kontrola studijních podmínek.
+**[O6] Cen, Yuan, and Xue.** [Observation of the optical and spectral characteristics of ball lightning](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.035001). Physical Review Letters 112, 035001 (2014).
+
+**[O7] Paiva et al.** [Production of ball-lightning-like luminous balls by electrical discharges in silicon](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.048501). Physical Review Letters 98, 048501 (2007).
+
+**[O8] Recent hydrogen–ammonia engine study.** [International Journal of Hydrogen Energy (2024)](https://doi.org/10.1016/j.ijhydene.2024.03.035).
+
+Regulatory dates and commercial product claims were checked on 9 September 2026. Final topic selection still requires a systematic literature review, patent search, equipment inventory, safety assessment, and confirmation of industrial access.
