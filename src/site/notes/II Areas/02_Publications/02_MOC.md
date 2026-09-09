@@ -19,7 +19,12 @@ This map coordinates the doctoral publication pipeline, from early research conc
 
 ## Manuscript pipeline
 
-<div class="block-language-dataview"><table><thead><tr><th>Manuscript</th><th>Target venue</th><th>Status</th><th>Submission deadline</th></tr></thead><tbody><tr><td><a class="internal-link" href="/i-projects/01-manuscripts/paper-ieee-transactions-2026/">Paper 1 - Channel-State-Dependent Laser Triggering</a></td><td>Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal.</td><td>active</td><td>2027-11-30</td></tr></tbody></table></div>
+| Manuscript                                                                                      | Target venue                                                                                                                                             | Status | Submission deadline |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------- |
+| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]] | Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal. | active | November 30, 2027   |
+
+{ .block-language-dataview}
+
 ---
 
 ## Published and active outputs

@@ -5,4 +5,7 @@
 
 # Calibrations Index
 
-<div class="block-language-dataview"><table><thead><tr><th>File</th><th>calibration_id</th><th>instrument_id</th><th>valid_from</th><th>valid_until</th><th>status</th><th>claims</th></tr></thead><tbody><tr><td colspan="7">No matching published records.</td></tr></tbody></table></div>
+| File | calibration_id | instrument_id | valid_from | valid_until | status | claims |
+| ---- | -------------- | ------------- | ---------- | ----------- | ------ | ------ |
+
+{ .block-language-dataview}

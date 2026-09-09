@@ -139,7 +139,19 @@ Use the narrowest useful topical tag. Do not create synonyms such as both `theme
 
 Active evidence for CL-03:
 
-<div class="block-language-dataview"><table><thead><tr><th>File</th><th>type</th><th>evidence_state</th><th>dataset_id</th><th>last_updated</th></tr></thead><tbody><tr><td colspan="5">No matching published records.</td></tr></tbody></table></div>
+| File | type | evidence_state | dataset_id | last_updated |
+| ---- | ---- | -------------- | ---------- | ------------ |
+
+{ .block-language-dataview}
 Upcoming projects:
 
-<div class="block-language-dataview"><table><thead><tr><th>File</th><th>priority</th><th>due</th><th>status</th></tr></thead><tbody><tr><td><a class="internal-link" href="/i-projects/01-manuscripts/dissertation-manuscript/">Dissertation Manuscript</a></td><td>high</td><td>2028-08-31</td><td>active</td></tr><tr><td><a class="internal-link" href="/i-projects/01-manuscripts/paper-ieee-transactions-2026/">Paper 1 - Channel-State-Dependent Laser Triggering</a></td><td>high</td><td>2027-11-30</td><td>active</td></tr></tbody></table></div>
+| File                                                                                                                                         | priority | due                | status   |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | -------- |
+| [[I Projects/03_Milestones/Dissertation Topic Options 2026\|Dissertation Topic Options 2026]]                                             | \-       | \-                 | proposal |
+| [[I Projects/03_Milestones/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]                           | \-       | \-                 | proposal |
+| [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] | critical | September 24, 2026 | active   |
+| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                                              | high     | November 30, 2027  | active   |
+| [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]                                    | critical | April 30, 2028     | active   |
+| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]                                                            | high     | August 31, 2028    | active   |
+
+{ .block-language-dataview}

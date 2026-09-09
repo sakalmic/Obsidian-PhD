@@ -1,30 +1,12 @@
 ---
-title: "Outside-the-Box Dissertation Topics 2026"
-aliases:
-  - Emerging Dissertation Topics
-  - Commercial Dissertation Opportunities
-type: decision-support
-status: proposal
-context: thesis
-topics:
-  - topic/ltsg/application
-  - topic/ltsg/breakdown
-  - topic/ltsg/economics
-tags:
-  - topic/ltsg/application
-  - topic/ltsg/breakdown
-  - topic/ltsg/economics
-date: 2026-09-09
-last_updated: 2026-09-09
-dg-publish: true
-dg-home-link: true
-permalink: /outside-the-box-dissertation-topics-2026/
+{"dg-publish":true,"permalink":"/i-projects/03-milestones/outside-the-box-dissertation-topics-2026/","title":"Outside-the-Box Dissertation Topics 2026","tags":["topic/ltsg/application","topic/ltsg/breakdown","topic/ltsg/economics"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-09","updated":"2026-09-09","dg-note-properties":{"title":"Outside-the-Box Dissertation Topics 2026","aliases":["Emerging Dissertation Topics","Commercial Dissertation Opportunities"],"type":"decision-support","status":"proposal","context":"thesis","topics":["topic/ltsg/application","topic/ltsg/breakdown","topic/ltsg/economics"],"tags":["topic/ltsg/application","topic/ltsg/breakdown","topic/ltsg/economics"],"date":"2026-09-09","last_updated":"2026-09-09","permalink":"/outside-the-box-dissertation-topics-2026/"}}
 ---
+
 
 # Outside-the-Box Dissertation Topics 2026
 
 > [!info] Document status
-> This is a public opportunity scan for supervisor discussion. It does not constitute an approved dissertation assignment, a laboratory reservation, a commercial forecast, or a patent-freedom opinion. The lower-risk continuation options are assessed in [[Variant Dissertation Topics 2026]].
+> This is a public opportunity scan for supervisor discussion. It does not constitute an approved dissertation assignment, a laboratory reservation, a commercial forecast, or a patent-freedom opinion. The lower-risk continuation options are assessed in [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]].
 
 ## Why look beyond the original assignment
 
@@ -247,7 +229,7 @@ The combined topic would aim to deliver five contributions:
 4. a diagnostic or qualification demonstrator relevant to SF6-free equipment;
 5. design and monitoring rules with explicit pressure, geometry, voltage, and uncertainty limits.
 
-The core should compare air with one industrially justified medium or mixture. If a pressure-rated chamber or industrial partner is unavailable by the first major gate, the fallback is the air-based channel-state topic in [[Variant Dissertation Topics 2026]], preserving the metrology and modelling work.
+The core should compare air with one industrially justified medium or mixture. If a pressure-rated chamber or industrial partner is unavailable by the first major gate, the fallback is the air-based channel-state topic in [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]], preserving the metrology and modelling work.
 
 ## Sources and assessment boundaries
 

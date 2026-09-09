@@ -5,4 +5,7 @@
 
 # Analysis Records Index
 
-<div class="block-language-dataview"><table><thead><tr><th>File</th><th>analysis_id</th><th>dataset_id</th><th>analysis_role</th><th>code_commit</th><th>status</th><th>claims</th></tr></thead><tbody><tr><td colspan="7">No matching published records.</td></tr></tbody></table></div>
+| File | analysis_id | dataset_id | analysis_role | code_commit | status | claims |
+| ---- | ----------- | ---------- | ------------- | ----------- | ------ | ------ |
+
+{ .block-language-dataview}

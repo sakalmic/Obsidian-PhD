@@ -24,10 +24,22 @@ The minimum defensible dissertation requires C-A, C-B and C-C to be tested, not 
 
 ## Claim dashboard
 
-<div class="block-language-dataview"><table><thead><tr><th>Claim</th><th>Contribution</th><th>Role</th><th>State</th><th>WP</th><th>Datasets</th><th>Output</th></tr></thead><tbody><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-01-laser-assisted-breakdown-probability/">CL-01 - Laser-assisted breakdown probability</a></td><td>C-A</td><td>primary</td><td>hypothesis</td><td>WP1<br>WP3<br>WP4</td><td>—</td><td>Paper-1</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-02-delay-and-jitter-response/">CL-02 - Delay and jitter response</a></td><td>C-A</td><td>primary</td><td>hypothesis</td><td>WP0<br>WP3<br>WP4</td><td>—</td><td>Paper-1</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-03-channel-state-versus-pulse-energy/">CL-03 - Channel state versus pulse energy</a></td><td>C-B</td><td>primary</td><td>hypothesis</td><td>WP2<br>WP3<br>WP4</td><td>—</td><td>Paper-1</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-04-polarity-and-field-geometry/">CL-04 - Polarity and field geometry</a></td><td>Supporting robustness</td><td>supporting</td><td>hypothesis</td><td>WP1<br>WP4</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-05-reduced-predictive-model/">CL-05 - Reduced predictive model</a></td><td>C-C</td><td>primary</td><td>hypothesis</td><td>WP2<br>WP5</td><td>—</td><td>Paper-2</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-06-reproducible-optical-and-electrical-stages/">CL-06 - Reproducible optical and electrical stages</a></td><td>C-B</td><td>primary</td><td>hypothesis</td><td>WP0<br>WP2<br>WP4</td><td>—</td><td>Paper-2</td></tr></tbody></table></div>
+| Claim                                                                                                                                   | Contribution          | Role       | State      | WP                                            | Datasets  | Output                    |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------- | ---------- | --------------------------------------------- | --------- | ------------------------- |
+| [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]]             | C-A                   | primary    | hypothesis | <ul><li>WP1</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
+| [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]                                   | C-A                   | primary    | hypothesis | <ul><li>WP0</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
+| [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]                   | C-B                   | primary    | hypothesis | <ul><li>WP2</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
+| [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]]                               | Supporting robustness | supporting | hypothesis | <ul><li>WP1</li><li>WP4</li></ul>             | <ul></ul> | <ul></ul>                 |
+| [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]                                     | C-C                   | primary    | hypothesis | <ul><li>WP2</li><li>WP5</li></ul>             | <ul></ul> | <ul><li>Paper-2</li></ul> |
+| [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] | C-B                   | primary    | hypothesis | <ul><li>WP0</li><li>WP2</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-2</li></ul> |
+
+{ .block-language-dataview}
 ## Evidence linked to claims
 
-<div class="block-language-dataview"><table><thead><tr><th>Evidence</th><th>Type</th><th>Evidence state</th><th>Claims</th><th>Dataset</th><th>Updated</th></tr></thead><tbody><tr><td colspan="6">No matching published records.</td></tr></tbody></table></div>
+| Evidence | Type | Evidence state | Claims | Dataset | Updated |
+| -------- | ---- | -------------- | ------ | ------- | ------- |
+
+{ .block-language-dataview}
 ## Evidence-state vocabulary
 
 | State | Meaning |

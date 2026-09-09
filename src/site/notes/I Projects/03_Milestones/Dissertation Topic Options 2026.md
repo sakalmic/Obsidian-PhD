@@ -1,30 +1,12 @@
 ---
-title: "Dissertation Topic Options 2026"
-aliases:
-  - Variant Dissertation Topics 2026
-  - Dissertation Topic Options
-type: decision-support
-status: proposal
-context: thesis
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/application
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/application
-date: 2026-09-08
-last_updated: 2026-09-09
-dg-publish: true
-dg-home-link: true
-permalink: /dissertation-topic-options-2026/
+{"dg-publish":true,"permalink":"/i-projects/03-milestones/dissertation-topic-options-2026/","title":"Dissertation Topic Options 2026","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/application"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-08","updated":"2026-09-09","dg-note-properties":{"title":"Dissertation Topic Options 2026","aliases":["Variant Dissertation Topics 2026","Dissertation Topic Options"],"type":"decision-support","status":"proposal","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/application"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/application"],"date":"2026-09-08","last_updated":"2026-09-09","permalink":"/dissertation-topic-options-2026/"}}
 ---
+
 
 # Dissertation Topic Options 2026
 
 > [!info] Document status
-> This is a public decision-support proposal for discussion. None of the options constitutes an approved dissertation assignment. Emerging directions responding to current technological and commercial questions are assessed in [[Outside-the-Box Dissertation Topics 2026]].
+> This is a public decision-support proposal for discussion. None of the options constitutes an approved dissertation assignment. Emerging directions responding to current technological and commercial questions are assessed in [[I Projects/03_Milestones/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]].
 
 ## Continuity with laser-triggered high-voltage spark-gap research
 
@@ -313,9 +295,9 @@ A meaningful economic metric is cost per valid laboratory pulse at equal amplitu
 
 **[S2] Master’s thesis reviews.** Reviews by Eva Müllerová and Jan Mikeš, 2024, particularly the questions concerning the number of trials, applications, and gap-length extensions.
 
-**[S3] [[LTSG Core Research Package 2026-2028]].** Current internal core-research proposal, including contributions C-A to C-C, metrology, validation, and scope boundaries.
+**[S3] [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]].** Current internal core-research proposal, including contributions C-A to C-C, metrology, validation, and scope boundaries.
 
-**[S4] [[Doctoral Scope & Decision Register]].** Register used to distinguish proposals from confirmed assignments, equipment access, and study requirements.
+**[S4] [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].** Register used to distinguish proposals from confirmed assignments, equipment access, and study requirements.
 
 **[S5] Sakala et al.** *The Dynamics of Laser-Driven Ionisation in High-Voltage Circuit Switching.* Local APL 2025 conference manuscript; method and Tables II–III were reviewed.
 
@@ -336,7 +318,5 @@ A meaningful economic metric is cost per valid laboratory pulse at equal amplitu
 **[S12] Savage and Stoltzfus.** *High reliability low jitter 80 kV pulse generator.* Physical Review ST Accel. Beams 12, 080401 (2009), DOI 10.1103/PhysRevSTAB.12.080401.
 
 Public sources were checked on 8 September 2026. This was a targeted decision review, not a systematic literature or patent search. The originality of the final assignment must be checked against the precisely selected hypothesis and operating regime.
-
-
 
 

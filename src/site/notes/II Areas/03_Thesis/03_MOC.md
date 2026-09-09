@@ -41,18 +41,36 @@ The documents above are public proposals for comparison. They do not represent a
 
 ## Atomic claims
 
-<div class="block-language-dataview"><table><thead><tr><th>Claim</th><th>Contribution</th><th>Role</th><th>State</th></tr></thead><tbody><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-01-laser-assisted-breakdown-probability/">CL-01 - Laser-assisted breakdown probability</a></td><td>C-A</td><td>primary</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-02-delay-and-jitter-response/">CL-02 - Delay and jitter response</a></td><td>C-A</td><td>primary</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-03-channel-state-versus-pulse-energy/">CL-03 - Channel state versus pulse energy</a></td><td>C-B</td><td>primary</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-04-polarity-and-field-geometry/">CL-04 - Polarity and field geometry</a></td><td>Supporting robustness</td><td>supporting</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-05-reduced-predictive-model/">CL-05 - Reduced predictive model</a></td><td>C-C</td><td>primary</td><td>hypothesis</td></tr><tr><td><a class="internal-link" href="/ii-areas/03-thesis/claims/cl-06-reproducible-optical-and-electrical-stages/">CL-06 - Reproducible optical and electrical stages</a></td><td>C-B</td><td>primary</td><td>hypothesis</td></tr></tbody></table></div>
+| Claim                                                                                                                                   | Contribution          | Role       | State      |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------- | ---------- |
+| [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]]             | C-A                   | primary    | hypothesis |
+| [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]                                   | C-A                   | primary    | hypothesis |
+| [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]                   | C-B                   | primary    | hypothesis |
+| [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]]                               | Supporting robustness | supporting | hypothesis |
+| [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]                                     | C-C                   | primary    | hypothesis |
+| [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] | C-B                   | primary    | hypothesis |
+
+{ .block-language-dataview}
 ---
 
 ## Evidence status
 
-<div class="block-language-dataview"><table><thead><tr><th>Evidence</th><th>Type</th><th>State</th><th>Claims</th></tr></thead><tbody><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/experimental-measurements-archive/">Experimental Measurements Archive</a></td><td>—</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/analysis-records/analysis-records-index/">Analysis Records Index</a></td><td>moc</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/calibrations/calibrations-index/">Calibrations Index</a></td><td>moc</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/dataset-manifests/dataset-manifests-index/">Dataset Manifests Index</a></td><td>moc</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/evidence-index/">Evidence Index</a></td><td>moc</td><td>—</td><td>—</td></tr><tr><td><a class="internal-link" href="/ii-areas/01-research/experiments/experiments-index/">Experiments Index</a></td><td>moc</td><td>—</td><td>—</td></tr></tbody></table></div>
+| Evidence                                                                                                     | Type | State | Claims |
+| ------------------------------------------------------------------------------------------------------------ | ---- | ----- | ------ |
+| [[II Areas/01_Research/Experiments/Analysis Records/Analysis Records Index\|Analysis Records Index]]      | moc  | \-    | \-     |
+| [[II Areas/01_Research/Experiments/Calibrations/Calibrations Index\|Calibrations Index]]                  | moc  | \-    | \-     |
+| [[II Areas/01_Research/Experiments/Dataset Manifests/Dataset Manifests Index\|Dataset Manifests Index]]   | moc  | \-    | \-     |
+| [[II Areas/01_Research/Experiments/Evidence Index\|Evidence Index]]                                       | moc  | \-    | \-     |
+| [[II Areas/01_Research/Experiments/Experiments Index\|Experiments Index]]                                 | moc  | \-    | \-     |
+| [[II Areas/01_Research/Experiments/Experimental Measurements Archive\|Experimental Measurements Archive]] | \-   | \-    | \-     |
+
+{ .block-language-dataview}
 ---
 
 ## Administration
 
-- [[State Doctoral Exam & Minimum Thesis|State Doctoral Examination and minimum planning]]
-- [[I Projects/03_Milestones/ISP & Milestone Tracking|ISP, SDZ, publication and internationalisation critical path]]
+- [[II Areas/03_Thesis/State_Exam_Minimum/State Doctoral Exam & Minimum Thesis\|State Doctoral Examination and minimum planning]]
+- [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP, SDZ, publication and internationalisation critical path]]
 
 ---
 

@@ -21,7 +21,10 @@ This area covers the formal study requirements and doctoral administration at th
 
 ## Recent supervisor meetings
 
-<div class="block-language-dataview"><table><thead><tr><th>File</th><th>Meeting date</th><th>Attendees</th></tr></thead><tbody><tr><td colspan="3">No matching published records.</td></tr></tbody></table></div>
+| File | Meeting date | Attendees |
+| ---- | ------------ | --------- |
+
+{ .block-language-dataview}
 ---
 
 ## Upcoming administrative deadlines

@@ -5,4 +5,7 @@
 
 # Dataset Manifests Index
 
-<div class="block-language-dataview"><table><thead><tr><th>File</th><th>dataset_id</th><th>data_freeze</th><th>qc_state</th><th>storage_location</th><th>protocol_version</th><th>claims</th></tr></thead><tbody><tr><td colspan="7">No matching published records.</td></tr></tbody></table></div>
+| File | dataset_id | data_freeze | qc_state | storage_location | protocol_version | claims |
+| ---- | ---------- | ----------- | -------- | ---------------- | ---------------- | ------ |
+
+{ .block-language-dataview}
