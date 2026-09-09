@@ -23,7 +23,7 @@ The historical filename is retained for links. Do not assume the older credit sy
 | Required professional courses | Verify |  | Export/check KOS |
 | English examination/certificate | Verify |  | Record accepted evidence |
 | Required principal-author publication for study block | Verify |  | Confirm whether APL 2025 satisfies it |
-| Scientific study/minimum | In progress |  | [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] |
+| Scientific study/minimum | In progress |  | [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] |
 | Professional discussion | Date unconfirmed |  | Confirm exact date and formal status |
 | SDZ application eligibility | Not verified |  | Ask OVV after study-block audit |
 | Approved SDZ topics | Planned |  | Select with supervisor and programme board |
@@ -41,6 +41,6 @@ The historical filename is retained for links. Do not assume the older credit sy
 
 ## Related notes
 
-- [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
+- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
 - [[II Areas/03_Thesis/State_Exam_Minimum/State Doctoral Exam & Minimum Thesis\|State Doctoral Exam & Minimum Thesis]]
 - [[II Areas/06_Administration/ISP_and_Evaluations/Individual Study Plan (ISP)\|Individual Study Plan (ISP)]]

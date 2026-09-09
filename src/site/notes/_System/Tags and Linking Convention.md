@@ -145,17 +145,17 @@ Active evidence for CL-03:
 { .block-language-dataview}
 Upcoming projects:
 
-| File                                                                                                                                                                 | priority | due                | status   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | -------- |
-| [[I Projects/03_Milestones/Dissertation Topic Options 2026\|Dissertation Topic Options 2026]]                                                                     | \-       | \-                 | proposal |
-| [[I Projects/03_Milestones/Outside-the-Box Dissertation Topics 2026 (Czech source)\|Outside-the-Box Dissertation Topics 2026 (Czech source)]]                     | \-       | \-                 | proposal |
-| [[I Projects/03_Milestones/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]                                                   | \-       | \-                 | proposal |
-| [[I Projects/03_Milestones/Variantní zadání disertační práce 2026 (Czech source)\|Variantní zadání disertační práce 2026 (Czech source)]]                         | \-       | \-                 | proposal |
-| [[I Projects/03_Milestones/GEM - Dissertation Topic Recommendation & Research Synthesis 2026\|GEM - Dissertation Topic Recommendation & Research Synthesis 2026]] | \-       | \-                 | proposal |
-| [[I Projects/03_Milestones/GEM-detailed-doctoral-research-plan-and-reviewer-dossier\|GEM-detailed-doctoral-research-plan-and-reviewer-dossier]]                   | \-       | \-                 | proposal |
-| [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]                         | critical | September 24, 2026 | active   |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                                                                      | high     | November 30, 2027  | active   |
-| [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]                                                            | critical | April 30, 2028     | active   |
-| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]                                                                                    | high     | August 31, 2028    | active   |
+| File                                                                                                                                                                                  | priority | due                | status   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | -------- |
+| [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026\|Dissertation Topic Options 2026]]                                                                     | \-       | \-                 | proposal |
+| [[I Projects/03_Milestones/20260925 Minimum/GEM-detailed-doctoral-research-plan-and-reviewer-dossier\|GEM-detailed-doctoral-research-plan-and-reviewer-dossier]]                   | \-       | \-                 | proposal |
+| [[I Projects/03_Milestones/20260925 Minimum/GEM - Dissertation Topic Recommendation & Research Synthesis 2026\|GEM - Dissertation Topic Recommendation & Research Synthesis 2026]] | \-       | \-                 | proposal |
+| [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026 (Czech source)\|Outside-the-Box Dissertation Topics 2026 (Czech source)]]                     | \-       | \-                 | proposal |
+| [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]                                                   | \-       | \-                 | proposal |
+| [[I Projects/03_Milestones/20260925 Minimum/Variantní zadání disertační práce 2026 (Czech source)\|Variantní zadání disertační práce 2026 (Czech source)]]                         | \-       | \-                 | proposal |
+| [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]                         | critical | September 24, 2026 | active   |
+| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                                                                                       | high     | November 30, 2027  | active   |
+| [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]                                                                             | critical | April 30, 2028     | active   |
+| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]                                                                                                     | high     | August 31, 2028    | active   |
 
 { .block-language-dataview}

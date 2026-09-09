@@ -6,7 +6,7 @@
 # LTSG Core Research Package 2026-2028
 
 > [!info] Public working baseline
-> This package defines the minimum defensible experimental core. It remains a proposal until the dissertation scope is formally agreed. Alternative scopes are compared in [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]] and [[I Projects/03_Milestones/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]].
+> This package defines the minimum defensible experimental core. It remains a proposal until the dissertation scope is formally agreed. Alternative scopes are compared in [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]].
 
 ## Decision statement
 
@@ -15,7 +15,7 @@ The minimum defensible dissertation package is a reproducible, time-resolved and
 > [!abstract] Core dissertation question
 > How does the measured time-dependent state of a laser-induced channel, rather than nominal pulse energy alone, determine breakdown probability, delay and jitter in an atmospheric-pressure high-voltage gap at a controlled working coefficient, and can a reduced model predict these outcomes under held-out conditions?
 
-The immediate scope-freeze project is [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]. The canonical claim structure is [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]].
+The immediate scope-freeze project is [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]. The canonical claim structure is [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]].
 
 ## Scope boundaries
 
@@ -199,7 +199,7 @@ Detailed rationale and equations: [[II Areas/01_Research/Concepts/Statistics - B
 
 | Period | Main work | Gate / output |
 | --- | --- | --- |
-| Sep 2026 | [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]; freeze topic, question, contribution structure and scope. | G-1: topic fixed by the discussion. |
+| Sep 2026 | [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]; freeze topic, question, contribution structure and scope. | G-1: topic fixed by the discussion. |
 | Oct-Dec 2026 | WP0; standards, safety, metrology, protocol, data schema and pilot baseline. | G0: approved protocol and reproducible dry run. |
 | Jan-Feb 2027 | WP1 self-breakdown on at least three sessions; minimum/SDZ preparation. | D1-D2 and stable definition of $k$. |
 | Mar-Apr 2027 | WP2 laser/channel calibration and pilot laser-to-HV delay scan; submit SDZ application when eligible. | D3 and measurable channel descriptors. |
@@ -225,7 +225,7 @@ If not, narrow the thesis to breakdown-voltage probability and channel physics, 
 
 ## Immediate next actions (next three weeks)
 
-- [ ] Complete [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]].
+- [ ] Complete [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]].
 - [ ] Obtain a supervisor decision on the Czech/English title, central question and C-A to C-C.
 - [ ] Confirm in writing the SDZ deadline, publication conditions and internationalisation requirement applicable to the 2024 cohort.
 - [ ] Confirm the active generator, maximum safe voltage/current, waveform and repetition limit with the laboratory owner.
@@ -246,7 +246,7 @@ If not, narrow the thesis to breakdown-voltage probability and channel physics, 
 - [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
 - [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
 - [[I Projects/02_Campaigns/Experimental Diagnostics Campaign\|Experimental Diagnostics Campaign]]
-- [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
+- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
 
 ## Standards and anchor sources

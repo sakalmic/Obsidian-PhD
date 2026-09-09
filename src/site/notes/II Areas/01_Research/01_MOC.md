@@ -86,7 +86,7 @@ Experimental rig configuration, optical beamline specifications, and high-voltag
 
 ## Executable Research Plan & Outputs
 
-- [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Immediate three-week topic-freeze and minimum project]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Immediate three-week topic-freeze and minimum project]]
 - [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core research package and 2026-2028 schedule]]
 - [[I Projects/02_Campaigns/Experimental Diagnostics Campaign\|Experimental campaign task board]]
 - [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Staged extensions and activation gates]]

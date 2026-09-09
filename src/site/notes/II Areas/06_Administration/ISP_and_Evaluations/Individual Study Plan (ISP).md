@@ -25,7 +25,7 @@ Working historical record, to be checked against KOS:
 
 ## Year 3 — 2026/2027 — current critical year
 
-- [ ] Complete [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] and fix the topic in September 2026.
+- [ ] Complete [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] and fix the topic in September 2026.
 - [ ] Freeze metrology, protocol, data schema and claim structure by December 2026.
 - [ ] Establish the reproducible $U_{50}$ baseline by February 2027.
 - [ ] Complete laser/channel calibration by April 2027.
@@ -47,6 +47,6 @@ Working historical record, to be checked against KOS:
 ## Canonical plans
 
 - Scientific programme: [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- Immediate minimum sprint: [[I Projects/03_Milestones/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- Administrative critical path: [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
+- Immediate minimum sprint: [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- Administrative critical path: [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
 - Evidence status: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]

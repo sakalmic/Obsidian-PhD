@@ -146,7 +146,7 @@ The core package is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-20
 ## Related notes
 
 - [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]]
-- [[I Projects/03_Milestones/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]
 - [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
 - [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]

@@ -14,7 +14,7 @@ The working proposal is laser-controlled atmospheric-pressure breakdown, measure
 | Question | Authoritative working document | Role |
 | --- | --- | --- |
 | Which dissertation variants have been compared? | [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]] | Six executable variants with equipment and schedule estimates |
-| Which emerging commercial directions are worth testing? | [[I Projects/03_Milestones/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]] | Opportunity scan with gates, risks and market routes |
+| Which emerging commercial directions are worth testing? | [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]] | Opportunity scan with gates, risks and market routes |
 | What is the dissertation about? | [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]] | Working title, promise and writing status |
 | How is the argument organised? | [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] | Chapter architecture |
 | What must be tested? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]] and atomic CL notes | Claims and evidence rules |

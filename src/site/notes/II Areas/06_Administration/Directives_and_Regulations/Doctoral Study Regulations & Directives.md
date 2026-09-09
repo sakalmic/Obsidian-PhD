@@ -42,5 +42,5 @@ This note is a verification register, not an independent legal interpretation. A
 
 ## Operating rule
 
-Do not copy numerical requirements into several notes. Store the verified answer here and link to it from [[I Projects/03_Milestones/ISP & Milestone Tracking\|ISP & Milestone Tracking]], [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker\|Credits & Exam Tracker]] and [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy & Targets]].
+Do not copy numerical requirements into several notes. Store the verified answer here and link to it from [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]], [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker\|Credits & Exam Tracker]] and [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy & Targets]].
 
