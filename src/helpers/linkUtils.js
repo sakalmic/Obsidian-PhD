@@ -251,6 +251,22 @@ async function computeGraph(data) {
     const content = templateContent?.content || "";
     noteContents.push(content);
 
+    const isHome =
+      Boolean(v.data["dg-home"]) ||
+      Boolean(v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
+      fpath === "Home" ||
+      v.url === "/" ||
+      v.url === "/home/";
+
+    const isHidden =
+      Boolean(v.data.hide) ||
+      Boolean(v.data.hideInGraph) ||
+      isHome ||
+      fpath.startsWith("_System") ||
+      fpath.startsWith("TEMPLATES") ||
+      fpath.startsWith("_Daily") ||
+      fpath.startsWith("_Inbox");
+
     nodes[v.url] = {
       id: idx,
       title: v.data.title || v.fileSlug,
@@ -258,22 +274,16 @@ async function computeGraph(data) {
       path: fpath,
       tags: Array.isArray(v.data.tags) ? v.data.tags : (v.data.tags ? [v.data.tags] : []),
       group,
-      home:
-        v.data["dg-home"] ||
-        (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
-        false,
-      outBound: extractLinks(content, fpath),
+      home: isHome,
+      outBound: isHome ? [] : extractLinks(content, fpath),
       neighbors: new Set(),
       backLinks: new Set(),
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
-      hide: v.data.hide || v.data.hideInGraph || false,
-      private: v.data.hide || false,
+      hide: isHidden,
+      private: Boolean(v.data.hide) || false,
     };
     stemURLs[fpath] = v.url;
-    if (
-      v.data["dg-home"] ||
-      (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
-    ) {
+    if (isHome) {
       homeAlias = v.url;
     }
   }
@@ -288,7 +298,7 @@ async function computeGraph(data) {
     node.outBound = Array.from(outBound);
     node.outBound.forEach((link) => {
       let n = nodes[link];
-      if (n) {
+      if (n && !n.hide && !node.hide) {
         n.neighbors.add(node.url);
         n.backLinks.add(node.url);
         node.neighbors.add(n.url);
