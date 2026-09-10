@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/","title":"Dissertation Direction Portfolio and Winning Variant W 2026-2029","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Dissertation Direction Portfolio and Winning Variant W 2026-2029","aliases":["Dissertation Portfolio A-F O1-O8 and W","Winning Dissertation Variant W"],"type":"decision-support","status":"proposal","context":"thesis","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/"}}
+{"dg-publish":true,"permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/","title":"Dissertation Direction Portfolio and Winning Variant W 2026-2029","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Dissertation Direction Portfolio and Winning Variant W 2026-2029","aliases":["Dissertation Portfolio A-F O1-O8 and W","Winning Dissertation Variant W"],"type":"decision-support","status":"proposal","context":"thesis","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/"},"dg-permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/"}
 ---
 
 

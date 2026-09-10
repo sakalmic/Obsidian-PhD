@@ -1,394 +1,496 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/minimum-dissertation-study-and-research-discussion-2026/","title":"Minimum Dissertation Study & Research Discussion 2026","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-10","dg-note-properties":{"title":"Minimum Dissertation Study & Research Discussion 2026","aliases":["Dissertation Minimum 2026","Professional Discussion 2026","Rozprava k minimu 2026"],"project_id":"MIN-2026","type":"project","status":"active","context":"thesis","priority":"critical","due":"2026-09-24","due_note":"Working date three weeks from 2026-09-03; replace with the confirmed discussion date.","definition_of_done":"Approved fixed dissertation topic, reviewed minimum-study document, final presentation, defensible claims and recorded committee feedback.","parent_project":"PhD-Dissertation","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-10","permalink":"/minimum-dissertation-study-2026/"}}
+title: "Minimum Dissertation Study & Research Discussion 2026"
+aliases:
+  - Dissertation Minimum 2026
+  - Professional Discussion 2026
+  - Direction W Minimum Study
+project_id: MIN-2026
+type: project
+status: active
+context: thesis
+priority: critical
+selected_direction: W
+due: 2026-09-24
+due_note: "Working date; replace with the confirmed discussion date."
+definition_of_done: "Direction W reviewed, minimum-study document accepted, presentation delivered, scope gates recorded, and committee feedback assigned."
+parent_project: PhD-Dissertation
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/timing
+  - topic/ltsg/model
+  - topic/sf6-free/co2
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/timing
+  - topic/ltsg/model
+  - topic/sf6-free/co2
+created: 2026-09-03
+last_updated: 2026-09-10
+dg-publish: true
+dg-home-link: true
+permalink: /minimum-dissertation-study-2026/
+dg-permalink: /minimum-dissertation-study-2026/
 ---
-
 
 # Minimum Dissertation Study & Research Discussion 2026
 
 > [!info] Public planning status
-> This is a working scope proposal for discussion. It does not record approval by the supervisor, committee or KOS. See [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026\|the comparison of six executable variants]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|the technology-opportunity scan]].
+> This is a proposal for the professional discussion. It does not record approval by the supervisor, committee or KOS. The selected planning direction is **W**, described in the [complete direction portfolio](/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/) and the [doctoral progress review](/doctoral-progress-review-and-research-plan-2026/).
 
-> [!tip] Executable direction tickets
-> The detailed schedules and gates are maintained in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026#Individual direction tickets\|core direction tickets A–F]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026#Individual direction tickets\|commercial and high-risk direction tickets O1–O8]].
+> [!tip] Published decision trail
+> The complete [Direction W portfolio](/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/) preserves and compares alternatives A–F and O1–O8. The published source directions integrated into W are [B — Channel State and Prediction](/direction-b-channel-state-and-prediction-of-switching/), [O1 — SF₆-Free Diagnostics](/direction-o1-sf6-free-diagnostics/) and a bounded part of [O2 — Fluorine-Free Media](/direction-o2-fluorine-free-media/).
 
 ## Planning status
 
-The `due` date is provisional. No completed discussion or approved title is asserted. Record confirmation in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]]. The document hierarchy is [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]].
+The discussion date in the frontmatter is provisional. The title, CO₂ collaboration, apparatus access and scope remain proposed until confirmed by the competent persons. Decisions should be entered in the [Doctoral Scope & Decision Register](/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/). The hard planning boundary is dissertation completion no later than December 2029.
 
 ## Mission
 
-During the next three weeks, prepare and defend a **fixed, scientifically coherent and executable dissertation topic**. The discussion must demonstrate that the proposed work:
+Prepare and defend a minimum-study argument showing that Direction W is scientifically original, technically testable and resilient to external dependencies. The discussion must establish:
 
-1. addresses a specific gap beyond the 2025 APL conference paper;
-2. can be completed with available equipment and time;
-3. has explicit research questions, hypotheses and falsification rules;
-4. produces original contributions supported by traceable evidence;
-5. fits the doctoral programme and leads to timely publications and the State Doctoral Examination.
-
-> [!danger] Immediate priority
-> Until the discussion is completed, this project takes priority over optional EMP, radiation, techno-economic and broad COMSOL extensions.
+1. why stochastic laser-assisted breakdown is a doctoral-level problem;
+2. why measured channel state may be more informative than nominal laser energy alone;
+3. how a predictor will be validated on untouched data;
+4. why transfer from air to CO₂ is scientifically coherent and relevant to SF₆-free insulation;
+5. what evidence is mandatory, conditional or explicitly excluded;
+6. how the work can finish by 2029 even if the CO₂ extension is delayed.
 
 ## Decision requested from the discussion
 
-The committee and supervisor should be asked to confirm or refine:
+The opponent and committee are asked to advise on and, where competent, approve:
 
-- the final English dissertation title and any formally required Czech translation;
-- the central research question;
-- the three intended scientific contributions C-A to C-C;
-- the boundary between the core thesis and optional extensions;
-- the adequacy of the experimental and statistical plan;
-- the fit with the Economics of Energy and Electrical Engineering programme;
-- the publication route and timetable to the State Doctoral Examination.
-
-Record every required change in the discussion minutes. Do not silently reinterpret the outcome later.
+- the recommended W title and central question;
+- Tier 1 as the protected dissertation core;
+- the originality and sufficiency of contributions C-W1 to C-W5;
+- the criteria for activating the CO₂ branch at Gate G4;
+- the minimum standard for timing uncertainty, held-out prediction and independent repetition;
+- the proposed collaboration boundary with Iva Burýšková;
+- the publication and dissertation schedule through December 2029;
+- the conditions under which Tier 3 must be cancelled.
 
 ## Proposed fixed topic
 
-### Working title
+### Recommended title
 
-**Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling**
+**Channel-State-Informed Prediction and Diagnostics of Laser-Assisted Breakdown in Air and Fluorine-Free CO₂ Insulation Systems**
+
+### Shorter alternative
+
+**Predictive Diagnostics of Laser-Assisted Breakdown in Air and CO₂ for SF₆-Free High-Voltage Insulation**
 
 ### Short spoken formulation
 
-The dissertation will determine how the **measured state and position of a laser-induced channel**, rather than nominal laser energy alone, control the probability, delay and jitter of high-voltage breakdown, and whether a reduced physical model can predict these outcomes under conditions not used for calibration.
+The dissertation will test whether a measured laser-created plasma-channel state predicts high-voltage breakdown probability and timing better than voltage and pulse energy alone, and whether the validated method transfers from air to a controlled CO₂ insulation environment.
 
-## Why the topic is meaningful
+## Motivation
 
-The 2025 APL work established the author's research context in laser-driven high-voltage switching and investigated laser wavelength, pulse energy, irradiance, breakdown voltage and discharge delay. A dissertation must go beyond repeating that parameter scan.
+### From parameter effects to predictive physics
 
-The proposed novelty is the causal and predictive chain:
+The prior work demonstrates that laser irradiation can alter breakdown voltage and measured delay in an atmospheric-air spark gap. This is necessary evidence of feasibility, but a parameter effect alone does not define a doctoral contribution. Nominal wavelength, pulse energy or applied voltage does not uniquely determine the state of the ionized channel. Alignment, focus, pulse fluctuations, gas density, attachment, recombination, hydrodynamic evolution, electrode conditioning and environmental drift can change the outcome between shots.
 
-$$
-\text{measured laser input}
-\rightarrow
-\text{time-dependent channel state}
-\rightarrow
-\text{breakdown probability and delay distribution}
-\rightarrow
-\text{electrical waveform}
-\rightarrow
-\text{validated reduced model}.
-$$
+Breakdown must therefore be treated as a stochastic process. At a fixed setting, a shot may break down early, late or not at all within the observation window. The physically meaningful outputs are a probability distribution, a delay distribution with censored observations, and a timing-variability estimate corrected or bounded for the measurement chain.
 
-Current literature indicates that short-lived charged species and longer-lived hydrodynamic density depletion can both influence discharge initiation. The experiment is therefore organised around a laser-to-HV timing scan and measured channel descriptors rather than energy alone.
+Direction W makes the decisive step from description to prediction. It asks whether a calibrated channel descriptor adds information beyond normalized voltage and nominal laser variables, and requires scoring on sessions or operating points excluded from fitting. This makes failure informative: if channel measurements do not add practical predictive value, the study will quantify the upper bound and identify when a simpler operating-window model is sufficient.
+
+### Why the SF₆ transition matters
+
+SF₆ has exceptional insulating and interruption properties but a severe climate impact. Regulation (EU) 2024/573 introduces staged restrictions on electrical switchgear using fluorinated greenhouse gases. The schedule includes defined restrictions from 2026, 2028, 2030 and 2032 depending on voltage and short-circuit-current class, with conditions and derogations stated in Article 13. Maintenance use of SF₆ is also restricted from 2035 principally to reclaimed or recycled gas, subject to exceptions. [Regulation (EU) 2024/573](https://eur-lex.europa.eu/eli/reg/2024/573/2024-02-20/eng/)
+
+The application need is not limited to discovering a substitute gas. New insulation systems require methods for measuring discharge inception, comparing operating domains, detecting degradation, understanding repetition history and validating models. A laboratory dissertation can make a useful contribution to these methods without claiming qualification of a complete switchgear product.
+
+### Why CO₂ is the selected transfer medium
+
+CO₂ provides a fluorine-free reference, differs physically from atmospheric air, and has a direct local experimental connection. Iva Burýšková's 2026 Master's thesis, *Investigating CO₂ Streamer Inception in Repetitive Pulsed Discharges*, reports sphere–sphere tests with 1.5, 3 and 3.75 mm gaps and pressures of 0.10–0.35 MPa. The work establishes a relevant reference for CO₂ streamer inception, pressure-cell practice and repeated pulses. [CTU repository record](https://dspace.cvut.cz/entities/publication/32c12fec-82b5-479e-9941-7a889816237c)
+
+W does not repeat that thesis. It adds laser-assisted channel formation, synchronized channel observables, shot-level probability and delay, held-out prediction, and an explicit air-to-CO₂ transfer test. Collaboration is conditional and must preserve separate intellectual ownership, data responsibility and authorship.
 
 ## Scientific gap
 
-The minimum should demonstrate that prior work leaves at least four connected gaps:
+The existing evidence does not yet establish:
 
-1. nominal pulse energy is often used as a proxy for the physical channel, although focus, continuity and deposited energy can vary;
-2. successful shots are often emphasised while failed or delayed shots are incompletely represented;
-3. source jitter, diagnostic uncertainty and discharge stochasticity are not always separated;
-4. models are frequently fitted retrospectively without a held-out predictive test.
+- an uncertainty-qualified operating window using normalized voltage;
+- a calibrated optical arrival reference in the gap;
+- separation of physical delay from sensors, cables, acquisition and algorithms;
+- a high-statistics distribution of breakdown, misfires and censored delay;
+- a measured channel descriptor that predicts response beyond pulse energy;
+- independent reproduction across sessions or electrode blocks;
+- transfer of the predictor from air to CO₂;
+- a validated diagnostic feature relevant to an SF₆-free medium.
 
-The thesis addresses these gaps on one controlled atmospheric-pressure apparatus. It does not claim to solve lightning control or grid fault-current interruption.
+The gap is therefore a combined **metrology, stochastic inference, predictive validation and cross-medium transfer problem**.
 
 ## Central research question
 
-How does the measured time-dependent state of a laser-induced channel, rather than nominal pulse energy alone, determine breakdown probability, delay and jitter in an atmospheric-pressure high-voltage gap at a controlled working coefficient, and can a reduced model predict these outcomes under held-out conditions?
+Can measured time-dependent properties of a laser-created plasma channel predict breakdown probability, delay and jitter more accurately than normalized voltage and laser energy alone, and which parts of that predictive relationship remain valid when transferred from atmospheric air to controlled pressurized CO₂?
 
-## Subquestions
+## Research questions
 
-### RQ1 — Reproducible operating window
+### RQ1 — Traceable timing and operating domain
 
-At fixed $k=U_{app}/U_{50}$, how much does laser excitation change breakdown probability and the full delay distribution after accounting for environment, day and electrode history?
+What are the air-gap breakdown probability, delay, jitter and misfire distributions after optical time zero, normalized voltage, environment and electrode history are measured or bounded?
 
-### RQ2 — Channel state and mechanism
+### RQ2 — Channel-state information
 
-Do measured focus position, channel continuity and laser-to-HV delay explain trigger success and electrical evolution better than pulse energy alone? Can the experiment distinguish a prompt charge-dominated regime from a later density-channel regime?
+Which calibrated descriptors of channel formation, continuity, geometry or temporal evolution are repeatable and add information beyond pulse energy and voltage?
 
-### RQ3 — Prediction
+### RQ3 — Predictive validation
 
-Can a reduced model based on local $E/N$, electron balance and a measured or parameterised density channel predict probability or median delay under a session, geometry or operating condition not used for calibration?
+Does a channel-informed model outperform a predeclared baseline on sessions or operating conditions excluded from calibration?
 
-### RQ4 — Supporting robustness question
+### RQ4 — Transfer to CO₂
 
-How strongly do polarity and field geometry modify the identified relationships? This is supporting scope and may be bounded rather than exhaustively mapped.
+Which channel–response relationships, predictor parameters and failure regions transfer from air to a bounded CO₂ configuration family?
+
+### RQ5 — Diagnostic relevance
+
+Can one optical feature classify or bound a controlled CO₂ discharge or insulation state with declared uncertainty and validity limits?
+
+### RQ6 — Optional engineering decision
+
+After the core is secure, can one recovery, adaptive-control, diagnostic-demonstrator or compact digital-twin result improve a named engineering decision?
+
+## Hypotheses and falsification
+
+| ID | Hypothesis | Required test | Failure-safe result |
+| --- | --- | --- | --- |
+| H1 | A calibrated channel descriptor adds out-of-sample predictive information in air. | Baseline M0 versus channel model M1 on untouched data | Upper bound showing that channel diagnostics add no practical gain |
+| H2 | Channel state explains a reproducible part of breakdown delay after timing uncertainty is bounded. | Hierarchical delay/survival model and independent repeat | Effect is smaller than measurement or session variability |
+| H3 | A medium-aware model identifies transferable and CO₂-specific relationships. | Air-trained, recalibrated and pooled models scored on held-out states | Quantified transfer failure and medium-specific validity map |
+| H4 | One optical feature distinguishes controlled CO₂ states. | Blinded or held-out diagnostic assessment | Detection limit or non-separable state classes |
+| H5, optional | One Tier-3 method improves a named decision. | Reference-versus-extension comparison | Extension omitted without weakening Tier 1 or Tier 2 |
 
 ## Intended original contributions
 
-| Contribution | Claims | Minimum successful output |
+| Contribution | Meaning | Minimum acceptance evidence |
 | --- | --- | --- |
-| **C-A — Reproducible operating window** | [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]], [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] | Normalised probability and delay model with uncertainty and independent repeat |
-| **C-B — Channel-state mechanism** | [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]], [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] | Held-out comparison showing what channel measurements add beyond nominal energy |
-| **C-C — Predictive reduced model** | [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] | Prediction of at least one untouched outcome with declared tolerance |
-| Supporting robustness | [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]] | Interaction estimate or defensible quantitative bound |
+| C-W1 | Traceable stochastic operating domain in air | QC-passed probability/delay/jitter map and independent repeat |
+| C-W2 | Channel-informed predictive model | M1 versus M0 on untouched sessions or operating points |
+| C-W3 | Air-to-CO₂ transfer result | Locked cross-medium dataset and predeclared transfer comparison |
+| C-W4 | Bounded SF₆-transition diagnostic contribution | Calibrated feature or protocol tied to controlled CO₂ states |
+| C-W5 | Reproducible evidence package | Versioned data, calibration, code, exclusions, failure regions and claim links |
 
-Negative or bounded results remain valid if the protocol, metrology and statistical power are defensible.
+Tier 1 must deliver C-W1, C-W2 and C-W5. Tier 2 adds C-W3 and C-W4. A null result can satisfy a contribution when the method has adequate sensitivity and reports a defensible bound.
 
-## Core scope
+The existing claim notes remain supporting records:
 
-### Included
+- [CL-01 — Laser-assisted breakdown probability](/ii-areas/03-thesis/claims/cl-01-laser-assisted-breakdown-probability/)
+- [CL-02 — Delay and jitter response](/ii-areas/03-thesis/claims/cl-02-delay-and-jitter-response/)
+- [CL-03 — Channel state versus pulse energy](/ii-areas/03-thesis/claims/cl-03-channel-state-versus-pulse-energy/)
+- [CL-04 — Polarity and field geometry](/ii-areas/03-thesis/claims/cl-04-polarity-and-field-geometry/)
+- [CL-05 — Reduced predictive model](/ii-areas/03-thesis/claims/cl-05-reduced-predictive-model/)
+- [CL-06 — Reproducible optical and electrical stages](/ii-areas/03-thesis/claims/cl-06-reproducible-optical-and-electrical-stages/)
 
-- atmospheric air with measured pressure, temperature and humidity;
-- one reference geometry and one polarity until repeatability is established;
-- measured laser energy, pulse duration/profile, focus position and channel continuity;
-- self-breakdown baseline and normalisation by $U_{50}$;
-- synchronized voltage, current, laser marker and optical-emission measurement;
-- probability, censored delay and jitter analysis;
-- a compact reduced model with calibration/validation separation;
-- one independent repeat across day or electrode-service boundary.
+## Tiered scope
 
-### Conditional
+### Tier 1 — mandatory base
 
-- second polarity or geometry;
-- detailed ICCD/spectroscopic mechanism study;
-- EMP pilot;
-- limited radiation survey;
-- electrode erosion or repetition-rate study;
-- pulsed-power demonstrator and reliability/economic assessment.
+- atmospheric-air LTSG;
+- self-breakdown and stability reference;
+- calibrated optical time zero;
+- one repeatable channel descriptor;
+- stochastic probability and delay analysis;
+- held-out baseline-versus-channel prediction;
+- independent repeat and Paper 1.
 
-### Explicitly excluded from the minimum thesis promise
+If no descriptor passes Gate G2, Tier 1 contracts to a rigorous A-type operating-window contribution with a quantitative diagnostic limit.
 
-- deployable grid circuit breaker;
-- AC fault-current interruption without a current-zero experiment;
-- neutron-source development;
-- full 3D plasma chemistry before a reduced model is predictive;
-- deterministic payback or outage-cost claims without measured reliability and lifetime data.
+### Tier 2 — selected extension
 
-## Proposed methodology
+- approved CO₂ pressure cell and bounded configuration family;
+- collaboration charter and explicit safety responsibility;
+- CO₂ reference and laser-assisted datasets;
+- air-to-CO₂ predictor comparison;
+- one diagnostic interpretation and Paper 2.
 
-### WP0 — Metrology and frozen protocol
+Tier 2 activates only if Gate G4 is passed by March 2028. Otherwise it becomes a documented follow-on proposal.
 
-- complete equivalent circuit, grounding and signal paths;
-- safety and interlock documentation;
-- channel transfer functions and timing-offset budget;
-- operational definitions of $t_0$, success, delay, jitter and censoring;
-- machine-readable shot metadata and immutable IDs;
-- four-state noise/pickup control matrix;
-- predeclared primary outcomes and stopping rules.
+### Tier 3 — one optional extra
 
-### WP1 — Self-breakdown baseline
+Select at most one after Tier 2 closes:
 
-- determine $U_{50}$ separately for the reference configuration;
-- quantify day, environment and electrode-conditioning effects;
-- repeat over at least three sessions;
-- photograph and record electrode state.
+- recovery or memory metric;
+- offline adaptive decision rule;
+- partner-facing diagnostic demonstrator;
+- compact uncertainty-aware digital twin.
 
-### WP2 — Laser/channel characterisation
+Tier 3 is cancelled automatically when Paper 1, D2 or a thesis chapter slips beyond its gate.
 
-- measure pulse energy distribution and temporal/spatial profile;
-- determine the visible-plasma threshold probabilistically;
-- map focus position, length and continuity;
-- scan laser-to-HV delay over physically motivated time ranges.
+### Explicit exclusions
 
-### WP3 — Sequential screening
+- complete switchgear certification or short-circuit interruption;
+- universal CO₂ replacement of SF₆;
+- broad gas-mixture screening;
+- uncalibrated electron-density or temperature claims;
+- full plasma chemistry without identifiable parameters and validation;
+- product lifetime, field reliability or economic savings without system evidence;
+- multi-gap, lightning, combustion or luminous-structure campaigns within the minimum promise;
+- new experiments after the 2029 scope freeze unless they close an identified thesis evidence gap.
 
-- vary only a compact set of factors: $k$, measured channel state, focus and relative delay;
-- randomise within safe blocks;
-- use pilot data to estimate information and required confirmatory sample size;
-- avoid a full combinatorial grid.
+## Required apparatus and collaboration
 
-### WP4 — Confirmatory experiment
+### Atmospheric-air platform
 
-- predeclare a small set of operating points and contrasts;
-- retain failed/censored shots;
-- acquire sufficient observations based on simulation-based power/precision analysis;
-- repeat the principal condition on another day or after electrode service;
-- compare energy-only and channel-informed models on held-out data.
+- controlled spherical or otherwise frozen electrode geometry;
+- confirmed laser configuration and beam delivery;
+- pulse-energy and beam-profile measurements;
+- calibrated voltage/current acquisition;
+- optical arrival marker near the gap;
+- gated imaging, fast emission, schlieren/interferometric proxy or another justified channel diagnostic;
+- environmental and electrode-history logging.
 
-### WP5 — Reduced model and validation
+### CO₂ platform
 
-- begin with 0D/1D electron and gas-density timescales;
-- couple to local $E/N$ and a defensible inception criterion;
-- calibrate only on declared conditions;
-- evaluate probability or median delay on untouched data;
-- report prediction intervals and regions where the model fails.
+- pressure-rated optically accessible cell;
+- approved CO₂ supply, purging, leak response and ventilation;
+- pressure and temperature measurement;
+- characterized electrodes and gas preparation history;
+- synchronized laser, voltage, current, optical time-zero and channel channels;
+- reference self-breakdown and repeated-pulse protocol.
+
+### Collaboration boundary
+
+Michal Sakala owns the W question, laser-channel metrology, stochastic analysis, predictive validation and dissertation synthesis. Potential Burýšková collaboration may contribute pressure-cell experience, reference geometry, CO₂ repetition protocol and interpretation of streamer regimes. Before shared acquisition, a written charter must name apparatus owners, operators, safety responsibility, data location, access, publication intent and authorship principles.
+
+## Methodology and work packages
+
+### WP0 — Governance, metrology and frozen protocol
+
+Freeze outcomes, observation window, censoring, exclusions, timing chain, apparatus identifiers, calibration, data schema and validation split.
+
+**G0:** W/Tier 1 accepted as the planning basis.
+**G1:** measurement uncertainty is adequate for H1/H2.
+
+### WP1 — Air self-breakdown and stability baseline
+
+Estimate self-breakdown distributions, quantify session/environment/electrode effects, select a compact normalized-voltage range and establish no-laser/reference controls.
+
+### WP2 — Laser and channel characterization
+
+Measure optical time zero, pulse energy, beam position and candidate channel descriptors. Quantify repeatability, dynamic range and preprocessing sensitivity.
+
+**G2:** at least one descriptor passes predeclared usefulness criteria by August 2027; otherwise fall back to the A-type core.
+
+### WP3 — Air screening
+
+Identify informative settings, estimate variance/event rates, plan sample size, and freeze the confirmatory matrix without consuming validation data.
+
+### WP4 — Confirmatory air campaign
+
+Acquire all attempted shots under blocked/randomized conditions, retain failures and censored delays, perform daily QC and repeat the principal condition independently.
+
+**D1:** locked air dataset by December 2027.
+
+### WP5 — Air model and validation
+
+Fit M0 on calibration data, add channel state in M1, score untouched data, quantify calibration and prediction error, and publish the validity/failure domain.
+
+**G3:** H1/H2 supported, rejected or bounded by June 2028.
+
+### WP6 — CO₂ activation and reference
+
+Confirm cell, collaboration, safety, geometry, pressure range, gas preparation and matched comparison variables. Establish reference breakdown and repetition history.
+
+**G4:** written activation by March 2028.
+
+### WP7 — CO₂ transfer campaign
+
+Pilot the channel measurement in CO₂, freeze the transfer test, acquire a bounded confirmatory matrix and repeat the principal result independently.
+
+**D2:** locked cross-medium dataset by December 2028.
+
+### WP8 — Medium-aware model and diagnostic result
+
+Compare direct transfer, medium-specific recalibration and a pooled hierarchical model. Evaluate one diagnostic feature on held-out states and prepare Paper 2.
+
+**G5:** Tier 2 closed by June 2029.
 
 ## Statistical plan to defend
 
-- Breakdown success is binomial and reported with interval estimates.
-- Failed shots are retained and treated as censored where appropriate.
-- Delay is analysed as a distribution, not only mean ± standard deviation.
-- Day/session and electrode state are blocking or random effects.
-- Primary comparisons and practically relevant effects are declared before WP4.
-- Predictive claims use held-out log loss/Brier score, calibration and interval coverage rather than only statistical significance.
-- Exploration and confirmation are visibly separated.
+1. Record every attempted shot and ready-state check.
+2. Define breakdown electrically before confirmatory acquisition.
+3. Treat no-breakdown shots as censored data rather than deleting them.
+4. Normalize working voltage to a contemporaneous reference with uncertainty.
+5. Randomize condition order where safe and block session, electrode and gas preparation.
+6. Use pilot estimates to determine the shot count required for declared precision.
+7. Reserve untouched sessions or operating points for the principal model comparison.
+8. Compare M0, M1 and, when activated, M2 using calibration and prediction metrics.
+9. Propagate timing, voltage, laser and channel-feature uncertainty.
+10. Repeat the principal air and CO₂ results independently.
+11. Report failure regions and sensitivity to analysis choices.
 
-## Role of the FEL theses added to the evidence base
+## Role of the supporting theses and evidence base
 
-### Cikhardt 2026
+### Sakala 2025
 
-Use as methodological support for EMP immunity, complementary sensors, bandwidth awareness, fibre isolation and cautious source attribution. Quantitative HED-plasma results are not transferred to the atmospheric LTSG.
+The APL paper establishes the existing apparatus and reports laser-associated changes in breakdown voltage and electrical delay. Its limited repetitions and electrical timing reference define the next metrology and statistical contribution. [Published literature note](/iii-resources/03-literature/ln-sakala2025-apl-lightning-protection/)
 
-### Štěpánová 2026
+### Burýšková 2026
 
-Use as support for passive radiation surveying, spatial mapping, background controls and the distinction between detector response and source mechanism. Radiation remains an extension after the core timing and electrical measurements are stable.
+The CO₂ streamer-inception thesis provides the direct complementary basis for medium selection, pressure-cell practice, geometry and repetition history. It does not establish the laser-channel predictor or the air-to-CO₂ transfer claim.
+
+### Cikhardt and Štěpánová 2026
+
+The EMP and ionising-radiation theses show that fast high-voltage experiments can generate additional phenomena and diagnostic burdens. They support safety and measurement awareness but remain outside W's mandatory contribution. Their published notes are available as [Cikhardt 2026](/iii-resources/03-literature/ln-cikhardt2026-electromagnetic-and-particle-pulses/) and [Štěpánová 2026](/iii-resources/03-literature/ln-stepanova2026-ionising-radiation-from-impulse-generators/).
 
 ## Programme fit
 
-The scientific core is high-voltage switching and plasma diagnostics. Fit with the Economics of Energy and Electrical Engineering programme should be expressed through a **bounded reliability-based feasibility assessment**, using measured distributions of success, timing, recovery, energy and lifetime.
+The written study and discussion should demonstrate:
 
-Do not promise a broad techno-economic model in the fixed title unless a named demonstrator and defensible technical inputs are available. The final economic result may be a sensitivity/break-even envelope or a clearly labelled outlook.
+- a current and critical state-of-the-art review;
+- a clear transition from prior work to a doctoral research gap;
+- original, falsifiable and measurable contributions;
+- command of discharge physics, diagnostics, uncertainty and modelling;
+- feasibility in apparatus, safety, collaboration and time;
+- a coherent route to publications, the State Doctoral Examination and dissertation submission.
+
+Formal course, publication and internationalisation requirements must be checked against the applicable CTU FEE rules and the individual study plan. Planning text is not evidence of completion.
 
 ## Structure of the minimum-study document
 
-Recommended length and local formal requirements must be confirmed. The content should follow this order:
-
-1. **Title page and formal declarations**
-2. **Abstract and keywords** in Czech and English if required
-3. **Motivation and engineering context**
-4. **Verified state of the art**
-5. **Existing author results**, especially APL 2025, with exact limitations
-6. **Scientific gap**
-7. **Central question, RQ1-RQ4 and hypotheses**
-8. **Intended original contributions C-A to C-C**
-9. **Experimental apparatus and metrology plan**
-10. **Statistical and uncertainty plan**
-11. **Reduced modelling strategy**
-12. **Feasibility, risks and fallback scope**
-13. **Publication and dissertation plan**
-14. **Schedule to August 2028**
-15. **References**, using verified primary sources
+1. **Introduction and motivation** — laser-assisted breakdown, predictive gap and SF₆ transition.
+2. **State of the art** — breakdown statistics, streamer/channel evolution, time lags, air and CO₂ insulation.
+3. **Prior work** — apparatus, APL/ICOLSE results and evidence limits.
+4. **Direction W** — question, hypotheses, contributions and tiered scope.
+5. **Experimental systems** — air LTSG, CO₂ cell, diagnostics and safety.
+6. **Methodology** — WP0–WP8, design, censoring, validation and uncertainty.
+7. **Expected results** — contribution acceptance criteria and null-result value.
+8. **Applications and boundaries** — diagnostic/qualification pathway without product overclaim.
+9. **Schedule, risks and fallbacks** — gates through December 2029.
+10. **Conclusion and requested decisions**.
 
 ## Minimum figure set
 
-- [ ] Research gap and causal chain diagram
-- [ ] Apparatus/equivalent-circuit diagram
-- [ ] Diagnostic timing chain and uncertainty budget
-- [ ] Example geometry and laser-channel descriptors
-- [ ] Experimental sequence WP0-WP5
-- [ ] Claim-to-evidence-to-publication map
-- [ ] Gantt chart with gates and fallback decisions
-- [ ] At least one verified preliminary-result figure, clearly labelled as preliminary
+1. Existing LTSG apparatus and optical/electrical timing chain.
+2. Separation of physical delay from sensor, cable, scope and algorithm contributions.
+3. Conceptual evolution of a laser-created channel and discharge stages.
+4. Example stochastic response: probability plus censored delay.
+5. M0/M1 held-out validation design.
+6. Air-to-CO₂ transfer matrix and Gate G4 boundary.
+7. Tier 1–3 dependency diagram.
+8. Schedule with G0–G5, D1/D2, papers and thesis freeze.
+
+Every figure must identify whether it is measured, reproduced from a source, schematic or proposed.
 
 ## Presentation structure for the discussion
 
-Target 15-20 minutes unless the committee specifies otherwise.
+| Slide | Content | Purpose |
+| --- | --- | --- |
+| 1 | Candidate, milestone and W title | Establish decision requested |
+| 2 | Prior outputs and apparatus | Show continuity |
+| 3 | Evidence limitations | Define the doctoral gap |
+| 4 | Scientific and SF₆-transition motivation | Establish relevance |
+| 5 | Central question and hypotheses | Make the study falsifiable |
+| 6 | Tier 1–3 scope | Demonstrate resilience |
+| 7 | Air and CO₂ apparatus | Establish feasibility and dependencies |
+| 8 | Statistical and held-out validation design | Defend inference |
+| 9 | Collaboration boundary | Avoid overlap and ownership ambiguity |
+| 10 | Contributions and null-result value | Define success |
+| 11 | Schedule and gates through 2029 | Demonstrate completion |
+| 12 | Risks, decisions and questions | Focus the discussion |
 
-1. **Problem and relevance** — 1 slide
-2. **What has already been done / APL 2025** — 1 slide
-3. **State of the art and unresolved gap** — 2 slides
-4. **Fixed topic and central question** — 1 slide
-5. **Three original contributions** — 1 slide
-6. **Experimental design and diagnostics** — 2 slides
-7. **Statistics, uncertainty and falsification** — 1 slide
-8. **Reduced predictive model** — 1 slide
-9. **Scope boundaries and fallback** — 1 slide
-10. **Publications, SDZ and schedule** — 1 slide
-11. **Decision requested from the committee** — 1 slide
+## Expected questions and response preparation
 
-Keep backup slides for equations, detector specifications, sample-size logic, COMSOL complexity, radiation and techno-economics.
+### What is novel beyond APL 2025?
 
-## Expected questions and answer preparation
+Calibrated optical time zero, high-statistics stochastic outcomes, channel-state descriptors, held-out prediction, independent repetition and cross-medium transfer.
 
-### Where is the novelty beyond APL 2025?
+### Why does channel state matter if pulse energy is known?
 
-Answer with channel-state measurement, censored statistics, mechanism-sensitive delay scan, independent repetition and held-out prediction.
+Equal nominal energy can produce different channel continuity, position and temporal evolution. W tests rather than assumes whether those differences improve prediction.
 
-### Is this plasma physics, power engineering or economics?
+### Why combine air and CO₂?
 
-The core is a high-voltage switching problem investigated through plasma diagnostics and predictive modelling. Economic relevance is assessed only through measured reliability and feasibility inputs.
+Air protects continuity and feasibility. CO₂ provides a controlled transfer test and relevant fluorine-free application context. The same measurement logic connects both.
 
-### How will statistical and formative delay be separated?
+### Does the thesis claim to replace SF₆?
 
-State the operational model, censoring treatment, optical/electrical markers and limitations. Do not claim a unique decomposition without diagnostic evidence.
+No. It evaluates a laboratory method and a bounded CO₂ medium domain relevant to SF₆-free insulation research. Complete switchgear qualification is excluded.
 
-### Why is pulse energy insufficient?
+### What happens if CO₂ access fails?
 
-Because deposited energy, focal geometry, channel continuity and time evolution can vary at the same nominal setting. The thesis tests whether measured channel descriptors improve held-out prediction.
+Tier 1 remains the approved dissertation core. Tier 2 is deferred at G4 and documented as follow-on work.
 
-### What happens if the laser effect is weak?
+### What happens if channel diagnostics fail?
 
-Report a quantitative upper bound and narrow the thesis to the operating envelope, metrology and channel-conditioned breakdown model. Do not expand into unrelated extensions.
+The work contracts to a rigorous operating-window result and reports the diagnostic sensitivity limit.
 
-### Is COMSOL feasible?
+### How will overfitting be prevented?
 
-Only a reduced, validated model is mandatory. Full chemistry and 3D coupling are activated only if they improve a predeclared observable.
+Screening, calibration and validation data are separated; model structure and metrics are frozen before confirmatory scoring.
 
-### Why are EMP and radiation not central?
+### Is the Burýšková collaboration duplicative?
 
-They require specialised calibration and can be confounded by the measurement chain. They are scientifically valuable extensions after the core causal chain is stable.
+No. Her public thesis concerns repetitive streamer inception in CO₂. W adds laser-channel diagnostics, stochastic timing/prediction and transfer. Roles and data use require a written agreement.
 
-## Three-week execution plan
+### Is completion by 2029 realistic?
+
+Yes if D1 is locked in 2027, Tier 2 is decided by March 2028, only one CO₂ configuration family is used, and Tier 3 is cancelled when the critical path slips.
+
+## Three-week discussion-preparation plan
 
 ### Week 1 — Freeze the argument
 
-**Goal:** a complete zero draft and supervisor decision on scope.
-
-- [ ] Confirm exact discussion date, required format, language, length and submission route.
-- [ ] Confirm the registered topic and procedure for changing/fixing its title.
-- [ ] Confirm SDZ deadline, eligibility, publication requirements and foreign-stay status.
-- [ ] Obtain and inspect the full APL 2025 paper and any ICOLSE source.
-- [ ] Build a verified bibliography of 25-40 core sources; identify 10 anchor papers.
-- [ ] Freeze the central question, RQ1-RQ4 and C-A to C-C with the supervisor.
-- [ ] Draft sections 1-8 of the minimum.
-- [ ] Create the research-gap, causal-chain and apparatus figures.
-- [ ] Record all unresolved assumptions in an issue list.
-
-**End-of-week gate:** supervisor agrees that the topic is narrow enough, novel and feasible.
+- reconcile the minimum study with the W progress review;
+- confirm title, central question and Tier-1 minimum;
+- reduce the literature review to sources directly supporting W;
+- assemble APL/ICOLSE evidence and apparatus limitations;
+- prepare the air/CO₂ conceptual comparison;
+- list every unresolved administrative and apparatus fact.
 
 ### Week 2 — Make it defensible
 
-**Goal:** complete methods, evidence logic and first full presentation.
-
-- [ ] Draft WP0-WP5, variables, diagnostics and uncertainty budget.
-- [ ] Create the shot metadata schema and example dataset manifest.
-- [ ] Complete the statistical plan, including censoring and held-out validation.
-- [ ] Create one-page risk register with fallback decisions.
-- [ ] Map every CL to its experiment, dataset, paper and chapter.
-- [ ] Draft publication and SDZ schedule.
-- [ ] Complete the minimum zero draft and run a source/claim audit.
-- [ ] Build presentation version 1 and backup slides.
-- [ ] Hold one 60-minute mock discussion with a technically critical colleague.
-
-**End-of-week gate:** every principal claim has an evidence route and every numerical statement has a source.
+- draft figures and the timing-uncertainty budget;
+- define H1–H4, M0–M2 and the held-out split;
+- specify G2 and G4 acceptance criteria;
+- draft the collaboration charter outline;
+- check the 2029 critical path and cancellation rules;
+- conduct a technical review focused on overclaiming.
 
 ### Week 3 — Review and rehearse
 
-**Goal:** final document, final slides and robust oral defence.
-
-- [ ] Incorporate supervisor and mock-discussion comments.
-- [ ] Remove unsupported performance, grid and economic claims.
-- [ ] Check terminology, notation, references, figure readability and language.
-- [ ] Conduct at least two timed rehearsals and one adversarial Q&A rehearsal.
-- [ ] Prepare a one-page handout with title, question, contributions and timeline.
-- [ ] Freeze PDF and presentation versions at least 48 hours before the discussion.
-- [ ] Back up all source files and submit through the confirmed channel.
-- [ ] Prepare a discussion-minutes template for immediate recording of decisions.
-
-**Final gate:** the topic, contributions, methods, risks and schedule can each be explained in under one minute without relying on vague application claims.
-
-## Daily working cadence for the sprint
-
-- **Block A — 90 min:** minimum text or literature synthesis.
-- **Block B — 90 min:** figure, methods or evidence mapping.
-- **Block C — 60 min:** presentation and spoken explanation.
-- **Close — 20 min:** update project board, decisions and next action.
-
-Reserve at least one half-day per week for supervisor/colleague feedback and one half-day as schedule buffer.
+- integrate supervisor comments;
+- freeze document and slide versions;
+- prepare concise answers to expected questions;
+- perform at least one critical mock discussion;
+- verify all citations and published links;
+- record committee decisions and assigned actions after the meeting.
 
 ## Definition of done
 
-- [ ] Exact administrative requirements and discussion date are confirmed.
-- [ ] Czech and English titles are approved for presentation.
-- [ ] Central question, RQ1-RQ4 and C-A to C-C are internally consistent.
-- [ ] Core and conditional scope are explicitly separated.
-- [ ] Minimum document has been reviewed by the supervisor.
-- [ ] All factual and quantitative claims have inspectable sources.
-- [ ] APL 2025 is accurately represented as prior work.
-- [ ] Experimental, statistical and modelling plans contain falsification criteria.
-- [ ] CL notes link to evidence routes, papers and chapters.
-- [ ] Schedule includes SDZ in 2027, publication lead time and foreign stay.
-- [ ] Slides fit the allotted time and have backup material.
-- [ ] At least three rehearsals have been completed.
-- [ ] Committee decisions and required changes are recorded after the discussion.
+The minimum-study preparation is complete when:
+
+- [ ] the W title and central question are consistent across documents;
+- [ ] Tier 1, Tier 2 and Tier 3 boundaries are explicit;
+- [ ] C-W1 to C-W5 have acceptance and failure-safe evidence;
+- [ ] the timing chain and uncertainty strategy are defensible;
+- [ ] M0/M1/M2 and the validation split are defined;
+- [ ] the CO₂ activation conditions and collaboration boundary are recorded;
+- [ ] the publication and thesis plan ends no later than December 2029;
+- [ ] administrative evidence is reconciled or explicitly listed as missing;
+- [ ] the opponent's comments and committee decisions are captured;
+- [ ] every internal published-document link resolves successfully.
 
 ## Immediate next actions
 
-- [ ] Send the proposed title, central question and C-A to C-C to the supervisor for a binary approve/change decision.
-- [ ] Ask OVV/KOS for written confirmation of SDZ and publication requirements applicable to the 2024 cohort.
-- [ ] Confirm the exact discussion date and backward-plan the 48-hour freeze.
-- [ ] Attach the APL 2025 full text and verified ICOLSE material to the literature workflow.
-- [ ] Create the minimum document and presentation source files.
+1. Ask the supervisor to approve or edit the W title and Tier-1 contribution.
+2. Confirm official professional-discussion and State Doctoral Examination requirements.
+3. Freeze the air-platform metrology and timing audit.
+4. Define a numerical Gate-G2 criterion after the pilot.
+5. Open the apparatus and collaboration discussion for Gate G4.
+6. Prepare the minimum figure set and mock-opponent questions.
+7. Align the claim ledger and publication plan with C-W1 to C-W5.
 
-## Dependencies
+## Published supporting documents
 
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
-- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
-- [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]]
-- [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
-- [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]
+- [Doctoral Progress Review and Research Plan 2026](/doctoral-progress-review-and-research-plan-2026/)
+- [Dissertation Direction Portfolio and Winning Variant W 2026–2029](/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/)
+- [Direction B — Channel State and Prediction](/direction-b-channel-state-and-prediction-of-switching/)
+- [Direction O1 — SF₆-Free Diagnostics](/direction-o1-sf6-free-diagnostics/)
+- [Direction O2 — Fluorine-Free Media](/direction-o2-fluorine-free-media/)
+- [LTSG Core Research Package 2026–2028](/ltsg-core-research-package-2026-2028/)
+- [Thesis Structure & Chapter Outline](/ii-areas/03-thesis/la-te-x-thesis/thesis-structure-and-chapter-outline/)
+- [Claim Ledger & Evidence Matrix](/ii-areas/03-thesis/claim-ledger/claim-ledger-and-evidence-matrix/)
+- [Research Methodology & Workflows](/system/research-methodology-and-workflows/)
+- [Individual Study Plan (ISP)](/ii-areas/06-administration/isp-and-evaluations/individual-study-plan-isp/)

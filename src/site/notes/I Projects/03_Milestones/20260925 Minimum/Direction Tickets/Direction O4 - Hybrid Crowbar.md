@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/direction-tickets/direction-o4-hybrid-crowbar/","title":"Direction O4 - Optically Isolated Hybrid Crowbar","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction O4 - Optically Isolated Hybrid Crowbar","aliases":["Dissertation Direction O4"],"ticket_id":"DIR-O4","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-o4-hybrid-crowbar/"}}
+{"dg-publish":true,"permalink":"/direction-o4-hybrid-crowbar/","title":"Direction O4 - Optically Isolated Hybrid Crowbar","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction O4 - Optically Isolated Hybrid Crowbar","aliases":["Dissertation Direction O4"],"ticket_id":"DIR-O4","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-o4-hybrid-crowbar/"},"dg-permalink":"/direction-o4-hybrid-crowbar/"}
 ---
 
 
