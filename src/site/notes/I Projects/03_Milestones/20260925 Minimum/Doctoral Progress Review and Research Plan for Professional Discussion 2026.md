@@ -1,26 +1,7 @@
 ---
-title: Doctoral Progress Review and Research Plan for Professional Discussion 2026
-aliases:
-  - Professional Discussion Reviewer Dossier 2026
-  - Two-Year Doctoral Progress Report 2026
-  - W Dissertation Research Plan
-project_id: MIN-2026-REVIEW
-type: milestone
-status: draft-for-supervisor-review
-context: thesis
-priority: critical
-date: 2026-09-10
-last_updated: 2026-09-10
-candidate: Ing. Michal Sakala
-supervisor: doc. Ing. Jan Mikeš, Ph.D.
-supervising_department: Department of Economics, Management and Humanities (K13116), CTU FEE
-study_start: 2024-09-01
-milestone: Dissertation progress report and professional discussion
-selected_direction: W
-dg-publish: true
-dg-home-link: true
-permalink: /doctoral-progress-review-and-research-plan-2026/
+{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/doctoral-progress-review-and-research-plan-for-professional-discussion-2026/","title":"Doctoral Progress Review and Research Plan for Professional Discussion 2026","dgHomeLink":true,"noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Doctoral Progress Review and Research Plan for Professional Discussion 2026","aliases":["Professional Discussion Reviewer Dossier 2026","Two-Year Doctoral Progress Report 2026","W Dissertation Research Plan"],"project_id":"MIN-2026-REVIEW","type":"milestone","status":"draft-for-supervisor-review","context":"thesis","priority":"critical","date":"2026-09-10","last_updated":"2026-09-10","candidate":"Ing. Michal Sakala","supervisor":"doc. Ing. Jan Mikeš, Ph.D.","supervising_department":"Department of Economics, Management and Humanities (K13116), CTU FEE","study_start":"2024-09-01","milestone":"Dissertation progress report and professional discussion","selected_direction":"W","permalink":"/doctoral-progress-review-and-research-plan-2026/"}}
 ---
+
 
 # Doctoral Progress Review and Research Plan for Professional Discussion 2026
 
@@ -364,7 +345,7 @@ Tier 1 must deliver C-W1, C-W2 and C-W5. Tier 2 adds C-W3 and C-W4. C-W3/C-W4 ma
 
 ### 5.7 Relationship to the complete direction portfolio
 
-The rationale and all alternative directions are compared in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Direction Portfolio and Winning Variant W 2026–2029]]. A is retained as the diagnostic fallback; B is the scientific core; O1 and the bounded O2 transfer create the application route. C, F and O3 are eligible Tier-3 options. D, E and O4–O8 remain separate future projects unless the board explicitly replaces part of W.
+The rationale and all alternative directions are compared in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Direction Portfolio and Winning Variant W 2026–2029]]. A is retained as the diagnostic fallback; B is the scientific core; O1 and the bounded O2 transfer create the application route. C, F and O3 are eligible Tier-3 options. D, E and O4–O8 remain separate future projects unless the board explicitly replaces part of W.
 
 ## 6. Experimental systems, collaboration and resources
 
@@ -762,7 +743,7 @@ Yes, if Tier 1 is protected, Tier 2 passes G4 by March 2028, only one bounded CO
 | DEC-W08 | Completion | Experimental freeze by June/September 2029 and submission no later than December 2029 |
 | DEC-W09 | Programme obligations | Named responsible person and date for every missing Section 2.5 record |
 
-Record the authority, date, conditions and evidence for each accepted decision in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Doctoral Scope & Decision Register]].
+Record the authority, date, conditions and evidence for each accepted decision in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].
 
 ## 16. Reviewer-ready completion checklist
 
@@ -825,14 +806,14 @@ The professional discussion should therefore focus on five decisions: the exact 
 
 ### Internal research architecture
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Direction Portfolio and Winning Variant W 2026–2029]]
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026|Dissertation Topic Options 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026|Outside-the-Box Dissertation Topics 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026–2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
-- [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety|LTSG Apparatus & Laboratory Safety]]
-- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking|ISP & Milestone Tracking]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Direction Portfolio and Winning Variant W 2026–2029]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026\|Dissertation Topic Options 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026–2028]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety\|LTSG Apparatus & Laboratory Safety]]
+- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
 
 ## 19. Abbreviations
 

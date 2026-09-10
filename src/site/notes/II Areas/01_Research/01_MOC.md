@@ -98,8 +98,10 @@ Experimental rig configuration, optical beamline specifications, and high-voltag
 
 ## Key Literature
 
-| Literature note                                                                                                           | Authors                                                                  | Year | Journal / conference |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---- | -------------------- |
-| [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]] | Michal Sakala, Jan Mikeš, Ondřej Hanuš, Marcela Efmertová, Martin Mydlar | 2025 | IEEE APL 2025        |
+| Literature note                                                                                                                                                     | Authors                                                                  | Year | Journal / conference             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---- | -------------------------------- |
+| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]                 | Jakub Cikhardt                                                           | 2026 | Habilitation thesis, CTU FEE     |
+| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Dagmar Štěpánová                                                         | 2026 | Doctoral dissertation, CTU FNSPE |
+| [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]]                                           | Michal Sakala, Jan Mikeš, Ondřej Hanuš, Marcela Efmertová, Martin Mydlar | 2025 | IEEE APL 2025                    |
 
 { .block-language-dataview}

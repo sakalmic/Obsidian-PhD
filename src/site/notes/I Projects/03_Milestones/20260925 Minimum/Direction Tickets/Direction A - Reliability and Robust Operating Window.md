@@ -1,26 +1,12 @@
 ---
-title: "Direction A - Reliability and Robust Operating Window"
-aliases:
-  - "Dissertation Direction A"
-ticket_id: DIR-A
-type: project
-status: proposal
-context: thesis
-priority: high
-parent_project: MIN-2026
-direction_family: core
-decision_state: not-selected
-date: 2026-09-10
-last_updated: 2026-09-10
-dg-publish: true
-dg-home-link: false
-permalink: /direction-a-reliability-and-robust-operating-window/
+{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/direction-tickets/direction-a-reliability-and-robust-operating-window/","title":"Direction A - Reliability and Robust Operating Window","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction A - Reliability and Robust Operating Window","aliases":["Dissertation Direction A"],"ticket_id":"DIR-A","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"core","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-a-reliability-and-robust-operating-window/"}}
 ---
+
 
 # Direction A — Reliability and Robust Operating Window
 
 > [!summary] Direction decision
-> **Current state:** not selected. This ticket is a self-contained option for supervisor and professional-discussion review. Selection requires a recorded decision in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Doctoral Scope & Decision Register]].
+> **Current state:** not selected. This ticket is a self-contained option for supervisor and professional-discussion review. Selection requires a recorded decision in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].
 
 ## Purpose
 
@@ -103,9 +89,9 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related overview and controls
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026|Dissertation Topic Options 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
-- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking|ISP & Milestone Tracking]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026\|Dissertation Topic Options 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]

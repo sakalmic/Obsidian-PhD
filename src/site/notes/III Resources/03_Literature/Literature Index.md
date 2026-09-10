@@ -14,8 +14,10 @@ Index of reviewed scientific literature, research syntheses and bibliographic no
 - [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Cross-paper theoretical synthesis for the LTSG core]]
 - [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostic synthesis and false-signal controls]]
 
-| File                                                                                                                      | Authors                                                                  | Year | Journal / conference | DOI                            |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---- | -------------------- | ------------------------------ |
-| [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]] | Michal Sakala, Jan Mikeš, Ondřej Hanuš, Marcela Efmertová, Martin Mydlar | 2025 | IEEE APL 2025        | 10.1109/APL65034.2025.11108944 |
+| File                                                                                                                                                                | Authors                                                                  | Year | Journal / conference             | DOI                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---- | -------------------------------- | ------------------------------ |
+| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]                 | Jakub Cikhardt                                                           | 2026 | Habilitation thesis, CTU FEE     |                                |
+| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Dagmar Štěpánová                                                         | 2026 | Doctoral dissertation, CTU FNSPE |                                |
+| [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]]                                           | Michal Sakala, Jan Mikeš, Ondřej Hanuš, Marcela Efmertová, Martin Mydlar | 2025 | IEEE APL 2025                    | 10.1109/APL65034.2025.11108944 |
 
 { .block-language-dataview}

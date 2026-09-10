@@ -1,46 +1,19 @@
 ---
-title: "Minimum Dissertation Study & Research Discussion 2026"
-aliases:
-  - Dissertation Minimum 2026
-  - Professional Discussion 2026
-  - Rozprava k minimu 2026
-project_id: MIN-2026
-type: project
-status: active
-context: thesis
-priority: critical
-due: 2026-09-24
-due_note: "Working date three weeks from 2026-09-03; replace with the confirmed discussion date."
-definition_of_done: "Approved fixed dissertation topic, reviewed minimum-study document, final presentation, defensible claims and recorded committee feedback."
-parent_project: PhD-Dissertation
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-  - topic/ltsg/model
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-  - topic/ltsg/model
-created: 2026-09-03
-last_updated: 2026-09-10
-dg-publish: true
-dg-home-link: true
-permalink: /minimum-dissertation-study-2026/
+{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/minimum-dissertation-study-and-research-discussion-2026/","title":"Minimum Dissertation Study & Research Discussion 2026","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-10","dg-note-properties":{"title":"Minimum Dissertation Study & Research Discussion 2026","aliases":["Dissertation Minimum 2026","Professional Discussion 2026","Rozprava k minimu 2026"],"project_id":"MIN-2026","type":"project","status":"active","context":"thesis","priority":"critical","due":"2026-09-24","due_note":"Working date three weeks from 2026-09-03; replace with the confirmed discussion date.","definition_of_done":"Approved fixed dissertation topic, reviewed minimum-study document, final presentation, defensible claims and recorded committee feedback.","parent_project":"PhD-Dissertation","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-10","permalink":"/minimum-dissertation-study-2026/"}}
 ---
+
 
 # Minimum Dissertation Study & Research Discussion 2026
 
 > [!info] Public planning status
-> This is a working scope proposal for discussion. It does not record approval by the supervisor, committee or KOS. See [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026|the comparison of six executable variants]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026|the technology-opportunity scan]].
+> This is a working scope proposal for discussion. It does not record approval by the supervisor, committee or KOS. See [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026\|the comparison of six executable variants]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|the technology-opportunity scan]].
 
 > [!tip] Executable direction tickets
-> The detailed schedules and gates are maintained in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026#Individual direction tickets|core direction tickets A–F]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026#Individual direction tickets|commercial and high-risk direction tickets O1–O8]].
+> The detailed schedules and gates are maintained in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026#Individual direction tickets\|core direction tickets A–F]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026#Individual direction tickets\|commercial and high-risk direction tickets O1–O8]].
 
 ## Planning status
 
-The `due` date is provisional. No completed discussion or approved title is asserted. Record confirmation in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Doctoral Scope & Decision Register]]. The document hierarchy is [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]].
+The `due` date is provisional. No completed discussion or approved title is asserted. Record confirmation in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]]. The document hierarchy is [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]].
 
 ## Mission
 
@@ -411,11 +384,11 @@ Reserve at least one half-day per week for supervisor/colleague feedback and one
 
 ## Dependencies
 
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline|Thesis Structure & Chapter Outline]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
-- [[_System/Research Methodology & Workflows|Research Methodology & Workflows]]
-- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking|ISP & Milestone Tracking]]
-- [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection|LN - Sakala2025 - APL Lightning Protection]]
-- [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
-- [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
+- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
+- [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]]
+- [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
+- [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]
