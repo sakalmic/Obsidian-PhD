@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry","topic/ltsg/breakdown"],"noteIcon":"","dg-note-properties":{"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-06"}}
+{"dg-publish":true,"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-06","dg-note-properties":{"title":"Home","aliases":["Home","Research Dashboard"],"tags":["gardenEntry","topic/ltsg/breakdown"],"date":"2026-09-01","last_updated":"2026-09-06","dgHome":true,"dgShowFileTree":true}}
 ---
-
 
 
 # Laser-Controlled High-Voltage Breakdown
@@ -24,8 +23,8 @@ This garden documents a reproducible investigation of how measured laser-channel
 | **01 · Research** | <span class="phd-area-tag"><strong class="phd-area-symbol phd-area-symbol--research">●</strong> RESEARCH</span> | Plasma physics, laser-triggered spark gaps, COMSOL modelling & diagnostics | [[II Areas/01_Research/01_MOC\|Explore research]] |
 | **02 · Publications** | <span class="phd-area-tag"><strong class="phd-area-symbol">◎</strong> PUBLICATIONS</span> | Manuscript pipeline, target journals (IEEE, PSST), conferences & outputs | [[II Areas/02_Publications/02_MOC\|View publications]] |
 | **03 · Thesis** | <span class="phd-area-tag"><strong class="phd-area-symbol">◉</strong> THESIS</span> | Thesis architecture, claim ledger (CL-01–06), evidence mapping & SDZ | [[II Areas/03_Thesis/03_MOC\|Open dissertation hub]] |
-| **04 · Teaching** | <span class="phd-area-tag"><strong class="phd-area-symbol">▯</strong> TEACHING</span> | Physics & plasma lab courses, student consultation, supervised theses (BP/DP) | [[II Areas/04_Teaching/04_MOC\|Teaching hub]] |
-| **05 · Grants** | <span class="phd-area-tag"><strong class="phd-area-symbol">▤</strong> GRANTS</span> | CTU SGS grant applications, budgets, procurement, mobility & external funding | [[II Areas/05_Grants/05_MOC\|Grants overview]] |
+| **04 · Teaching** | <span class="phd-area-tag"><strong class="phd-area-symbol">▯</strong> TEACHING</span> | Physics & plasma lab courses, student consultation, supervised theses (BP/DP) | Local vault only |
+| **05 · Grants** | <span class="phd-area-tag"><strong class="phd-area-symbol">▤</strong> GRANTS</span> | CTU SGS grant applications, budgets, procurement, mobility & external funding | Local vault only |
 | **06 · Administration** | <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span> | Individual Study Plan (ISP), doctoral exams, credits, faculty directives & supervisor sync | [[II Areas/06_Administration/06_MOC\|Administration hub]] |
 | **07 · Academic Profile** | <span class="phd-area-tag"><strong class="phd-area-symbol">★</strong> PROFILE</span> | Researcher profiles (ORCID, WoS), laser safety certifications (LSO) & academic CV | [[II Areas/07_Academic_Profile/07_MOC\|Academic profile]] |
 ---
@@ -49,7 +48,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">SGS 2027 Grant Proposal Preparation</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Draft budget justification for fast optical sensors, electrode materials, and student research funding.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/05-grants/sgs-grants-overview/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 SGS Grants</a>
+          <a class="internal-link" href="/minimum-dissertation-study-2026/#funding-and-resource-plan" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">Funding plan</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Draft</span>
         </div>
       </div>
@@ -62,7 +61,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">High-Voltage Laboratory Protocol Updates</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Revise laboratory safety guidelines and impulse breakdown measurement worksheets for students.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/04-teaching/04-moc/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Teaching Hub</a>
+          <a class="internal-link" href="/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">Local vault record</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Lab Prep</span>
         </div>
       </div>
@@ -124,7 +123,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Year 1 ISP Annual Report Synthesis</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Consolidate completed doctoral examinations, credits, and conference plans for evaluation.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/06-administration/individual-study-plan-isp/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 ISP Tracker</a>
+          <a class="internal-link" href="/ii-areas/06-administration/isp-and-evaluations/individual-study-plan-isp/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 ISP Tracker</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Annual Report</span>
         </div>
       </div>
@@ -160,7 +159,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Supervisor Meeting Action Review</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Align simulation boundary definitions and autumn experimental timetable with doc. Mikeš.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/06-administration/meeting-2026-09-01-supervisor-sync/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Meeting Sync</a>
+          <a class="internal-link" href="/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">Decision log</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Pending Signoff</span>
         </div>
       </div>
@@ -238,7 +237,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Doctoral Coursework &amp; Exams</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Completed Plasma Theory, Laser Physics, and Academic English examinations.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/06-administration/credits-and-exam-tracker/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Credits Tracker</a>
+          <a class="internal-link" href="/ii-areas/06-administration/credits-and-exams/credits-and-exam-tracker/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Credits Tracker</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">✓ Complete</span>
         </div>
       </div>
@@ -287,7 +286,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Minimum Thesis &amp; State Exam (SDZ)</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Critical state-of-the-art review, hypothesis formulation, and preliminary results.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/03-thesis/state-doctoral-exam-and-minimum-thesis/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 SDZ &amp; Minimum</a>
+          <a class="internal-link" href="/minimum-dissertation-study-2026/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 SDZ &amp; Minimum</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">In Preparation</span>
         </div>
       </div>
@@ -313,7 +312,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">SGS Research Grant Execution</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Principal investigator role on student grant project, procurement, and reports.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/05-grants/sgs-grants-overview/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 SGS Project</a>
+          <a class="internal-link" href="/minimum-dissertation-study-2026/#funding-and-resource-plan" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">Funding plan</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Running</span>
         </div>
       </div>
@@ -362,7 +361,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">International Conference Contribution</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Oral presentation at IEEE Pulsed Power (PPC) or Gas Discharges (GD).</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/02-publications/conference-pipeline/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Conferences</a>
+          <a class="internal-link" href="/ii-areas/02-publications/conferences/conference-pipeline/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Conferences</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Oral Paper</span>
         </div>
       </div>
@@ -398,7 +397,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Bachelor &amp; Master Thesis Supervision</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Complete mentoring and defense preparation for supervised student projects.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/04-teaching/04-moc/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Teaching Hub</a>
+          <a class="internal-link" href="/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">Local vault record</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Mentoring</span>
         </div>
       </div>
@@ -411,7 +410,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Dissertation Review &amp; Doctoral Defense</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Submit thesis to Faculty Review Committee, review responses, and defend Ph.D.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/06-administration/doctoral-study-regulations-and-directives/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Regulations</a>
+          <a class="internal-link" href="/ii-areas/06-administration/directives-and-regulations/doctoral-study-regulations-and-directives/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Regulations</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Graduation</span>
         </div>
       </div>
@@ -458,12 +457,12 @@ This garden documents a reproducible investigation of how measured laser-channel
 
 ## Essential links
 
-- **Current document hierarchy:** [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]
+- **Current document hierarchy:** [[Doctoral Document Map]]
 
 - **Dissertation keystones:** [[Keystones/Keystones\|Core Claims & Findings]]
 - **Experimental archive:** [[II Areas/01_Research/Experiments/Experiments Index\|Experiments & Diagnostics]]
 - **Numerical simulations:** [[II Areas/01_Research/Simulations/Simulations Index\|COMSOL & Multiphysics Models]]
-- **Evidence and traceability:** [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- **Evidence and traceability:** [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
 - **Dissertation structure:** [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
 - **Publication strategy:** [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy & Targets]]
 - **Research methodology:** [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]

@@ -1,12 +1,28 @@
 ---
-{"dg-publish":true,"dg-permalink":"/direction-c-adaptive-control-and-operational-utility/","permalink":"/direction-c-adaptive-control-and-operational-utility/","title":"Direction C - Adaptive Control and Operational Utility","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction C - Adaptive Control and Operational Utility","aliases":["Dissertation Direction C"],"ticket_id":"DIR-C","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"core","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-c-adaptive-control-and-operational-utility/"}}
+title: "C · Adaptive Switching Control"
+aliases:
+  - "Direction C - Adaptive Control and Operational Utility"
+  - "Dissertation Direction C"
+ticket_id: DIR-C
+type: project
+status: proposal
+context: thesis
+priority: high
+parent_project: MIN-2026
+direction_family: core
+decision_state: not-selected
+date: 2026-09-10
+last_updated: 2026-09-11
+dg-publish: true
+dg-home-link: false
+permalink: /direction-c-adaptive-control-and-operational-utility/
+dg-permalink: /direction-c-adaptive-control-and-operational-utility/
 ---
 
-
-# Direction C — Adaptive Control and Operational Utility
+# C · Adaptive Switching Control
 
 > [!summary] Direction decision
-> **Current state:** not selected. This ticket is a self-contained option for supervisor and professional-discussion review. Selection requires a recorded decision in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].
+> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
 
 ## Purpose
 
@@ -87,11 +103,8 @@ Higher integration risk; activate only after a stable predictive baseline.
 
 The direction is complete when its core claim is supported, falsified or quantitatively bounded by QC-passed evidence, an independent repeat and a reproducible analysis; the result is incorporated into a submitted manuscript and the corresponding dissertation chapter.
 
-## Related overview and controls
+## Related research
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026\|Dissertation Topic Options 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
+- [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model|CL-05 · Predictive model]]
+- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-economic grid-switching model]]

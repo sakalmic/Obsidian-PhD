@@ -1,12 +1,24 @@
 ---
-{"dg-publish":true,"dg-permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/","permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/","title":"Dissertation Direction Portfolio and Winning Variant W 2026-2029","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Dissertation Direction Portfolio and Winning Variant W 2026-2029","aliases":["Dissertation Portfolio A-F O1-O8 and W","Winning Dissertation Variant W"],"type":"decision-support","status":"proposal","context":"thesis","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/"}}
+title: "Dissertation Research Paths & Final Choice (2026–2028, 2029)"
+aliases:
+  - "Dissertation Direction Portfolio and Winning Variant W 2026-2029"
+  - "Dissertation Portfolio A-F O1-O8 and W"
+  - "Winning Dissertation Variant W"
+type: decision-support
+status: proposal
+context: thesis
+date: 2026-09-10
+last_updated: 2026-09-11
+dg-publish: true
+dg-home-link: false
+permalink: /dissertation-direction-portfolio-and-winning-variant-w-2026-2029/
+dg-permalink: /dissertation-direction-portfolio-and-winning-variant-w-2026-2029/
 ---
 
-
-# Dissertation Direction Portfolio and Winning Variant W, 2026–2029
+# Dissertation Research Paths & Final Choice (2026–2028, 2029)
 
 > [!summary] Decision status
-> This document compares all currently defined dissertation directions and proposes **W** as the preferred integrated route. It is a decision-support document, not evidence that the title, collaboration, apparatus access or authorship plan has been approved. Approval and later scope changes must be recorded in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].
+> This document compares all currently defined dissertation directions and proposes **W** as the preferred integrated route. It is a decision-support document, not evidence that the title, collaboration, apparatus access or authorship plan has been approved. Approval and later scope changes must be recorded in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Dissertation Scope & Decision Log]].
 
 ## Executive recommendation
 
@@ -35,20 +47,20 @@ All directions are assessed against six criteria:
 
 | ID | Direction | Principal contribution | Main additional requirement | 2029 feasibility | Recommended role |
 | --- | --- | --- | --- | --- | --- |
-| A | [Reliability and Robust Operating Window](/direction-a-reliability-and-robust-operating-window/) | Reproducible probability, delay, jitter and misfire map | Calibrated core LTSG and environmental/electrode-state control | Very high | Low-risk fallback and metrology foundation |
-| B | [Channel State and Prediction of Switching](/direction-b-channel-state-and-prediction-of-switching/) | Held-out proof of whether measured channel state improves prediction | Synchronized channel diagnostic and reduced model | High | Recommended scientific core |
-| C | [Adaptive Control and Operational Utility](/direction-c-adaptive-control-and-operational-utility/) | Validated decision rule or bounded controller | Reliable low-latency features and safe control interface | Medium-high | Extension after B |
-| D | [Spatial Shaping of the Laser-Created Channel](/direction-d-spatial-shaping-of-the-laser-created-channel/) | Controlled Gaussian-versus-shaped-channel comparison | Beam-shaping optics and spatial diagnostics | Medium | Conditional optics branch |
-| E | [Synchronization of Two Spark Gaps](/direction-e-synchronization-of-two-spark-gaps/) | Two-gap timing and covariance model | Two matched gaps and parallel acquisition | Medium | Pulsed-power demonstrator |
-| F | [Dielectric Recovery and Component Wear](/direction-f-dielectric-recovery-and-component-wear/) | Recovery or endurance metric linked to electrode state | Repetition sequence, recovery voltage and surface metrology | Medium-high | Lifetime branch |
-| O1 | [SF₆-Free Diagnostics](/direction-o1-sf6-free-diagnostics/) | Calibrated optical feature tied to dielectric or discharge state | Approved gas cell and controlled reference states | Medium-high | Strongest commercial branch |
-| O2 | [Fluorine-Free Media](/direction-o2-fluorine-free-media/) | Comparative breakdown and recovery physics | Sealed cell, gas handling and pressure control | Medium | Strong physics and engineering branch |
-| O3 | [Switchgear Digital Twin](/direction-o3-switchgear-digital-twin/) | Uncertainty-aware model tested on held-out data | Partner system data and defined failure modes | Medium | Data and lifecycle extension |
-| O4 | [Hybrid Crowbar](/direction-o4-hybrid-crowbar/) | End-to-end trigger demonstrator against a reference | Safe high-current circuit and energy absorption | Medium | Fast device demonstrator |
-| O5 | [Multi-Gap Synchronisation](/direction-o5-multi-gap-synchronisation/) | Scalable multi-channel skew and joint-reliability result | Three or more gaps and optical distribution | Medium-low | Specialist pulsed-power route |
-| O6 | [Lightning Attachment](/direction-o6-lightning-attachment/) | Laboratory attachment experiment or defensible scaling result | Large-volume impulse facility and specialist partner | Low-medium | Collaboration-dependent high-impact route |
-| O7 | [Luminous Plasma Structures](/direction-o7-luminous-plasma-structures/) | Repeatable energy/lifetime study of a bounded laboratory phenomenon | Plasma chemistry, aerosol controls and broad diagnostics | Low | Time-boxed exploratory route |
-| O8 | [Hydrogen-Ammonia Ignition](/direction-o8-hydrogen-ammonia-ignition/) | Ignition-probability and delay map tied to plasma state | Certified combustion facility and safety partner | Low-medium | Energy-transition branch |
+| A | [A · Reliable Operating Window](/direction-a-reliability-and-robust-operating-window/) | Reproducible probability, delay, jitter and misfire map | Calibrated core LTSG and environmental/electrode-state control | Very high | Low-risk fallback and metrology foundation |
+| B | [B · Channel-State Prediction](/direction-b-channel-state-and-prediction-of-switching/) | Held-out proof of whether measured channel state improves prediction | Synchronized channel diagnostic and reduced model | High | Recommended scientific core |
+| C | [C · Adaptive Switching Control](/direction-c-adaptive-control-and-operational-utility/) | Validated decision rule or bounded controller | Reliable low-latency features and safe control interface | Medium-high | Extension after B |
+| D | [D · Plasma-Channel Shaping](/direction-d-spatial-shaping-of-the-laser-created-channel/) | Controlled Gaussian-versus-shaped-channel comparison | Beam-shaping optics and spatial diagnostics | Medium | Conditional optics branch |
+| E | [E · Dual-Gap Synchronisation](/direction-e-synchronization-of-two-spark-gaps/) | Two-gap timing and covariance model | Two matched gaps and parallel acquisition | Medium | Pulsed-power demonstrator |
+| F | [F · Dielectric Recovery & Electrode Wear](/direction-f-dielectric-recovery-and-component-wear/) | Recovery or endurance metric linked to electrode state | Repetition sequence, recovery voltage and surface metrology | Medium-high | Lifetime branch |
+| O1 | [O1 · SF₆-Free Optical Diagnostics](/direction-o1-sf6-free-diagnostics/) | Calibrated optical feature tied to dielectric or discharge state | Approved gas cell and controlled reference states | Medium-high | Strongest commercial branch |
+| O2 | [O2 · Fluorine-Free Dielectric Recovery](/direction-o2-fluorine-free-media/) | Comparative breakdown and recovery physics | Sealed cell, gas handling and pressure control | Medium | Strong physics and engineering branch |
+| O3 | [O3 · Eco-Efficient Switchgear Digital Twin](/direction-o3-switchgear-digital-twin/) | Uncertainty-aware model tested on held-out data | Partner system data and defined failure modes | Medium | Data and lifecycle extension |
+| O4 | [O4 · Optically Isolated Hybrid Crowbar](/direction-o4-hybrid-crowbar/) | End-to-end trigger demonstrator against a reference | Safe high-current circuit and energy absorption | Medium | Fast device demonstrator |
+| O5 | [O5 · Multi-Gap Photonic Synchronisation](/direction-o5-multi-gap-synchronisation/) | Scalable multi-channel skew and joint-reliability result | Three or more gaps and optical distribution | Medium-low | Specialist pulsed-power route |
+| O6 | [O6 · Laser-Guided Lightning Attachment](/direction-o6-lightning-attachment/) | Laboratory attachment experiment or defensible scaling result | Large-volume impulse facility and specialist partner | Low-medium | Collaboration-dependent high-impact route |
+| O7 | [O7 · Long-Lived Luminous Plasma](/direction-o7-luminous-plasma-structures/) | Repeatable energy/lifetime study of a bounded laboratory phenomenon | Plasma chemistry, aerosol controls and broad diagnostics | Low | Time-boxed exploratory route |
+| O8 | [O8 · H₂/NH₃ Laser-Plasma Ignition](/direction-o8-hydrogen-ammonia-ignition/) | Ignition-probability and delay map tied to plasma state | Certified combustion facility and safety partner | Low-medium | Energy-transition branch |
 | **W** | **Channel-State-Informed Prediction and Diagnostics in Air and CO₂** | **Validated channel-informed predictor plus transfer and diagnostic evidence for a fluorine-free medium** | **B apparatus plus approved CO₂ cell and explicitly governed collaboration** | **High for the base; medium-high for the extension** | **Winning staged dissertation direction** |
 
 ## Direction assessments A–F
@@ -303,15 +315,12 @@ W is preferred because it preserves the feasibility of B, adds a timely industri
 
 ## Related documents
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026\|Dissertation Topic Options 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
+- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2029)]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
 
 ## Sources checked for the W proposal
 
 - [Burýšková, I.: *Investigating CO₂ Streamer Inception in Repetitive Pulsed Discharges*, CTU repository, 2026](https://dspace.cvut.cz/entities/publication/32c12fec-82b5-479e-9941-7a889816237c)
 - [Regulation (EU) 2024/573 on fluorinated greenhouse gases](https://eur-lex.europa.eu/eli/reg/2024/573/2024-02-20/eng/)
-

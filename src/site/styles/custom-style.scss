@@ -585,6 +585,66 @@ a.tag {
   line-height: 1;
 }
 
+#full-graph .full-graph-guide {
+  position: fixed;
+  top: 1rem;
+  left: 50%;
+  z-index: 10001;
+  display: grid;
+  gap: 0.3rem;
+  width: min(760px, calc(100vw - 7rem));
+  padding: 0.75rem 1rem;
+  transform: translateX(-50%);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 0.6rem;
+  background: color-mix(in srgb, var(--background-primary) 92%, transparent);
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.16);
+  color: var(--text-normal);
+  pointer-events: none;
+  text-align: center;
+}
+
+#full-graph .full-graph-guide > span {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+}
+
+#full-graph .graph-legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem 0.85rem;
+  margin-top: 0.15rem;
+  color: var(--text-muted);
+  font-size: 0.72rem;
+}
+
+#full-graph .graph-legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
+}
+
+#full-graph .graph-legend i {
+  width: 0.56rem;
+  height: 0.56rem;
+  border-radius: 50%;
+  background: var(--legend-color);
+}
+
+@media (max-width: 700px) {
+  #full-graph .full-graph-guide {
+    top: 0.55rem;
+    width: calc(100vw - 4.5rem);
+    padding: 0.55rem 0.7rem;
+  }
+
+  #full-graph .full-graph-guide > span,
+  #full-graph .graph-legend {
+    display: none;
+  }
+}
+
 /* Search and secondary sidebar */
 .search-button,
 button {

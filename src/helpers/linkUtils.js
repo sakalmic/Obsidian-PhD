@@ -258,10 +258,23 @@ async function computeGraph(data) {
       v.url === "/" ||
       v.url === "/home/";
 
+    // Navigation-only hubs are useful in the sidebar, but rendering them as
+    // graph nodes creates large artificial stars that obscure subject links.
+    // Keep their links for navigation while omitting the hubs and their edges
+    // from both the compact and expanded knowledge graph.
+    const fileName = parts[parts.length - 1] || "";
+    const title = String(v.data.title || "");
+    const isNavigationNode =
+      /(?:^|[_\s-])MOC(?::|$)/i.test(fileName) ||
+      /(?:^|[_\s-])MOC(?::|$)/i.test(title) ||
+      /(?:^|\s)Index$/i.test(fileName) ||
+      /(?:^|\s)Index$/i.test(title);
+
     const isHidden =
       Boolean(v.data.hide) ||
       Boolean(v.data.hideInGraph) ||
       isHome ||
+      isNavigationNode ||
       fpath.startsWith("_System") ||
       fpath.startsWith("TEMPLATES") ||
       fpath.startsWith("_Daily") ||

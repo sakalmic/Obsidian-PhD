@@ -1,9 +1,41 @@
 ---
-{"dg-publish":true,"dg-permalink":"/minimum-dissertation-study-2026/","permalink":"/minimum-dissertation-study-2026/","title":"Minimum Dissertation Study & Research Discussion 2026","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model","topic/sf6-free/co2"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-10","dg-note-properties":{"title":"Minimum Dissertation Study & Research Discussion 2026","aliases":["Dissertation Minimum 2026","Professional Discussion 2026","Direction W Minimum Study"],"project_id":"MIN-2026","type":"project","status":"active","context":"thesis","priority":"critical","selected_direction":"W","due":"2026-09-24","due_note":"Working date; replace with the confirmed discussion date.","definition_of_done":"Direction W reviewed, minimum-study document accepted, presentation delivered, scope gates recorded, and committee feedback assigned.","parent_project":"PhD-Dissertation","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model","topic/sf6-free/co2"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model","topic/sf6-free/co2"],"created":"2026-09-03","last_updated":"2026-09-10","permalink":"/minimum-dissertation-study-2026/"}}
+title: "Professional Discussion: Dissertation Study & Research Plan (2026)"
+aliases:
+  - "Minimum Dissertation Study & Research Discussion 2026"
+  - Dissertation Minimum 2026
+  - Professional Discussion 2026
+  - Direction W Minimum Study
+project_id: MIN-2026
+type: project
+status: active
+context: thesis
+priority: critical
+selected_direction: W
+due: 2026-09-24
+due_note: "Working date; replace with the confirmed discussion date."
+definition_of_done: "Direction W reviewed, minimum-study document accepted, presentation delivered, scope gates recorded, and committee feedback assigned."
+parent_project: PhD-Dissertation
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/timing
+  - topic/ltsg/model
+  - topic/sf6-free/co2
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/timing
+  - topic/ltsg/model
+  - topic/sf6-free/co2
+created: 2026-09-03
+last_updated: 2026-09-11
+dg-publish: true
+dg-home-link: true
+permalink: /minimum-dissertation-study-2026/
+dg-permalink: /minimum-dissertation-study-2026/
 ---
 
-
-# Minimum Dissertation Study & Research Discussion 2026
+# Professional Discussion: Dissertation Study & Research Plan (2026)
 
 > [!info] Public planning status
 > This is a proposal for the professional discussion. It does not record approval by the supervisor, committee or KOS. The selected planning direction is **W**, described in the [complete direction portfolio](/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/) and the [doctoral progress review](/doctoral-progress-review-and-research-plan-2026/).
@@ -13,7 +45,7 @@
 
 ## Planning status
 
-The discussion date in the frontmatter is provisional. The title, CO₂ collaboration, apparatus access and scope remain proposed until confirmed by the competent persons. Decisions should be entered in the [Doctoral Scope & Decision Register](/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/). The hard planning boundary is dissertation completion no later than December 2029.
+The discussion date in the frontmatter is provisional. The title, CO₂ collaboration, apparatus access and scope remain proposed until confirmed by the competent persons. Decisions should be entered in the [Dissertation Scope & Decision Log](/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/). The hard planning boundary is dissertation completion no later than December 2029.
 
 ## Mission
 
@@ -454,12 +486,12 @@ The minimum-study preparation is complete when:
 ## Published supporting documents
 
 - [Doctoral Progress Review and Research Plan 2026](/doctoral-progress-review-and-research-plan-2026/)
-- [Dissertation Direction Portfolio and Winning Variant W 2026–2029](/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/)
+- [Dissertation Research Paths & Final Choice (2026–2028, 2029)](/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/)
 - [Direction B — Channel State and Prediction](/direction-b-channel-state-and-prediction-of-switching/)
 - [Direction O1 — SF₆-Free Diagnostics](/direction-o1-sf6-free-diagnostics/)
 - [Direction O2 — Fluorine-Free Media](/direction-o2-fluorine-free-media/)
-- [LTSG Core Research Package 2026–2028](/ltsg-core-research-package-2026-2028/)
+- [Core LTSG Research Programme (2026–2028)](/ltsg-core-research-package-2026-2028/)
 - [Thesis Structure & Chapter Outline](/ii-areas/03-thesis/la-te-x-thesis/thesis-structure-and-chapter-outline/)
-- [Claim Ledger & Evidence Matrix](/ii-areas/03-thesis/claim-ledger/claim-ledger-and-evidence-matrix/)
+- [Dissertation Claims & Evidence Ledger](/ii-areas/03-thesis/claim-ledger-and-evidence-matrix/)
 - [Research Methodology & Workflows](/system/research-methodology-and-workflows/)
 - [Individual Study Plan (ISP)](/ii-areas/06-administration/isp-and-evaluations/individual-study-plan-isp/)

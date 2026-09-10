@@ -1,12 +1,28 @@
 ---
-{"dg-publish":true,"dg-permalink":"/direction-o4-hybrid-crowbar/","permalink":"/direction-o4-hybrid-crowbar/","title":"Direction O4 - Optically Isolated Hybrid Crowbar","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction O4 - Optically Isolated Hybrid Crowbar","aliases":["Dissertation Direction O4"],"ticket_id":"DIR-O4","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-o4-hybrid-crowbar/"}}
+title: "O4 · Optically Isolated Hybrid Crowbar"
+aliases:
+  - "Direction O4 - Optically Isolated Hybrid Crowbar"
+  - "Dissertation Direction O4"
+ticket_id: DIR-O4
+type: project
+status: proposal
+context: thesis
+priority: high
+parent_project: MIN-2026
+direction_family: outside-the-box
+decision_state: not-selected
+date: 2026-09-10
+last_updated: 2026-09-11
+dg-publish: true
+dg-home-link: false
+permalink: /direction-o4-hybrid-crowbar/
+dg-permalink: /direction-o4-hybrid-crowbar/
 ---
 
-
-# Direction O4 — Optically Isolated Hybrid Crowbar
+# O4 · Optically Isolated Hybrid Crowbar
 
 > [!summary] Direction decision
-> **Current state:** not selected. This ticket is a self-contained option for supervisor and professional-discussion review. Selection requires a recorded decision in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].
+> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
 
 ## Purpose
 
@@ -87,11 +103,8 @@ Fastest route to a tangible demonstrator if high-current infrastructure exists.
 
 The direction is complete when its core claim is supported, falsified or quantitatively bounded by QC-passed evidence, an independent repeat and a reproducible analysis; the result is incorporated into a submitted manuscript and the corresponding dissertation chapter.
 
-## Related overview and controls
+## Related research
 
-- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
+- [[II Areas/01_Research/Concepts/202609031330 - Plasma and External Circuit Form One Dynamical System|Plasma–circuit dynamics]]
+- [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection|High-voltage arc quenching]]
