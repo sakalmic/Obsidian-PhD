@@ -1,28 +1,7 @@
 ---
-title: "Studium emise ionizujícího záření při vysokoenergetických atmosférických jevech v laboratorních podmínkách"
-aliases:
-  - "LN - Stepanova2026 - Ionising Radiation from Impulse Generators"
-type: literature
-status: complete
-context: research
-claims:
-  - EX-RAD-01
-  - EX-RAD-02
-topics:
-  - topic/ltsg/radiation
-  - topic/ltsg/metrology
-tags:
-  - topic/ltsg/radiation
-  - topic/ltsg/metrology
-date: 2026-09-02
-last_updated: 2026-09-03
-authors: "Dagmar Štěpánová"
-year: 2026
-journal_conference: "Doctoral dissertation, CTU FNSPE"
-doi: ""
-source_pdf: "III Resources/03_Literature/FEL/Stepanova_Ph_D.pdf"
-dg-publish: true
+{"dg-publish":true,"permalink":"/iii-resources/03-literature/ln-stepanova2026-ionising-radiation-from-impulse-generators/","title":"Studium emise ionizujícího záření při vysokoenergetických atmosférických jevech v laboratorních podmínkách","tags":["topic/ltsg/radiation","topic/ltsg/metrology"],"noteIcon":"","created":"2026-09-02","updated":"2026-09-03","dg-note-properties":{"title":"Studium emise ionizujícího záření při vysokoenergetických atmosférických jevech v laboratorních podmínkách","aliases":["LN - Stepanova2026 - Ionising Radiation from Impulse Generators"],"type":"literature","status":"complete","context":"research","claims":["EX-RAD-01","EX-RAD-02"],"topics":["topic/ltsg/radiation","topic/ltsg/metrology"],"tags":["topic/ltsg/radiation","topic/ltsg/metrology"],"date":"2026-09-02","last_updated":"2026-09-03","authors":"Dagmar Štěpánová","year":2026,"journal_conference":"Doctoral dissertation, CTU FNSPE","doi":"","source_pdf":"III Resources/03_Literature/FEL/Stepanova_Ph_D.pdf"}}
 ---
+
 
 # Studium emise ionizujícího záření při vysokoenergetických atmosférických jevech v laboratorních podmínkách
 
@@ -98,7 +77,7 @@ Neutron experiments should begin only after a radiation survey, mechanism assess
 
 ## Links to dissertation
 
-- [[Diagnostics - Timing EMP and Radiation]]
-- [[Research Extensions Roadmap#E2 - Ionising-radiation field mapping]]
-- [[LTSG Core Research Package 2026-2028]]
-- [[Claim Ledger & Evidence Matrix]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap#E2 - Ionising-radiation field mapping\|Research Extensions Roadmap#E2 - Ionising-radiation field mapping]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]

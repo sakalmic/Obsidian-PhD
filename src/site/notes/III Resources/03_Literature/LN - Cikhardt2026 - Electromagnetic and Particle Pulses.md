@@ -1,32 +1,7 @@
 ---
-title: "Generation of Electromagnetic and Particle Radiation Pulses in High Energy Density Plasma"
-aliases:
-  - "LN - Cikhardt2026 - Electromagnetic and Particle Pulses"
-type: literature
-status: complete
-context: research
-claims:
-  - EX-EMP-01
-  - EX-RAD-01
-  - EX-RAD-02
-topics:
-  - topic/ltsg/emp
-  - topic/ltsg/radiation
-  - topic/ltsg/application
-tags:
-  - topic/ltsg/emp
-  - topic/ltsg/radiation
-  - topic/ltsg/application
-date: 2026-09-02
-last_updated: 2026-09-03
-authors: "Jakub Cikhardt"
-year: 2026
-journal_conference: "Habilitation thesis, CTU FEE"
-doi: ""
-source_pdf: "III Resources/03_Literature/FEL/Habilitation_thesis_Cikhardt_2026.pdf"
-source_url: ""
-dg-publish: true
+{"dg-publish":true,"permalink":"/iii-resources/03-literature/ln-cikhardt2026-electromagnetic-and-particle-pulses/","title":"Generation of Electromagnetic and Particle Radiation Pulses in High Energy Density Plasma","tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application"],"noteIcon":"","created":"2026-09-02","updated":"2026-09-03","dg-note-properties":{"title":"Generation of Electromagnetic and Particle Radiation Pulses in High Energy Density Plasma","aliases":["LN - Cikhardt2026 - Electromagnetic and Particle Pulses"],"type":"literature","status":"complete","context":"research","claims":["EX-EMP-01","EX-RAD-01","EX-RAD-02"],"topics":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application"],"tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application"],"date":"2026-09-02","last_updated":"2026-09-03","authors":"Jakub Cikhardt","year":2026,"journal_conference":"Habilitation thesis, CTU FEE","doi":"","source_pdf":"III Resources/03_Literature/FEL/Habilitation_thesis_Cikhardt_2026.pdf","source_url":""}}
 ---
+
 
 # Generation of Electromagnetic and Particle Radiation Pulses in High Energy Density Plasma
 
@@ -84,8 +59,8 @@ The thesis unifies two routes to high-energy-density plasma: high-power laser-ta
 
 ## Links to dissertation
 
-- [[Diagnostics - Timing EMP and Radiation]]
-- [[Theory - Laser-Triggered Breakdown and Switching]]
-- [[Research Extensions Roadmap#E1 - Quantitative EMP fingerprinting]]
-- [[Research Extensions Roadmap#E2 - Ionising-radiation field mapping]]
-- [[Claim Ledger & Evidence Matrix]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap#E1 - Quantitative EMP fingerprinting\|Research Extensions Roadmap#E1 - Quantitative EMP fingerprinting]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap#E2 - Ionising-radiation field mapping\|Research Extensions Roadmap#E2 - Ionising-radiation field mapping]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]

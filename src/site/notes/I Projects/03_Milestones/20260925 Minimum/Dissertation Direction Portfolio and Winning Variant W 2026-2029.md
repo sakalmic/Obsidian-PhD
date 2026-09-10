@@ -1,22 +1,12 @@
 ---
-title: "Dissertation Direction Portfolio and Winning Variant W 2026-2029"
-aliases:
-  - "Dissertation Portfolio A-F O1-O8 and W"
-  - "Winning Dissertation Variant W"
-type: decision-support
-status: proposal
-context: thesis
-date: 2026-09-10
-last_updated: 2026-09-10
-dg-publish: true
-dg-home-link: false
-permalink: /dissertation-direction-portfolio-and-winning-variant-w-2026-2029/
+{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/","title":"Dissertation Direction Portfolio and Winning Variant W 2026-2029","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Dissertation Direction Portfolio and Winning Variant W 2026-2029","aliases":["Dissertation Portfolio A-F O1-O8 and W","Winning Dissertation Variant W"],"type":"decision-support","status":"proposal","context":"thesis","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/"}}
 ---
+
 
 # Dissertation Direction Portfolio and Winning Variant W, 2026–2029
 
 > [!summary] Decision status
-> This document compares all currently defined dissertation directions and proposes **W** as the preferred integrated route. It is a decision-support document, not evidence that the title, collaboration, apparatus access or authorship plan has been approved. Approval and later scope changes must be recorded in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Doctoral Scope & Decision Register]].
+> This document compares all currently defined dissertation directions and proposes **W** as the preferred integrated route. It is a decision-support document, not evidence that the title, collaboration, apparatus access or authorship plan has been approved. Approval and later scope changes must be recorded in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].
 
 ## Executive recommendation
 
@@ -313,12 +303,12 @@ W is preferred because it preserves the feasibility of B, adds a timely industri
 
 ## Related documents
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026|Dissertation Topic Options 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026|Outside-the-Box Dissertation Topics 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026\|Dissertation Topic Options 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
 
 ## Sources checked for the W proposal
 
