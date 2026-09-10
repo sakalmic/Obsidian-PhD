@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031210-statistical-and-formative-time-lags-are-different-processes/","title":"Statistical and Formative Time Lags Are Different Processes","tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/statistics"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Statistical and Formative Time Lags Are Different Processes","aliases":["Statistical time lag","Formative time lag"],"type":"concept","status":"evergreen","context":"research","claims":["CL-02","CL-06"],"topics":["topic/ltsg/timing","topic/ltsg/statistics"],"tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/statistics"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+title: "Statistical and Formative Time Lags Are Different Processes"
+aliases:
+  - Statistical time lag
+  - Formative time lag
+type: concept
+status: evergreen
+context: research
+claims: [CL-02, CL-06]
+topics:
+  - topic/ltsg/timing
+  - topic/ltsg/statistics
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/timing
+  - topic/ltsg/statistics
+created: 2026-09-03
+last_updated: 2026-09-03
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Statistical and Formative Time Lags Are Different Processes
 
@@ -36,9 +54,9 @@ The formative component can be narrow near high overvoltage but broaden when ava
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
-- **Side:** [[Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]] · [[Censored Breakdown Delays Require Survival Analysis\|Censored Breakdown Delays Require Survival Analysis]]
-- **Down:** [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]]
+- **Up:** [[Statistics - Breakdown Probability Delay and Jitter]]
+- **Side:** [[Competing Timescales Determine the Triggering Regime]] · [[Censored Breakdown Delays Require Survival Analysis]]
+- **Down:** [[CL-02 - Delay and jitter response]] · [[CL-06 - Reproducible optical and electrical stages]]
 
 ## Anchor sources
 

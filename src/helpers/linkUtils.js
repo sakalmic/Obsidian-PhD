@@ -255,6 +255,8 @@ async function computeGraph(data) {
       id: idx,
       title: v.data.title || v.fileSlug,
       url: v.url,
+      path: fpath,
+      tags: Array.isArray(v.data.tags) ? v.data.tags : (v.data.tags ? [v.data.tags] : []),
       group,
       home:
         v.data["dg-home"] ||

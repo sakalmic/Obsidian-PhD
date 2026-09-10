@@ -229,15 +229,29 @@ function renderGraph(graphData, containerId, isFullScreen) {
         gfx.hitArea = new Circle(0, 0, r + 2);
         gfx._nodeId = n.id;
 
-        // Draw node circle — current node gets main color, others get muted
-        const nodeColor = n.current ? color : mutedColor;
+        function getNodeColor(node) {
+            if (node.current) return color;
+            const p = node.path || node.url || '';
+            const tags = node.tags || [];
+            if (p.includes('01_Research/Concepts')) return 0x3498db; // Blue: Theory & Concepts
+            if (p.includes('03_Thesis/Claims')) return 0x2ecc71; // Green: Thesis Claims
+            if (p.includes('01_Research/Experiments')) return 0xf1c40f; // Yellow: Experiments
+            if (p.includes('01_Research/Simulations')) return 0x1abc9c; // Teal: COMSOL Simulations
+            if (p.includes('01_Manuscripts')) return 0xe74c3c; // Red: Manuscripts & Papers
+            if (p.includes('03_Milestones')) return 0xe67e22; // Orange: Milestones & Minimum
+            if (tags.some(t => typeof t === 'string' && (t.includes('metrology') || t.includes('timing')))) return 0x9b59b6; // Purple: Metrology
+            return mutedColor;
+        }
+
+        // Draw node circle — semantic category color, current node gets highlighted ring
+        const nodeColor = getNodeColor(n);
         gfx.beginFill(nodeColor);
         gfx.drawCircle(0, 0, r);
         gfx.endFill();
 
         if (n.current) {
-            gfx.lineStyle(0.5, color);
-            gfx.drawCircle(0, 0, r + 1.5);
+            gfx.lineStyle(1.5, color, 1);
+            gfx.drawCircle(0, 0, r + 2.5);
         }
 
         let oldLabelAlpha = 0;

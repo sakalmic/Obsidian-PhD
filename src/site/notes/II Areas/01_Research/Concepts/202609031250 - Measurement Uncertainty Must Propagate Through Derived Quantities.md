@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031250-measurement-uncertainty-must-propagate-through-derived-quantities/","title":"Measurement Uncertainty Must Propagate Through Derived Quantities","tags":["type/permanent","context/research","topic/ltsg/metrology","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Measurement Uncertainty Must Propagate Through Derived Quantities","aliases":["Measurement uncertainty propagation","GUM uncertainty model"],"type":"concept","status":"evergreen","context":"research","claims":["CL-01","CL-02","CL-03","CL-05","CL-06"],"topics":["topic/ltsg/metrology","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/metrology","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+title: "Measurement Uncertainty Must Propagate Through Derived Quantities"
+aliases:
+  - Measurement uncertainty propagation
+  - GUM uncertainty model
+type: concept
+status: evergreen
+context: research
+claims: [CL-01, CL-02, CL-03, CL-05, CL-06]
+topics:
+  - topic/ltsg/metrology
+  - topic/ltsg/model
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/metrology
+  - topic/ltsg/model
+created: 2026-09-03
+last_updated: 2026-09-03
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Measurement Uncertainty Must Propagate Through Derived Quantities
 
@@ -40,9 +58,9 @@ Nonlinear, bounded or non-Gaussian models should use Monte Carlo propagation: sa
 
 ## Connections
 
-- **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- **Side:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
-- **Down:** [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]]
+- **Up:** [[LTSG Core Research Package 2026-2028]]
+- **Side:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[Timing Jitter Must Be De-Embedded from the Measurement Chain]]
+- **Down:** [[CL-05 - Reduced predictive model]] · [[CL-06 - Reproducible optical and electrical stages]]
 
 ## Anchor sources
 
