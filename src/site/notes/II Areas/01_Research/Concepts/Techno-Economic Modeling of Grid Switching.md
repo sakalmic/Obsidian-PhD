@@ -24,7 +24,8 @@ Activate the economic work package only after a demonstrator provides measured d
 
 ---
 
-## Related permanent notes
-- [[II Areas/01_Research/Concepts/202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection\|202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix#EX-ECO-01\|EX-ECO-01]]
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline#Chapter 6: Pulsed-Power Application and Conditional Techno-Economics\|Chapter 6]]
+## Connections
+
+- **Up:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]]
+- **Side:** [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]]
+- **Down:** [[II Areas/01_Research/Concepts/202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection\|202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection]]

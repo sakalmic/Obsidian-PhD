@@ -33,20 +33,13 @@ where $\nu_i$ is an effective ionisation frequency, $\nu_a$ attachment, $\nu_r$ 
 - Vary focus position and delay because the optically produced channel and the electrically useful channel need not coincide in space or time.
 - Use the mechanism-resolved treatment in [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]].
 
-## Atomic mechanism map
+## Connections
 
-- **Strong-field seed production:** [[Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]]
-- **Nanosecond cascade growth:** [[Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
-- **Measured optical input:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
-- **Electron kinetics:** [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]] · [[Electron Energy Distribution Determines Transport Coefficients\|Electron Energy Distribution Determines Transport Coefficients]]
-- **Electrical avalanche and streamer:** [[Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]] · [[Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
-- **Channel decay and delayed assistance:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
+- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
+- **Side:** [[Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] · [[Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]
 
----
+## Anchor sources
 
-## Knowledge-graph connections
-- **Parent concept:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]] · [[II Areas/01_Research/01_MOC\|01_Research MOC]]
-- **Application:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
-- **Dissertation links:** [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix#CL-03\|CL-03]] · [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix#CL-05\|CL-05]] · [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline#Chapter 2: Theoretical & Physical Foundations of Plasma Switching\|Chapter 2]]
-- **Primary anchors:** Rosenthal et al. 2020, [doi:10.1364/OE.398836](https://doi.org/10.1364/OE.398836); Gao et al. 2022, [doi:10.1007/s00340-022-07907-7](https://doi.org/10.1007/s00340-022-07907-7)
-- **Unverified lead:** [[III Resources/03_Literature/LN - Mikes2024 - Laser Spark Gaps\|LN - Mikes2024 - Laser Spark Gaps]] — do not use as evidence until its metadata and full text are verified.
+- Rosenthal et al. 2020, [doi:10.1364/OE.398836](https://doi.org/10.1364/OE.398836).
+- Gao et al. 2022, [doi:10.1007/s00340-022-07907-7](https://doi.org/10.1007/s00340-022-07907-7).

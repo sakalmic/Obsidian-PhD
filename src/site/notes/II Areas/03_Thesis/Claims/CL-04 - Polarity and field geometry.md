@@ -23,10 +23,8 @@ This is a supporting robustness question, not a condition for successful complet
 
 Report an interaction estimate with uncertainty. A null result becomes a quantitative bound and does not trigger an uncontrolled expansion of geometries.
 
-## Links
+## Connections
 
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[Electrode Geometry and Polarity Shape the Local Field\|Electrode Geometry and Polarity Shape the Local Field]]
-- [[Photoionization Enables Positive Streamer Propagation in Air\|Photoionization Enables Positive Streamer Propagation in Air]]
-- [[Electrode Conditioning Creates History Dependence\|Electrode Conditioning Creates History Dependence]]
+- **Up:** [[Electrode Geometry and Polarity Shape the Local Field\|Electrode Geometry and Polarity Shape the Local Field]] · [[Photoionization Enables Positive Streamer Propagation in Air\|Photoionization Enables Positive Streamer Propagation in Air]] · [[Electrode Conditioning Creates History Dependence\|Electrode Conditioning Creates History Dependence]]
+- **Side:** [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]]
+- **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]

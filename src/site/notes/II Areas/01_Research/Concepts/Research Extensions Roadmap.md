@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","title":"Research Extensions Roadmap","tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-09","dg-note-properties":{"title":"Research Extensions Roadmap","aliases":["LTSG Extensions","Dissertation Extensions"],"type":"roadmap","status":"planned","context":"research","topics":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"date":"2026-09-02","last_updated":"2026-09-09","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/"},"dg-permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/"}
+{"dg-publish":true,"dg-permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","title":"Research Extensions Roadmap","tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-09","dg-note-properties":{"title":"Research Extensions Roadmap","aliases":["LTSG Extensions","Dissertation Extensions"],"type":"roadmap","status":"planned","context":"research","topics":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"date":"2026-09-02","last_updated":"2026-09-09","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/"}}
 ---
 
 
@@ -143,12 +143,8 @@ The core package is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-20
 | E9 demonstrator | High applied | High | Core validated | Stretch goal |
 | E10 economics | Conditional | Medium | Real reliability/cost data | Late-stage only |
 
-## Related notes
+## Connections
 
-- [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
-- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
-- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]]
-- [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]]
+- **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]]
+- **Down:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]]

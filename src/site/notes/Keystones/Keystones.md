@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/keystones/","title":"Keystones","tags":["type/moc","context/phd"],"noteIcon":"","dg-note-properties":{"permalink":"/keystones/","title":"Keystones","tags":["type/moc","context/phd"]},"dg-permalink":"/keystones/"}
+{"dg-publish":true,"dg-permalink":"/keystones/","permalink":"/keystones/","title":"Keystones","tags":["type/moc","context/phd"],"noteIcon":"","dg-note-properties":{"permalink":"/keystones/","title":"Keystones","tags":["type/moc","context/phd"]}}
 ---
 
 

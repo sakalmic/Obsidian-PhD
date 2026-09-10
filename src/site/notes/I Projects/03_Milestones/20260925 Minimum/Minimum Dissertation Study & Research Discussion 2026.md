@@ -1,38 +1,7 @@
 ---
-title: "Minimum Dissertation Study & Research Discussion 2026"
-aliases:
-  - Dissertation Minimum 2026
-  - Professional Discussion 2026
-  - Direction W Minimum Study
-project_id: MIN-2026
-type: project
-status: active
-context: thesis
-priority: critical
-selected_direction: W
-due: 2026-09-24
-due_note: "Working date; replace with the confirmed discussion date."
-definition_of_done: "Direction W reviewed, minimum-study document accepted, presentation delivered, scope gates recorded, and committee feedback assigned."
-parent_project: PhD-Dissertation
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-  - topic/ltsg/model
-  - topic/sf6-free/co2
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-  - topic/ltsg/model
-  - topic/sf6-free/co2
-created: 2026-09-03
-last_updated: 2026-09-10
-dg-publish: true
-dg-home-link: true
-permalink: /minimum-dissertation-study-2026/
-dg-permalink: /minimum-dissertation-study-2026/
+{"dg-publish":true,"dg-permalink":"/minimum-dissertation-study-2026/","permalink":"/minimum-dissertation-study-2026/","title":"Minimum Dissertation Study & Research Discussion 2026","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model","topic/sf6-free/co2"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-10","dg-note-properties":{"title":"Minimum Dissertation Study & Research Discussion 2026","aliases":["Dissertation Minimum 2026","Professional Discussion 2026","Direction W Minimum Study"],"project_id":"MIN-2026","type":"project","status":"active","context":"thesis","priority":"critical","selected_direction":"W","due":"2026-09-24","due_note":"Working date; replace with the confirmed discussion date.","definition_of_done":"Direction W reviewed, minimum-study document accepted, presentation delivered, scope gates recorded, and committee feedback assigned.","parent_project":"PhD-Dissertation","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model","topic/sf6-free/co2"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model","topic/sf6-free/co2"],"created":"2026-09-03","last_updated":"2026-09-10","permalink":"/minimum-dissertation-study-2026/"}}
 ---
+
 
 # Minimum Dissertation Study & Research Discussion 2026
 

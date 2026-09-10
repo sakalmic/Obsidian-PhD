@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/direction-e-synchronization-of-two-spark-gaps/","title":"Direction E - Synchronization of Two Spark Gaps","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction E - Synchronization of Two Spark Gaps","aliases":["Dissertation Direction E"],"ticket_id":"DIR-E","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"core","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-e-synchronization-of-two-spark-gaps/"},"dg-permalink":"/direction-e-synchronization-of-two-spark-gaps/"}
+{"dg-publish":true,"dg-permalink":"/direction-e-synchronization-of-two-spark-gaps/","permalink":"/direction-e-synchronization-of-two-spark-gaps/","title":"Direction E - Synchronization of Two Spark Gaps","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction E - Synchronization of Two Spark Gaps","aliases":["Dissertation Direction E"],"ticket_id":"DIR-E","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"core","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-e-synchronization-of-two-spark-gaps/"}}
 ---
 
 

@@ -33,8 +33,8 @@ Uncertain physical performance must enter before economic aggregation. Monte Car
 
 ---
 
-## Knowledge-graph connections
-- **Parent concept:** [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] · [[II Areas/01_Research/01_MOC\|01_Research MOC]]
-- **Physical prerequisites:** [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]] · [[Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]]
-- **Uncertainty:** [[Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]]
-- **Dissertation link:** [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix#EX-ECO-01\|EX-ECO-01]] · [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline#Chapter 6: Pulsed-Power Application and Conditional Techno-Economics\|Chapter 6]]
+## Connections
+
+- **Up:** [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]]
+- **Side:** [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]] · [[Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]]
+- **Down:** [[Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]]

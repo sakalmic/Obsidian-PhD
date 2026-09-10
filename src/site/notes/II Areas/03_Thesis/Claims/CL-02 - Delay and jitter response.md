@@ -27,11 +27,8 @@ Within a reproducible operating window, measured laser/channel intensity initial
 
 Support requires a predeclared trend or model comparison that remains after adjustment for $k$, session and electrode state. If saturation is not resolved, report the observed range and do not claim a plateau.
 
-## Links
+## Connections
 
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- [[Statistical and Formative Time Lags Are Different Processes\|Statistical and Formative Time Lags Are Different Processes]]
-- [[Censored Breakdown Delays Require Survival Analysis\|Censored Breakdown Delays Require Survival Analysis]]
-- [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
+- **Up:** [[Statistical and Formative Time Lags Are Different Processes\|Statistical and Formative Time Lags Are Different Processes]] · [[Censored Breakdown Delays Require Survival Analysis\|Censored Breakdown Delays Require Survival Analysis]] · [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
+- **Side:** [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]
+- **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]

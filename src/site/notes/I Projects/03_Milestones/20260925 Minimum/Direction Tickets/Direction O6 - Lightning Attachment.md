@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/direction-o6-lightning-attachment/","title":"Direction O6 - Laser Control of Lightning Attachment","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction O6 - Laser Control of Lightning Attachment","aliases":["Dissertation Direction O6"],"ticket_id":"DIR-O6","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-o6-lightning-attachment/"},"dg-permalink":"/direction-o6-lightning-attachment/"}
+{"dg-publish":true,"dg-permalink":"/direction-o6-lightning-attachment/","permalink":"/direction-o6-lightning-attachment/","title":"Direction O6 - Laser Control of Lightning Attachment","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction O6 - Laser Control of Lightning Attachment","aliases":["Dissertation Direction O6"],"ticket_id":"DIR-O6","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-o6-lightning-attachment/"}}
 ---
 
 

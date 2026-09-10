@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/","title":"Doctoral Document Map","noteIcon":"","created":"2026-09-07","updated":"2026-09-09","dg-note-properties":{"title":"Doctoral Document Map","type":"administration","status":"active","context":"thesis","date":"2026-09-07","last_updated":"2026-09-09","permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/"},"dg-permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/"}
+{"dg-publish":true,"dg-permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/","permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/","title":"Doctoral Document Map","noteIcon":"","created":"2026-09-07","updated":"2026-09-09","dg-note-properties":{"title":"Doctoral Document Map","type":"administration","status":"active","context":"thesis","date":"2026-09-07","last_updated":"2026-09-09","permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/"}}
 ---
 
 
