@@ -990,9 +990,3 @@ aside,
   color: var(--text-muted, #6b7280) !important;
 }
 
-body:has(.phd-home) .filetree-graph,
-body:has(.phd-home) #graph-component,
-.phd-home #graph-component {
-  display: none !important;
-}
-

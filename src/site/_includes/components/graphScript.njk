@@ -447,6 +447,22 @@ function renderGraph(graphData, containerId, isFullScreen) {
 }
 
 // --- Initialize ---
+function getGlobalGraphData(graphData) {
+    if (!graphData || !graphData.nodes) return null;
+    const allNodes = JSON.parse(JSON.stringify(graphData.nodes));
+    const allLinks = JSON.parse(JSON.stringify(graphData.links));
+    const visibleNodes = Object.values(allNodes).filter(n => !n.hide);
+    const visibleIds = new Set(visibleNodes.map(n => n.id));
+    return {
+        nodes: visibleNodes,
+        links: allLinks.filter(l => {
+            const sid = typeof l.source === 'object' ? l.source.id : l.source;
+            const tid = typeof l.target === 'object' ? l.target.id : l.target;
+            return visibleIds.has(sid) && visibleIds.has(tid);
+        }),
+    };
+}
+
 let graphDataCache = null;
 let localGraphCleanup = null;
 let globalGraphCleanup = null;
@@ -470,7 +486,31 @@ function renderLocal() {
         localGraphCleanup();
         localGraphCleanup = null;
     }
-    const data = filterLocalGraphData(graphDataCache, localGraphDepth);
+
+    let currentLink = decodeURI(window.location.pathname);
+    let currentNode = graphDataCache.nodes ? graphDataCache.nodes[currentLink] : null;
+    if (!currentNode && graphDataCache.nodes) {
+        const lower = currentLink.toLowerCase();
+        currentNode = Object.values(graphDataCache.nodes).find(v => v.url.toLowerCase() === lower);
+    }
+    const isHomePage = !currentNode || currentNode.home || currentNode.hide || currentLink === '/' || currentLink === '/home/';
+
+    const titleEl = document.querySelector('#graph-component .graph-title');
+    const depthCtrl = document.getElementById('graph-depth-label')?.parentElement;
+
+    let data;
+    if (isHomePage) {
+        if (titleEl) titleEl.textContent = 'Doctoral Knowledge Graph';
+        if (depthCtrl) depthCtrl.style.display = 'none';
+        data = getGlobalGraphData(graphDataCache);
+    } else {
+        if (titleEl) titleEl.textContent = 'Connected Pages';
+        if (depthCtrl) depthCtrl.style.display = '';
+        data = filterLocalGraphData(graphDataCache, localGraphDepth);
+        if (!data || data.nodes.length <= 1) {
+            data = filterLocalGraphData(graphDataCache, 2) || getGlobalGraphData(graphDataCache);
+        }
+    }
     const cleanup = renderGraph(data, 'link-graph', false);
     localGraphCleanup = cleanup;
 }
@@ -506,8 +546,15 @@ function openModal(data) {
 }
 
 function openExpandedLocalGraph() {
-    const data = filterLocalGraphData(graphDataCache, localGraphDepth);
-    openModal(data);
+    let currentLink = decodeURI(window.location.pathname);
+    let currentNode = graphDataCache?.nodes ? graphDataCache.nodes[currentLink] : null;
+    if (!currentNode && graphDataCache?.nodes) {
+        const lower = currentLink.toLowerCase();
+        currentNode = Object.values(graphDataCache.nodes).find(v => v.url.toLowerCase() === lower);
+    }
+    const isHomePage = !currentNode || currentNode.home || currentNode.hide || currentLink === '/' || currentLink === '/home/';
+    const data = isHomePage ? getGlobalGraphData(graphDataCache) : (filterLocalGraphData(graphDataCache, localGraphDepth) || getGlobalGraphData(graphDataCache));
+    openModal(data || getGlobalGraphData(graphDataCache));
 }
 
 function closeFullGraph() {
@@ -519,7 +566,13 @@ function closeFullGraph() {
 }
 
 // Expose to Alpine
-window.__graph = { openExpandedLocalGraph, closeFullGraph, rerenderLocal: renderLocal, setLocalGraphDepth };
+window.__graph = { 
+    openExpandedLocalGraph, 
+    openExpandedGlobalGraph: () => openModal(getGlobalGraphData(graphDataCache)),
+    closeFullGraph, 
+    rerenderLocal: renderLocal, 
+    setLocalGraphDepth 
+};
 
 // Re-render when the style editor changes CSS variables
 document.addEventListener('forestry:css-changed', function() {
