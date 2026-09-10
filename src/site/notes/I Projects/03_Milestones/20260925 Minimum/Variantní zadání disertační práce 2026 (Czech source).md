@@ -1,12 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/variantni-zadani-disertacni-prace-2026-czech-source/","title":"Variantní zadání disertační práce 2026","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/application"],"noteIcon":"","created":"2026-09-08","updated":"2026-09-09","dg-note-properties":{"title":"Variantní zadání disertační práce 2026","aliases":["Variant Dissertation Topics 2026","Variantní zadání disertace"],"type":"decision-support","status":"proposal","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/application"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/application"],"date":"2026-09-08","last_updated":"2026-09-09"}}
+title: Variantní zadání disertační práce 2026
+aliases:
+  - Variant Dissertation Topics 2026
+  - Variantní zadání disertace
+type: decision-support
+status: proposal
+context: thesis
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/application
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/application
+date: 2026-09-08
+last_updated: 2026-09-09
+dg-publish: true
+dg-home-link: false
 ---
-
 
 # Variantní zadání disertační práce
 
 > [!info] Stav dokumentu
-> Jde o veřejný rozhodovací podklad k diskusi. Varianty nejsou schváleným zadáním disertační práce. Odvážnější směry reagující na současné technologické a komerční otázky jsou zpracovány v [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|samostatném přehledu outside-the-box témat]].
+> Jde o veřejný rozhodovací podklad k diskusi. Varianty nejsou schváleným zadáním disertační práce. Odvážnější směry reagující na současné technologické a komerční otázky jsou zpracovány v [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026|samostatném přehledu outside-the-box témat]].
 
 ## Návaznost na laserové spouštění vysokonapěťového jiskřiště
 

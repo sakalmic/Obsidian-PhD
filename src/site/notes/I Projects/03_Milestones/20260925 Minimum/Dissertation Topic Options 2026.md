@@ -24,7 +24,7 @@ permalink: /dissertation-topic-options-2026/
 # Dissertation Topic Options 2026
 
 > [!info] Document status
-> This is a public decision-support proposal for discussion. None of the options constitutes an approved dissertation assignment. Emerging directions responding to current technological and commercial questions are assessed in [[Outside-the-Box Dissertation Topics 2026]].
+> This is a public decision-support proposal for discussion. None of the options constitutes an approved dissertation assignment. Emerging directions responding to current technological and commercial questions are assessed in [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026|Outside-the-Box Dissertation Topics 2026]].
 
 ## Individual direction tickets
 
@@ -32,12 +32,12 @@ Each option has a separate executable ticket with its own scope, equipment, work
 
 | Option | Direction ticket | Recommended role |
 | --- | --- | --- |
-| A | [[Direction A - Reliability and Robust Operating Window]] | Low-risk core or fallback |
-| B | [[Direction B - Channel State and Prediction of Switching]] | Recommended scientific core |
-| C | [[Direction C - Adaptive Control and Operational Utility]] | Control and application branch |
-| D | [[Direction D - Spatial Shaping of the Laser-Created Channel]] | Conditional optics extension |
-| E | [[Direction E - Synchronization of Two Spark Gaps]] | Conditional multi-gap demonstrator |
-| F | [[Direction F - Dielectric Recovery and Component Wear]] | Conditional lifetime/recovery branch |
+| A | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction A - Reliability and Robust Operating Window\|Direction A - Reliability and Robust Operating Window]] | Low-risk core or fallback |
+| B | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction B - Channel State and Prediction of Switching\|Direction B - Channel State and Prediction of Switching]] | Recommended scientific core |
+| C | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction C - Adaptive Control and Operational Utility\|Direction C - Adaptive Control and Operational Utility]] | Control and application branch |
+| D | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction D - Spatial Shaping of the Laser-Created Channel\|Direction D - Spatial Shaping of the Laser-Created Channel]] | Conditional optics extension |
+| E | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction E - Synchronization of Two Spark Gaps\|Direction E - Synchronization of Two Spark Gaps]] | Conditional multi-gap demonstrator |
+| F | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction F - Dielectric Recovery and Component Wear\|Direction F - Dielectric Recovery and Component Wear]] | Conditional lifetime/recovery branch |
 
 ## Continuity with laser-triggered high-voltage spark-gap research
 
@@ -326,9 +326,9 @@ A meaningful economic metric is cost per valid laboratory pulse at equal amplitu
 
 **[S2] Master’s thesis reviews.** Reviews by Eva Müllerová and Jan Mikeš, 2024, particularly the questions concerning the number of trials, applications, and gap-length extensions.
 
-**[S3] [[LTSG Core Research Package 2026-2028]].** Current internal core-research proposal, including contributions C-A to C-C, metrology, validation, and scope boundaries.
+**[S3] [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]].** Current internal core-research proposal, including contributions C-A to C-C, metrology, validation, and scope boundaries.
 
-**[S4] [[Doctoral Scope & Decision Register]].** Register used to distinguish proposals from confirmed assignments, equipment access, and study requirements.
+**[S4] [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Doctoral Scope & Decision Register]].** Register used to distinguish proposals from confirmed assignments, equipment access, and study requirements.
 
 **[S5] Sakala et al.** *The Dynamics of Laser-Driven Ionisation in High-Voltage Circuit Switching.* Local APL 2025 conference manuscript; method and Tables II–III were reviewed.
 

@@ -20,7 +20,7 @@ permalink: /direction-d-spatial-shaping-of-the-laser-created-channel/
 # Direction D — Spatial Shaping of the Laser-Created Channel
 
 > [!summary] Direction decision
-> **Current state:** not selected. This ticket is a self-contained option for supervisor and professional-discussion review. Selection requires a recorded decision in [[Doctoral Scope & Decision Register]].
+> **Current state:** not selected. This ticket is a self-contained option for supervisor and professional-discussion review. Selection requires a recorded decision in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Doctoral Scope & Decision Register]].
 
 ## Purpose
 
@@ -103,9 +103,9 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related overview and controls
 
-- [[Dissertation Topic Options 2026]]
-- [[Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
-- [[Minimum Dissertation Study & Research Discussion 2026]]
-- [[LTSG Core Research Package 2026-2028]]
-- [[Claim Ledger & Evidence Matrix]]
-- [[ISP & Milestone Tracking]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026|Dissertation Topic Options 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
+- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking|ISP & Milestone Tracking]]

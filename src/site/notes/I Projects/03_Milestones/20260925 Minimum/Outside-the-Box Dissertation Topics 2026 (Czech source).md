@@ -1,7 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/outside-the-box-dissertation-topics-2026-czech-source/","title":"Outside-the-Box témata disertační práce 2026","tags":["topic/ltsg/application","topic/ltsg/economics","topic/ltsg/breakdown"],"noteIcon":"","created":"2026-09-09","updated":"2026-09-09","dg-note-properties":{"title":"Outside-the-Box témata disertační práce 2026","aliases":["Outside-the-Box Dissertation Topics 2026","Odvážná témata disertace"],"type":"decision-support","status":"proposal","context":"thesis","topics":["topic/ltsg/application","topic/ltsg/economics","topic/ltsg/breakdown"],"tags":["topic/ltsg/application","topic/ltsg/economics","topic/ltsg/breakdown"],"date":"2026-09-09","last_updated":"2026-09-09"}}
+title: Outside-the-Box témata disertační práce 2026
+aliases:
+  - Outside-the-Box Dissertation Topics 2026
+  - Odvážná témata disertace
+type: decision-support
+status: proposal
+context: thesis
+topics:
+  - topic/ltsg/application
+  - topic/ltsg/economics
+  - topic/ltsg/breakdown
+tags:
+  - topic/ltsg/application
+  - topic/ltsg/economics
+  - topic/ltsg/breakdown
+date: 2026-09-09
+last_updated: 2026-09-09
+dg-publish: true
+dg-home-link: false
 ---
-
 
 # Outside-the-Box témata disertační práce 2026
 
@@ -9,7 +26,7 @@
 
 Diplomová práce a navazující experimenty dávají dobrý základ v laserem řízeném průrazu, časování výboje a vysokonapěťové diagnostice. Komerčně nejsilnější pokračování však nemusí být „ještě přesnější jiskřiště“. Větší hodnotu může mít měřicí metoda, zkušební služba, algoritmus kvalifikace nebo opticky izolovaný modul, který řeší konkrétní problém vznikající při dekarbonizaci energetiky.
 
-Tento dokument rozšiřuje [[Variant Dissertation Topics 2026\|šest proveditelných variant]] o směry motivované současným trhem a regulací. Nejde o schválená témata ani o patentovou rešerši. Komerční potenciál znamená identifikovatelnou skupinu zákazníků a měřitelnou hodnotu; neznamená připravený výrobek.
+Tento dokument rozšiřuje [[Variant Dissertation Topics 2026|šest proveditelných variant]] o směry motivované současným trhem a regulací. Nejde o schválená témata ani o patentovou rešerši. Komerční potenciál znamená identifikovatelnou skupinu zákazníků a měřitelnou hodnotu; neznamená připravený výrobek.
 
 ## Nejdůležitější současný impuls
 
@@ -235,7 +252,7 @@ Tato formulace spojuje O1 a O2, ale musí být zúžena na jednu referenční be
 4. nezávislá validace na jiné sérii či geometrii;
 5. návrh diagnostického nebo kvalifikačního demonstrátoru s vyčíslenou hodnotou pro partnera.
 
-Pokud nebude tlaková cela nebo průmyslový partner potvrzen do března 2027, je bezpečnější zachovat [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|současné jádro]] a O1 realizovat jako omezené rozšíření v čistém vzduchu.
+Pokud nebude tlaková cela nebo průmyslový partner potvrzen do března 2027, je bezpečnější zachovat [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|současné jádro]] a O1 realizovat jako omezené rozšíření v čistém vzduchu.
 
 ## Zdroje a hranice posouzení
 

@@ -33,14 +33,14 @@ permalink: /minimum-dissertation-study-2026/
 # Minimum Dissertation Study & Research Discussion 2026
 
 > [!info] Public planning status
-> This is a working scope proposal for discussion. It does not record approval by the supervisor, committee or KOS. See [[Variant Dissertation Topics 2026|the comparison of six executable variants]] and [[Outside-the-Box Dissertation Topics 2026|the technology-opportunity scan]].
+> This is a working scope proposal for discussion. It does not record approval by the supervisor, committee or KOS. See [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026|the comparison of six executable variants]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026|the technology-opportunity scan]].
 
 > [!tip] Executable direction tickets
-> The detailed schedules and gates are maintained in [[Dissertation Topic Options 2026#Individual direction tickets|core direction tickets A–F]] and [[Outside-the-Box Dissertation Topics 2026#Individual direction tickets|commercial and high-risk direction tickets O1–O8]].
+> The detailed schedules and gates are maintained in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026#Individual direction tickets|core direction tickets A–F]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026#Individual direction tickets|commercial and high-risk direction tickets O1–O8]].
 
 ## Planning status
 
-The `due` date is provisional. No completed discussion or approved title is asserted. Record confirmation in [[Doctoral Scope & Decision Register]]. The document hierarchy is [[Doctoral Document Map]].
+The `due` date is provisional. No completed discussion or approved title is asserted. Record confirmation in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Doctoral Scope & Decision Register]]. The document hierarchy is [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]].
 
 ## Mission
 
@@ -136,10 +136,10 @@ How strongly do polarity and field geometry modify the identified relationships?
 
 | Contribution | Claims | Minimum successful output |
 | --- | --- | --- |
-| **C-A — Reproducible operating window** | [[CL-01 - Laser-assisted breakdown probability]], [[CL-02 - Delay and jitter response]] | Normalised probability and delay model with uncertainty and independent repeat |
-| **C-B — Channel-state mechanism** | [[CL-03 - Channel state versus pulse energy]], [[CL-06 - Reproducible optical and electrical stages]] | Held-out comparison showing what channel measurements add beyond nominal energy |
-| **C-C — Predictive reduced model** | [[CL-05 - Reduced predictive model]] | Prediction of at least one untouched outcome with declared tolerance |
-| Supporting robustness | [[CL-04 - Polarity and field geometry]] | Interaction estimate or defensible quantitative bound |
+| **C-A — Reproducible operating window** | [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]], [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] | Normalised probability and delay model with uncertainty and independent repeat |
+| **C-B — Channel-state mechanism** | [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]], [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] | Held-out comparison showing what channel measurements add beyond nominal energy |
+| **C-C — Predictive reduced model** | [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] | Prediction of at least one untouched outcome with declared tolerance |
+| Supporting robustness | [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]] | Interaction estimate or defensible quantitative bound |
 
 Negative or bounded results remain valid if the protocol, metrology and statistical power are defensible.
 
@@ -411,11 +411,11 @@ Reserve at least one half-day per week for supervisor/colleague feedback and one
 
 ## Dependencies
 
-- [[LTSG Core Research Package 2026-2028]]
-- [[Thesis Structure & Chapter Outline]]
-- [[Claim Ledger & Evidence Matrix]]
-- [[Research Methodology & Workflows]]
-- [[ISP & Milestone Tracking]]
-- [[LN - Sakala2025 - APL Lightning Protection]]
-- [[LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
-- [[LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline|Thesis Structure & Chapter Outline]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
+- [[_System/Research Methodology & Workflows|Research Methodology & Workflows]]
+- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking|ISP & Milestone Tracking]]
+- [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection|LN - Sakala2025 - APL Lightning Protection]]
+- [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]
+- [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]]

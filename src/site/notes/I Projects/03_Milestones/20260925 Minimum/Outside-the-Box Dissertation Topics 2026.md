@@ -24,7 +24,7 @@ permalink: /outside-the-box-dissertation-topics-2026/
 # Outside-the-Box Dissertation Topics 2026
 
 > [!info] Document status
-> This is a public opportunity scan for supervisor discussion. It does not constitute an approved dissertation assignment, a laboratory reservation, a commercial forecast, or a patent-freedom opinion. The lower-risk continuation options are assessed in [[Variant Dissertation Topics 2026]].
+> This is a public opportunity scan for supervisor discussion. It does not constitute an approved dissertation assignment, a laboratory reservation, a commercial forecast, or a patent-freedom opinion. The lower-risk continuation options are assessed in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026|Variant Dissertation Topics 2026]].
 
 ## Individual direction tickets
 
@@ -32,14 +32,14 @@ The opportunity scan remains the comparison layer. The linked tickets contain th
 
 | ID | Direction ticket | Recommended role |
 | --- | --- | --- |
-| O1 | [[Direction O1 - SF6-Free Diagnostics]] | Best commercial branch |
-| O2 | [[Direction O2 - Fluorine-Free Media]] | Best physics and engineering branch |
-| O3 | [[Direction O3 - Switchgear Digital Twin]] | Data, reliability and economics branch |
-| O4 | [[Direction O4 - Hybrid Crowbar]] | Fastest system demonstrator |
-| O5 | [[Direction O5 - Multi-Gap Synchronisation]] | Pulsed-power niche |
-| O6 | [[Direction O6 - Lightning Attachment]] | Collaboration-dependent high-impact route |
-| O7 | [[Direction O7 - Luminous Plasma Structures]] | Time-boxed moonshot |
-| O8 | [[Direction O8 - Hydrogen-Ammonia Ignition]] | Energy-transition branch |
+| O1 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O1 - SF6-Free Diagnostics\|Direction O1 - SF6-Free Diagnostics]] | Best commercial branch |
+| O2 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O2 - Fluorine-Free Media\|Direction O2 - Fluorine-Free Media]] | Best physics and engineering branch |
+| O3 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O3 - Switchgear Digital Twin\|Direction O3 - Switchgear Digital Twin]] | Data, reliability and economics branch |
+| O4 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O4 - Hybrid Crowbar\|Direction O4 - Hybrid Crowbar]] | Fastest system demonstrator |
+| O5 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O5 - Multi-Gap Synchronisation\|Direction O5 - Multi-Gap Synchronisation]] | Pulsed-power niche |
+| O6 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O6 - Lightning Attachment\|Direction O6 - Lightning Attachment]] | Collaboration-dependent high-impact route |
+| O7 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O7 - Luminous Plasma Structures\|Direction O7 - Luminous Plasma Structures]] | Time-boxed moonshot |
+| O8 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O8 - Hydrogen-Ammonia Ignition\|Direction O8 - Hydrogen-Ammonia Ignition]] | Energy-transition branch |
 
 ## Why look beyond the original assignment
 
@@ -262,7 +262,7 @@ The combined topic would aim to deliver five contributions:
 4. a diagnostic or qualification demonstrator relevant to SF6-free equipment;
 5. design and monitoring rules with explicit pressure, geometry, voltage, and uncertainty limits.
 
-The core should compare air with one industrially justified medium or mixture. If a pressure-rated chamber or industrial partner is unavailable by the first major gate, the fallback is the air-based channel-state topic in [[Variant Dissertation Topics 2026]], preserving the metrology and modelling work.
+The core should compare air with one industrially justified medium or mixture. If a pressure-rated chamber or industrial partner is unavailable by the first major gate, the fallback is the air-based channel-state topic in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026|Variant Dissertation Topics 2026]], preserving the metrology and modelling work.
 
 ## Sources and assessment boundaries
 
