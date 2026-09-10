@@ -1,12 +1,43 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/dissertation-topic-options-2026/","title":"Dissertation Topic Options 2026","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/application"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-08","updated":"2026-09-09","dg-note-properties":{"title":"Dissertation Topic Options 2026","aliases":["Variant Dissertation Topics 2026","Dissertation Topic Options"],"type":"decision-support","status":"proposal","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/application"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/application"],"date":"2026-09-08","last_updated":"2026-09-09","permalink":"/dissertation-topic-options-2026/"}}
+title: "Dissertation Topic Options 2026"
+aliases:
+  - Variant Dissertation Topics 2026
+  - Dissertation Topic Options
+type: decision-support
+status: proposal
+context: thesis
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/application
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/application
+date: 2026-09-08
+last_updated: 2026-09-10
+dg-publish: true
+dg-home-link: true
+permalink: /dissertation-topic-options-2026/
 ---
-
 
 # Dissertation Topic Options 2026
 
 > [!info] Document status
-> This is a public decision-support proposal for discussion. None of the options constitutes an approved dissertation assignment. Emerging directions responding to current technological and commercial questions are assessed in [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]].
+> This is a public decision-support proposal for discussion. None of the options constitutes an approved dissertation assignment. Emerging directions responding to current technological and commercial questions are assessed in [[Outside-the-Box Dissertation Topics 2026]].
+
+## Individual direction tickets
+
+Each option has a separate executable ticket with its own scope, equipment, work packages, schedule, gates, risks and definition of done.
+
+| Option | Direction ticket | Recommended role |
+| --- | --- | --- |
+| A | [[Direction A - Reliability and Robust Operating Window]] | Low-risk core or fallback |
+| B | [[Direction B - Channel State and Prediction of Switching]] | Recommended scientific core |
+| C | [[Direction C - Adaptive Control and Operational Utility]] | Control and application branch |
+| D | [[Direction D - Spatial Shaping of the Laser-Created Channel]] | Conditional optics extension |
+| E | [[Direction E - Synchronization of Two Spark Gaps]] | Conditional multi-gap demonstrator |
+| F | [[Direction F - Dielectric Recovery and Component Wear]] | Conditional lifetime/recovery branch |
 
 ## Continuity with laser-triggered high-voltage spark-gap research
 
@@ -295,9 +326,9 @@ A meaningful economic metric is cost per valid laboratory pulse at equal amplitu
 
 **[S2] Master’s thesis reviews.** Reviews by Eva Müllerová and Jan Mikeš, 2024, particularly the questions concerning the number of trials, applications, and gap-length extensions.
 
-**[S3] [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]].** Current internal core-research proposal, including contributions C-A to C-C, metrology, validation, and scope boundaries.
+**[S3] [[LTSG Core Research Package 2026-2028]].** Current internal core-research proposal, including contributions C-A to C-C, metrology, validation, and scope boundaries.
 
-**[S4] [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].** Register used to distinguish proposals from confirmed assignments, equipment access, and study requirements.
+**[S4] [[Doctoral Scope & Decision Register]].** Register used to distinguish proposals from confirmed assignments, equipment access, and study requirements.
 
 **[S5] Sakala et al.** *The Dynamics of Laser-Driven Ionisation in High-Voltage Circuit Switching.* Local APL 2025 conference manuscript; method and Tables II–III were reviewed.
 
@@ -318,5 +349,4 @@ A meaningful economic metric is cost per valid laboratory pulse at equal amplitu
 **[S12] Savage and Stoltzfus.** *High reliability low jitter 80 kV pulse generator.* Physical Review ST Accel. Beams 12, 080401 (2009), DOI 10.1103/PhysRevSTAB.12.080401.
 
 Public sources were checked on 8 September 2026. This was a targeted decision review, not a systematic literature or patent search. The originality of the final assignment must be checked against the precisely selected hypothesis and operating regime.
-
 

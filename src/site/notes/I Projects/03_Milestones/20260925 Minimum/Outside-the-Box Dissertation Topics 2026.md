@@ -1,12 +1,45 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/outside-the-box-dissertation-topics-2026/","title":"Outside-the-Box Dissertation Topics 2026","tags":["topic/ltsg/application","topic/ltsg/breakdown","topic/ltsg/economics"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-09","updated":"2026-09-09","dg-note-properties":{"title":"Outside-the-Box Dissertation Topics 2026","aliases":["Emerging Dissertation Topics","Commercial Dissertation Opportunities"],"type":"decision-support","status":"proposal","context":"thesis","topics":["topic/ltsg/application","topic/ltsg/breakdown","topic/ltsg/economics"],"tags":["topic/ltsg/application","topic/ltsg/breakdown","topic/ltsg/economics"],"date":"2026-09-09","last_updated":"2026-09-09","permalink":"/outside-the-box-dissertation-topics-2026/"}}
+title: "Outside-the-Box Dissertation Topics 2026"
+aliases:
+  - Emerging Dissertation Topics
+  - Commercial Dissertation Opportunities
+type: decision-support
+status: proposal
+context: thesis
+topics:
+  - topic/ltsg/application
+  - topic/ltsg/breakdown
+  - topic/ltsg/economics
+tags:
+  - topic/ltsg/application
+  - topic/ltsg/breakdown
+  - topic/ltsg/economics
+date: 2026-09-09
+last_updated: 2026-09-10
+dg-publish: true
+dg-home-link: true
+permalink: /outside-the-box-dissertation-topics-2026/
 ---
-
 
 # Outside-the-Box Dissertation Topics 2026
 
 > [!info] Document status
-> This is a public opportunity scan for supervisor discussion. It does not constitute an approved dissertation assignment, a laboratory reservation, a commercial forecast, or a patent-freedom opinion. The lower-risk continuation options are assessed in [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]].
+> This is a public opportunity scan for supervisor discussion. It does not constitute an approved dissertation assignment, a laboratory reservation, a commercial forecast, or a patent-freedom opinion. The lower-risk continuation options are assessed in [[Variant Dissertation Topics 2026]].
+
+## Individual direction tickets
+
+The opportunity scan remains the comparison layer. The linked tickets contain the executable description, required resources, schedule and decision gates for each direction.
+
+| ID | Direction ticket | Recommended role |
+| --- | --- | --- |
+| O1 | [[Direction O1 - SF6-Free Diagnostics]] | Best commercial branch |
+| O2 | [[Direction O2 - Fluorine-Free Media]] | Best physics and engineering branch |
+| O3 | [[Direction O3 - Switchgear Digital Twin]] | Data, reliability and economics branch |
+| O4 | [[Direction O4 - Hybrid Crowbar]] | Fastest system demonstrator |
+| O5 | [[Direction O5 - Multi-Gap Synchronisation]] | Pulsed-power niche |
+| O6 | [[Direction O6 - Lightning Attachment]] | Collaboration-dependent high-impact route |
+| O7 | [[Direction O7 - Luminous Plasma Structures]] | Time-boxed moonshot |
+| O8 | [[Direction O8 - Hydrogen-Ammonia Ignition]] | Energy-transition branch |
 
 ## Why look beyond the original assignment
 
@@ -229,7 +262,7 @@ The combined topic would aim to deliver five contributions:
 4. a diagnostic or qualification demonstrator relevant to SF6-free equipment;
 5. design and monitoring rules with explicit pressure, geometry, voltage, and uncertainty limits.
 
-The core should compare air with one industrially justified medium or mixture. If a pressure-rated chamber or industrial partner is unavailable by the first major gate, the fallback is the air-based channel-state topic in [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]], preserving the metrology and modelling work.
+The core should compare air with one industrially justified medium or mixture. If a pressure-rated chamber or industrial partner is unavailable by the first major gate, the fallback is the air-based channel-state topic in [[Variant Dissertation Topics 2026]], preserving the metrology and modelling work.
 
 ## Sources and assessment boundaries
 

@@ -1,7 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/doctoral-progress-review-and-research-plan-for-professional-discussion-2026/","title":"Doctoral Progress Review and Research Plan for Professional Discussion 2026","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Doctoral Progress Review and Research Plan for Professional Discussion 2026","aliases":["Professional Discussion Reviewer Dossier 2026","Two-Year Doctoral Progress Report 2026"],"project_id":"MIN-2026-REVIEW","type":"milestone","status":"draft-for-supervisor-review","context":"thesis","priority":"critical","date":"2026-09-10","last_updated":"2026-09-10","candidate":"Ing. Michal Sakala","supervisor":"doc. Ing. Jan Mikeš, Ph.D.","supervising_department":"Department of Economics, Management and Humanities (K13116), CTU FEE","study_start":"2024-09-01","milestone":"Dissertation progress report and professional discussion"}}
+title: Doctoral Progress Review and Research Plan for Professional Discussion 2026
+aliases:
+  - Professional Discussion Reviewer Dossier 2026
+  - Two-Year Doctoral Progress Report 2026
+project_id: MIN-2026-REVIEW
+type: milestone
+status: draft-for-supervisor-review
+context: thesis
+priority: critical
+date: 2026-09-10
+last_updated: 2026-09-10
+candidate: Ing. Michal Sakala
+supervisor: doc. Ing. Jan Mikeš, Ph.D.
+supervising_department: Department of Economics, Management and Humanities (K13116), CTU FEE
+study_start: 2024-09-01
+milestone: Dissertation progress report and professional discussion
+dg-publish: true
 ---
-
 
 # Doctoral Progress Review and Research Plan for Professional Discussion 2026
 
@@ -459,8 +474,8 @@ The following publishable tickets are the operational records for selecting and 
 
 | Family | Tickets |
 | --- | --- |
-| Core and close-continuation options | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction A - Reliability and Robust Operating Window\|Direction A - Reliability and Robust Operating Window]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction B - Channel State and Prediction of Switching\|Direction B - Channel State and Prediction of Switching]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction C - Adaptive Control and Operational Utility\|Direction C - Adaptive Control and Operational Utility]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction D - Spatial Shaping of the Laser-Created Channel\|Direction D - Spatial Shaping of the Laser-Created Channel]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction E - Synchronization of Two Spark Gaps\|Direction E - Synchronization of Two Spark Gaps]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction F - Dielectric Recovery and Component Wear\|Direction F - Dielectric Recovery and Component Wear]] |
-| Commercial and outside-the-box options | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O1 - SF6-Free Diagnostics\|Direction O1 - SF6-Free Diagnostics]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O2 - Fluorine-Free Media\|Direction O2 - Fluorine-Free Media]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O3 - Switchgear Digital Twin\|Direction O3 - Switchgear Digital Twin]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O4 - Hybrid Crowbar\|Direction O4 - Hybrid Crowbar]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O5 - Multi-Gap Synchronisation\|Direction O5 - Multi-Gap Synchronisation]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O6 - Lightning Attachment\|Direction O6 - Lightning Attachment]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O7 - Luminous Plasma Structures\|Direction O7 - Luminous Plasma Structures]], [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O8 - Hydrogen-Ammonia Ignition\|Direction O8 - Hydrogen-Ammonia Ignition]] |
+| Core and close-continuation options | [[Direction A - Reliability and Robust Operating Window]], [[Direction B - Channel State and Prediction of Switching]], [[Direction C - Adaptive Control and Operational Utility]], [[Direction D - Spatial Shaping of the Laser-Created Channel]], [[Direction E - Synchronization of Two Spark Gaps]], [[Direction F - Dielectric Recovery and Component Wear]] |
+| Commercial and outside-the-box options | [[Direction O1 - SF6-Free Diagnostics]], [[Direction O2 - Fluorine-Free Media]], [[Direction O3 - Switchgear Digital Twin]], [[Direction O4 - Hybrid Crowbar]], [[Direction O5 - Multi-Gap Synchronisation]], [[Direction O6 - Lightning Attachment]], [[Direction O7 - Luminous Plasma Structures]], [[Direction O8 - Hydrogen-Ammonia Ignition]] |
 
 ### 10.2 Variant A — Narrow metrology and reliability thesis
 
@@ -718,18 +733,18 @@ The plan is feasible by August 2028 if four dependencies are closed promptly: fo
 
 ### Internal research architecture
 
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety\|LTSG Apparatus & Laboratory Safety]]
-- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
-- [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy & Targets]]
-- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
-- [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker\|Credits & Exam Tracker]]
-- [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]]
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Topic Options 2026\|Dissertation Topic Options 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]
+- [[Minimum Dissertation Study & Research Discussion 2026]]
+- [[LTSG Core Research Package 2026-2028]]
+- [[Claim Ledger & Evidence Matrix]]
+- [[LTSG Apparatus & Laboratory Safety]]
+- [[Statistics - Breakdown Probability Delay and Jitter]]
+- [[Thesis Structure & Chapter Outline]]
+- [[Publication Strategy & Targets]]
+- [[ISP & Milestone Tracking]]
+- [[Credits & Exam Tracker]]
+- [[Doctoral Scope & Decision Register]]
+- [[Dissertation Topic Options 2026]]
+- [[Outside-the-Box Dissertation Topics 2026]]
 
 ## 19. Abbreviations
 

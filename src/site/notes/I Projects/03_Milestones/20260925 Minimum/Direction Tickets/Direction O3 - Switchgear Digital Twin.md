@@ -1,12 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/03-milestones/20260925-minimum/direction-tickets/direction-o3-switchgear-digital-twin/","title":"Direction O3 - Probabilistic Digital Twin for Eco-Efficient Switchgear","noteIcon":"","created":"2026-09-10","updated":"2026-09-10","dg-note-properties":{"title":"Direction O3 - Probabilistic Digital Twin for Eco-Efficient Switchgear","aliases":["Dissertation Direction O3"],"ticket_id":"DIR-O3","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-10","permalink":"/direction-o3-switchgear-digital-twin/"}}
+title: "Direction O3 - Probabilistic Digital Twin for Eco-Efficient Switchgear"
+aliases:
+  - "Dissertation Direction O3"
+ticket_id: DIR-O3
+type: project
+status: proposal
+context: thesis
+priority: high
+parent_project: MIN-2026
+direction_family: outside-the-box
+decision_state: not-selected
+date: 2026-09-10
+last_updated: 2026-09-10
+dg-publish: true
+dg-home-link: false
+permalink: /direction-o3-switchgear-digital-twin/
 ---
-
 
 # Direction O3 — Probabilistic Digital Twin for Eco-Efficient Switchgear
 
 > [!summary] Direction decision
-> **Current state:** not selected. This ticket is a self-contained option for supervisor and professional-discussion review. Selection requires a recorded decision in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].
+> **Current state:** not selected. This ticket is a self-contained option for supervisor and professional-discussion review. Selection requires a recorded decision in [[Doctoral Scope & Decision Register]].
 
 ## Purpose
 
@@ -89,9 +103,9 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related overview and controls
 
-- [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]
+- [[Outside-the-Box Dissertation Topics 2026]]
+- [[Doctoral Progress Review and Research Plan for Professional Discussion 2026]]
+- [[Minimum Dissertation Study & Research Discussion 2026]]
+- [[LTSG Core Research Package 2026-2028]]
+- [[Claim Ledger & Evidence Matrix]]
+- [[ISP & Milestone Tracking]]
