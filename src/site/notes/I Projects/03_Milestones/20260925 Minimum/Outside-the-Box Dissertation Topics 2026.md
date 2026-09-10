@@ -40,6 +40,7 @@ The opportunity scan remains the comparison layer. The linked tickets contain th
 | O6 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O6 - Lightning Attachment\|Direction O6 - Lightning Attachment]] | Collaboration-dependent high-impact route |
 | O7 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O7 - Luminous Plasma Structures\|Direction O7 - Luminous Plasma Structures]] | Time-boxed moonshot |
 | O8 | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O8 - Hydrogen-Ammonia Ignition\|Direction O8 - Hydrogen-Ammonia Ignition]] | Energy-transition branch |
+| **W** | [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Winning integrated Variant W]] | **Recommended staged synthesis of B with O1/O2** |
 
 ## Why look beyond the original assignment
 

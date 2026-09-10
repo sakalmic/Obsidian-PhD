@@ -38,6 +38,7 @@ Each option has a separate executable ticket with its own scope, equipment, work
 | D | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction D - Spatial Shaping of the Laser-Created Channel\|Direction D - Spatial Shaping of the Laser-Created Channel]] | Conditional optics extension |
 | E | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction E - Synchronization of Two Spark Gaps\|Direction E - Synchronization of Two Spark Gaps]] | Conditional multi-gap demonstrator |
 | F | [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction F - Dielectric Recovery and Component Wear\|Direction F - Dielectric Recovery and Component Wear]] | Conditional lifetime/recovery branch |
+| **W** | [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Winning integrated Variant W]] | **Recommended staged synthesis of B with SF₆-free CO₂ diagnostics** |
 
 ## Continuity with laser-triggered high-voltage spark-gap research
 
