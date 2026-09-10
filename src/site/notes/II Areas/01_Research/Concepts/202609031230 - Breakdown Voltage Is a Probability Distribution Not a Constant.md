@@ -1,25 +1,7 @@
 ---
-title: "Breakdown Voltage Is a Probability Distribution Not a Constant"
-aliases:
-  - U50 breakdown voltage
-  - Statistical breakdown voltage
-type: concept
-status: evergreen
-context: research
-claims: [CL-01, CL-04]
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031230-breakdown-voltage-is-a-probability-distribution-not-a-constant/","title":"Breakdown Voltage Is a Probability Distribution Not a Constant","tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/statistics"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Breakdown Voltage Is a Probability Distribution Not a Constant","aliases":["U50 breakdown voltage","Statistical breakdown voltage"],"type":"concept","status":"evergreen","context":"research","claims":["CL-01","CL-04"],"topics":["topic/ltsg/breakdown","topic/ltsg/statistics"],"tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/statistics"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # Breakdown Voltage Is a Probability Distribution Not a Constant
 
@@ -59,9 +41,9 @@ For $x$ successes in $n$ shots, $\hat p=x/n$ needs a Wilson or exact binomial in
 
 ## Connections
 
-- **Up:** [[Statistics - Breakdown Probability Delay and Jitter]]
-- **Side:** [[Hierarchical Shot-Level Models Separate Effects from Drift]] · [[Electrode Geometry and Polarity Shape the Local Field]]
-- **Down:** [[CL-01 - Laser-assisted breakdown probability]] · [[CL-04 - Polarity and field geometry]]
+- **Up:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
+- **Side:** [[Hierarchical Shot-Level Models Separate Effects from Drift\|Hierarchical Shot-Level Models Separate Effects from Drift]] · [[Electrode Geometry and Polarity Shape the Local Field\|Electrode Geometry and Polarity Shape the Local Field]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]]
 
 ## Anchor sources
 

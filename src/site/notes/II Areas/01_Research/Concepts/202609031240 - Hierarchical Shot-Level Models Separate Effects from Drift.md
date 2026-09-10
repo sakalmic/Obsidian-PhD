@@ -1,25 +1,7 @@
 ---
-title: "Hierarchical Shot-Level Models Separate Effects from Drift"
-aliases:
-  - Mixed-effects breakdown model
-  - Hierarchical shot model
-type: concept
-status: evergreen
-context: research
-claims: [CL-01, CL-02, CL-03, CL-04]
-topics:
-  - topic/ltsg/statistics
-  - topic/ltsg/model
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/statistics
-  - topic/ltsg/model
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031240-hierarchical-shot-level-models-separate-effects-from-drift/","title":"Hierarchical Shot-Level Models Separate Effects from Drift","tags":["type/permanent","context/research","topic/ltsg/statistics","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Hierarchical Shot-Level Models Separate Effects from Drift","aliases":["Mixed-effects breakdown model","Hierarchical shot model"],"type":"concept","status":"evergreen","context":"research","claims":["CL-01","CL-02","CL-03","CL-04"],"topics":["topic/ltsg/statistics","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/statistics","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # Hierarchical Shot-Level Models Separate Effects from Drift
 
@@ -57,9 +39,9 @@ For delays, the same grouping can enter a survival or accelerated-failure-time m
 
 ## Connections
 
-- **Up:** [[Statistics - Breakdown Probability Delay and Jitter]]
-- **Side:** [[Breakdown Voltage Is a Probability Distribution Not a Constant]] · [[Electrode Conditioning Creates History Dependence]]
-- **Down:** [[CL-01 - Laser-assisted breakdown probability]] · [[CL-03 - Channel state versus pulse energy]]
+- **Up:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
+- **Side:** [[Breakdown Voltage Is a Probability Distribution Not a Constant\|Breakdown Voltage Is a Probability Distribution Not a Constant]] · [[Electrode Conditioning Creates History Dependence\|Electrode Conditioning Creates History Dependence]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]
 
 ## Anchor source
 

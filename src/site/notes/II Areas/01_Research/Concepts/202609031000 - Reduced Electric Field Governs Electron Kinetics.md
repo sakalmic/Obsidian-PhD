@@ -1,25 +1,7 @@
 ---
-title: "Reduced Electric Field Governs Electron Kinetics"
-aliases:
-  - Reduced electric field
-  - E over N similarity
-type: concept
-status: evergreen
-context: research
-claims: [CL-01, CL-04, CL-05]
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031000-reduced-electric-field-governs-electron-kinetics/","title":"Reduced Electric Field Governs Electron Kinetics","tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Reduced Electric Field Governs Electron Kinetics","aliases":["Reduced electric field","E over N similarity"],"type":"concept","status":"evergreen","context":"research","claims":["CL-01","CL-04","CL-05"],"topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # Reduced Electric Field Governs Electron Kinetics
 
@@ -62,9 +44,9 @@ $E/N$ parameterisation assumes a local-field or local-mean-energy closure. It be
 
 ## Connections
 
-- **Up:** [[Theory - Laser-Triggered Breakdown and Switching]]
-- **Side:** [[Electron Energy Distribution Determines Transport Coefficients]] · [[Hydrodynamic Density Depression Creates Electrical Memory]]
-- **Down:** [[CL-05 - Reduced predictive model]] · [[CL-04 - Polarity and field geometry]]
+- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
+- **Side:** [[Electron Energy Distribution Determines Transport Coefficients\|Electron Energy Distribution Determines Transport Coefficients]] · [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]]
 
 ## Anchor sources
 

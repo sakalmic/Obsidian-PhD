@@ -1,25 +1,7 @@
 ---
-title: "Electron Energy Distribution Determines Transport Coefficients"
-aliases:
-  - Electron energy distribution function
-  - EEDF and rate coefficients
-type: concept
-status: evergreen
-context: research
-claims: [CL-05]
-topics:
-  - topic/ltsg/model
-  - topic/ltsg/breakdown
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/model
-  - topic/ltsg/breakdown
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031010-electron-energy-distribution-determines-transport-coefficients/","title":"Electron Energy Distribution Determines Transport Coefficients","tags":["type/permanent","context/research","topic/ltsg/model","topic/ltsg/breakdown"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Electron Energy Distribution Determines Transport Coefficients","aliases":["Electron energy distribution function","EEDF and rate coefficients"],"type":"concept","status":"evergreen","context":"research","claims":["CL-05"],"topics":["topic/ltsg/model","topic/ltsg/breakdown"],"tags":["type/permanent","context/research","topic/ltsg/model","topic/ltsg/breakdown"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # Electron Energy Distribution Determines Transport Coefficients
 
@@ -58,9 +40,9 @@ with coefficients derived consistently from one cross-section set.
 
 ## Connections
 
-- **Up:** [[Reduced Electric Field Governs Electron Kinetics]]
-- **Side:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Townsend Avalanche Is Exponential but Not Yet a Streamer]]
-- **Down:** [[CL-05 - Reduced predictive model]] · [[COMSOL Plasma Simulation Model]]
+- **Up:** [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]]
+- **Side:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] · [[I Projects/02_Campaigns/COMSOL Plasma Simulation Model\|COMSOL Plasma Simulation Model]]
 
 ## Anchor source
 

@@ -1,25 +1,7 @@
 ---
-title: "Electrode Conditioning Creates History Dependence"
-aliases:
-  - Spark-gap conditioning
-  - Electrode erosion and memory
-type: concept
-status: evergreen
-context: research
-claims: [CL-01, CL-02, CL-04]
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-created: 2026-09-03
-last_updated: 2026-09-03
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031320-electrode-conditioning-creates-history-dependence/","title":"Electrode Conditioning Creates History Dependence","tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/statistics"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Electrode Conditioning Creates History Dependence","aliases":["Spark-gap conditioning","Electrode erosion and memory"],"type":"concept","status":"evergreen","context":"research","claims":["CL-01","CL-02","CL-04"],"topics":["topic/ltsg/breakdown","topic/ltsg/statistics"],"tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/statistics"],"created":"2026-09-03","last_updated":"2026-09-03"}}
 ---
+
 
 # Electrode Conditioning Creates History Dependence
 
@@ -55,9 +37,9 @@ These do not fully represent erosion but make history testable.
 
 ## Connections
 
-- **Up:** [[Breakdown Voltage Is a Probability Distribution Not a Constant]]
-- **Side:** [[Hierarchical Shot-Level Models Separate Effects from Drift]] · [[Electrode Geometry and Polarity Shape the Local Field]]
-- **Down:** [[CL-01 - Laser-assisted breakdown probability]] · [[CL-02 - Delay and jitter response]]
+- **Up:** [[Breakdown Voltage Is a Probability Distribution Not a Constant\|Breakdown Voltage Is a Probability Distribution Not a Constant]]
+- **Side:** [[Hierarchical Shot-Level Models Separate Effects from Drift\|Hierarchical Shot-Level Models Separate Effects from Drift]] · [[Electrode Geometry and Polarity Shape the Local Field\|Electrode Geometry and Polarity Shape the Local Field]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]
 
 ## Anchor source
 

@@ -105,8 +105,8 @@ Extension results are included only if their activation gate is passed without d
 | Luther et al. 2001, [doi:10.1063/1.1419036](https://doi.org/10.1063/1.1419036) | Very low jitter is possible in an optimised small pressurised gap | Performance of the present atmospheric system |
 | Arantchouk et al. 2013, [doi:10.1063/1.4802927](https://doi.org/10.1063/1.4802927) | Filament triggering can achieve high-current, low-jitter switching | Transfer to the present geometry and laser regime |
 | Rosenthal et al. 2020, [doi:10.1364/OE.398836](https://doi.org/10.1364/OE.398836) | Heating and density-channel evolution can be central | Dominance under the present pulse duration and timing |
-| [[LN - Cikhardt2026 - Electromagnetic and Particle Pulses]] | EMP measurement and source-attribution discipline | Atmospheric LTSG EMP amplitude or particle yield |
-| [[LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Passive diagnostics, spatial mapping and background controls | Radiation presence or mechanism in laser-triggered shots |
+| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]] | EMP measurement and source-attribution discipline | Atmospheric LTSG EMP amplitude or particle yield |
+| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Passive diagnostics, spatial mapping and background controls | Radiation presence or mechanism in laser-triggered shots |
 
 ## Integrity note
 
@@ -118,27 +118,27 @@ These headings preserve existing block links. The atomic claim note is authorita
 
 ### CL-01
 
-See [[CL-01 - Laser-assisted breakdown probability]].
+See [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]].
 
 ### CL-02
 
-See [[CL-02 - Delay and jitter response]].
+See [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]].
 
 ### CL-03
 
-See [[CL-03 - Channel state versus pulse energy]].
+See [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]].
 
 ### CL-04
 
-See [[CL-04 - Polarity and field geometry]].
+See [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]].
 
 ### CL-05
 
-See [[CL-05 - Reduced predictive model]].
+See [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]].
 
 ### CL-06
 
-See [[CL-06 - Reproducible optical and electrical stages]].
+See [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]].
 
 ### EX-EMP-01
 
@@ -166,8 +166,8 @@ Review this ledger weekly during acquisition and at every supervisor meeting. Th
 
 ## Related notes
 
-- [[Minimum Dissertation Study & Research Discussion 2026]]
-- [[LTSG Core Research Package 2026-2028]]
-- [[Thesis Structure & Chapter Outline]]
-- [[Research Methodology & Workflows]]
-- [[Paper - IEEE Transactions 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
+- [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
+- [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]
