@@ -1,28 +1,12 @@
 ---
-title: "E · Dual-Gap Synchronisation"
-aliases:
-  - "Direction E - Synchronization of Two Spark Gaps"
-  - "Dissertation Direction E"
-ticket_id: DIR-E
-type: project
-status: proposal
-context: thesis
-priority: high
-parent_project: MIN-2026
-direction_family: core
-decision_state: not-selected
-date: 2026-09-10
-last_updated: 2026-09-11
-dg-publish: true
-dg-home-link: false
-permalink: /direction-e-synchronization-of-two-spark-gaps/
-dg-permalink: /direction-e-synchronization-of-two-spark-gaps/
+{"dg-publish":true,"dg-permalink":"/direction-e-synchronization-of-two-spark-gaps/","permalink":"/direction-e-synchronization-of-two-spark-gaps/","title":"E · Dual-Gap Synchronisation","noteIcon":"","created":"2026-09-10","updated":"2026-09-11","dg-note-properties":{"title":"E · Dual-Gap Synchronisation","aliases":["Direction E - Synchronization of Two Spark Gaps","Dissertation Direction E"],"ticket_id":"DIR-E","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"core","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-11","permalink":"/direction-e-synchronization-of-two-spark-gaps/"}}
 ---
+
 
 # E · Dual-Gap Synchronisation
 
 > [!summary] Direction decision
-> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
+> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
 
 ## Purpose
 
@@ -105,6 +89,6 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related research
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
-- [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response|CL-02 · Delay and jitter]]
-- [[II Areas/01_Research/Concepts/202609031330 - Plasma and External Circuit Form One Dynamical System|Plasma–circuit dynamics]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
+- [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 · Delay and jitter]]
+- [[II Areas/01_Research/Concepts/202609031330 - Plasma and External Circuit Form One Dynamical System\|Plasma–circuit dynamics]]

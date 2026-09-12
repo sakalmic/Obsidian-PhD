@@ -1,28 +1,12 @@
 ---
-title: "A · Reliable Operating Window"
-aliases:
-  - "Direction A - Reliability and Robust Operating Window"
-  - "Dissertation Direction A"
-ticket_id: DIR-A
-type: project
-status: proposal
-context: thesis
-priority: high
-parent_project: MIN-2026
-direction_family: core
-decision_state: not-selected
-date: 2026-09-10
-last_updated: 2026-09-11
-dg-publish: true
-dg-home-link: false
-permalink: /direction-a-reliability-and-robust-operating-window/
-dg-permalink: /direction-a-reliability-and-robust-operating-window/
+{"dg-publish":true,"dg-permalink":"/direction-a-reliability-and-robust-operating-window/","permalink":"/direction-a-reliability-and-robust-operating-window/","title":"A · Reliable Operating Window","noteIcon":"","created":"2026-09-10","updated":"2026-09-11","dg-note-properties":{"title":"A · Reliable Operating Window","aliases":["Direction A - Reliability and Robust Operating Window","Dissertation Direction A"],"ticket_id":"DIR-A","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"core","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-11","permalink":"/direction-a-reliability-and-robust-operating-window/"}}
 ---
+
 
 # A · Reliable Operating Window
 
 > [!summary] Direction decision
-> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
+> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
 
 ## Purpose
 
@@ -105,6 +89,6 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related research
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
-- [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability|CL-01 · Breakdown probability]]
-- [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response|CL-02 · Delay and jitter]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
+- [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 · Breakdown probability]]
+- [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 · Delay and jitter]]

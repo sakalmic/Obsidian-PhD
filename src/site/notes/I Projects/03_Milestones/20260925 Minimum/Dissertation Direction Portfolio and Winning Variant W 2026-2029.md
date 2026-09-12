@@ -1,24 +1,12 @@
 ---
-title: "Dissertation Research Paths & Final Choice (2026–2028, 2029)"
-aliases:
-  - "Dissertation Direction Portfolio and Winning Variant W 2026-2029"
-  - "Dissertation Portfolio A-F O1-O8 and W"
-  - "Winning Dissertation Variant W"
-type: decision-support
-status: proposal
-context: thesis
-date: 2026-09-10
-last_updated: 2026-09-11
-dg-publish: true
-dg-home-link: false
-permalink: /dissertation-direction-portfolio-and-winning-variant-w-2026-2029/
-dg-permalink: /dissertation-direction-portfolio-and-winning-variant-w-2026-2029/
+{"dg-publish":true,"dg-permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/","permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/","title":"Dissertation Research Paths & Final Choice (2026–2028, 2029)","noteIcon":"","created":"2026-09-10","updated":"2026-09-11","dg-note-properties":{"title":"Dissertation Research Paths & Final Choice (2026–2028, 2029)","aliases":["Dissertation Direction Portfolio and Winning Variant W 2026-2029","Dissertation Portfolio A-F O1-O8 and W","Winning Dissertation Variant W"],"type":"decision-support","status":"proposal","context":"thesis","date":"2026-09-10","last_updated":"2026-09-11","permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/"}}
 ---
+
 
 # Dissertation Research Paths & Final Choice (2026–2028, 2029)
 
 > [!summary] Decision status
-> This document compares all currently defined dissertation directions and proposes **W** as the preferred integrated route. It is a decision-support document, not evidence that the title, collaboration, apparatus access or authorship plan has been approved. Approval and later scope changes must be recorded in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Dissertation Scope & Decision Log]].
+> This document compares all currently defined dissertation directions and proposes **W** as the preferred integrated route. It is a decision-support document, not evidence that the title, collaboration, apparatus access or authorship plan has been approved. Approval and later scope changes must be recorded in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Dissertation Scope & Decision Log]].
 
 ## Executive recommendation
 
@@ -315,10 +303,10 @@ W is preferred because it preserves the feasibility of B, adds a timely industri
 
 ## Related documents
 
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2029)]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]
+- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2029)]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
 
 ## Sources checked for the W proposal
 

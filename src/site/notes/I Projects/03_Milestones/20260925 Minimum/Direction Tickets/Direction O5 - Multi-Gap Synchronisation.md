@@ -1,28 +1,12 @@
 ---
-title: "O5 · Multi-Gap Photonic Synchronisation"
-aliases:
-  - "Direction O5 - Photonic Synchronisation of Multiple Spark Gaps"
-  - "Dissertation Direction O5"
-ticket_id: DIR-O5
-type: project
-status: proposal
-context: thesis
-priority: high
-parent_project: MIN-2026
-direction_family: outside-the-box
-decision_state: not-selected
-date: 2026-09-10
-last_updated: 2026-09-11
-dg-publish: true
-dg-home-link: false
-permalink: /direction-o5-multi-gap-synchronisation/
-dg-permalink: /direction-o5-multi-gap-synchronisation/
+{"dg-publish":true,"dg-permalink":"/direction-o5-multi-gap-synchronisation/","permalink":"/direction-o5-multi-gap-synchronisation/","title":"O5 · Multi-Gap Photonic Synchronisation","noteIcon":"","created":"2026-09-10","updated":"2026-09-11","dg-note-properties":{"title":"O5 · Multi-Gap Photonic Synchronisation","aliases":["Direction O5 - Photonic Synchronisation of Multiple Spark Gaps","Dissertation Direction O5"],"ticket_id":"DIR-O5","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-11","permalink":"/direction-o5-multi-gap-synchronisation/"}}
 ---
+
 
 # O5 · Multi-Gap Photonic Synchronisation
 
 > [!summary] Direction decision
-> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
+> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
 
 ## Purpose
 
@@ -105,6 +89,6 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related research
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
-- [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response|CL-02 · Delay and jitter]]
-- [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain|Measurement-chain jitter]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
+- [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 · Delay and jitter]]
+- [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain\|Measurement-chain jitter]]

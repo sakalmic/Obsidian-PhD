@@ -1,16 +1,7 @@
 ---
-title: "Dissertation Scope & Decision Log"
-aliases:
-  - "Doctoral Scope & Decision Register"
-type: administration
-status: active
-context: thesis
-date: 2026-09-07
-last_updated: 2026-09-11
-dg-publish: true
-permalink: /ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/
-dg-permalink: /ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/
+{"dg-publish":true,"dg-permalink":"/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/","permalink":"/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/","title":"Dissertation Scope & Decision Log","noteIcon":"","created":"2026-09-07","updated":"2026-09-11","dg-note-properties":{"title":"Dissertation Scope & Decision Log","aliases":["Doctoral Scope & Decision Register"],"type":"administration","status":"active","context":"thesis","date":"2026-09-07","last_updated":"2026-09-11","permalink":"/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/"}}
 ---
+
 
 # Dissertation Scope & Decision Log
 
@@ -35,15 +26,15 @@ This register records unresolved decisions; no item below is an approval. Use `p
 - Use the narrow atmospheric-breakdown proposal for current planning.
 - Preserve historical research alternatives without treating them as approved obligations.
 - Keep experiments and evidence in II Areas; III Resources is reserved for external references.
-- Keep the scientific calendar in [[LTSG Core Research Package 2026-2028#Calendar and milestones|Core LTSG Research Programme (2026–2028)]].
-- Keep administrative gates in [[ISP & Milestone Tracking|Doctoral Milestones & ISP Tracker]].
+- Keep the scientific calendar in [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028#Calendar and milestones\|Core LTSG Research Programme (2026–2028)]].
+- Keep administrative gates in [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|Doctoral Milestones & ISP Tracker]].
 - Distinguish submitted, under review, accepted, published and indexed publication states.
 
 ## Related records
 
-- [[Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2029)]]
-- [[Doctoral Document Map]]
-- [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
-- [[Meeting - 2026-09-01 Supervisor Sync]]
-- [[Credits & Exam Tracker]]
-- [[Doctoral Study Regulations & Directives]]
+- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2029)]]
+- [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]
+- [[II Areas/06_Administration/Supervisor_Sync/Meeting - 2026-09-01 Supervisor Sync\|Meeting - 2026-09-01 Supervisor Sync]]
+- [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker\|Credits & Exam Tracker]]
+- [[II Areas/06_Administration/Directives_and_Regulations/Doctoral Study Regulations & Directives\|Doctoral Study Regulations & Directives]]

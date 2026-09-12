@@ -87,11 +87,11 @@ Basis: [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Sw
 
 ## Minimum-thesis boundary
 
-Chapters 1-5 plus Chapter 7 form the defensible core. Chapter 6 is conditional and may not delay completion. The immediate scientific-study/minimum structure is defined in [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026#Structure of the minimum-study document\|Minimum Dissertation Study & Research Discussion 2026#Structure of the minimum-study document]].
+Chapters 1-5 plus Chapter 7 form the defensible core. Chapter 6 is conditional and may not delay completion. The immediate scientific-study/minimum structure is defined in [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026#Structure of the minimum-study document\|Professional Discussion: Dissertation Study & Research Plan (2026)]].
 
 ## Related notes
 
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]]
 - [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]

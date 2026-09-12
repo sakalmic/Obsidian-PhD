@@ -1,28 +1,12 @@
 ---
-title: "O1 · SF₆-Free Optical Diagnostics"
-aliases:
-  - "Direction O1 - Optical Condition Diagnostics for SF6-Free Switchgear"
-  - "Dissertation Direction O1"
-ticket_id: DIR-O1
-type: project
-status: proposal
-context: thesis
-priority: high
-parent_project: MIN-2026
-direction_family: outside-the-box
-decision_state: not-selected
-date: 2026-09-10
-last_updated: 2026-09-11
-dg-publish: true
-dg-home-link: false
-permalink: /direction-o1-sf6-free-diagnostics/
-dg-permalink: /direction-o1-sf6-free-diagnostics/
+{"dg-publish":true,"dg-permalink":"/direction-o1-sf6-free-diagnostics/","permalink":"/direction-o1-sf6-free-diagnostics/","title":"O1 · SF₆-Free Optical Diagnostics","noteIcon":"","created":"2026-09-10","updated":"2026-09-11","dg-note-properties":{"title":"O1 · SF₆-Free Optical Diagnostics","aliases":["Direction O1 - Optical Condition Diagnostics for SF6-Free Switchgear","Dissertation Direction O1"],"ticket_id":"DIR-O1","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-11","permalink":"/direction-o1-sf6-free-diagnostics/"}}
 ---
+
 
 # O1 · SF₆-Free Optical Diagnostics
 
 > [!summary] Direction decision
-> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
+> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
 
 ## Purpose
 
@@ -105,6 +89,6 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related research
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
-- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Timing and optical diagnostics]]
-- [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O2 - Fluorine-Free Media|O2 · Fluorine-free dielectric recovery]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Timing and optical diagnostics]]
+- [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O2 - Fluorine-Free Media\|O2 · Fluorine-free dielectric recovery]]

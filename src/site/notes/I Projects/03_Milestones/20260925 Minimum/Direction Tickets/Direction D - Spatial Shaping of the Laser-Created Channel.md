@@ -1,28 +1,12 @@
 ---
-title: "D · Plasma-Channel Shaping"
-aliases:
-  - "Direction D - Spatial Shaping of the Laser-Created Channel"
-  - "Dissertation Direction D"
-ticket_id: DIR-D
-type: project
-status: proposal
-context: thesis
-priority: high
-parent_project: MIN-2026
-direction_family: core
-decision_state: not-selected
-date: 2026-09-10
-last_updated: 2026-09-11
-dg-publish: true
-dg-home-link: false
-permalink: /direction-d-spatial-shaping-of-the-laser-created-channel/
-dg-permalink: /direction-d-spatial-shaping-of-the-laser-created-channel/
+{"dg-publish":true,"dg-permalink":"/direction-d-spatial-shaping-of-the-laser-created-channel/","permalink":"/direction-d-spatial-shaping-of-the-laser-created-channel/","title":"D · Plasma-Channel Shaping","noteIcon":"","created":"2026-09-10","updated":"2026-09-11","dg-note-properties":{"title":"D · Plasma-Channel Shaping","aliases":["Direction D - Spatial Shaping of the Laser-Created Channel","Dissertation Direction D"],"ticket_id":"DIR-D","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"core","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-11","permalink":"/direction-d-spatial-shaping-of-the-laser-created-channel/"}}
 ---
+
 
 # D · Plasma-Channel Shaping
 
 > [!summary] Direction decision
-> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
+> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
 
 ## Purpose
 
@@ -105,6 +89,6 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related research
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
-- [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions|Laser-intensity definition and uncertainty]]
-- [[II Areas/01_Research/Concepts/202609031130 - Kerr Self-Focusing Creates Extended Filamentary Channels|Kerr self-focusing and filamentation]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
+- [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Laser-intensity definition and uncertainty]]
+- [[II Areas/01_Research/Concepts/202609031130 - Kerr Self-Focusing Creates Extended Filamentary Channels\|Kerr self-focusing and filamentation]]

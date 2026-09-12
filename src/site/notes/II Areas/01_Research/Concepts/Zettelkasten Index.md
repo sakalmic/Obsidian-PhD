@@ -72,6 +72,7 @@ Index of permanent, interconnected concepts that form the intellectual core of t
 - [[II Areas/01_Research/Concepts/202609031320 - Electrode Conditioning Creates History Dependence\|202609031320 - Electrode Conditioning Creates History Dependence]]
 - [[II Areas/01_Research/Concepts/202609031330 - Plasma and External Circuit Form One Dynamical System\|202609031330 - Plasma and External Circuit Form One Dynamical System]]
 - [[II Areas/01_Research/Concepts/202609031340 - Predictive Validation Must Be Separated from Model Calibration\|202609031340 - Predictive Validation Must Be Separated from Model Calibration]]
+- [[II Areas/01_Research/Concepts/202609031340 - Predictive Validation Must Be Separated from Model Calibration-13116-pdb0e47\|202609031340 - Predictive Validation Must Be Separated from Model Calibration-13116-pdb0e47]]
 - [[II Areas/01_Research/Concepts/202609031350 - Arc Conductance and Recovery Compete After Current Zero\|202609031350 - Arc Conductance and Recovery Compete After Current Zero]]
 
 { .block-language-dataview}

@@ -13,13 +13,13 @@ Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: d
 
 Document hierarchy: [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]. This is a working proposal, not a recorded formal approval.
 
-Final wording is decided through [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]].
+Final wording is decided through [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]].
 
 ## Dissertation promise
 
 Determine how measured laser-channel state controls breakdown probability, delay and jitter at a normalised working voltage and evaluate whether a reduced model predicts at least one core outcome under held-out conditions.
 
-The three contribution groups are C-A, C-B and C-C as defined in [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]. A broad grid-breaker or techno-economic claim is not part of the minimum promise.
+The three contribution groups are C-A, C-B and C-C as defined in [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]. A broad grid-breaker or techno-economic claim is not part of the minimum promise.
 
 ## Format and repositories
 
@@ -39,13 +39,18 @@ The authoritative scientific calendar is embedded from the core programme rather
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ltsg-core-research-package-2026-2028/#calendar-and-milestones" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# Core LTSG Research Programme (2026–2028)
+
+</div>
 
 
 ## Calendar and milestones
 
 | Period | Main work | Gate / output |
 | --- | --- | --- |
-| Sep 2026 | [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]; freeze topic, question, contribution structure and scope. | G-1: topic fixed by the discussion. |
+| Sep 2026 | [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]; freeze topic, question, contribution structure and scope. | G-1: topic fixed by the discussion. |
 | Oct-Dec 2026 | WP0; standards, safety, metrology, protocol, data schema and pilot baseline. | G0: approved protocol and reproducible dry run. |
 | Jan-Feb 2027 | WP1 self-breakdown on at least three sessions; minimum/SDZ preparation. | D1-D2 and stable definition of $k$. |
 | Mar-Apr 2027 | WP2 laser/channel calibration and pilot laser-to-HV delay scan; submit SDZ application when eligible. | D3 and measurable channel descriptors. |
@@ -79,8 +84,8 @@ The authoritative scientific calendar is embedded from the core programme rather
 
 ## Related documents
 
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]
 - [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]]
 - [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]

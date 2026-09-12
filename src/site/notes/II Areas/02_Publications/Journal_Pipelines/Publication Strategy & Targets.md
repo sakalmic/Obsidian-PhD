@@ -66,7 +66,7 @@ Waiting until April 2028 for the first journal submission leaves insufficient re
 ## Related notes
 
 - [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]
 - [[II Areas/02_Publications/Conferences/Conference Pipeline\|Conference Pipeline]]
 - [[II Areas/02_Publications/Journal_Pipelines/Co-Authorship & Contribution Records\|Co-Authorship & Contribution Records]]
