@@ -23,7 +23,7 @@ Prepare a defensible discussion of the sufficiency, originality and feasibility 
 
 **Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling**
 
-**Czech:** Predikce laserem asistovaného průrazu ve vzduchu za atmosférického tlaku a technicko-ekonomická optimalizace provozních podmínek.
+**Czech:** Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování.
 
 ## Central research question
 
