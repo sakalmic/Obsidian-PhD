@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031330-plasma-and-external-circuit-form-one-dynamical-system/","title":"Plasma and External Circuit Form One Dynamical System","tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Plasma and External Circuit Form One Dynamical System","aliases":["Plasma-circuit coupling","Spark-gap RLC dynamics"],"type":"concept","status":"evergreen","context":"research","claims":["CL-02","CL-05","CL-06"],"topics":["topic/ltsg/timing","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031330-plasma-and-external-circuit-form-one-dynamical-system/","title":"Plasma and External Circuit Form One Dynamical System","tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Plasma and External Circuit Form One Dynamical System","aliases":["Plasma-circuit coupling","Spark-gap RLC dynamics"],"type":"concept","status":"evergreen","context":"research","claims":["CL-02","CL-05","CL-06"],"topics":["topic/ltsg/timing","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
 
 
@@ -46,7 +46,7 @@ $$y_m(t)=h_m(t)*y(t)+\epsilon(t).$$
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
-- **Side:** [[Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]] · [[Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]] · [[II Areas/01_Research/Concepts/202609031350 - Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]]
 - **Down:** [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]]
 
 ## Anchor sources

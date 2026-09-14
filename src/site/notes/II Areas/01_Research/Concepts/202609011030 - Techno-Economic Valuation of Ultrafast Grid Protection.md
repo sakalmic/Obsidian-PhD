@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609011030-techno-economic-valuation-of-ultrafast-grid-protection/","title":"Techno-Economic Valuation of Ultrafast Grid Protection","tags":["type/permanent","context/research","theme/techno-economics","status/evergreen"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-02","dg-note-properties":{"title":"Techno-Economic Valuation of Ultrafast Grid Protection","aliases":["Zettel - Techno-Economic Valuation of Ultrafast Grid Protection","Techno-Economic Valuation of Ultrafast Grid Protection"],"tags":["type/permanent","context/research","theme/techno-economics","status/evergreen"],"date":"2026-09-01","last_updated":"2026-09-02"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609011030-techno-economic-valuation-of-ultrafast-grid-protection/","title":"Techno-Economic Valuation of Ultrafast Grid Protection","tags":["type/permanent","context/research","theme/techno-economics","status/evergreen"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Techno-Economic Valuation of Ultrafast Grid Protection","aliases":["Zettel - Techno-Economic Valuation of Ultrafast Grid Protection","Techno-Economic Valuation of Ultrafast Grid Protection"],"tags":["type/permanent","context/research","theme/techno-economics","status/evergreen"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
 
 
 # Techno-Economic Valuation of Ultrafast Grid Protection
+
+**Tier 3 application concept.** Grid-protection valuation below requires separate system evidence and is outside mandatory dissertation completion. Mandatory atmospheric laboratory TCO is instead defined in [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] and [[II Areas/03_Thesis/Claims/CL-07 - Techno-economic operating choice\|CL-07 - Techno-economic operating choice]].
 
 ## Core concept
 Techno-economic modelling of power-system protection translates **measured system-level changes**—for example interruption-time distribution, let-through energy, failure probability and maintenance interval—into costs and reliability outcomes. A change from $50\ \mathrm{ms}$ to $5\ \mu\mathrm{s}$ is a scenario bound, not an achieved result, until a complete demonstrator shows that the faster trigger actually shortens the system interruption sequence.
@@ -36,5 +38,5 @@ Uncertain physical performance must enter before economic aggregation. Monte Car
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]]
-- **Side:** [[Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]] · [[Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]]
-- **Down:** [[Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031330 - Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]] · [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]]
+- **Down:** [[II Areas/01_Research/Concepts/202609031350 - Arc Conductance and Recovery Compete After Current Zero\|Arc Conductance and Recovery Compete After Current Zero]]

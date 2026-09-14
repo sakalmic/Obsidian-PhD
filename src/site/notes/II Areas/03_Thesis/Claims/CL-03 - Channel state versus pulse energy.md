@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/cl-03-channel-state-versus-pulse-energy/","title":"CL-03 - Channel state versus pulse energy","tags":["topic/ltsg/channel","topic/ltsg/breakdown"],"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"CL-03 - Channel state versus pulse energy","aliases":["CL-03"],"claim_id":"CL-03","type":"claim","status":"hypothesis","claim_role":"primary","contribution":"C-B","context":"thesis","work_packages":["WP2","WP3","WP4"],"datasets":[],"analyses":[],"manuscripts":["Paper-1"],"chapters":["Chapter-4"],"topics":["topic/ltsg/channel","topic/ltsg/breakdown"],"tags":["topic/ltsg/channel","topic/ltsg/breakdown"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/cl-03-channel-state-versus-pulse-energy/","title":"CL-03 - Channel state versus pulse energy","tags":["topic/ltsg/channel","topic/ltsg/breakdown"],"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"CL-03 - Channel state versus pulse energy","aliases":["CL-03"],"claim_id":"CL-03","type":"claim","status":"hypothesis","claim_role":"primary","contribution":"C-W2","context":"thesis","work_packages":["WP2","WP3","WP4","WP5"],"datasets":[],"analyses":[],"manuscripts":["Paper-2"],"chapters":["Chapter-5"],"topics":["topic/ltsg/channel","topic/ltsg/breakdown"],"tags":["topic/ltsg/channel","topic/ltsg/breakdown"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
 
 
 # CL-03 - Channel state versus pulse energy
+
+Current contribution mapping: C-W2. Atmospheric Tier 1 only; the claim remains a hypothesis until linked evidence supports or bounds it. C-W5 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]].
 
 ## Claim
 
@@ -27,6 +29,6 @@ The metric and minimum worthwhile predictive improvement are fixed after screeni
 
 ## Connections
 
-- **Up:** [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]] · [[Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]
+- **Up:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]] · [[II Areas/01_Research/Concepts/202609031340 - Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]
 - **Side:** [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]
 - **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]

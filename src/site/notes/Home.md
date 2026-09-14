@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry","topic/ltsg/breakdown"],"noteIcon":"","dg-note-properties":{"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-06"}}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry","topic/ltsg/breakdown"],"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","last_updated":"2026-09-14"}}
 ---
 
 
@@ -13,7 +13,9 @@
 > - **Proposed dissertation:** *Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling*
 > - **Programme:** Economics of Energy and Electrical Engineering · 2024–2028
 
-This garden documents a reproducible investigation of how measured laser-channel state controls the probability, delay and jitter of atmospheric-pressure high-voltage breakdown, together with held-out validation of a reduced predictive model. Power-system applications and economics remain conditional extensions.
+The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ---
 
@@ -23,7 +25,7 @@ This garden documents a reproducible investigation of how measured laser-channel
 | :--- | :---: | :--- | :---: |
 | **01 · Research** | <span class="phd-area-tag"><strong class="phd-area-symbol phd-area-symbol--research">●</strong> RESEARCH</span> | Plasma physics, laser-triggered spark gaps, COMSOL modelling & diagnostics | [[II Areas/01_Research/01_MOC\|Explore research]] |
 | **02 · Publications** | <span class="phd-area-tag"><strong class="phd-area-symbol">◎</strong> PUBLICATIONS</span> | Manuscript pipeline, target journals (IEEE, PSST), conferences & outputs | [[II Areas/02_Publications/02_MOC\|View publications]] |
-| **03 · Thesis** | <span class="phd-area-tag"><strong class="phd-area-symbol">◉</strong> THESIS</span> | Thesis architecture, claim ledger (CL-01–06), evidence mapping & SDZ | [[II Areas/03_Thesis/03_MOC\|Open dissertation hub]] |
+| **03 · Thesis** | <span class="phd-area-tag"><strong class="phd-area-symbol">◉</strong> THESIS</span> | Thesis architecture, claim ledger (CL-01–07), evidence mapping & SDZ | [[II Areas/03_Thesis/03_MOC\|Open dissertation hub]] |
 | **04 · Teaching** | <span class="phd-area-tag"><strong class="phd-area-symbol">▯</strong> TEACHING</span> | Physics & plasma lab courses, student consultation, supervised theses (BP/DP) | Local vault only |
 | **05 · Grants** | <span class="phd-area-tag"><strong class="phd-area-symbol">▤</strong> GRANTS</span> | CTU SGS grant applications, budgets, procurement, mobility & external funding | Local vault only |
 | **06 · Administration** | <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span> | Individual Study Plan (ISP), doctoral exams, credits, faculty directives & supervisor sync | [[II Areas/06_Administration/06_MOC\|Administration hub]] |
@@ -95,8 +97,8 @@ This garden documents a reproducible investigation of how measured laser-channel
           <span class="phd-area-tag"><strong class="phd-area-symbol phd-area-symbol--research">●</strong> RESEARCH</span>
           <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Active</span>
         </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">COMSOL 2D Streamer Channel Simulation</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Setup axisymmetric gap geometry with non-local electron kinetics and space-charge distortion.</div>
+        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Reduced Atmospheric Model Preparation</div>
+        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Prepare electrostatic/reduced M0/M1 models; implementation and validation require evidence.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
           <a class="internal-link" href="/ii-areas/01-research/simulations/comsol-multiphysics-setups/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 COMSOL Setup</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Simulation</span>
@@ -109,7 +111,7 @@ This garden documents a reproducible investigation of how measured laser-channel
           <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Active</span>
         </div>
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Paper 1 Manuscript Drafting</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Drafting breakdown probability vs. laser pulse energy and initial optical density findings.</div>
+        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Prepare atmospheric metrology and statistical methods for the 2027 confirmation study.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
           <a class="internal-link" href="/i-projects/01-manuscripts/paper-ieee-transactions-2026/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Paper 1 IEEE</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Drafting</span>
@@ -119,9 +121,9 @@ This garden documents a reproducible investigation of how measured laser-channel
       <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
           <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Year 1</span>
+          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Year 2</span>
         </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Year 1 ISP Annual Report Synthesis</div>
+        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Year 2 ISP Evidence Review</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Consolidate completed doctoral examinations, credits, and conference plans for evaluation.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
           <a class="internal-link" href="/ii-areas/06-administration/isp-and-evaluations/individual-study-plan-isp/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 ISP Tracker</a>
@@ -148,7 +150,7 @@ This garden documents a reproducible investigation of how measured laser-channel
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Verify pyroelectric joulemeter response curve and beam focal diameter measurements.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
           <a class="internal-link" href="/ii-areas/01-research/experiments/calibrations/calibrations-index/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Calibrations</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Verified</span>
+          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">To verify</span>
         </div>
       </div>
       <!-- Administration Card (Black/Slate) -->
@@ -221,203 +223,22 @@ This garden documents a reproducible investigation of how measured laser-channel
 
 ## Doctoral Programme Roadmap Kanban (2024–2028)
 
-<div class="phd-kanban-board" style="display: flex; gap: 14px; overflow-x: auto; padding: 6px 0 18px 0; font-family: var(--font-interface, sans-serif);">
-  <!-- Year 1 -->
-  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
-    <div style="padding: 10px 12px; border-bottom: 2px solid var(--background-modifier-border, #8b949e); display: flex; justify-content: space-between; align-items: center; background: var(--background-secondary, #1e2227); border-top-left-radius: 8px; border-top-right-radius: 8px;">
-      <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">Year 1 (2024–2025)</span>
-      <span style="background: var(--background-secondary, #1e2227); color: var(--text-muted, #7f848e); font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">Foundations</span>
-    </div>
-    <div style="padding: 10px; display: flex; flex-direction: column; gap: 8px;">
-      <!-- Admin Card (Black) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Passed</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Doctoral Coursework &amp; Exams</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Completed Plasma Theory, Laser Physics, and Academic English examinations.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/06-administration/credits-and-exams/credits-and-exam-tracker/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Credits Tracker</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">✓ Complete</span>
-        </div>
-      </div>
-      <!-- Thesis Card (Blue) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">◉</strong> THESIS</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Approved</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Topic Formulation &amp; ISP Approval</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Approved dissertation title and four-year individual study plan by Board.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/03-thesis/03-moc/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Thesis Hub</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">✓ Approved</span>
-        </div>
-      </div>
-      <!-- Research Card (Green) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol phd-area-symbol--research">●</strong> RESEARCH</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Aligned</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Experimental Rig Alignment &amp; Setup</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Optical path calibration, trigger synchronization, and chamber conditioning.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/01-research/experiments/experiments-index/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Experiments</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">✓ Operational</span>
-        </div>
-      </div>
-    </div>
-  </div>
+| Period | Work package | Required result |
+| --- | --- | --- |
+| Sep–Dec 2026 | WP0: scope and metrology | Confirm apparatus, optical timing, protocol, service requirements and cost boundary |
+| Jan–Feb 2027 | WP1: baseline | Reproducible no-laser/self-breakdown reference and session/environment blocks |
+| Mar–Apr 2027 | WP2: channel pilot | Repeatable descriptor or documented diagnostic limit |
+| May–Jun 2027 | WP3: screening | Compact confirmation matrix, sample size and frozen analysis; June stop/go |
+| Jul–Oct 2027 | WP4: confirmation | Locked atmospheric dataset and independent repeat; prepare Paper 1 |
+| Oct–Nov 2027 | Paper 1 | Submit metrology and stochastic operating-domain study |
+| Nov 2027–Feb 2028 | WP5: prediction | Held-out M0/M1 comparison and independently tested operating rule |
+| Mar–Apr 2028 | WP6: TCO integration | Cost synthesis, feasibility and sensitivity; submit Paper 2 |
+| Through Jun 2028 | WP7: dissertation writing | Continuous drafting; complete reviewed draft by June |
+| Jul–Aug 2028 | WP7: finalisation | Eligibility audit, corrections and August submission; no new core campaign |
 
-  <!-- Year 2 -->
-  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
-    <div style="padding: 10px 12px; border-bottom: 2px solid var(--background-modifier-border, #8b949e); display: flex; justify-content: space-between; align-items: center; background: var(--background-secondary, #1e2227); border-top-left-radius: 8px; border-top-right-radius: 8px;">
-      <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">Year 2 (2025–2026)</span>
-      <span style="background: var(--background-secondary, #1e2227); color: var(--text-muted, #7f848e); font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">Active</span>
-    </div>
-    <div style="padding: 10px; display: flex; flex-direction: column; gap: 8px;">
-      <!-- Thesis Card (Blue) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">◉</strong> THESIS</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Key Milestone</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Minimum Thesis &amp; State Exam (SDZ)</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Critical state-of-the-art review, hypothesis formulation, and preliminary results.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/minimum-dissertation-study-2026/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 SDZ &amp; Minimum</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">In Preparation</span>
-        </div>
-      </div>
-      <!-- Research Card (Green) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol phd-area-symbol--research">●</strong> RESEARCH</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">In Progress</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Systematic Parametric LTSG Campaigns</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Measurement of delay, probability, and jitter across polarities and field geometries.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/01-research/experiments/dataset-manifests/dataset-manifests-index/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Datasets</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Acquisition</span>
-        </div>
-      </div>
-      <!-- Grant Card (Orange) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">▤</strong> GRANTS</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Active</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">SGS Research Grant Execution</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Principal investigator role on student grant project, procurement, and reports.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/minimum-dissertation-study-2026/#funding-and-resource-plan" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">Funding plan</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Running</span>
-        </div>
-      </div>
-    </div>
-  </div>
+Cost collection starts in WP0 and continues during acquisition. The prediction/evidence core closes by February 2028 and TCO synthesis by April. Tier 2/3 may continue from autumn 2028 into 2029 under separate resources; those dates do not extend the dissertation target. Submission is not acceptance of a paper and is not the defence date.
 
-  <!-- Year 3 -->
-  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
-    <div style="padding: 10px 12px; border-bottom: 2px solid var(--background-modifier-border, #8b949e); display: flex; justify-content: space-between; align-items: center; background: var(--background-secondary, #1e2227); border-top-left-radius: 8px; border-top-right-radius: 8px;">
-      <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">Year 3 (2026–2027)</span>
-      <span style="background: var(--background-secondary, #1e2227); color: var(--text-muted, #7f848e); font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">Publications</span>
-    </div>
-    <div style="padding: 10px; display: flex; flex-direction: column; gap: 8px;">
-      <!-- Publications Card (Blue) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">◎</strong> PUBLICATIONS</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Target Q1/Q2</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Paper 1: Channel-State Dependent Triggering</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Submit to IEEE Transactions on Plasma Science / Plasma Sources Sci. Technol.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/i-projects/01-manuscripts/paper-ieee-transactions-2026/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Paper 1</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Submission</span>
-        </div>
-      </div>
-      <!-- Research Card (Green) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol phd-area-symbol--research">●</strong> RESEARCH</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Validation</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Reduced Predictive Model Cross-Validation</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Evaluate predictive breakdown model on held-out test gap configurations (CL-05).</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/03-thesis/claims/cl-05-reduced-predictive-model/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 CL-05 Model</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Validation</span>
-        </div>
-      </div>
-      <!-- Publications Card (Blue) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">◎</strong> PUBLICATIONS</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Conference</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">International Conference Contribution</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Oral presentation at IEEE Pulsed Power (PPC) or Gas Discharges (GD).</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/02-publications/conferences/conference-pipeline/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Conferences</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Oral Paper</span>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Year 4 -->
-  <div style="flex: 1 1 0; min-width: 230px; background: var(--background-secondary, #1e2227); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 4px 6px rgba(0,0,0,0.06);">
-    <div style="padding: 10px 12px; border-bottom: 2px solid var(--background-modifier-border, #8b949e); display: flex; justify-content: space-between; align-items: center; background: rgba(255,255,255,0.03); border-top-left-radius: 8px; border-top-right-radius: 8px;">
-      <span style="font-weight: 600; font-size: 0.9em; color: var(--text-normal, #ddd);">Year 4 (2027–2028)</span>
-      <span style="background: rgba(255,255,255,0.1); color: var(--text-muted, #aaa); font-size: 0.75em; padding: 2px 7px; border-radius: 10px; font-weight: bold;">Defense</span>
-    </div>
-    <div style="padding: 10px; display: flex; flex-direction: column; gap: 8px;">
-      <!-- Thesis Card (Blue) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">◉</strong> THESIS</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Final</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Dissertation Monograph Synthesis</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Consolidate all evidence claims, validation datasets, and LaTeX thesis manuscript.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/i-projects/01-manuscripts/dissertation-manuscript/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Dissertation</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Writing</span>
-        </div>
-      </div>
-      <!-- Teaching Card (Yellow) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">▯</strong> TEACHING</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Mentoring</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Bachelor &amp; Master Thesis Supervision</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Complete mentoring and defense preparation for supervised student projects.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">Local vault record</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Mentoring</span>
-        </div>
-      </div>
-      <!-- Admin Card (Black) -->
-      <div style="background: var(--background-primary, #282c34); border: 1px solid var(--background-modifier-border, rgba(255,255,255,0.08)); border-left: 3px solid var(--background-modifier-border, #8b949e); border-radius: 6px; padding: 9px 10px; font-size: 0.84em; line-height: 1.4; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
-          <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span>
-          <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Final</span>
-        </div>
-        <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Dissertation Review &amp; Doctoral Defense</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Submit thesis to Faculty Review Committee, review responses, and defend Ph.D.</div>
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/06-administration/directives-and-regulations/doctoral-study-regulations-and-directives/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Regulations</a>
-          <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Graduation</span>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three February 2025 series. The 2025–2026 phase consolidates that record and prepares the discussion; KOS completion and current apparatus access remain separately verified.
 
 ---
 
@@ -426,7 +247,7 @@ This garden documents a reproducible investigation of how measured laser-channel
 | Project                                                                          | Priority | Status      | Updated    |
 | -------------------------------------------------------------------------------- | -------- | ----------- | ---------- |
 | [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]               | high     | active | 2026-09-03 |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Channel-State-Dependent Laser Triggering]] | high | active | 2026-09-03 |
+| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Atmospheric Metrology]] | high | active | 2026-09-03 |
 
 
 ---
@@ -435,7 +256,7 @@ This garden documents a reproducible investigation of how measured laser-channel
 
 | Manuscript                                                                       | Target venue                                         | Status      | Deadline          |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------- | ----------------- |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Channel-State-Dependent Laser Triggering]] | Venue selected after WP3 | active | November 30, 2027 |
+| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Atmospheric Metrology]] | Venue selected after WP3 | active | November 30, 2027 |
 
 
 ---
@@ -467,3 +288,7 @@ This garden documents a reproducible investigation of how measured laser-channel
 - **Dissertation structure:** [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
 - **Publication strategy:** [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy & Targets]]
 - **Research methodology:** [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
+
+## Mandatory economic contribution
+
+[[II Areas/03_Thesis/Claims/CL-07 - Techno-economic operating choice\|CL-07 - Techno-economic operating choice]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.

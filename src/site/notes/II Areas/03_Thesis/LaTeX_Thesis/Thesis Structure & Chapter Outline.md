@@ -1,97 +1,74 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/la-te-x-thesis/thesis-structure-and-chapter-outline/","title":"Thesis Structure & Chapter Outline","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"Thesis Structure & Chapter Outline","aliases":["Thesis Structure","Chapter Outline"],"type":"chapter","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-07"}}
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/la-te-x-thesis/thesis-structure-and-chapter-outline/","title":"Thesis Structure & Chapter Outline","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Thesis Structure & Chapter Outline","aliases":["Thesis Structure","Chapter Outline"],"type":"chapter","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
 
 
 # Thesis Structure & Chapter Outline
 
+The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+
 ## Recommended fixed title
 
 **Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling**
 
-Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování**
-
-The September 2026 discussion must approve or explicitly revise this wording. The broad previous title is retained only as historical context because it promised grid protection and techno-economics beyond the validated core.
+Czech: **Predikce laserem asistovaného průrazu ve vzduchu za atmosférického tlaku a technicko-ekonomická optimalizace provozních podmínek**.
 
 ## Structure status
 
-This outline is the target architecture, not a description of the existing LaTeX chapter numbering. [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]] identifies the current baseline. Migration of the older nine-chapter manuscript requires content review before its title or PDF can be treated as current.
+This is the current monograph planning architecture. It does not certify migration of an older LaTeX manuscript stored outside this vault. [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]] distinguishes current reviewer files from historical manuscripts.
 
 ## Dissertation argument
 
-1. Laser-triggered breakdown is a stochastic high-voltage switching problem.
-2. Nominal pulse energy does not fully represent the channel that interacts with the electric field.
-3. A traceable experiment can quantify probability, delay and jitter as functions of measured channel state.
-4. Timing-resolved optical/electrical data can constrain the relevant channel-lifetime regimes.
-5. A reduced model should be judged by prediction on untouched conditions.
-6. Application and economics are meaningful only after reliability and performance are measured.
+Can measurements of a laser-created channel improve prediction of breakdown probability and timing in atmospheric air, and support selection of the least-cost operating conditions that satisfy a predefined technical requirement?
+
+| Contribution | Evidence and role |
+| --- | --- |
+| C-W1 | Reproducible atmospheric operating domain; probability and calibrated timing; CL-01, CL-02 and supporting CL-06 |
+| C-W2 | Independent comparison of M0 and channel-informed M1; CL-03 and CL-05 |
+| C-WE | Mandatory bounded TCO and technically feasible operating choice; CL-07 |
+| C-W5 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
+
+CL-04 is supporting robustness within the frozen atmospheric configuration family. C-W3/C-W4 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
 
 ## Monograph outline
 
 ### Chapter 1 - Problem, prior work and research gap
 
-- APL 2025 as verified prior work and its limits.
-- Laser-triggered spark gaps, guided discharges and switching context.
-- Gap: channel state, censored outcomes, uncertainty and predictive validation.
-- Central question, RQ1-RQ4 and C-A to C-C.
+Long-term SF₆-replacement goal, bounded atmospheric dissertation, technical/economic decision and research questions. Explain why mandatory evidence ends with Tier 1.
 
 ### Chapter 2 - Physical and statistical foundations
 
-- Optical breakdown and seed-electron production.
-- Attachment, recombination, avalanche and local $E/N$.
-- Streamer/leader inception and circuit coupling.
-- Gas heating and density-channel evolution.
-- Statistical versus formative delay as operational models.
-- Probability, survival/censoring and jitter estimators.
-
-Basis: [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]] and [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]].
+Critical literature, laser/channel/discharge physics, statistical timing, uncertainty and inherited May 2024/February 2025 results. Do not count reused series twice or assume an irradiance–delay trend.
 
 ### Chapter 3 - Metrology and reduced predictive model
 
-- Equivalent circuit, transfer functions and timing budget.
-- Laser/channel measurement and uncertainty.
-- 0D/1D electron balance and density-channel parameterisation.
-- Calibration/validation separation and sensitivity analysis.
-- Full 3D chemistry only if justified by predictive improvement.
-- Define the model here; present its held-out validation once, in Chapter 5.
+Apparatus, optical time zero, electrical markers, uncertainty, data integrity and model definitions. Reserve independent model results for Chapter 5.
 
 ### Chapter 4 - Experimental design, results and validation
 
-- WP0-WP4 protocol and data integrity.
-- Self-breakdown and definition of $k$.
-- Channel calibration and laser-to-HV delay scan.
-- Confirmatory probability and censored-delay results.
-- Independent repeat and held-out energy-only versus channel-informed comparisons (CL-03).
-- Claim decisions for C-A and C-B; physical-model validation (CL-05) belongs to Chapter 5.
+Atmospheric operating domain, no-laser reference, probability/delay distributions, failed attempts and independent repeat. C-W1; CL-01/02 and supporting CL-04/06.
 
 ### Chapter 5 - Model validation and engineering operating envelope
 
-- CL-05 held-out predictions and failure regions.
-- Transfer limits across session, electrode state, geometry or polarity.
-- Reliability metrics derivable from measured distributions.
-- A named pulsed-power use case only if technically justified.
+M0/M1 comparison, calibration, held-out session validation and failure regions. Distinguish post-pulse prediction from pre-trigger choice. C-W2; CL-03/05.
 
-### Chapter 6 - Activated extensions and feasibility assessment
+### Chapter 6 - Mandatory TCO and operating choice
 
-- Include only extensions that passed their gates.
-- Possible EMP, radiation, repetition, erosion or demonstrator results.
-- Reliability/economic sensitivity or break-even envelope only from measured inputs.
-- Otherwise present as limitations and future work, not a promised contribution.
+Laboratory service, shared/dedicated scenarios, cost inputs, feasible choices under performance/demand constraints, independent technical confirmation, uncertainty and break-even conditions. C-WE; CL-07.
 
 ### Chapter 7 - Conclusions and original contributions
 
-- Decisions for each CL, including falsified or bounded claims.
-- Original contributions C-A to C-C.
-- Reproducibility package and transfer limits.
-- Recommendations for follow-up work.
+Synthesis of C-W1, C-W2, C-WE and reproducibility C-W5. Quantitative limits and separate Tier 2/3 outlook. No required CO₂ or application-result chapter.
 
 ## Minimum-thesis boundary
 
-Chapters 1-5 plus Chapter 7 form the defensible core. Chapter 6 is conditional and may not delay completion. The immediate scientific-study/minimum structure is defined in [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026#Structure of the minimum-study document\|Professional Discussion: Dissertation Study & Research Plan (2026)]].
+Chapters 1–7 include the economic contribution as mandatory. Tier 2/3 results are optional outlook material and cannot displace core writing. Full draft by June 2028, submission in August 2028, subject to formal eligibility.
 
 ## Related notes
 
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]]
 - [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]

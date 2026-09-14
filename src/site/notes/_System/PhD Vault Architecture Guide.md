@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/system/ph-d-vault-architecture-guide/","title":"PhD Vault Architecture Guide","tags":["topic/system/vault"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"PhD Vault Architecture Guide","aliases":["System Guide"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/vault"],"tags":["topic/system/vault"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/system/ph-d-vault-architecture-guide/","title":"PhD Vault Architecture Guide","tags":["topic/system/vault"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"PhD Vault Architecture Guide","aliases":["System Guide"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/vault"],"tags":["topic/system/vault"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
 
 
 # PhD Vault Architecture Guide
+
+Scope authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]. Working contributions are C-W1/C-W2/C-WE/C-W5, with atomic CL-01–CL-07. Tier 1 includes bounded TCO; Tier 2/3 are follow-on. Preserve historical notes with an explicit historical status and keep current schedules consistent with the reviewer baseline.
 
 This document defines the canonical architecture of **Obsidian-PhD**. The vault must support four connected outcomes: a defensible dissertation, reproducible evidence, timely publications and completion of doctoral obligations.
 

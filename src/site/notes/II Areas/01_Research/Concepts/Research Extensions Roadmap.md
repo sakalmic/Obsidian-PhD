@@ -1,23 +1,17 @@
 ---
-{"dg-publish":true,"dg-permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","title":"Research Extensions Roadmap","tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-09","dg-note-properties":{"title":"Research Extensions Roadmap","aliases":["LTSG Extensions","Dissertation Extensions"],"type":"roadmap","status":"planned","context":"research","topics":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"date":"2026-09-02","last_updated":"2026-09-09","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/"}}
+{"dg-publish":true,"dg-permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","title":"Research Extensions Roadmap","tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-14","dg-note-properties":{"title":"Research Extensions Roadmap","aliases":["LTSG Extensions","Dissertation Extensions"],"type":"roadmap","status":"planned","context":"research","topics":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"date":"2026-09-02","last_updated":"2026-09-14","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/"}}
 ---
 
 
 # Research Extensions Roadmap
 
+The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+
 ## Principle
 
-Extensions must deepen the central causal chain rather than create unrelated side projects:
-
-$$
-\text{laser parameters}
-\rightarrow \text{channel state}
-\rightarrow \text{breakdown dynamics}
-\rightarrow \text{switching waveform}
-\rightarrow \text{EMP/radiation/recovery}.
-$$
-
-The core package is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]. Each extension below has an activation gate and a distinct research output.
+Tier 2 is a bounded CO₂/pressure-transfer study; Tier 3 concerns applications and their system validation. The E1–E10 notes below are a library of possible follow-on work, not ten required work packages. Each needs separate resources and a recorded decision. Mandatory laboratory TCO is in [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] and is not gated on a demonstrator.
 
 ## E1 - Quantitative EMP fingerprinting
 
@@ -29,7 +23,7 @@ The core package is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-20
 
 **Activation gate:** stable core timing data and completed four-state pickup controls.
 
-**Likely output:** dedicated EMP methods/results paper or a major dissertation chapter.
+**Likely output:** separate follow-on EMP methods/results paper; no required dissertation chapter.
 
 ## E2 - Ionising-radiation field mapping
 
@@ -65,13 +59,9 @@ The core package is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-20
 
 ## E5 - Gas, pressure and environmentally preferable mixtures
 
-**Question:** Which gas/pressure combinations minimise trigger energy and jitter while maintaining hold-off and recovery?
+**Tier 2 question:** does the atmospheric methodology transfer to a bounded CO₂/pressure domain?
 
-**Design:** air baseline first; then dry air, N2, noble-gas mixtures or other justified candidates. SF6 alternatives require a separate safety/environmental assessment.
-
-**Activation gate:** sealed pressure-capable chamber, gas handling, leak test and approved safety procedure.
-
-**Risk:** scope grows rapidly because transport and reaction coefficients change with composition.
+Begin only with a separately approved chamber, gas-handling protocol, resources and compact matrix. Broad gas/mixture screening is not the default scope. No CO₂ result or pressure apparatus is required for the August 2028 dissertation submission.
 
 ## E6 - Electrode geometry, material and erosion
 
@@ -109,39 +99,22 @@ The core package is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-20
 
 ## E10 - Techno-economic and reliability assessment
 
-**Question:** Under what validated technical envelope could optical triggering offer value over an electrical trigger or conventional pulsed-power switch?
+**Tier 3 only:** product/system economics beyond the atmospheric laboratory service. This requires an application demonstrator and substantiated reliability, lifetime, failure and maintenance inputs.
 
-**Inputs must come from experiments:** laser energy and repetition, maintenance interval, electrode life, false-trigger probability, missed-trigger probability, timing advantage, component cost and availability.
-
-**Method:** total cost of ownership and reliability/sensitivity analysis. Do not calculate payback from assumed performance values presented as measurements.
+Do not confuse this extension with mandatory C-WE/CL-07, which starts cost collection in WP0 and integrates TCO by April 2028 without a product demonstrator.
 
 ## Prioritisation
 
-| Priority | Extension | Rationale |
-| ---: | --- | --- |
-| 1 | E6 geometry/erosion | Low additional equipment; directly improves core validity. |
-| 2 | E1 EMP pilot | Strong link to Cikhardt and measurement integrity. |
-| 3 | E7 coupled model | Converts measurements into transferable understanding. |
-| 4 | E9 pulsed-power demonstrator | Clear applied contribution after mechanism validation. |
-| 5 | E2 radiation mapping | High novelty but needs specialist diagnostics and controls. |
-| 6 | E4 high repetition | Valuable for application and recovery; requires automation. |
-| 7 | E3 filament triggering | Scientifically strong, equipment-dependent. |
-| 8 | E5 gases/pressure | Large parameter space and added safety burden. |
-| 9 | E8 long gaps | Facility-intensive and broader than the minimum thesis. |
-| 10 | E10 techno-economics | Meaningful only after technical inputs are measured. |
+| Scope | Priority and boundary |
+| --- | --- |
+| Tier 1 | Atmospheric evidence, M0/M1 prediction and bounded TCO; first claim on dissertation resources |
+| Tier 2 | CO₂/pressure transfer only with separate resources; outside required papers and completion |
+| Tier 3 | Select an application only after technical transfer and a distinct project decision |
+| E1–E10 library | Optional supporting ideas; no automatic activation or dissertation obligation |
 
 ## Decision matrix for supervisor review
 
-| Extension | Scientific value | Cost/complexity | Dependency | Candidate decision |
-| --- | :---: | :---: | --- | --- |
-| E1 EMP | High | Medium-high | Stable core + calibrated RF chain | Decide Feb 2028 |
-| E2 radiation | High | High | Radiation group + detector access | Decide after survey |
-| E3 filament | High | High | Ultrafast laser collaboration | Opportunity-driven |
-| E4 repetition | Medium-high | Medium | Automation + recovery protocol | After WP4 |
-| E6 erosion | Medium-high | Low-medium | Spare electrodes/metrology | Include early |
-| E7 coupled model | High | Medium | WP1-WP4 data | Include |
-| E9 demonstrator | High applied | High | Core validated | Stretch goal |
-| E10 economics | Conditional | Medium | Real reliability/cost data | Late-stage only |
+Every follow-on decision must name the question, owner, funding, apparatus, evidence gate and stop condition. Work may extend into 2029 without changing the August 2028 dissertation target. Routine geometry control, pickup checks and the reduced M0/M1 model remain Tier 1 methods; extended erosion studies, calibrated EMP research and fully coupled plasma/circuit models are separate scope additions.
 
 ## Connections
 

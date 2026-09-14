@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/cl-01-laser-assisted-breakdown-probability/","title":"CL-01 - Laser-assisted breakdown probability","tags":["topic/ltsg/breakdown","topic/ltsg/statistics"],"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"CL-01 - Laser-assisted breakdown probability","aliases":["CL-01"],"claim_id":"CL-01","type":"claim","status":"hypothesis","claim_role":"primary","contribution":"C-A","context":"thesis","work_packages":["WP1","WP3","WP4"],"datasets":[],"analyses":[],"manuscripts":["Paper-1"],"chapters":["Chapter-4"],"topics":["topic/ltsg/breakdown","topic/ltsg/statistics"],"tags":["topic/ltsg/breakdown","topic/ltsg/statistics"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/cl-01-laser-assisted-breakdown-probability/","title":"CL-01 - Laser-assisted breakdown probability","tags":["topic/ltsg/breakdown","topic/ltsg/statistics"],"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"CL-01 - Laser-assisted breakdown probability","aliases":["CL-01"],"claim_id":"CL-01","type":"claim","status":"hypothesis","claim_role":"primary","contribution":"C-W1","context":"thesis","work_packages":["WP1","WP3","WP4"],"datasets":[],"analyses":[],"manuscripts":["Paper-1"],"chapters":["Chapter-4"],"topics":["topic/ltsg/breakdown","topic/ltsg/statistics"],"tags":["topic/ltsg/breakdown","topic/ltsg/statistics"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
 
 
 # CL-01 - Laser-assisted breakdown probability
+
+Current contribution mapping: C-W1. Atmospheric Tier 1 only; the claim remains a hypothesis until linked evidence supports or bounds it. C-W5 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]].
 
 ## Claim
 
@@ -28,6 +30,6 @@ If the interval includes no practically relevant change, report a quantitative u
 
 ## Connections
 
-- **Up:** [[Breakdown Voltage Is a Probability Distribution Not a Constant\|Breakdown Voltage Is a Probability Distribution Not a Constant]] · [[Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]] · [[Hierarchical Shot-Level Models Separate Effects from Drift\|Hierarchical Shot-Level Models Separate Effects from Drift]]
+- **Up:** [[II Areas/01_Research/Concepts/202609031230 - Breakdown Voltage Is a Probability Distribution Not a Constant\|Breakdown Voltage Is a Probability Distribution Not a Constant]] · [[II Areas/01_Research/Concepts/202609031020 - Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]] · [[II Areas/01_Research/Concepts/202609031240 - Hierarchical Shot-Level Models Separate Effects from Drift\|Hierarchical Shot-Level Models Separate Effects from Drift]]
 - **Side:** [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]
 - **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]

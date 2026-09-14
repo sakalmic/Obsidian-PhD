@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031120-peak-laser-intensity-requires-spatial-temporal-and-uncertainty-definitions/","title":"Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions","tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/metrology"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions","aliases":["Peak laser intensity","Gaussian pulse intensity"],"type":"concept","status":"evergreen","context":"research","claims":["CL-01","CL-02","CL-03"],"topics":["topic/ltsg/channel","topic/ltsg/metrology"],"tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/metrology"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031120-peak-laser-intensity-requires-spatial-temporal-and-uncertainty-definitions/","title":"Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions","tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/metrology"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions","aliases":["Peak laser intensity","Gaussian pulse intensity"],"type":"concept","status":"evergreen","context":"research","claims":["CL-01","CL-02","CL-03"],"topics":["topic/ltsg/channel","topic/ltsg/metrology"],"tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/metrology"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
 
 
@@ -52,8 +52,8 @@ The waist term is doubled in sensitivity and often dominates. Correlations requi
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
-- **Side:** [[Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] · [[Kerr Self-Focusing Creates Extended Filamentary Channels\|Kerr Self-Focusing Creates Extended Filamentary Channels]]
-- **Down:** [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]] · [[Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] · [[II Areas/01_Research/Concepts/202609031130 - Kerr Self-Focusing Creates Extended Filamentary Channels\|Kerr Self-Focusing Creates Extended Filamentary Channels]]
+- **Down:** [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]] · [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]]
 
 ## Anchor source
 

@@ -1,25 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/01-manuscripts/dissertation-manuscript/","title":"Dissertation Manuscript","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"Dissertation Manuscript","aliases":["Project - Dissertation Manuscript"],"project_id":"PhD-Dissertation","type":"project","status":"active","context":"thesis","priority":"high","due":"2028-08-31","definition_of_done":"A reviewed dissertation with traceable original results, reproducibility package and all formal submission materials.","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-07"}}
+{"dg-publish":true,"permalink":"/i-projects/01-manuscripts/dissertation-manuscript/","title":"Dissertation Manuscript","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Dissertation Manuscript","aliases":["Project - Dissertation Manuscript"],"project_id":"PhD-Dissertation","type":"project","status":"active","context":"thesis","priority":"high","due":"2028-08-31","definition_of_done":"A reviewed dissertation with traceable original results, reproducibility package and all formal submission materials.","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
 
 
 # Project: Dissertation Manuscript
 
+The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+
 ## Recommended fixed title
 
 **Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling**
 
-Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování**
+Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování**.
 
-Document hierarchy: [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]. This is a working proposal, not a recorded formal approval.
-
-Final wording is decided through [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]].
+This is the candidate-selected working title, pending formal recorded approval. See [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]].
 
 ## Dissertation promise
 
-Determine how measured laser-channel state controls breakdown probability, delay and jitter at a normalised working voltage and evaluate whether a reduced model predicts at least one core outcome under held-out conditions.
+Can measurements of a laser-created channel improve prediction of breakdown probability and timing in atmospheric air, and support selection of the least-cost operating conditions that satisfy a predefined technical requirement?
 
-The three contribution groups are C-A, C-B and C-C as defined in [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]. A broad grid-breaker or techno-economic claim is not part of the minimum promise.
+| Contribution | Evidence and role |
+| --- | --- |
+| C-W1 | Reproducible atmospheric operating domain; probability and calibrated timing; CL-01, CL-02 and supporting CL-06 |
+| C-W2 | Independent comparison of M0 and channel-informed M1; CL-03 and CL-05 |
+| C-WE | Mandatory bounded TCO and technically feasible operating choice; CL-07 |
+| C-W5 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
+
+CL-04 is supporting robustness within the frozen atmospheric configuration family. C-W3/C-W4 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
 
 ## Format and repositories
 
@@ -48,19 +57,20 @@ The authoritative scientific calendar is embedded from the core programme rather
 
 ## Calendar and milestones
 
-| Period | Main work | Gate / output |
+| Period | Work package | Required result |
 | --- | --- | --- |
-| Sep 2026 | [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]; freeze topic, question, contribution structure and scope. | G-1: topic fixed by the discussion. |
-| Oct-Dec 2026 | WP0; standards, safety, metrology, protocol, data schema and pilot baseline. | G0: approved protocol and reproducible dry run. |
-| Jan-Feb 2027 | WP1 self-breakdown on at least three sessions; minimum/SDZ preparation. | D1-D2 and stable definition of $k$. |
-| Mar-Apr 2027 | WP2 laser/channel calibration and pilot laser-to-HV delay scan; submit SDZ application when eligible. | D3 and measurable channel descriptors. |
-| May-Jun 2027 | WP3 sequential screening; precision/power design for WP4; take SDZ in the available term. | **June stop/go:** viable operating window or narrower fallback. |
-| Jul-Oct 2027 | WP4 confirmatory campaign and independent repeat; prepare Paper 1 in parallel. | D4-D5; frozen dataset; Paper 1 ready. |
-| Oct-Nov 2027 | Submit Paper 1; complete or document the required foreign stay where feasible. | Paper 1 submitted. |
-| Nov 2027-Feb 2028 | WP5 reduced model and held-out validation; draft Paper 2 and thesis Chapters 3-4. | D6; model supported or bounded. |
-| Mar-Apr 2028 | Submit Paper 2; activate at most one extension if all core gates have passed. | Core evidence package complete. |
-| May-Jun 2028 | Full dissertation draft, internal review and any additional required publication output. | Full draft with compliance evidence. |
-| Jul-Aug 2028 | Corrections, reproducibility package and submission; no new core experiment. | Final dissertation. |
+| Sep–Dec 2026 | WP0: scope and metrology | Confirm apparatus, optical timing, protocol, service requirements and cost boundary |
+| Jan–Feb 2027 | WP1: baseline | Reproducible no-laser/self-breakdown reference and session/environment blocks |
+| Mar–Apr 2027 | WP2: channel pilot | Repeatable descriptor or documented diagnostic limit |
+| May–Jun 2027 | WP3: screening | Compact confirmation matrix, sample size and frozen analysis; June stop/go |
+| Jul–Oct 2027 | WP4: confirmation | Locked atmospheric dataset and independent repeat; prepare Paper 1 |
+| Oct–Nov 2027 | Paper 1 | Submit metrology and stochastic operating-domain study |
+| Nov 2027–Feb 2028 | WP5: prediction | Held-out M0/M1 comparison and independently tested operating rule |
+| Mar–Apr 2028 | WP6: TCO integration | Cost synthesis, feasibility and sensitivity; submit Paper 2 |
+| Through Jun 2028 | WP7: dissertation writing | Continuous drafting; complete reviewed draft by June |
+| Jul–Aug 2028 | WP7: finalisation | Eligibility audit, corrections and August submission; no new core campaign |
+
+Cost collection starts in WP0 and continues during acquisition. The prediction/evidence core closes by February 2028 and TCO synthesis by April. Tier 2/3 may continue from autumn 2028 into 2029 under separate resources; those dates do not extend the dissertation target. Submission is not acceptance of a paper and is not the defence date.
 
 
 </div></div>
@@ -68,11 +78,7 @@ The authoritative scientific calendar is embedded from the core programme rather
 
 ## Writing cadence
 
-- Chapters 1-2: expand during the minimum and WP0-WP2.
-- Chapter 3 methods/model: write alongside model development.
-- Chapter 4 methods section: write before WP4; results after dataset freeze.
-- Introduction, limitations and conclusions: update after each claim decision.
-- Full draft: June 2028; July-August reserved for review and submission. These are internal targets; the individual deadline and a separate defence date require confirmation.
+Chapters 1–3 develop during preparation/metrology; Chapter 4 follows the atmospheric evidence; Chapter 5 reports prediction; mandatory Chapter 6 develops from cost collection in WP0 through WP6 synthesis. Full draft by June 2028; July–August reserved for corrections, eligibility and submission. Defence has no confirmed date.
 
 ## Next actions
 

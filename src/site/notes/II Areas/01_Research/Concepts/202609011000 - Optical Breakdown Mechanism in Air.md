@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609011000-optical-breakdown-mechanism-in-air/","title":"Optical Breakdown Mechanism in Air","tags":["type/permanent","context/research","theme/breakdown-physics","status/evergreen"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-02","dg-note-properties":{"title":"Optical Breakdown Mechanism in Air","aliases":["Zettel - Optical Breakdown Mechanism in Air","Optical Breakdown Mechanism in Air"],"tags":["type/permanent","context/research","theme/breakdown-physics","status/evergreen"],"date":"2026-09-01","last_updated":"2026-09-02"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609011000-optical-breakdown-mechanism-in-air/","title":"Optical Breakdown Mechanism in Air","tags":["type/permanent","context/research","theme/breakdown-physics","status/evergreen"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Optical Breakdown Mechanism in Air","aliases":["Zettel - Optical Breakdown Mechanism in Air","Optical Breakdown Mechanism in Air"],"tags":["type/permanent","context/research","theme/breakdown-physics","status/evergreen"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
 
 
@@ -36,7 +36,7 @@ where $\nu_i$ is an effective ionisation frequency, $\nu_a$ attachment, $\nu_r$ 
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
-- **Side:** [[Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] · [[Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] · [[II Areas/01_Research/Concepts/202609031110 - Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
 - **Down:** [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]
 
 ## Anchor sources

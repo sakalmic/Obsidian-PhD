@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031010-electron-energy-distribution-determines-transport-coefficients/","title":"Electron Energy Distribution Determines Transport Coefficients","tags":["type/permanent","context/research","topic/ltsg/model","topic/ltsg/breakdown"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Electron Energy Distribution Determines Transport Coefficients","aliases":["Electron energy distribution function","EEDF and rate coefficients"],"type":"concept","status":"evergreen","context":"research","claims":["CL-05"],"topics":["topic/ltsg/model","topic/ltsg/breakdown"],"tags":["type/permanent","context/research","topic/ltsg/model","topic/ltsg/breakdown"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031010-electron-energy-distribution-determines-transport-coefficients/","title":"Electron Energy Distribution Determines Transport Coefficients","tags":["type/permanent","context/research","topic/ltsg/model","topic/ltsg/breakdown"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Electron Energy Distribution Determines Transport Coefficients","aliases":["Electron energy distribution function","EEDF and rate coefficients"],"type":"concept","status":"evergreen","context":"research","claims":["CL-05"],"topics":["topic/ltsg/model","topic/ltsg/breakdown"],"tags":["type/permanent","context/research","topic/ltsg/model","topic/ltsg/breakdown"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
 
 
@@ -40,8 +40,8 @@ with coefficients derived consistently from one cross-section set.
 
 ## Connections
 
-- **Up:** [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]]
-- **Side:** [[Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]]
+- **Up:** [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031020 - Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]]
 - **Down:** [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] · [[I Projects/02_Campaigns/COMSOL Plasma Simulation Model\|COMSOL Plasma Simulation Model]]
 
 ## Anchor source

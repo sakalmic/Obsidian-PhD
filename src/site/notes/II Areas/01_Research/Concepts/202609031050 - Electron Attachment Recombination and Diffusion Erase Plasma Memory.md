@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031050-electron-attachment-recombination-and-diffusion-erase-plasma-memory/","title":"Electron Attachment Recombination and Diffusion Erase Plasma Memory","tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-03","dg-note-properties":{"title":"Electron Attachment Recombination and Diffusion Erase Plasma Memory","aliases":["Plasma channel decay","Electron loss timescales"],"type":"concept","status":"evergreen","context":"research","claims":["CL-02","CL-05","CL-06"],"topics":["topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031050-electron-attachment-recombination-and-diffusion-erase-plasma-memory/","title":"Electron Attachment Recombination and Diffusion Erase Plasma Memory","tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Electron Attachment Recombination and Diffusion Erase Plasma Memory","aliases":["Plasma channel decay","Electron loss timescales"],"type":"concept","status":"evergreen","context":"research","claims":["CL-02","CL-05","CL-06"],"topics":["topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
 
 
@@ -37,7 +37,7 @@ which is not exponential. If first-order attachment dominates, $n_e\propto e^{-t
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
-- **Side:** [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]] · [[Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]] · [[II Areas/01_Research/Concepts/202609031200 - Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]]
 - **Down:** [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]]
 
 ## Anchor sources

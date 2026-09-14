@@ -1,50 +1,60 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claim-ledger/claim-ledger-and-evidence-matrix/","title":"Claim Ledger & Evidence Matrix","tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-07","dg-note-properties":{"title":"Claim Ledger & Evidence Matrix","aliases":["Claim Ledger","Evidence Matrix"],"type":"moc","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-07"}}
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claim-ledger/claim-ledger-and-evidence-matrix/","title":"Claim Ledger & Evidence Matrix","tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Claim Ledger & Evidence Matrix","aliases":["Claim Ledger","Evidence Matrix"],"type":"moc","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
 
 
 # Claim Ledger & Evidence Matrix
 
+The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+
 This is the dashboard for all scientific claims permitted in the dissertation. The stable CL identifiers are now represented by atomic notes so that datasets, analyses, manuscripts and chapters can link to them through properties.
 
 ## Document authority
 
-Use [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]] for the document hierarchy. Atomic CL-01 through CL-06 are authoritative; the earlier LaTeX C-01 through C-16 register is historical and is not an interchangeable numbering scheme.
+Use [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]] for the document hierarchy. The reviewer report governs current scope; stable atomic CL-01 through CL-07 define the tests. C-W1/C-W2/C-WE/C-W5 are contribution groups, not a competing claim-number sequence. Earlier C-A/C-B/C-C and LaTeX C-01–C-16 are historical mappings. C-W3/C-W4 are follow-on only.
 
 ## Contribution architecture
 
-| Contribution | Claims | Role | Completion condition |
-| --- | --- | --- | --- |
-| **C-A — Reproducible operating window** | [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]], [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] | Primary | Confirmatory effect or quantitative bound with independent repeat |
-| **C-B — Channel state and mechanism** | [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]], [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] | Primary | Held-out channel-informed comparison and defensible timing interpretation |
-| **C-C — Predictive reduced model** | [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] | Primary | One untouched core outcome predicted within predeclared tolerance |
-| Supporting robustness | [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]] | Supporting | Interaction estimate or quantitative bound if activated |
+| Contribution | Evidence and role |
+| --- | --- |
+| C-W1 | Reproducible atmospheric operating domain; probability and calibrated timing; CL-01, CL-02 and supporting CL-06 |
+| C-W2 | Independent comparison of M0 and channel-informed M1; CL-03 and CL-05 |
+| C-WE | Mandatory bounded TCO and technically feasible operating choice; CL-07 |
+| C-W5 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
 
-The minimum defensible dissertation requires C-A, C-B and C-C to be tested, not necessarily confirmed. CL-04 may remain bounded. Optional extension claims may not replace a missing core contribution.
+CL-04 is supporting robustness within the frozen atmospheric configuration family. C-W3/C-W4 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
 
 ## Claim dashboard
 
-| Claim                                                                                                                                                               | Contribution          | Role       | State      | WP                                            | Datasets  | Output                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------- | ---------- | --------------------------------------------- | --------- | ------------------------- |
-| [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability-13116-pdb0e47\|CL-01 - Laser-assisted breakdown probability-13116-pdb0e47]]             | C-A                   | primary    | hypothesis | <ul><li>WP1</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
-| [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]]                                         | C-A                   | primary    | hypothesis | <ul><li>WP1</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
-| [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]                                                               | C-A                   | primary    | hypothesis | <ul><li>WP0</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
-| [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy-13116-pdb0e47\|CL-03 - Channel state versus pulse energy-13116-pdb0e47]]                   | C-B                   | primary    | hypothesis | <ul><li>WP2</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
-| [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]]                                               | C-B                   | primary    | hypothesis | <ul><li>WP2</li><li>WP3</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-1</li></ul> |
-| [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry-13116-pdb0e47\|CL-04 - Polarity and field geometry-13116-pdb0e47]]                               | Supporting robustness | supporting | hypothesis | <ul><li>WP1</li><li>WP4</li></ul>             | <ul></ul> | <ul></ul>                 |
-| [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]]                                                           | Supporting robustness | supporting | hypothesis | <ul><li>WP1</li><li>WP4</li></ul>             | <ul></ul> | <ul></ul>                 |
-| [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model-13116-pdb0e47\|CL-05 - Reduced predictive model-13116-pdb0e47]]                                     | C-C                   | primary    | hypothesis | <ul><li>WP2</li><li>WP5</li></ul>             | <ul></ul> | <ul><li>Paper-2</li></ul> |
-| [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]                                                                 | C-C                   | primary    | hypothesis | <ul><li>WP2</li><li>WP5</li></ul>             | <ul></ul> | <ul><li>Paper-2</li></ul> |
-| [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]]                             | C-B                   | primary    | hypothesis | <ul><li>WP0</li><li>WP2</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-2</li></ul> |
-| [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages-13116-pdb0e47\|CL-06 - Reproducible optical and electrical stages-13116-pdb0e47]] | C-B                   | primary    | hypothesis | <ul><li>WP0</li><li>WP2</li><li>WP4</li></ul> | <ul></ul> | <ul><li>Paper-2</li></ul> |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+    file.link AS "Claim",
+    contribution AS "Contribution",
+    claim_role AS "Role",
+    status AS "State",
+    work_packages AS "WP",
+    datasets AS "Datasets",
+    manuscripts AS "Output"
+FROM "II Areas/03_Thesis/Claims"
+WHERE row["dg-publish"] = true
+SORT claim_id ASC
+```
 ## Evidence linked to claims
 
-| Evidence | Type | Evidence state | Claims | Dataset | Updated |
-| -------- | ---- | -------------- | ------ | ------- | ------- |
-
-{ .block-language-dataview}
+```dataview
+TABLE WITHOUT ID
+    file.link AS "Evidence",
+    type AS "Type",
+    evidence_state AS "Evidence state",
+    claims AS "Claims",
+    dataset_id AS "Dataset",
+    last_updated AS "Updated"
+FROM "II Areas/01_Research/Experiments"
+WHERE length(claims) > 0 AND row["dg-publish"] = true
+SORT last_updated DESC
+```
 ## Evidence-state vocabulary
 
 | State | Meaning |
@@ -82,14 +92,17 @@ flowchart LR
 
 ## Core-to-output matrix
 
-| Claim | Protocol/WP | Primary evidence | Planned output | Chapter |
+| Claim | WP | Evidence | Output | Chapter |
 | --- | --- | --- | --- | --- |
-| CL-01 | WP1, WP3, WP4 | Matched laser/no-laser probability | Paper 1 | Chapter 4 |
-| CL-02 | WP0, WP3, WP4 | Censored delay and jitter distributions | Paper 1 | Chapter 4 |
-| CL-03 | WP2-WP4 | Energy-only versus channel-informed held-out model | Paper 1 | Chapter 4 |
-| CL-04 | WP1, WP4 | Normalised polarity/geometry interaction | Optional Paper 2 | Chapter 4 or limitations |
-| CL-05 | WP5 | Calibration/validation model package | Paper 2 | Chapters 3 and 5 |
-| CL-06 | WP0, WP2, WP4 | Synchronized optical/electrical timing | Paper 2 | Chapter 4 |
+| CL-01 | WP1, WP3, WP4 | Atmospheric probability and independent repeat | Paper 1 | 4 |
+| CL-02 | WP0, WP3, WP4 | Calibrated delay distributions without assumed monotonicity | Paper 1 | 4 |
+| CL-03 | WP2–WP5 | Independent M0/M1 comparison | Paper 2 | 5 |
+| CL-04 | WP1, WP4 if activated | Supporting geometry/polarity robustness | Supporting only | 4 |
+| CL-05 | WP5 | Reduced prediction with held-out validation | Paper 2 | 5 |
+| CL-06 | WP0, WP2, WP4 | Observable optical/electrical timing and limits | Supporting Paper 1 | 4 |
+| CL-07 | Cost collection from WP0; WP6 synthesis | Feasible operating choice, TCO and uncertainty | Paper 2 | 6 |
+
+C-W5 spans all rows. Planned evidence is not a completed result.
 
 ## Extension claims — inactive by default
 
@@ -99,9 +112,9 @@ flowchart LR
 | **EX-RAD-01** | Photon/electron emission probability or spatial distribution | Radiation approval + passive survey + EMP controls | Planned |
 | **EX-RAD-02** | Neutron component under specified configuration | Plausible mechanism + multi-response calibration + approval | Planned |
 | **EX-APP-01** | System-level advantage in a named pulsed-power demonstrator | Core reliability, recovery and lifetime data | Planned |
-| **EX-ECO-01** | Favourable reliability/cost envelope | Demonstrator evidence + defensible cost distributions | Planned |
+| **EX-ECO-01** | System-level reliability/cost envelope beyond the mandatory laboratory TCO | Demonstrator evidence + defensible cost distributions | Planned |
 
-Extension results are included only if their activation gate is passed without delaying the core thesis.
+All extension rows are outside mandatory completion. They cannot replace C-WE or impose a dependency on August 2028 submission.
 
 ## Literature constraints
 
@@ -110,8 +123,8 @@ Extension results are included only if their activation gate is passed without d
 | Luther et al. 2001, [doi:10.1063/1.1419036](https://doi.org/10.1063/1.1419036) | Very low jitter is possible in an optimised small pressurised gap | Performance of the present atmospheric system |
 | Arantchouk et al. 2013, [doi:10.1063/1.4802927](https://doi.org/10.1063/1.4802927) | Filament triggering can achieve high-current, low-jitter switching | Transfer to the present geometry and laser regime |
 | Rosenthal et al. 2020, [doi:10.1364/OE.398836](https://doi.org/10.1364/OE.398836) | Heating and density-channel evolution can be central | Dominance under the present pulse duration and timing |
-| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]] | EMP measurement and source-attribution discipline | Atmospheric LTSG EMP amplitude or particle yield |
-| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Passive diagnostics, spatial mapping and background controls | Radiation presence or mechanism in laser-triggered shots |
+| [[LN - Cikhardt2026 - Electromagnetic and Particle Pulses]] | EMP measurement and source-attribution discipline | Atmospheric LTSG EMP amplitude or particle yield |
+| [[LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Passive diagnostics, spatial mapping and background controls | Radiation presence or mechanism in laser-triggered shots |
 
 ## Integrity note
 
@@ -123,27 +136,27 @@ These headings preserve existing block links. The atomic claim note is authorita
 
 ### CL-01
 
-See [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]].
+See [[CL-01 - Laser-assisted breakdown probability]].
 
 ### CL-02
 
-See [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]].
+See [[CL-02 - Delay and jitter response]].
 
 ### CL-03
 
-See [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]].
+See [[CL-03 - Channel state versus pulse energy]].
 
 ### CL-04
 
-See [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]].
+See [[CL-04 - Polarity and field geometry]].
 
 ### CL-05
 
-See [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]].
+See [[CL-05 - Reduced predictive model]].
 
 ### CL-06
 
-See [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]].
+See [[CL-06 - Reproducible optical and electrical stages]].
 
 ### EX-EMP-01
 
@@ -163,7 +176,7 @@ Inactive named pulsed-power demonstrator extension.
 
 ### EX-ECO-01
 
-Inactive reliability/economic feasibility extension based only on measured inputs.
+Inactive system-level economic extension. Mandatory laboratory TCO is CL-07/C-WE and does not depend on EX-APP-01 or EX-ECO-01.
 
 ## Operating review
 
@@ -171,8 +184,12 @@ Review this ledger weekly during acquisition and at every supervisor meeting. Th
 
 ## Related notes
 
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]
-- [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
-- [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]
+- [[Minimum Dissertation Study & Research Discussion 2026]]
+- [[LTSG Core Research Package 2026-2028]]
+- [[Thesis Structure & Chapter Outline]]
+- [[Research Methodology & Workflows]]
+- [[Paper - IEEE Transactions 2026]]
+
+## CL-07
+
+[[CL-07 - Techno-economic operating choice]] — mandatory C-WE; Chapter 6 and Paper 2. State: hypothesis/planned evidence, not an established optimum.

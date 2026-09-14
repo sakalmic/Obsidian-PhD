@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/laser-triggered-spark-gaps-ltsg/","title":"Laser-Triggered Spark Gaps (LTSG)","tags":["topic/ltsg/breakdown","topic/ltsg/timing"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Laser-Triggered Spark Gaps (LTSG)","aliases":["Laser-Triggered Spark Gaps","LTSG"],"type":"synthesis","status":"evergreen","context":"research","topics":["topic/ltsg/breakdown","topic/ltsg/timing"],"tags":["topic/ltsg/breakdown","topic/ltsg/timing"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/laser-triggered-spark-gaps-ltsg/","title":"Laser-Triggered Spark Gaps (LTSG)","tags":["topic/ltsg/breakdown","topic/ltsg/timing"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Laser-Triggered Spark Gaps (LTSG)","aliases":["Laser-Triggered Spark Gaps","LTSG"],"type":"synthesis","status":"evergreen","context":"research","topics":["topic/ltsg/breakdown","topic/ltsg/timing"],"tags":["topic/ltsg/breakdown","topic/ltsg/timing"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
 
 
 # Laser-Triggered Spark Gaps (LTSG)
+
+The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ## Operating principle and switching relevance
 
@@ -15,10 +19,9 @@ The full physical basis is maintained in [[II Areas/01_Research/Concepts/Theory 
 
 ## Core dissertation questions
 
-1. How do measured laser intensity, wavelength and focus position change triggering probability at a fixed working coefficient $k=U_{app}/U_{50}$?
-2. Which processes dominate switching delay and jitter: initial electron production, field-driven avalanche, hydrodynamic density reduction, streamer development or external-circuit dynamics?
-3. How do polarity, electrode-field geometry and conditioning history modify those relationships?
-4. Can synchronized optical and electrical diagnostics produce a transferable reduced model of the triggered breakdown?
+Can measurements of a laser-created channel improve prediction of breakdown probability and timing in atmospheric air, and support selection of the least-cost operating conditions that satisfy a predefined technical requirement?
+
+Operationally: calibrate timing and channel observables; estimate probability/delay with censoring and uncertainty; compare baseline M0 and channel-informed M1 independently; test a technically feasible operating choice with bounded TCO. Geometry/polarity robustness is limited to the frozen atmospheric family, not an open-ended device search.
 
 ## Evidence anchors
 
@@ -31,11 +34,9 @@ These results motivate hypotheses; they do not verify the performance of the pre
 
 ## Core versus extensions
 
-**Core:** breakdown probability, delay, jitter, electrical waveforms, channel imaging and a reduced physical model.
+**Tier 1:** atmospheric metrology, stochastic operating domain, independently validated M0/M1 prediction and mandatory bounded TCO.
 
-**Extensions:** quantitative EMP, passive/active radiation diagnostics, filament triggering, repetition/recovery, gas mixtures, coupled plasma-circuit modelling and a pulsed-power demonstrator. See [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]].
-
----
+**Tier 2:** separately resourced CO₂/pressure transfer. **Tier 3:** applications and their system validation. EMP/radiation research, recovery/lifetime, extended chemistry and demonstrators remain gated follow-on topics. See [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]].
 
 ## Connections
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/laser-induced-plasma-dynamics/","title":"Laser-Induced Plasma Dynamics","tags":["topic/ltsg/channel"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Laser-Induced Plasma Dynamics","aliases":["Laser-Induced Plasma Dynamics"],"type":"synthesis","status":"evergreen","context":"research","topics":["topic/ltsg/channel"],"tags":["topic/ltsg/channel"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/laser-induced-plasma-dynamics/","title":"Laser-Induced Plasma Dynamics","tags":["topic/ltsg/channel"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Laser-Induced Plasma Dynamics","aliases":["Laser-Induced Plasma Dynamics"],"type":"synthesis","status":"evergreen","context":"research","topics":["topic/ltsg/channel"],"tags":["topic/ltsg/channel"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
 
 
@@ -25,12 +25,12 @@ The working model combines electron balance, drift-diffusion, Poisson's equation
 
 The model chain is decomposed into permanent notes:
 
-1. [[Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
-2. [[Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] and [[Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
-3. [[Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]] and [[Electron Energy Distribution Determines Transport Coefficients\|Electron Energy Distribution Determines Transport Coefficients]]
-4. [[Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]]
-5. [[Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
-6. [[Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
+1. [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
+2. [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] and [[II Areas/01_Research/Concepts/202609031110 - Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
+3. [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]] and [[II Areas/01_Research/Concepts/202609031010 - Electron Energy Distribution Determines Transport Coefficients\|Electron Energy Distribution Determines Transport Coefficients]]
+4. [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]]
+5. [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
+6. [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
 
 ## Measurement consequences
 

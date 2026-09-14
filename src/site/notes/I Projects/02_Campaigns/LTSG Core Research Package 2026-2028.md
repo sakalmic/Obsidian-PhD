@@ -1,33 +1,35 @@
 ---
-{"dg-publish":true,"dg-permalink":"/ltsg-core-research-package-2026-2028/","permalink":"/ltsg-core-research-package-2026-2028/","title":"Core LTSG Research Programme (2026–2028)","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-11","dg-note-properties":{"title":"Core LTSG Research Programme (2026–2028)","aliases":["LTSG Core Research Package 2026-2028","LTSG Core Package","Basic Experimental Package"],"project_id":"LTSG-Core","type":"project","context":"research","priority":"critical","status":"active","due":"2028-04-30","definition_of_done":"Core claims tested with traceable evidence, independent repeat, held-out model validation and incorporation into manuscripts and thesis Chapters 2-5.","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"date":"2026-09-02","last_updated":"2026-09-11","permalink":"/ltsg-core-research-package-2026-2028/"}}
+{"dg-publish":true,"dg-permalink":"/ltsg-core-research-package-2026-2028/","permalink":"/ltsg-core-research-package-2026-2028/","title":"Core LTSG Research Programme (2026–2028)","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-14","dg-note-properties":{"title":"Core LTSG Research Programme (2026–2028)","aliases":["LTSG Core Research Package 2026-2028","LTSG Core Package","Basic Experimental Package"],"project_id":"LTSG-Core","type":"project","context":"research","priority":"critical","status":"active","due":"2028-04-30","definition_of_done":"Core claims tested with traceable evidence, independent repeat, held-out prediction, mandatory TCO and incorporation into manuscripts and thesis Chapters 3-6.","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"date":"2026-09-02","last_updated":"2026-09-14","permalink":"/ltsg-core-research-package-2026-2028/"}}
 ---
 
 
 # Core LTSG Research Programme (2026–2028)
+
+The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 > [!info] Public working baseline
 > This package defines the minimum defensible experimental core. It remains a proposal until the dissertation scope is formally agreed. Alternative scopes are compared in [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]].
 
 ## Decision statement
 
-The minimum defensible dissertation package is a reproducible, time-resolved and predictive study of how the **measured state of a laser-created channel** changes probability, delay and jitter of high-voltage air-gap breakdown. The core package must stand on its own without EMP, ionising-radiation or techno-economic results. Those measurements are staged extensions activated only after the electrical and optical baseline is stable.
+Can measurements of a laser-created channel improve prediction of breakdown probability and timing in atmospheric air, and support selection of the least-cost operating conditions that satisfy a predefined technical requirement?
 
-> [!abstract] Core dissertation question
-> How does the measured time-dependent state of a laser-induced channel, rather than nominal pulse energy alone, determine breakdown probability, delay and jitter in an atmospheric-pressure high-voltage gap at a controlled working coefficient, and can a reduced model predict these outcomes under held-out conditions?
-
-The immediate scope-freeze project is [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]. The canonical claim structure is [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]].
+The mandatory core includes bounded TCO and operating-choice validation. EMP, radiation, CO₂ and product demonstrators remain outside mandatory completion.
 
 ## Scope boundaries
 
 ### Included in the core package
 
 - Atmospheric air at measured pressure, temperature and relative humidity.
-- One confirmed laser configuration, with measured wavelength, pulse duration and delivered energy. Conflicting Nd:YAG and PERLA specifications remain unverified until DEC-06 is resolved.
-- One reference electrode geometry and polarity; a second geometry or polarity is conditional on repeatability and the CL-04 gate.
-- DC or a reproducible impulse source already available in the FEL laboratory.
+- One confirmed laser configuration, with measured wavelength, pulse duration and delivered energy. Historical PERLA specifications are documented in the reviewer report; the future configuration and booking remain unconfirmed until DEC-06 is resolved.
+- One reference electrode geometry and polarity form the primary condition; one second geometry or polarity is a controlled robustness check, conditional on repeatability, precision and the CL-04 gate.
+- Confirm the current source and laboratory access in WP0. The historical HiLASE system used DC; a new impulse source is not assumed available.
 - Synchronous measurement of laser timing, gap voltage, discharge current and optical emission.
 - Statistical characterisation of self-breakdown and laser-triggered breakdown.
-- A reduced-order physical model linking seed ionisation, gas-density evolution and discharge formation.
+- A reduced model and independently scored M0/M1 comparison.
+- Mandatory TCO, service definition and technically feasible operating choice, with cost collection from WP0.
 
 ### Explicitly outside the minimum package
 
@@ -39,14 +41,16 @@ The immediate scope-freeze project is [[I Projects/03_Milestones/20260925 Minimu
 
 ## Claim and contribution structure
 
-| Contribution | Stable claims | Main response | Core status |
-| --- | --- | --- | --- |
-| C-A — Reproducible operating window | [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]], [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]] | Probability and censored delay/jitter at controlled $k$ | Required |
-| C-B — Channel-state mechanism | [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]], [[II Areas/03_Thesis/Claims/CL-06 - Reproducible optical and electrical stages\|CL-06 - Reproducible optical and electrical stages]] | Held-out predictive value of channel state and timing classes | Required |
-| C-C — Predictive reduced model | [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]] | Probability or median delay under untouched conditions | Required |
-| Supporting robustness | [[II Areas/03_Thesis/Claims/CL-04 - Polarity and field geometry\|CL-04 - Polarity and field geometry]] | Polarity/geometry interaction or quantitative bound | Conditional |
+| Contribution | Evidence and role |
+| --- | --- |
+| C-W1 | Reproducible atmospheric operating domain; probability and calibrated timing; CL-01, CL-02 and supporting CL-06 |
+| C-W2 | Independent comparison of M0 and channel-informed M1; CL-03 and CL-05 |
+| C-WE | Mandatory bounded TCO and technically feasible operating choice; CL-07 |
+| C-W5 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
 
-The stable CL notes contain the acceptance and falsification rules. Do not maintain a second independent hypothesis definition here.
+CL-04 is supporting robustness within the frozen atmospheric configuration family. C-W3/C-W4 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
+
+Use [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]] and the atomic CL notes for evidence rules.
 
 ## Measurands and operational definitions
 
@@ -128,7 +132,7 @@ For each channel record sensor delay, cable length/type, attenuator/filter, term
 
 - [ ] Measure pulse energy distribution shot by shot or at a justified sampling interval.
 - [ ] Measure pulse duration and beam waist/profile for every wavelength/configuration.
-- [ ] Determine the 50% probability threshold for visible plasma under the laboratory atmosphere.
+- [ ] Calibrate the selected channel descriptor; visible-plasma threshold mapping is conditional on the chosen configuration and diagnostic value.
 - [ ] Map focus position and channel continuity through the gap.
 - [ ] Record optical emission/density proxy versus delay after the laser pulse.
 
@@ -142,7 +146,7 @@ Use a sequential design rather than a full grid. Suggested starting factors:
 - Laser energy/intensity: off plus three measured levels around and above the plasma threshold.
 - Focus position: cathode-side, centre and anode-side.
 - Wavelength: use the confirmed reference configuration; add a second wavelength only with measured optical calibration and justified comparison.
-- Geometry/polarity: begin with one geometry and one polarity; introduce the second only after repeatability is demonstrated.
+- Geometry/polarity: begin with one reference geometry and one polarity; introduce one second geometry or polarity only as a bounded robustness comparison after repeatability is demonstrated.
 
 Pilot counts are provisional. Freeze confirmatory counts after WP3 using the required precision or power, observed failure rate and session effects. Count attempted shots and valid acquisition records separately from successful discharges. Randomise within safe blocks and treat day/electrode state as blocking variables.
 
@@ -153,11 +157,11 @@ Pilot counts are provisional. Freeze confirmatory counts after WP3 using the req
 - [ ] Acquire the predeclared number of valid acquisition records at each selected operating point, including misfires; use the WP3 precision/power calculation and stopping rule.
 - [ ] Acquire synchronized electrical and optical records.
 - [ ] Decompose the delay distribution into prompt, delayed and failed/censored populations.
-- [ ] Test polarity and geometry interactions.
+- [ ] Test polarity/geometry interactions only if the supporting CL-04 gate is activated within the frozen configuration family.
 - [ ] Repeat the key result after electrode service and on another day.
 - [ ] Compare a plasma-producing pulse with a non-ionising/heating control if feasible.
 
-**Exit criterion:** one independently repeated result supports or falsifies H1-H6 with a complete uncertainty budget.
+**Exit criterion:** the required atmospheric claims are tested or bounded with an independent repeat and complete uncertainty budget.
 
 ### WP5 - Reduced model and validation
 
@@ -167,7 +171,21 @@ Pilot counts are provisional. Freeze confirmatory counts after WP3 using the req
 - [ ] Calibrate only a declared subset of parameters; reserve other conditions for validation.
 - [ ] Report prediction intervals and failure regions, not only best-fit curves.
 
-**Exit criterion:** the model predicts at least one held-out observable such as triggering probability or median delay within declared uncertainty.
+**Exit criterion:** score M0/M1 on the predeclared held-out observable with uncertainty, sensitivity and failure bounds. A lack of improvement is a reported result; academic sufficiency requires review rather than an automatic positive claim.
+
+## WP6 - Mandatory TCO integration
+
+The decision compares technically feasible configurations of the same atmospheric laboratory switching service at fixed demand and predefined timing/success requirements. Report shared-facility allocation separately from a dedicated-installation scenario.
+
+Include investment, electricity and cooling, operator/alignment time, maintenance, replacement, incremental failure/reset costs and residual value. Record source, price year, currency, horizon, discounting convention and utilisation. Avoid double counting acquisition, access fees, depreciation and failure costs. Optical pulse energy is not wall-plug electricity.
+
+Use the discounted TCO model in the reviewer report and report cost per expected compliant operation, TCO(x)/[A(x)q(x)], with demand/capacity constraints and uncertainty in q(x). Freeze service requirements and the operating-choice rule before independent validation. Report feasible domain, cost ranking, sensitivity and break-even boundaries; if no point qualifies or the ranking is unstable, state that result.
+
+Data collection begins in WP0; WP6 integrates it by April 2028. Unsupported lifetime, avoided grid outages, avoided SF₆ costs and full product replacement are excluded from the base case. They belong only to separately evidenced follow-on applications.
+
+## WP7 - Dissertation synthesis
+
+Continuous drafting, complete draft by June 2028, eligibility review and August 2028 submission. Optional research cannot displace writing or publication obligations.
 
 ## Statistical plan
 
@@ -188,28 +206,30 @@ Detailed rationale and equations: [[II Areas/01_Research/Concepts/Statistics - B
 | --- | --- |
 | D1 - Metrology dossier | Traceable channel list, transfer responses, timing offsets and uncertainty budget. |
 | D2 - Baseline dataset | Self-breakdown distributions for reference geometry/polarity on ≥3 days. |
-| D3 - Laser calibration dataset | Energy, duration, beam profile and plasma threshold linked to shot IDs. |
+| D3 - Laser calibration dataset | Energy, duration, beam profile and selected channel descriptor linked to shot IDs. |
 | D4 - Screening report | Ranked factor effects and selected operating window. |
 | D5 - Confirmatory dataset | Predeclared precision/power-based acquisition count including failures, plus an independent repeat. |
 | D6 - Reduced model | Reproducible code, parameter table, calibration/validation split and sensitivity analysis. |
 | D7 - Paper 1 | Methods and core switching dynamics manuscript. |
-| D8 - Thesis chapters | Theory, methods and core results complete before the final writing phase. |
+| D8 - TCO and Paper 2 | Validated operating choice, cost model and sensitivity by April 2028; Paper 2 submission. |
+| D9 - Thesis chapters | Core evidence, prediction and TCO chapters complete before final writing. |
 
 ## Calendar and milestones
 
-| Period | Main work | Gate / output |
+| Period | Work package | Required result |
 | --- | --- | --- |
-| Sep 2026 | [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]; freeze topic, question, contribution structure and scope. | G-1: topic fixed by the discussion. |
-| Oct-Dec 2026 | WP0; standards, safety, metrology, protocol, data schema and pilot baseline. | G0: approved protocol and reproducible dry run. |
-| Jan-Feb 2027 | WP1 self-breakdown on at least three sessions; minimum/SDZ preparation. | D1-D2 and stable definition of $k$. |
-| Mar-Apr 2027 | WP2 laser/channel calibration and pilot laser-to-HV delay scan; submit SDZ application when eligible. | D3 and measurable channel descriptors. |
-| May-Jun 2027 | WP3 sequential screening; precision/power design for WP4; take SDZ in the available term. | **June stop/go:** viable operating window or narrower fallback. |
-| Jul-Oct 2027 | WP4 confirmatory campaign and independent repeat; prepare Paper 1 in parallel. | D4-D5; frozen dataset; Paper 1 ready. |
-| Oct-Nov 2027 | Submit Paper 1; complete or document the required foreign stay where feasible. | Paper 1 submitted. |
-| Nov 2027-Feb 2028 | WP5 reduced model and held-out validation; draft Paper 2 and thesis Chapters 3-4. | D6; model supported or bounded. |
-| Mar-Apr 2028 | Submit Paper 2; activate at most one extension if all core gates have passed. | Core evidence package complete. |
-| May-Jun 2028 | Full dissertation draft, internal review and any additional required publication output. | Full draft with compliance evidence. |
-| Jul-Aug 2028 | Corrections, reproducibility package and submission; no new core experiment. | Final dissertation. |
+| Sep–Dec 2026 | WP0: scope and metrology | Confirm apparatus, optical timing, protocol, service requirements and cost boundary |
+| Jan–Feb 2027 | WP1: baseline | Reproducible no-laser/self-breakdown reference and session/environment blocks |
+| Mar–Apr 2027 | WP2: channel pilot | Repeatable descriptor or documented diagnostic limit |
+| May–Jun 2027 | WP3: screening | Compact confirmation matrix, sample size and frozen analysis; June stop/go |
+| Jul–Oct 2027 | WP4: confirmation | Locked atmospheric dataset and independent repeat; prepare Paper 1 |
+| Oct–Nov 2027 | Paper 1 | Submit metrology and stochastic operating-domain study |
+| Nov 2027–Feb 2028 | WP5: prediction | Held-out M0/M1 comparison and independently tested operating rule |
+| Mar–Apr 2028 | WP6: TCO integration | Cost synthesis, feasibility and sensitivity; submit Paper 2 |
+| Through Jun 2028 | WP7: dissertation writing | Continuous drafting; complete reviewed draft by June |
+| Jul–Aug 2028 | WP7: finalisation | Eligibility audit, corrections and August submission; no new core campaign |
+
+Cost collection starts in WP0 and continues during acquisition. The prediction/evidence core closes by February 2028 and TCO synthesis by April. Tier 2/3 may continue from autumn 2028 into 2029 under separate resources; those dates do not extend the dissertation target. Submission is not acceptance of a paper and is not the defence date.
 
 ## June 2027 stop/go decision
 
@@ -221,12 +241,12 @@ Continue to the confirmatory campaign only if all are true:
 - Timing resolution is adequate for the expected jitter.
 - Raw data and metadata can be reconstructed from a shot ID.
 
-If not, narrow the thesis to breakdown-voltage probability and channel physics, upgrade the limiting diagnostic, or change geometry before collecting a large dataset.
+If not, review the limiting diagnostic and the minimum detectable effect with the supervisor. Narrow the physical claim if necessary while retaining the bounded economic comparison. A fallback requires explicit academic assessment; it is not an automatic guarantee of degree sufficiency.
 
 ## Immediate next actions (next three weeks)
 
 - [ ] Complete [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]].
-- [ ] Obtain a supervisor decision on the Czech/English title, central question and C-A to C-C.
+- [ ] Obtain a supervisor decision on the Czech/English title, central question and C-W1, C-W2, C-WE and supporting C-W5.
 - [ ] Confirm in writing the SDZ deadline, publication conditions and internationalisation requirement applicable to the 2024 cohort.
 - [ ] Confirm the active generator, maximum safe voltage/current, waveform and repetition limit with the laboratory owner.
 - [ ] Inventory available probes, oscilloscope bandwidths, cameras, laser diagnostics and calibration status.

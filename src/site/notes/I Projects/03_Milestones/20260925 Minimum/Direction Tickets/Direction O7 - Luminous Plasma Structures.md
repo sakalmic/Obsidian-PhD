@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"/direction-o7-luminous-plasma-structures/","permalink":"/direction-o7-luminous-plasma-structures/","title":"O7 · Long-Lived Luminous Plasma","noteIcon":"","created":"2026-09-10","updated":"2026-09-11","dg-note-properties":{"title":"O7 · Long-Lived Luminous Plasma","aliases":["Direction O7 - Long-Lived Luminous Structures Inspired by Ball Lightning","Dissertation Direction O7"],"ticket_id":"DIR-O7","type":"project","status":"proposal","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-11","permalink":"/direction-o7-luminous-plasma-structures/"}}
+{"dg-publish":true,"dg-permalink":"/direction-o7-luminous-plasma-structures/","permalink":"/direction-o7-luminous-plasma-structures/","title":"O7 · Long-Lived Luminous Plasma","noteIcon":"","created":"2026-09-10","updated":"2026-09-14","dg-note-properties":{"title":"O7 · Long-Lived Luminous Plasma","aliases":["Direction O7 - Long-Lived Luminous Structures Inspired by Ball Lightning","Dissertation Direction O7"],"ticket_id":"DIR-O7","type":"project","status":"historical-alternative","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-14","permalink":"/direction-o7-luminous-plasma-structures/","scope_status":"superseded-by-review-2026-09-14"}}
 ---
 
 
 # O7 · Long-Lived Luminous Plasma
+
+> [!info] Historical alternative, not the current assignment (14 September 2026)
+> This document preserves an earlier design option. Current planning authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]: long-term SF₆ replacement; mandatory atmospheric-air Tier 1 with TCO; August 2028 submission; Tier 2/3 outside mandatory completion. Earlier dates, promises and parameters below are not current obligations or newly verified evidence. Historical shot counts and the general irradiance–delay trend remain unverified.
 
 > [!summary] Direction decision
 > **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
