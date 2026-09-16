@@ -51,7 +51,7 @@ Historical comparison of broader alternatives: the following feasibility estimat
 | O6 | [O6 · Laser-Guided Lightning Attachment](/direction-o6-lightning-attachment/) | Laboratory attachment experiment or defensible scaling result | Large-volume impulse facility and specialist partner | Low-medium | Collaboration-dependent high-impact route |
 | O7 | [O7 · Long-Lived Luminous Plasma](/direction-o7-luminous-plasma-structures/) | Repeatable energy/lifetime study of a bounded laboratory phenomenon | Plasma chemistry, aerosol controls and broad diagnostics | Low | Time-boxed exploratory route |
 | O8 | [O8 · H₂/NH₃ Laser-Plasma Ignition](/direction-o8-hydrogen-ammonia-ignition/) | Ignition-probability and delay map tied to plasma state | Certified combustion facility and safety partner | Low-medium | Energy-transition branch |
-| **W** | **Channel-State-Informed Prediction and Diagnostics in Air and CO₂** | **Validated channel-informed predictor plus transfer and diagnostic evidence for a fluorine-free medium** | **B apparatus plus approved CO₂ cell and explicitly governed collaboration** | **High for the base; medium-high for the extension** | **Winning staged dissertation direction** |
+| **W** | **Channel-State-Informed Prediction and Bounded TCO in Atmospheric Air** | **Validated channel-informed predictor, bounded technical-economic operating choice and traceable diagnostics; CO₂ transfer is follow-on** | **Atmospheric-air apparatus, calibrated timing and an approved cost boundary; any CO₂ cell is Tier 2 only** | **High for Tier 1; extension feasibility assessed separately** | **Selected staged dissertation route** |
 
 ## Direction assessments A–F
 
@@ -61,7 +61,7 @@ Historical comparison of broader alternatives: the following feasibility estimat
 
 **Evidence and apparatus.** A calibrated atmospheric-air gap, confirmed laser configuration, voltage/current channels, an optical time marker and environmental logging are sufficient. The analysis must retain failures and censored delays and must include an independent repeat.
 
-**Schedule and application.** A complete operating map is achievable during 2026–2027 and can support laboratory HV triggering and qualification of optically isolated trigger systems. A is the minimum fallback for W if channel-state diagnostics or the CO₂ branch fail.
+**Schedule and application.** A complete operating map is achievable during 2026–2027 and can support laboratory HV triggering and qualification of optically isolated trigger systems. A supplies the metrology foundation. If channel diagnostics fail, the supervisor must assess a revised predictive contribution; the bounded TCO remains required. CO₂ outcomes do not affect Tier 1 completion.
 
 ### B — Channel state and prediction of switching
 
@@ -111,7 +111,7 @@ O1 targets condition monitoring or qualification: a calibrated optical feature m
 
 ### O2 — Breakdown and recovery in fluorine-free media
 
-O2 compares breakdown inception and recovery across media and pressures. It offers the strongest direct connection to the CO₂ work, but a broad gas-mixture campaign would be too large. W therefore restricts the mandatory comparison to **air plus one CO₂ configuration family**, with further mixtures activated only after the principal model is validated.
+O2 compares breakdown inception and recovery across media and pressures. It offers the strongest direct connection to the CO₂ work, but a broad gas-mixture campaign would be too large. Under the selected route, **no CO₂ comparison is required for the dissertation**: Tier 1 closes with the atmospheric-air evidence and bounded TCO. A later, separately resourced Tier 2 may test one CO₂ configuration family after the principal model is validated; that work does not become a prerequisite for submission or a mandatory publication.
 
 ### O3 — Probabilistic digital twin
 
@@ -119,7 +119,7 @@ O3 maps uncertain physical inputs to reliability or maintenance decisions. It be
 
 ### O4 — Hybrid crowbar
 
-O4 provides a clear system demonstrator and measurable let-through energy, trigger success and recovery. It is commercially legible but requires substantial high-current engineering. It should not displace W's medium-transfer dataset before 2029.
+O4 provides a clear system demonstrator and measurable let-through energy, trigger success and recovery. It is commercially legible but requires substantial high-current engineering. It belongs to separately resourced Tier 3 and must not displace the atmospheric dataset, validation, TCO or writing required for August 2028 submission.
 
 ### O5 — Multi-gap photonic synchronisation
 
@@ -143,7 +143,7 @@ O8 applies plasma-state measurements to low-carbon-fuel ignition. It has a clear
 
 Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling
 
-Predikce laserem asistovaného průrazu ve vzduchu za atmosférického tlaku a technicko-ekonomická optimalizace provozních podmínek
+Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování
 
 ### Central research question
 

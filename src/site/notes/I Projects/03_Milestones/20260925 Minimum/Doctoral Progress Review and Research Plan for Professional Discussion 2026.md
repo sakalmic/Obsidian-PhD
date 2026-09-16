@@ -11,7 +11,7 @@
 **Supervisor:** doc. Ing. Jan Mikeš, Ph.D.  
 **Supervising department:** Department of Economics, Management and Humanities (K13116), Faculty of Electrical Engineering, Czech Technical University in Prague  
 **Experimental collaboration:** HiLASE Centre, Institute of Physics of the Czech Academy of Sciences  
-**Review date:** 14 September 2026  
+**Review date:** 15 September 2026  
 **Study start used for planning:** 1 September 2024  
 **Target:** dissertation submission in August 2028; the defence date is a separate administrative milestone.
 
@@ -186,6 +186,16 @@ Model selection and preprocessing use training data only. Independent validation
 There are two prediction times. A pre-trigger operating choice can use settings and information from previous observations. A channel descriptor measured after the current laser pulse may improve prediction of that shot's subsequent breakdown, but cannot retrospectively choose the energy of that pulse. Tier 1 therefore evaluates an offline operating rule using repeated data and calibrated configuration-level response. It does not claim real-time control of the same shot. Repeated online adaptation or a controller belongs to Tier 3.
 
 Freeze the recommended setting using training/calibration data and the declared cost scenario. Test its technical feasibility on a separate session. Selecting the cheapest condition on the final validation results and reporting those same results as independent confirmation is prohibited. If the best choice changes materially across plausible cost scenarios, report the alternatives and the information needed to distinguish them.
+
+### 7.1 Role and execution of the theoretical model
+
+The theoretical work starts with an electrostatic field calculation for the measured electrode geometry and applied voltage. Record geometry, boundary conditions and numerical convergence, then use the resulting field distribution to interpret the tested operating domain. This is an input calculation, not a simulation proving that breakdown will occur.
+
+Next, construct a reduced description of channel evolution using only states that the diagnostics can constrain. Compare plausible charge-loss and gas-density timescales with the observed timing; distinguish measured inputs, literature parameters and fitted parameters. An optical descriptor may remain an empirical proxy if conversion to a physical state is not identifiable. A full three-dimensional plasma-chemistry model is not required.
+
+Connect the reduced description to the probability or survival model and compare it with M0 on the same independent sessions. A proposed mechanism must earn its place through identifiable parameters, sensitivity and predictive performance. Report what the data cannot distinguish. The modelling deliverables are a field map, an explicit reduced-model specification, a parameter/uncertainty table and an independent predictive comparison, rather than a promise to reconstruct every discharge mechanism.
+
+For the economic operating choice, use the response available before selecting a setting. If M1 uses a channel feature measured after the laser pulse, integrate over that feature's configuration-dependent distribution before predicting the cost or compliant-operation probability of a future attempt. Charge recurring diagnostics only when the evaluated operating service uses them; document research and commissioning costs separately. This keeps shot-level prediction and configuration-level TCO consistent.
 
 ## 8. Mandatory techno-economic assessment
 

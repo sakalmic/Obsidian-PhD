@@ -38,6 +38,10 @@ CL-04 is supporting robustness within the frozen atmospheric configuration famil
 
 Scientific claims, formal approvals and manuscript completion are separate states. A polished PDF is not evidence that any of these has been completed.
 
+## Reviewed output package — 15 September 2026
+
+Use the reviewer PDF `Sakala_Doctoral_Progress_Review_2026_reviewed.pdf` and presentation `Sakala_Rozprava_2026_CVUT_reviewed.pptx` with its matching PDF in the milestone's `Reviewer package` folder. Earlier `balanced`, `balanced_v2` and `HISTORICAL` files are retained snapshots, not the current delivery. The milestone note links the current files.
+
 ## Document lifecycle
 
 1. Define a working proposal and its evidence requirements.
