@@ -13,22 +13,26 @@ This area contains metadata and interpretive records, not bulk raw data. Every e
 
 ## Evidence requiring attention
 
-```dataview
-TABLE WITHOUT ID file.link AS "Record", type AS "Type", evidence_state AS "State", claims AS "Claims", dataset_id AS "Dataset", last_updated AS "Updated"
-FROM "II Areas/01_Research/Experiments"
-WHERE file.name != this.file.name AND evidence_state != "published" AND row["dg-publish"] = true
-SORT last_updated DESC
-```
+| Record                                                                                                                                                                      | Type               | State                 | Claims | Dataset | Updated            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------- | ------ | ------- | ------------------ |
+| [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan\|HiLASE Trigger-to-Optical Timing - Verification Plan]]             | calibration-plan   | unverified            | \-     | \-      | September 16, 2026 |
+| [[II Areas/01_Research/Experiments/HiLASE Research Hub\|HiLASE Research Hub]]                                                                                            | moc                | \-                    | \-     | \-      | September 16, 2026 |
+| [[II Areas/01_Research/Experiments/HiLASE LIDT Laboratory\|HiLASE LIDT Laboratory]]                                                                                      | laboratory-context | \-                    | \-     | \-      | September 16, 2026 |
+| [[II Areas/01_Research/Experiments/Analysis Records/Analysis Records Index\|Analysis Records Index]]                                                                     | moc                | \-                    | \-     | \-      | September 14, 2026 |
+| [[II Areas/01_Research/Experiments/Analysis Records/Historical Counts and Delay Trend - Verification Pending\|Historical Counts and Delay Trend - Verification Pending]] | analysis-record    | verification-pending  | \-     | \-      | September 14, 2026 |
+| [[II Areas/01_Research/Experiments/Dataset Manifests/Dataset Manifests Index\|Dataset Manifests Index]]                                                                  | moc                | \-                    | \-     | \-      | September 14, 2026 |
+| [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance\|Historical Measurements 2024-2025 - Provenance]]                    | dataset-manifest   | historical-provenance | \-     | \-      | September 14, 2026 |
+| [[II Areas/01_Research/Experiments/Experimental Measurements Archive\|Experimental Measurements Archive]]                                                                | \-                 | \-                    | \-     | \-      | September 14, 2026 |
+| [[II Areas/01_Research/Experiments/Experiments Index\|Experiments Index]]                                                                                                | moc                | \-                    | \-     | \-      | September 14, 2026 |
+| [[II Areas/01_Research/Experiments/Calibrations/Calibrations Index\|Calibrations Index]]                                                                                 | moc                | \-                    | \-     | \-      | September 03, 2026 |
+
+{ .block-language-dataview}
 ## Evidence by claim
 
-```dataview
-TABLE rows.file.link AS "Evidence", rows.evidence_state AS "State", rows.dataset_id AS "Dataset"
-FROM "II Areas/01_Research/Experiments"
-FLATTEN claims AS claim
-WHERE claim AND row["dg-publish"] = true
-GROUP BY claim
-SORT key ASC
-```
+| claim | Evidence | State | Dataset |
+| ----- | -------- | ----- | ------- |
+
+{ .block-language-dataview}
 ## Rules
 
 - No raw file is considered archived until its storage location and immutable identifier/checksum are recorded.
@@ -38,7 +42,7 @@ SORT key ASC
 
 ## Related notes
 
-- [[Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
-- [[Research Methodology & Workflows]]
-- [[Methods Index]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
+- [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]]
+- [[III Resources/04_Methods/Methods Index\|Methods Index]]
 
