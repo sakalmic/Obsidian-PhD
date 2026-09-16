@@ -32,6 +32,9 @@ The campaign requires the laboratory's approved risk assessment and operating pr
 
 ## Related notes
 
+- [[II Areas/01_Research/Experiments/HiLASE Research Hub\|HiLASE Research Hub]]
+- [[II Areas/01_Research/Experiments/HiLASE LIDT Laboratory\|HiLASE LIDT Laboratory]]
+- [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan\|HiLASE Trigger-to-Optical Timing - Verification Plan]]
 - [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]
 - [[II Areas/01_Research/Experiments/Evidence Index\|Evidence Index]]
 - [[II Areas/01_Research/01_MOC\|Research MOC]]

@@ -40,7 +40,7 @@ Scientific claims, formal approvals and manuscript completion are separate state
 
 ## Reviewed output package — 15 September 2026
 
-Use the reviewer PDF `Sakala_Doctoral_Progress_Review_2026_reviewed.pdf` and presentation `Sakala_Rozprava_2026_CVUT_reviewed.pptx` with its matching PDF in the milestone's `Reviewer package` folder. Earlier `balanced`, `balanced_v2` and `HISTORICAL` files are retained snapshots, not the current delivery. The milestone note links the current files.
+Use the reviewer PDF `Sakala_Doctoral_Progress_Review_2026_reviewed.pdf` and presentation `Sakala_Rozprava_2026_CVUT_reviewed.pptx` with its matching PDF in `I Projects/03_Milestones/2026_minimum/_tmp/Reviewer package/` outside the vault. Store future PDF/PPTX exports there. Earlier `balanced`, `balanced_v2` and `HISTORICAL` files are retained snapshots, not the current delivery. The milestone note records the current filenames and location.
 
 ## Document lifecycle
 

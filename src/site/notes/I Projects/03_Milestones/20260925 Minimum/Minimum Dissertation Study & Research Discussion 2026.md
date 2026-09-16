@@ -131,8 +131,8 @@ Prioritise atmospheric apparatus access, timing/energy calibration, repeat sessi
 ## Current reviewer package
 
 - [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]
-- [[I Projects/03_Milestones/20260925 Minimum/Reviewer package/Sakala_Doctoral_Progress_Review_2026_reviewed.pdf\|Standalone reviewer PDF]]
-- [[I Projects/03_Milestones/20260925 Minimum/Reviewer package/Sakala_Rozprava_2026_CVUT_reviewed.pptx\|CTU presentation]]
-- [[I Projects/03_Milestones/20260925 Minimum/Reviewer package/Sakala_Rozprava_2026_CVUT_reviewed.pdf\|Presentation PDF]]
+- The current PDF and PPTX outputs are stored outside this vault in `I Projects/03_Milestones/2026_minimum/_tmp/Reviewer package/`. This is the designated location for subsequent exports; they are not Digital Garden attachments.
+- Reviewer PDF: `Sakala_Doctoral_Progress_Review_2026_reviewed.pdf`.
+- CTU presentation: `Sakala_Rozprava_2026_CVUT_reviewed.pptx`; matching PDF: `Sakala_Rozprava_2026_CVUT_reviewed.pdf`.
 - [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]

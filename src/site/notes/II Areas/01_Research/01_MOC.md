@@ -42,9 +42,12 @@ SORT file.name ASC
 Measurement campaigns, raw diagnostic logs, calibration records, and quality manifests:
 
 - [[II Areas/01_Research/Experiments/Experiments Index|Experiments Index]]
+- [[II Areas/01_Research/Experiments/HiLASE Research Hub|HiLASE research hub]]
+- [[II Areas/01_Research/Experiments/HiLASE LIDT Laboratory|HiLASE LIDT laboratory and PERLA context]]
 - [[II Areas/01_Research/Experiments/Experimental Measurements Archive|Experimental Measurements Archive (HiLASE / CTU)]]
 - [[II Areas/01_Research/Experiments/Evidence Index|Evidence & Traceability Index]]
 - [[II Areas/01_Research/Experiments/Calibrations/Calibrations Index|Calibrations Index]]
+- [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan|Trigger-to-optical timing verification]]
 - [[II Areas/01_Research/Experiments/Analysis Records/Analysis Records Index|Analysis Records Index]]
 - [[II Areas/01_Research/Experiments/Dataset Manifests/Dataset Manifests Index|Dataset Manifests Index]]
 

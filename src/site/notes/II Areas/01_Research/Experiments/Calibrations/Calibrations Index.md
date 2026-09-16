@@ -5,7 +5,10 @@
 
 # Calibrations Index
 
-| File | calibration_id | instrument_id | valid_from | valid_until | status | claims |
-| ---- | -------------- | ------------- | ---------- | ----------- | ------ | ------ |
+Open timing verification: [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan\|HiLASE Trigger-to-Optical Timing - Verification Plan]]. No apparatus-specific trigger-to-optical correction is accepted until a configuration-matched record and uncertainty are confirmed.
+
+| File                                                                                                                                                            | calibration_id             | instrument_id | valid_from | valid_until | status               | claims |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------- | ---------- | ----------- | -------------------- | ------ |
+| [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan\|HiLASE Trigger-to-Optical Timing - Verification Plan]] | HILASE-TIME-2024-2025-OPEN | \-            | \-         | \-          | verification-pending | \-     |
 
 { .block-language-dataview}
