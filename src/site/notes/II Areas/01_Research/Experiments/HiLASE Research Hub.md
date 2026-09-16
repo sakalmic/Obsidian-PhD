@@ -1,38 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/experiments/hi-lase-research-hub/","title":"HiLASE - research and measurement hub","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"HiLASE - research and measurement hub","aliases":["HiLASE rozcestník","HiLASE Research Hub"],"type":"moc","status":"active","context":"research","topics":["topic/ltsg/metrology","topic/ltsg/breakdown"],"created":"2026-09-16","last_updated":"2026-09-16"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/experiments/hi-lase-research-hub/","title":"HiLASE - research and measurement hub","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"HiLASE - research and measurement hub","aliases":["HiLASE research hub"],"type":"moc","status":"active","context":"research","topics":["topic/ltsg/metrology","topic/ltsg/breakdown"],"created":"2026-09-16","last_updated":"2026-09-16"}}
 ---
 
 
-# HiLASE — rozcestník výzkumu a měření
+# HiLASE — research and measurement hub
 
-Tento rozcestník odděluje vlastní historická měření vysokonapěťového jiskřiště, plánovanou disertační kampaň, laserovou platformu PERLA a laboratoř prahu poškození optiky LIDT. Společné pracoviště nebo typ laseru **nedokazuje totožné zapojení, optickou trasu ani časovou kalibraci**.
+This hub separates the historical high-voltage spark-gap experiments, the planned dissertation campaign, the PERLA laser platform and the laser-induced damage threshold (LIDT) laboratory. A shared institution or laser family **does not establish identical wiring, optical paths or timing calibration**.
 
-## Vlastní experimenty a jejich stav
+## Own experiments and evidence status
 
-| Období | Výsledek | Co je potvrzeno / otevřeno |
+| Period | Result | Confirmed and unresolved points |
 | --- | --- | --- |
-| Květen 2024 | Sedm sérií snížení průrazného napětí z diplomové práce; ICOLSE 2024 a znovu APL 2025, série 1–7 | Původ sérií potvrzen; počty jednotlivých pokusů a úplný shot-level manifest dosud neověřeny. |
-| Únor 2025 | Tři další série elektrického zpoždění; APL 2025, série 8–10 | Referencí je elektrická hrana spouštění laseru; převod na optický příchod do mezery dosud není doložen. |
-| Plán 2026–2028 | Tier 1: atmosférický vzduch, metrologie, kanálový popis, nezávisle ověřená predikce a omezené TCO | Plánovaný výzkum, nikoli hotová nová data; Tier 2 a 3 jsou mimo povinné dokončení. |
+| May 2024 | Seven breakdown-voltage reduction series from the Master's thesis, used in ICOLSE 2024 and again as APL 2025 series 1–7 | Series provenance is confirmed. Attempt counts and a complete shot-level manifest remain unverified. |
+| February 2025 | Three additional electrical-delay series, reported as APL 2025 series 8–10 | Timing is referenced to an electrical laser-trigger edge. Conversion to optical arrival at the gap is not yet documented. |
+| Planned 2026–2028 | Tier 1: atmospheric air, metrology, channel descriptors, independently validated prediction and bounded TCO | Planned research, not a completed new dataset. Tiers 2 and 3 are outside mandatory dissertation completion. |
 
-- [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance\|Původ deseti historických sérií]]
-- [[II Areas/01_Research/Experiments/Analysis Records/Historical Counts and Delay Trend - Verification Pending\|Otevřené počty a trend zpoždění]]
-- [[II Areas/01_Research/Experiments/Experimental Measurements Archive\|Archiv a hranice dosavadní evidence]]
-- [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan\|Ověření časové reference a kalibrace]]
-- [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety\|Konfigurace jiskřiště a laboratorní oprávnění]]
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Aktuální plán disertace]]
+- [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance\|Provenance of the ten historical series]]
+- [[II Areas/01_Research/Experiments/Analysis Records/Historical Counts and Delay Trend - Verification Pending\|Unresolved attempt counts and delay trend]]
+- [[II Areas/01_Research/Experiments/Experimental Measurements Archive\|Archive and limits of existing evidence]]
+- [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan\|Timing-reference and calibration verification]]
+- [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety\|Spark-gap configuration and laboratory authorisation]]
+- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Current dissertation plan]]
 
-## Související pracoviště a laser
+## Related laboratory and laser platform
 
-- [[II Areas/01_Research/Experiments/HiLASE LIDT Laboratory\|Laboratoř LIDT HiLASE]] — publikované schéma práce s PERLA B, optická diagnostická odbočka, fotodioda a hranice použitelnosti pro časování jiskřiště.
-- [HiLASE — PERLA 100](https://www.hilase.cz/en/produkty/perla-100/) — aktuální obecný popis platformy; parametry produktu nelze přenést na konkrétní historickou experimentální větev.
-- [HiLASE — PERLA C](https://www.hilase.cz/en/high-repetition-rate-picosecond-perla-c-laser/) — příklad jiné větve platformy, nikoli automatická identifikace laseru použitého v jiskřišti.
+- [[II Areas/01_Research/Experiments/HiLASE LIDT Laboratory\|HiLASE LIDT laboratory]] — published PERLA B setup, optical diagnostic pick-off, photodiode and limits of transfer to spark-gap timing.
+- [HiLASE — PERLA 100](https://www.hilase.cz/en/produkty/perla-100/) — current general platform description; product specifications must not be assigned to a particular historical experiment.
+- [HiLASE — PERLA C](https://www.hilase.cz/en/high-repetition-rate-picosecond-perla-c-laser/) — another platform branch, not an automatic identification of the laser used for the gap.
 
-## Co je třeba potvrdit u laboratoře
+## Questions for the laboratory
 
-1. Která konkrétní větev PERLA a které optické vedení byly použity v květnu 2024 a únoru 2025.
-2. Co přesně znamená elektrická triggerová hrana v APL a jaké signály zachycují jednotlivé kanály uložených oscilogramů.
-3. Zda existuje záznam časové kalibrace elektrický trigger ↔ optický pulz v místě mezery, včetně variability mezi pulzy a změn konfigurace.
-4. Které kalibrace patří laseru, které stanici LIDT a které konkrétně vysokonapěťovému experimentu.
+1. Which PERLA branch and optical delivery path were used in May 2024 and February 2025?
+2. What physical signal is the electrical trigger edge in APL, and what did each archived oscilloscope channel record?
+3. Is there a configuration-matched calibration record for electrical trigger to optical arrival at the gap, including pulse-to-pulse variation and configuration changes?
+4. Which calibrations belong to the laser, which to the LIDT station and which specifically to the high-voltage experiment?
 
-Otevřené otázky jsou úkoly k ověření, nikoli tvrzení o chybě laboratoře. Interní schémata, kalibrační listy, kontaktní komunikace a syrová data zůstávají v neveřejných experimentálních záznamech.
+These are verification tasks, not allegations of laboratory error. Internal schematics, calibration sheets, correspondence and raw data belong in private experimental records.

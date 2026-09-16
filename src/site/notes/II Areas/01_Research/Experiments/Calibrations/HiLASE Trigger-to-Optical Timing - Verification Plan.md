@@ -1,50 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/experiments/calibrations/hi-lase-trigger-to-optical-timing-verification-plan/","title":"HiLASE - verification of electrical-trigger to optical-arrival timing","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"HiLASE - verification of electrical-trigger to optical-arrival timing","aliases":["Kalibrace elektrického triggeru HiLASE","HiLASE trigger-to-optical timing"],"type":"calibration-plan","status":"verification-pending","evidence_state":"unverified","calibration_id":"HILASE-TIME-2024-2025-OPEN","created":"2026-09-16","last_updated":"2026-09-16","topics":["topic/ltsg/timing","topic/ltsg/metrology"]}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/experiments/calibrations/hi-lase-trigger-to-optical-timing-verification-plan/","title":"HiLASE - verification of electrical-trigger to optical-arrival timing","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"HiLASE - verification of electrical-trigger to optical-arrival timing","aliases":["HiLASE electrical-trigger timing calibration","HiLASE trigger-to-optical timing"],"type":"calibration-plan","status":"verification-pending","evidence_state":"unverified","calibration_id":"HILASE-TIME-2024-2025-OPEN","created":"2026-09-16","last_updated":"2026-09-16","topics":["topic/ltsg/timing","topic/ltsg/metrology"]}}
 ---
 
 
-# HiLASE: ověření kalibrace elektrický trigger → optický pulz → průraz
+# HiLASE: verifying electrical-trigger → optical-pulse → breakdown timing
 
-## Závěr k 16. září 2026
+## Status on 16 September 2026
 
-Elektrický spouštěcí systém **mohl být při kampani kalibrován**. Prohlédnuté publikace a dosavadní pracovní záznamy však zatím nedokládají konkrétní časovou korekci a nejistotu pro celý řetězec použitý na vysokonapěťovém jiskřišti. To **není tvrzení, že kalibrace neexistuje**. Je třeba vyžádat záznam u odpovědného pracoviště a ověřit jeho shodu s konkrétní konfigurací 2024/2025.
+The electrical triggering system **may have been calibrated** during the historical campaigns. The publications and working records reviewed so far do not document a numerical correction and uncertainty for the complete timing chain used with the high-voltage spark gap. This **does not mean that no calibration exists**. A record must be requested from the responsible laboratory and matched to the actual 2024/2025 configuration.
 
-V APL 2025 jsou série 8–10 z února 2025 vyhodnoceny vzhledem k elektrické triggerové hraně. Uvedený rozsah 0,164–8,124 µs proto nesmí být bez dalšího přejmenován na interval od optického příchodu do mezery. Sedm sérií z května 2024 se týká zejména snížení průrazného napětí; původ a neověřené počty jsou v [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance\|Historical Measurements 2024-2025 - Provenance]]. Obecný trend „vyšší intenzita → kratší zpoždění“ zůstává k ověření.
+In APL 2025, February 2025 series 8–10 use an electrical laser-trigger edge as the time reference. The reported range of 0.164–8.124 µs therefore must not be relabelled as time from optical arrival at the gap without further evidence. The seven May 2024 series mainly address breakdown-voltage reduction; their provenance and unresolved attempt counts are recorded in [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance\|Historical Measurements 2024-2025 - Provenance]]. The general claim that greater irradiance always shortens delay remains unverified.
 
-## Tři rozdílné časové události
+## Three distinct time events
 
-| Symbol | Událost | Současný stav |
+| Symbol | Event | Present evidence |
 | --- | --- | --- |
-| $t_E$ | Zvolená hrana elektrického signálu spouštění laseru v definovaném měřicím bodě | APL používá elektrickou referenci; přesné místo signálu a kanál je nutno ověřit. |
-| $t_O$ | Skutečný příchod optického pulzu do interakční oblasti jiskřiště | Z dosud prohlédnutých podkladů není k dispozici přiřazená kalibrovaná časová značka. |
-| $t_B$ | Průraz označený předem definovaným napěťovým/proudovým kritériem | Marker a odezva sondy mohou nést další posun a nejistotu. |
+| $t_E$ | Chosen edge of the electrical laser-trigger signal at a defined measurement point | APL uses an electrical reference; the exact signal location and channel need confirmation. |
+| $t_O$ | Actual arrival of the optical pulse in the spark-gap interaction region | The reviewed material does not provide an assigned, calibrated timestamp. |
+| $t_B$ | Breakdown detected using a predefined voltage/current criterion | The event marker and probe response can introduce additional offset and uncertainty. |
 
-Elektricky vztažený interval je $D_E=t_B-t_E$ po korekci příslušných elektrických kanálů. Fyzikálně požadovaný interval je $D_O=t_B-t_O$. Při společné definici časových značek platí $D_O=D_E-(t_O-t_E)$. Člen $(t_O-t_E)$ se nesmí odhadovat ze samotné délky kabelu: zahrnuje elektroniku laseru, výběr pulzu, konkrétní optickou dráhu a jejich případné kolísání. Rovnice je účetnictvím časových značek, nikoli již změřenou korekcí.
+After the relevant electrical-channel corrections, the electrically referenced interval is $D_E=t_B-t_E$. The desired physical interval is $D_O=t_B-t_O$. With consistent timestamp definitions, $D_O=D_E-(t_O-t_E)$. The term $(t_O-t_E)$ cannot be inferred from cable length alone: it can include laser electronics, pulse selection, the actual optical path and their variability. This equation accounts for the time marks; it is **not an already measured correction**.
 
-Pro optickou odbočku v místě $P$ je nutno navíc převést čas pulzu naměřený fotodiodou na čas v mezeře. Opravy zahrnují rozdíl optických drah, odezvu fotodiody, kabel/kanál osciloskopu a elektrický marker průrazu. Pevný posun mění střední zpoždění. Kolísání od pulzu k pulzu a nestálost markerů může měnit i odhad jitteru; variance nelze bez ověření nezávislosti mechanicky odečítat.
+For an optical pick-off at location $P$, the photodiode time must also be converted to pulse-arrival time at the gap. Corrections cover the difference in optical path, photodiode response, cable and oscilloscope channel, and the electrical breakdown marker. A fixed offset changes mean delay. Pulse-to-pulse variation and unstable event markers may also change the estimated jitter. Variance components must not be subtracted mechanically unless independence is justified.
 
-## Co je nyní doloženo
+## Evidence currently available
 
-- Vlastní APL 2025 uvádí elektricky referencované zpoždění, nikoli dokumentovanou optickou časovou nulu v mezeře. [DOI: 10.1109/APL65034.2025.11108944](https://doi.org/10.1109/APL65034.2025.11108944).
-- Publikace laboratoře LIDT z roku 2019 popisuje PERLA B, optickou diagnostickou odbočku, fotodiodu ve schématu a **kalibrovaný měřič energie**. Časový kalibrační protokol pro jiskřiště neuvádí. [Čech a kol., 2019](https://www.mmscience.eu/journal/issues/december-2019/articles/laser-induced-damage-threshold-testing-at-hilase/download).
-- Fotodioda ve starší práci LIDT slouží k online detekci rozptýleného světla při poškození optiky. To není důkaz optické časové reference pro jiskřiště. [Vanda a kol., 2016](https://doi.org/10.1017/hpl.2016.11).
-- V místním archivu února 2025 jsou čtyřkanálové oscilogramy. Samotné hlavičky CSV potvrzují společnou časovou osu kanálů, ale neidentifikují jejich fyzické zapojení, kalibrační list ani optický čas v mezeře. To je kontrola formátu, nikoli úplný audit všech průběhů.
+- The APL 2025 spark-gap paper reports electrically referenced delay, without a documented optical time zero at the gap. [DOI: 10.1109/APL65034.2025.11108944](https://doi.org/10.1109/APL65034.2025.11108944).
+- A 2019 LIDT-laboratory paper describes PERLA B, an optical diagnostic pick-off, a photodiode in the station diagram and a **calibrated energy meter**. It does not give a timing calibration protocol for the spark gap. [Čech et al., 2019](https://www.mmscience.eu/journal/issues/december-2019/articles/laser-induced-damage-threshold-testing-at-hilase/download).
+- A photodiode in an earlier LIDT study detects scattered light from optical damage. This does not establish an optical time reference for the spark gap. [Vanda et al., 2016](https://doi.org/10.1017/hpl.2016.11).
+- The local February 2025 archive contains four-channel oscilloscope waveforms. CSV headers establish a shared recorded time axis but do not identify physical channel wiring, a calibration record or optical arrival at the gap. This is a file-format check, **not** a full audit of all waveforms.
 
-Kontext pracoviště: [[II Areas/01_Research/Experiments/HiLASE LIDT Laboratory\|LIDT laboratoř]] · [[II Areas/01_Research/Experiments/HiLASE Research Hub\|HiLASE rozcestník]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain\|Oddělení jitteru přístrojů]].
+Laboratory context: [[II Areas/01_Research/Experiments/HiLASE LIDT Laboratory\|LIDT laboratory]] · [[II Areas/01_Research/Experiments/HiLASE Research Hub\|HiLASE research hub]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain\|Measurement-chain jitter]].
 
-## Ověřovací úkoly
+## Verification tasks
 
-- [ ] **Kontaktovat Martina Mydláře** jako spoluautora APL a publikace LIDT; požádat o určení odpovědné osoby pro konkrétní laserovou větev a o potvrzení, zda a jak byl v roce 2025 kalibrován vztah elektrický trigger ↔ optický pulz u jiskřiště. Kontakt je plánovaný úkol; zpráva dosud nebyla odeslána.
-- [ ] Získat písemné potvrzení nebo existující protokol: datum, identifikace systému/větve, verze zapojení, schéma triggeru a optické trasy, místo měření fotodiodou, metoda korekce, změřený posun, nejistota a kolísání mezi pulzy, platnost pro kampaně květen 2024 a únor 2025. Při absenci protokolu zaznamenat výslovné potvrzení, co bylo a nebylo kalibrováno.
-- [ ] Přiřadit kanály archivovaných oscilogramů k signálům podle laboratorního logu/schématu; ověřit, zda některý kanál skutečně snímal optický pulz, a nezaměnit elektrický laserový marker za fotodiodu.
-- [ ] Rozlišit kalibraci elektrického kabelového řetězce, vnitřního laserového zpoždění, fotodiody a markeru elektrického průrazu. Ověřit, zda se některé korekce měnily se zvolenou laserovou větví, vlnovou délkou, frekvencí nebo optickým vedením.
-- [ ] Je-li kompletní původní časový řetězec doložen, provést reprodukovatelný přepočet historických zpoždění se sdílenými i náhodnými nejistotami. Chybějící složky uvést jako meze; nevydávat nový fyzikální jitter za zjištěný.
-- [ ] Pro novou kampaň připravit protokol společného záznamu elektrického markeru, optické odbočky a průrazu. Zkontrolovat časové posuny po změně zapojení a archivovat konfiguraci i kalibrační data.
+- [ ] **Contact Martin Mydlář**, co-author of the APL and LIDT papers. Ask him to identify the person responsible for the actual laser branch and to confirm whether and how electrical-trigger to optical-pulse timing at the gap was calibrated in 2025. This is a planned task; no message has been sent.
+- [ ] Obtain written confirmation or the existing protocol: date, system/branch ID, wiring version, trigger and optical-path diagram, photodiode position, correction method, measured offset, uncertainty, pulse-to-pulse variation and applicability to May 2024 and February 2025. If there is no protocol, record explicit confirmation of which parts were and were not calibrated.
+- [ ] Map the archived oscilloscope channels to physical signals using the laboratory log or schematic. Check whether any channel actually measured the optical pulse; do not confuse an electrical laser marker with a photodiode signal.
+- [ ] Distinguish electrical cable-chain calibration, internal laser delay, photodiode response and the breakdown marker. Check whether corrections changed with laser branch, wavelength, repetition regime or optical delivery path.
+- [ ] If the historical chain is adequately documented, reproducibly recalculate historical delays with shared and random uncertainties. If parts are missing, report bounds; do not claim that physical jitter has been recovered.
+- [ ] For the new campaign, specify simultaneous acquisition of the electrical marker, optical pick-off and breakdown waveform. Recheck timing offsets after wiring changes, and archive configuration and calibration data.
 
-## Kritéria uzavření
+## Closure criteria
 
-**A — historická kalibrace potvrzena:** existuje konfiguračně platný protokol a lze zveřejnit opravený interval včetně nejistoty. **B — dílčí kalibrace:** lze opravit jen prokázanou část, zbytek zůstává omezením interpretace. **C — nedoloženo:** historický výsledek zůstane výslovně elektricky referencovaný; nová disertační kampaň zavede optickou nulu prospektivně. V žádné větvi se automaticky nepřepisují publikované hodnoty APL.
+**A — historical calibration confirmed:** a configuration-matched protocol supports a corrected interval and uncertainty. **B — partial calibration:** correct only documented components and state the remaining interpretive limit. **C — undocumented:** retain the explicitly electrically referenced historical result and establish optical time zero prospectively in the new campaign. None of these outcomes automatically overwrites published APL values.
 
-## Zdroj pro metrologické zpracování
+## Metrology reference
 
-JCGM, *Evaluation of measurement data — Guide to the expression of uncertainty in measurement*, JCGM 100:2008, [DOI: 10.59161/JCGM100-2008E](https://doi.org/10.59161/JCGM100-2008E). Metoda bude muset zachovat korelace společných časových posunů a odlišit nejistotu středního posunu od variability mezi pulzy.
+JCGM, *Evaluation of measurement data — Guide to the expression of uncertainty in measurement*, JCGM 100:2008, [DOI: 10.59161/JCGM100-2008E](https://doi.org/10.59161/JCGM100-2008E). The analysis must retain correlations between shared timing offsets and distinguish uncertainty of the mean correction from pulse-to-pulse variability.

@@ -1,38 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/experiments/hi-lase-lidt-laboratory/","title":"HiLASE LIDT Laboratory - relevance to PERLA timing","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"HiLASE LIDT Laboratory - relevance to PERLA timing","aliases":["HiLASE LIDT laboratoř","HiLASE LIDT Laboratory"],"type":"laboratory-context","status":"evidence-review","context":"research","topics":["topic/ltsg/metrology"],"created":"2026-09-16","last_updated":"2026-09-16"}}
+{"dg-publish":true,"permalink":"/ii-areas/01-research/experiments/hi-lase-lidt-laboratory/","title":"HiLASE LIDT Laboratory - relevance to PERLA timing","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"HiLASE LIDT Laboratory - relevance to PERLA timing","aliases":["HiLASE LIDT laboratory"],"type":"laboratory-context","status":"evidence-review","context":"research","topics":["topic/ltsg/metrology"],"created":"2026-09-16","last_updated":"2026-09-16"}}
 ---
 
 
-# Laboratoř LIDT HiLASE a vztah k časování jiskřiště
+# HiLASE LIDT laboratory and its relevance to spark-gap timing
 
-**LIDT** znamená *laser-induced damage threshold*, práh poškození optické součásti laserem. Laboratoř měří poškození optiky; není to laboratoř vysokonapěťového průrazu. Je relevantní jako možný zdroj znalosti laserové platformy, diagnostických větví a interních kalibrací. Z publikací **neplyne**, že jiskřiště sdílelo totožné zapojení nebo časovou kalibraci.
+**LIDT** means *laser-induced damage threshold*. The laboratory studies damage to optical components, not high-voltage breakdown. It is relevant as a possible source of knowledge about the laser platform, diagnostic branches and internal calibration records. Its publications **do not establish** that the spark-gap experiment shared the same wiring or timing calibration.
 
-## Přímá vazba na vlastní práci
+## Direct connection to the doctoral work
 
-Publikace Čech, Vanda, Mureșan, **Mydlář** a kol. (2019) popisuje stanici LIDT v HiLASE používající mimo jiné **PERLA B**: 1030 nm, 1 kHz, pulz přibližně 1,8 ps a energie do 10 mJ podle tehdejší konfigurace. Mydlář je také spoluautorem vlastního příspěvku APL 2025. To je silná personální a platformová vazba, ale nikoli důkaz stejné optické větve při měření jiskřiště. Vlastní APL uvádí 1,2 ps a více vlnových délek; rozdílné publikované nominální hodnoty mohou označovat konfigurace nebo dobu provozu a vyžadují identifikaci konkrétní větve z laboratorního záznamu.
+Čech, Vanda, Mureșan, **Mydlář** and colleagues (2019) describe a HiLASE LIDT station using **PERLA B**: 1030 nm, 1 kHz, approximately 1.8 ps pulses and up to 10 mJ in the configuration described then. Mydlář also co-authored the APL 2025 spark-gap paper. This is a strong personnel and platform connection, but it does not prove that both experiments used the same optical branch. The APL paper reports a nominal 1.2 ps pulse duration and several wavelengths. Different reported values may reflect different configurations or periods of operation; the actual branch must be identified from laboratory records.
 
-## Co publikace o LIDT skutečně popisují
+## What the LIDT publications establish
 
-| Zdroj | Doložená informace | Co z něj nelze vyvozovat |
+| Source | Documented information | What cannot be inferred |
 | --- | --- | --- |
-| Čech a kol., 2019 | PERLA B jako jeden ze zdrojů LIDT; po zeslabení optická odbočka (<1 % energie) pro kontinuální diagnostiku profilu a energie; kalibrovaný měřič energie; fotodioda zakreslená ve schématu stanice. | Numerickou časovou korekci mezi elektrickým povelem, pulzem u jiskřiště a průrazem; kalibraci jitteru jiskřiště. |
-| Vanda a kol., 2016 | U tehdejších LIDT zkoušek online detekce rozptýleného světla fotodiodou a softwarové řízení počtu dodaných pulzů. Pikosekundová zkouška v této práci používá jiný, Yb:KGW laser. | Že šlo o stejnou PERLA B nebo že fotodioda sloužila jako časová nula vysokonapěťového pokusu. |
-| HiLASE, popis stanice LIDT | Stanice uvádí pikosekundový režim 1030 nm / 1 kHz a optickou inspekci. | Identifikaci historické větve, jejího zapojení v letech 2024–2025 a časový kalibrační list. |
-| HiLASE, popis PERLA 100/C | Platforma má několik provedení, volbu pulzů a řídicí systém. | Záměnu produktových parametrů za hodnoty konkrétního experimentu. |
+| Čech et al., 2019 | PERLA B as one LIDT laser source; an optical pick-off after attenuation (<1% of energy) for continuous beam-profile and energy monitoring; a calibrated energy meter; a photodiode in the station diagram. | A numerical timing correction between the electrical command, pulse arrival at the spark gap and breakdown; calibration of spark-gap jitter. |
+| Vanda et al., 2016 | Online detection of scattered light with a photodiode and software control of the delivered pulse count in the tests described. The picosecond tests in this paper used a different Yb:KGW laser. | That this was the same PERLA B branch or that the photodiode provided the high-voltage experiment's optical time zero. |
+| HiLASE LIDT station description | A 1030 nm / 1 kHz picosecond operating mode and optical inspection. | Identification of the historical 2024–2025 branch, its spark-gap wiring or a timing calibration sheet. |
+| HiLASE PERLA 100/C descriptions | Several platform variants with pulse selection and control systems. | Substitution of current product specifications for measured properties of the particular experiment. |
 
-**Rozlišení metrologie:** kalibrovaná energie pulzu a sledování profilu potvrzují optické vstupy pro LIDT. Neprokazují kalibraci času elektrický trigger → optický příchod v mezeře. Fotodioda použitá k detekci poškození také není automaticky časovou referencí průrazu.
+**Metrology boundary:** calibrated pulse energy and beam-profile monitoring support the optical input measurements used for LIDT. They do not demonstrate calibration of electrical-trigger to optical-arrival time at the spark gap. A photodiode used to detect optical damage is not automatically a breakdown timing reference.
 
-## Odkazy na primární podklady
+## Primary sources
 
-1. P. Čech, J. Vanda, M.-G. Mureșan, M. Mydlář, K. Pilná a J. Brajer, „Laser Induced Damage Threshold Testing at HiLASE,“ *MM Science Journal*, 2019. [Plný text](https://www.mmscience.eu/journal/issues/december-2019/articles/laser-induced-damage-threshold-testing-at-hilase/download), [DOI: 10.17973/MMSJ.2019_12_2019118](https://doi.org/10.17973/MMSJ.2019_12_2019118).
-2. J. Vanda a kol., „Comparative LIDT measurements of optical components for high-energy HiLASE lasers,“ *High Power Laser Science and Engineering* 4, e11 (2016). [DOI: 10.1017/hpl.2016.11](https://doi.org/10.1017/hpl.2016.11).
-3. HiLASE, [Laser-induced damage threshold (LIDT) target area](https://www.hilase.cz/en/laser%E2%80%90induced-damage-threshold-lidt-target-area/) a [PERLA 100](https://www.hilase.cz/en/produkty/perla-100/) — institucionální popisy, nikoli kalibrační protokoly.
-4. M. Sakala a kol., „The Dynamics of Laser-Driven Ionisation in High-Voltage Circuit Switching,“ APL 2025, [DOI: 10.1109/APL65034.2025.11108944](https://doi.org/10.1109/APL65034.2025.11108944) — vlastní vysokonapěťový experiment.
+1. P. Čech, J. Vanda, M.-G. Mureșan, M. Mydlář, K. Pilná and J. Brajer, “Laser Induced Damage Threshold Testing at HiLASE,” *MM Science Journal*, 2019. [Full text](https://www.mmscience.eu/journal/issues/december-2019/articles/laser-induced-damage-threshold-testing-at-hilase/download), [DOI: 10.17973/MMSJ.2019_12_2019118](https://doi.org/10.17973/MMSJ.2019_12_2019118).
+2. J. Vanda et al., “Comparative LIDT measurements of optical components for high-energy HiLASE lasers,” *High Power Laser Science and Engineering* 4, e11 (2016). [DOI: 10.1017/hpl.2016.11](https://doi.org/10.1017/hpl.2016.11).
+3. HiLASE, [Laser-induced damage threshold (LIDT) target area](https://www.hilase.cz/en/laser%E2%80%90induced-damage-threshold-lidt-target-area/) and [PERLA 100](https://www.hilase.cz/en/produkty/perla-100/) — institutional descriptions, not timing calibration protocols.
+4. M. Sakala et al., “The Dynamics of Laser-Driven Ionisation in High-Voltage Circuit Switching,” APL 2025, [DOI: 10.1109/APL65034.2025.11108944](https://doi.org/10.1109/APL65034.2025.11108944) — the high-voltage experiment.
 
-## Úkoly a návaznost
+## Follow-up tasks
 
-- [ ] Zjistit, zda vysokonapěťový experiment v letech 2024–2025 opravdu používal PERLA B a jak byl veden pulz k jiskřišti.
-- [ ] Ověřit, zda LIDT a vysokonapěťová kampaň sdílely pouze laser, nebo i diagnostickou odbočku, fotodiodu a triggerový signál.
-- [ ] Vyžádat udržovaný kalibrační či servisní záznam příslušné větve; existenci a použitelnost zapíše [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan\|časová kalibrační poznámka]].
+- [ ] Identify whether the 2024–2025 high-voltage experiment actually used PERLA B and how the pulse was delivered to the gap.
+- [ ] Determine whether the LIDT and high-voltage campaigns shared only a laser source or also the optical pick-off, photodiode and trigger signal.
+- [ ] Request the applicable calibration or service record for that branch; record its existence and applicability in the [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan\|timing verification note]].
 
-Zpět: [[II Areas/01_Research/Experiments/HiLASE Research Hub\|HiLASE rozcestník]].
+Back to [[II Areas/01_Research/Experiments/HiLASE Research Hub\|HiLASE research hub]].
