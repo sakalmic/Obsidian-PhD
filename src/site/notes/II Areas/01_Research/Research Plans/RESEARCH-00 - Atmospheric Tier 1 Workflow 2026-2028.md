@@ -5,6 +5,8 @@
 
 # RESEARCH-00 — Atmospheric Tier 1 workflow, 2026–2028
 
+For the concise two-level schedule, start with [[II Areas/01_Research/Research Plans/RESEARCH-01 - Dissertation Research Roadmap\|RESEARCH-01 - Dissertation Research Roadmap]]. This ticket retains the detailed experiment–theory handoffs and completion rules.
+
 ## Decision and boundary
 
 **Objective:** produce a defensible atmospheric-air dissertation that links calibrated breakdown measurements, a constrained physical interpretation, independently validated stochastic prediction and a bounded techno-economic operating choice. The working target is **submission in August 2028**. Tier 2 (CO₂/pressure) and Tier 3 (applications or online control) are outside mandatory completion. The long-term SF₆ replacement objective motivates the programme but is not an achieved Tier 1 result.
