@@ -26,7 +26,7 @@ The long-term goal of the research programme is to contribute to technically and
 
 Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
-Current evidence register: [[Claim Ledger & Evidence Matrix]]; mandatory economics: [[P3 - Techno-economic operating choice]].
+Current evidence register: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]]; mandatory economics: [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]].
 
 This map brings together the scientific and experimental foundations of the doctoral research across three primary branches: **Concepts**, **Experiments**, and **Simulations**.
 
@@ -36,13 +36,13 @@ This map brings together the scientific and experimental foundations of the doct
 
 Core physical theory, analytical scaling laws, and atomic conceptual notes:
 
-- [[Laser-Induced Plasma Dynamics|Physical dynamics of laser-induced plasma]]
-- [[Laser-Triggered Spark Gaps (LTSG)|Laser-triggered spark gaps and switching mechanisms]]
-- [[Theory - Laser-Triggered Breakdown and Switching|Theory, scaling laws and modelling assumptions]]
-- [[Diagnostics - Timing EMP and Radiation|Timing, EMP and ionising-radiation diagnostics]]
-- [[Statistics - Breakdown Probability Delay and Jitter|Breakdown probability, censoring and jitter statistics]]
-- [[High-Voltage Arc Quenching & Protection|High-voltage arc quenching and grid protection]]
-- [[Techno-Economic Modeling of Grid Switching|Mandatory atmospheric TCO and follow-on grid economics]]
+- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics|Physical dynamics of laser-induced plasma]]
+- [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)|Laser-triggered spark gaps and switching mechanisms]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory, scaling laws and modelling assumptions]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Timing, EMP and ionising-radiation diagnostics]]
+- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter|Breakdown probability, censoring and jitter statistics]]
+- [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection|High-voltage arc quenching and grid protection]]
+- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Mandatory atmospheric TCO and follow-on grid economics]]
 - [[II Areas/01_Research/Concepts/Zettelkasten Index|Atomic Permanent Notes Index (Concepts)]]
 
 ```dataview
@@ -84,19 +84,19 @@ Finite-element numerical modelling, plasma kinetics, fluid dynamics, and solver 
 
 Experimental rig configuration, optical beamline specifications, and high-voltage / laser safety protocols:
 
-- [[LTSG Apparatus & Laboratory Safety|LTSG Apparatus & Laboratory Safety Protocols]]
+- [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety|LTSG Apparatus & Laboratory Safety Protocols]]
 
 ---
 
 ## Executable Research Plan & Outputs
 
-- [[Minimum Dissertation Study & Research Discussion 2026|Immediate three-week topic-freeze and minimum project]]
-- [[LTSG Core Research Package 2026-2028|Core research package and 2026-2028 schedule]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Immediate three-week topic-freeze and minimum project]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core research package and 2026-2028 schedule]]
 - [[Experimental Diagnostics Campaign|Experimental campaign task board]]
-- [[Research Extensions Roadmap|Staged extensions and activation gates]]
-- [[Paper - IEEE Transactions 2026|IEEE Transactions manuscript]]
-- [[Dissertation Manuscript|Dissertation manuscript]]
-- [[Claim Ledger & Evidence Matrix|Claim ledger and evidence matrix]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap|Staged extensions and activation gates]]
+- [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026|IEEE Transactions manuscript]]
+- [[I Projects/01_Manuscripts/Dissertation Manuscript|Dissertation manuscript]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim ledger and evidence matrix]]
 
 ---
 

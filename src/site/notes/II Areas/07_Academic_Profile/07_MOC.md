@@ -35,14 +35,14 @@ This Map of Content maintains personal academic profiles, bibliographic identifi
 
 ## Core Records
 
-- [[ORCID & Bibliographic Identifiers|Scientific Profiles & Identifiers (ORCID, WoS, Scopus)]]
-- [[Academic Skills & Certifications|Training, Certifications & Summer Schools]]
-- [[Academic CV & Honors|Academic Curriculum Vitae & Honors]]
+- [[II Areas/07_Academic_Profile/Scientific_Profiles/ORCID & Bibliographic Identifiers|Scientific Profiles & Identifiers (ORCID, WoS, Scopus)]]
+- [[II Areas/07_Academic_Profile/Training_and_Workshops/Academic Skills & Certifications|Training, Certifications & Summer Schools]]
+- [[II Areas/07_Academic_Profile/Academic_CV_and_Awards/Academic CV & Honors|Academic Curriculum Vitae & Honors]]
 
 ---
 
 ## Navigation
 
 - [[Home|Return to Main Dashboard]]
-- [[06_MOC|06 · Administration & ISP]]
-- [[01_MOC|01 · Research Hub]]
+- [[II Areas/06_Administration/06_MOC|06 · Administration & ISP]]
+- [[II Areas/01_Research/01_MOC|01 · Research Hub]]

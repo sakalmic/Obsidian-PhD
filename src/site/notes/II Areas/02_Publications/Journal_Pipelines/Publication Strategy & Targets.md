@@ -44,15 +44,15 @@ Seven voltage-reduction series originate in the Master's work of **May 2024**, w
 
 The general claim that increasing irradiance shortens delay is **not adopted pending verification**. Historical electrical-trigger delay is not equated with calibrated optical-arrival-to-breakdown delay. The new doctoral validation and TCO remain planned work.
 
-See [[LN - Sakala2025 - APL Lightning Protection]] and the current reviewer report for the full-text assessment and its limits. Historical reuse must be explicit in both new manuscripts.
+See [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection]] and the current reviewer report for the full-text assessment and its limits. Historical reuse must be explicit in both new manuscripts.
 
 ### Paper 1 — experimental operating window
 
-**C1; H1/P1, supporting P2.** Atmospheric metrology, self-breakdown reference, stochastic operating domain and independent repeat. Target submission October–November 2027. [[Paper - IEEE Transactions 2026]].
+**C1; H1/P1, supporting P2.** Atmospheric metrology, self-breakdown reference, stochastic operating domain and independent repeat. Target submission October–November 2027. [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026]].
 
 ### Paper 2 — mechanism and predictive model
 
-**C2/C3; H2/H4/P3.** Held-out M0/M1 prediction and mandatory bounded TCO/operating choice in atmospheric air. Target submission March–April 2028. [[Paper 2 - Atmospheric Prediction and TCO]].
+**C2/C3; H2/H4/P3.** Held-out M0/M1 prediction and mandatory bounded TCO/operating choice in atmospheric air. Target submission March–April 2028. [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO]].
 
 ### Additional output
 
@@ -83,8 +83,8 @@ Waiting until April 2028 for the first journal submission leaves insufficient re
 
 ## Related notes
 
-- [[Paper - IEEE Transactions 2026]]
-- [[Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
-- [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
-- [[Conference Pipeline]]
+- [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
+- [[II Areas/02_Publications/Conferences/Conference Pipeline]]
 - [[Co-Authorship & Contribution Records]]

@@ -12,7 +12,7 @@ dg-publish: true
 
 # LAB-02 — Laser and channel diagnostic pilot
 
-**Parent:** [[RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[LAB-01 - Atmospheric No-Laser Baseline]]. **Next:** [[LAB-03 - Screening and June Decision Gate]].
+**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-01 - Atmospheric No-Laser Baseline]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate]].
 
 ## Purpose
 

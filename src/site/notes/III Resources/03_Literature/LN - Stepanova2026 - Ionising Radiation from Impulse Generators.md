@@ -98,7 +98,7 @@ Neutron experiments should begin only after a radiation survey, mechanism assess
 
 ## Links to dissertation
 
-- [[Diagnostics - Timing EMP and Radiation]]
-- [[Research Extensions Roadmap#E2 - Ionising-radiation field mapping]]
-- [[LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
-- [[Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap#E2 - Ionising-radiation field mapping]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]

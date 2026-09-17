@@ -12,7 +12,7 @@ dg-publish: true
 
 # LAB-05 — Independent prediction and operating-choice check
 
-**Parent:** [[RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[LAB-04 - Atmospheric Confirmatory Campaign]]. This is a validation/limited acquisition ticket, not a new broad campaign.
+**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-04 - Atmospheric Confirmatory Campaign]]. This is a validation/limited acquisition ticket, not a new broad campaign.
 
 ## Before opening reserved data
 
@@ -28,6 +28,6 @@ dg-publish: true
 
 ## Outputs and exit gate
 
-Deliver a held-out M0/M1 comparison, parameter and sensitivity table, prediction failure map, technical-feasibility result, and the validated response required by [[P3 - Techno-economic operating choice]]. If M1 does not improve prediction or no operating point meets the predefined requirement, report that result without retrospectively relaxing the criteria.
+Deliver a held-out M0/M1 comparison, parameter and sensitivity table, prediction failure map, technical-feasibility result, and the validated response required by [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]]. If M1 does not improve prediction or no operating point meets the predefined requirement, report that result without retrospectively relaxing the criteria.
 
 **Done when:** validation and operating-choice analyses can be rerun from frozen records, the use of post-laser information is explicit, and no new core acquisition is needed for the March–April 2028 TCO synthesis. A complete dissertation draft remains targeted for June 2028 and submission for August 2028.

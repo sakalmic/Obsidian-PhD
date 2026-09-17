@@ -18,7 +18,7 @@ The long-term goal of the research programme is to contribute to technically and
 
 Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
-Current evidence register: [[Claim Ledger & Evidence Matrix]]; mandatory economics: [[P3 - Techno-economic operating choice]].
+Current evidence register: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]]; mandatory economics: [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]].
 
 This area covers the formal study requirements and doctoral administration at the Faculty of Electrical Engineering, Czech Technical University in Prague.
 
@@ -26,10 +26,10 @@ This area covers the formal study requirements and doctoral administration at th
 
 ## Administration map
 
-- [[Individual Study Plan (ISP)|Individual Study Plan and annual review]]
-- [[Doctoral Study Regulations & Directives|Doctoral regulations and faculty directives]]
+- [[II Areas/06_Administration/ISP_and_Evaluations/Individual Study Plan (ISP)|Individual Study Plan and annual review]]
+- [[II Areas/06_Administration/Directives_and_Regulations/Doctoral Study Regulations & Directives|Doctoral regulations and faculty directives]]
 - [[Supervisor Meetings Log|Supervisor meeting records]]
-- [[Credits & Exam Tracker|Course, credit, and examination tracker]]
+- [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker|Course, credit, and examination tracker]]
 - [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking|ISP & Milestone Critical Path]]
 
 ---

@@ -59,7 +59,7 @@ Positive and negative streamers differ because electron drift is reversed relati
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition|Space Charge Marks the Avalanche to Streamer Transition]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031040 - Photoionization Enables Positive Streamer Propagation in Air|Photoionization Enables Positive Streamer Propagation in Air]] · [[II Areas/01_Research/Concepts/202609031320 - Electrode Conditioning Creates History Dependence|Electrode Conditioning Creates History Dependence]]
-- **Down:** [[H3 - Polarity and field geometry]] · [[H4 - Reduced predictive model]]
+- **Down:** [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]
 
 ## Anchor sources
 

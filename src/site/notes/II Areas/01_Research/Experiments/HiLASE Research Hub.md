@@ -25,9 +25,9 @@ This hub separates the historical high-voltage spark-gap experiments, the planne
 | February 2025 | Three additional electrical-delay series, reported as APL 2025 series 8–10 | Timing is referenced to an electrical laser-trigger edge. Conversion to optical arrival at the gap is not yet documented. |
 | Planned 2026–2028 | Tier 1: atmospheric air, metrology, channel descriptors, independently validated prediction and bounded TCO | Planned research, not a completed new dataset. Tiers 2 and 3 are outside mandatory dissertation completion. |
 
-- [[Historical Measurements 2024-2025 - Provenance|Provenance of the ten historical series]]
-- [[Historical Counts and Delay Trend - Verification Pending|Unresolved attempt counts and delay trend]]
-- [[Experimental Measurements Archive|Archive and limits of existing evidence]]
+- [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance|Provenance of the ten historical series]]
+- [[II Areas/01_Research/Experiments/Analysis Records/Historical Counts and Delay Trend - Verification Pending|Unresolved attempt counts and delay trend]]
+- [[II Areas/01_Research/Experiments/Experimental Measurements Archive|Archive and limits of existing evidence]]
 - [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan|Timing-reference and calibration verification]]
 - [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety|Spark-gap configuration and laboratory authorisation]]
 - [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Current dissertation plan]]

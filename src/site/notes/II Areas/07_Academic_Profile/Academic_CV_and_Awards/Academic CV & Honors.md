@@ -41,6 +41,6 @@ Summary of academic milestones, education, professional experience, grants award
 
 ## 🔗 Related Notes
 
-- [[07_MOC|Academic Profile MOC]]
-- [[ORCID & Bibliographic Identifiers|Bibliographic Identifiers]]
+- [[II Areas/07_Academic_Profile/07_MOC|Academic Profile MOC]]
+- [[II Areas/07_Academic_Profile/Scientific_Profiles/ORCID & Bibliographic Identifiers|Bibliographic Identifiers]]
 - [[SGS Grants Overview|SGS Grants Overview]]

@@ -22,7 +22,7 @@ dg-home-link: true
 
 Cost evidence follows the same traceability chain: record service requirements and cost inputs from WP0, freeze the operating-choice rule before testing, and distinguish measured costs from assumptions. The current scope authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]].
 
-This is the canonical operating manual for converting literature, models and laboratory work into defensible dissertation claims. The active scientific programme is [[LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]] and the immediate priority is [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]].
+This is the canonical operating manual for converting literature, models and laboratory work into defensible dissertation claims. The active scientific programme is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]] and the immediate priority is [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]].
 
 ## 1. Research spine
 
@@ -186,7 +186,7 @@ The core evidence package is complete when:
 
 ## Related system notes
 
-- [[PhD Vault Architecture Guide]]
-- [[Tags and Linking Convention]]
-- [[Digital Garden & Vercel Deployment Guide]]
+- [[_System/PhD Vault Architecture Guide]]
+- [[_System/Tags and Linking Convention]]
+- [[_System/Digital Garden & Vercel Deployment Guide]]
 

@@ -28,7 +28,7 @@ dg-publish: true
 
 # H4 - Reduced predictive model
 
-Contribution: C2. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[Claim Ledger & Evidence Matrix]].
+Contribution: C2. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]].
 
 ## Hypothesis
 
@@ -56,5 +56,5 @@ Specify prediction tolerance and interval-coverage target before opening the val
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics|Reduced Electric Field Governs Electron Kinetics]] · [[II Areas/01_Research/Concepts/202609031200 - Competing Timescales Determine the Triggering Regime|Competing Timescales Determine the Triggering Regime]] · [[II Areas/01_Research/Concepts/202609031340 - Predictive Validation Must Be Separated from Model Calibration|Predictive Validation Must Be Separated from Model Calibration]] · [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities|Measurement Uncertainty Must Propagate Through Derived Quantities]]
-- **Side:** [[H2 - Channel state versus pulse energy]]
-- **Down:** [[COMSOL Plasma Simulation Model]] · [[Paper 2 - Atmospheric Prediction and TCO]]
+- **Side:** [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy]]
+- **Down:** [[COMSOL Plasma Simulation Model]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO]]

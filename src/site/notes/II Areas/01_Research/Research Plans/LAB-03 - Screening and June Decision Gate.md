@@ -12,7 +12,7 @@ dg-publish: true
 
 # LAB-03 — Screening and June decision gate
 
-**Parent:** [[RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[LAB-02 - Laser and Channel Diagnostic Pilot]]. **Next:** [[LAB-04 - Atmospheric Confirmatory Campaign]].
+**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-02 - Laser and Channel Diagnostic Pilot]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-04 - Atmospheric Confirmatory Campaign]].
 
 ## Purpose
 

@@ -29,7 +29,7 @@ dg-publish: true
 
 # P1 - Delay and jitter response
 
-Contribution: C1. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[Claim Ledger & Evidence Matrix]].
+Contribution: C1. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]].
 
 ## Proposition
 
@@ -56,5 +56,5 @@ Predeclare a two-sided effect or model comparison and the smallest practically r
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031210 - Statistical and Formative Time Lags Are Different Processes|Statistical and Formative Time Lags Are Different Processes]] · [[II Areas/01_Research/Concepts/202609031220 - Censored Breakdown Delays Require Survival Analysis|Censored Breakdown Delays Require Survival Analysis]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
-- **Side:** [[H1 - Laser-assisted breakdown probability]] · [[H2 - Channel state versus pulse energy]]
-- **Down:** [[LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
+- **Side:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy]]
+- **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]

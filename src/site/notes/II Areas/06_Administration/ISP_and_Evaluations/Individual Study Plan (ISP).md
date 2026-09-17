@@ -21,7 +21,7 @@ The long-term goal of the research programme is to contribute to technically and
 
 Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
-This note records the narrative alignment of the research programme with the official ISP. Exact courses, results and formal obligations are verified in KOS and tracked in [[Credits & Exam Tracker]].
+This note records the narrative alignment of the research programme with the official ISP. Exact courses, results and formal obligations are verified in KOS and tracked in [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker]].
 
 Approval evidence and unresolved dates are maintained in the private decision register. This narrative does not certify study-block completion.
 
@@ -39,7 +39,7 @@ Consolidation of the inherited work, literature and research-plan preparation fo
 
 ## Year 3 — 2026/2027 — current critical year
 
-- [ ] Complete [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]] and fix the topic in September 2026.
+- [ ] Complete [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]] and fix the topic in September 2026.
 - [ ] Freeze metrology, protocol, data schema, claim structure and TCO service/cost boundary by December 2026.
 - [ ] Establish the reproducible $U_{50}$ baseline by February 2027.
 - [ ] Complete laser/channel calibration by April 2027.
@@ -62,7 +62,7 @@ Consolidation of the inherited work, literature and research-plan preparation fo
 
 ## Canonical plans
 
-- Scientific programme: [[LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
-- Immediate minimum sprint: [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
+- Scientific programme: [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
+- Immediate minimum sprint: [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
 - Administrative critical path: [[ISP & Milestone Tracking|Doctoral Milestones & ISP Tracker]]
-- Evidence status: [[Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
+- Evidence status: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]

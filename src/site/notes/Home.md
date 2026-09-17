@@ -278,7 +278,7 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Essential links
 
-- **Current document hierarchy:** [[Doctoral Document Map]]
+- **Current document hierarchy:** [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map]]
 
 - **Dissertation keystones:** [[Keystones/Keystones\|Core Claims & Findings]]
 - **Experimental archive:** [[II Areas/01_Research/Experiments/Experiments Index\|Experiments & Diagnostics]]
@@ -290,4 +290,4 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Mandatory economic contribution
 
-[[P3 - Techno-economic operating choice]] · [[Techno-Economic Modeling of Grid Switching]] · [[Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.
+[[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.

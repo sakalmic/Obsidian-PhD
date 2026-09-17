@@ -38,6 +38,6 @@ This note indexes unique researcher identifiers, academic profiles, and database
 
 ## 🔗 Related Notes
 
-- [[07_MOC|Academic Profile MOC]]
-- [[Publication Strategy & Targets|Publication Strategy]]
-- [[Academic CV & Honors|Academic CV]]
+- [[II Areas/07_Academic_Profile/07_MOC|Academic Profile MOC]]
+- [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets|Publication Strategy]]
+- [[II Areas/07_Academic_Profile/Academic_CV_and_Awards/Academic CV & Honors|Academic CV]]

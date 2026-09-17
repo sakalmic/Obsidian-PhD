@@ -15,7 +15,7 @@ dg-render-dataview: true
 
 # Calibrations Index
 
-Open timing verification: [[HiLASE Trigger-to-Optical Timing - Verification Plan]]. No apparatus-specific trigger-to-optical correction is accepted until a configuration-matched record and uncertainty are confirmed.
+Open timing verification: [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan]]. No apparatus-specific trigger-to-optical correction is accepted until a configuration-matched record and uncertainty are confirmed.
 
 ```dataview
 TABLE calibration_id, instrument_id, valid_from, valid_until, status, claims

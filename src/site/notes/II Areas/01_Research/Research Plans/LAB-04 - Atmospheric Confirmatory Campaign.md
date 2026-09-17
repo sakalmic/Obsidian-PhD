@@ -12,7 +12,7 @@ dg-publish: true
 
 # LAB-04 — Atmospheric confirmatory campaign
 
-**Parent:** [[RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[LAB-03 - Screening and June Decision Gate]]. **Next:** [[LAB-05 - Independent Prediction and Operating-Choice Check]].
+**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-05 - Independent Prediction and Operating-Choice Check]].
 
 ## Purpose and frozen design
 

@@ -19,7 +19,7 @@ The long-term goal of the research programme is to contribute to technically and
 
 Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
-Current evidence register: [[Claim Ledger & Evidence Matrix]]; mandatory economics: [[P3 - Techno-economic operating choice]].
+Current evidence register: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]]; mandatory economics: [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]].
 
 This map coordinates the doctoral publication pipeline, from early research concepts and conference papers to peer-reviewed Web of Science journal articles.
 
@@ -27,8 +27,8 @@ This map coordinates the doctoral publication pipeline, from early research conc
 
 ## Planning documents
 
-- [[Publication Strategy & Targets|Publication strategy and target journals]]
-- [[Conference Pipeline|Conference pipeline and submission dates]]
+- [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets|Publication strategy and target journals]]
+- [[II Areas/02_Publications/Conferences/Conference Pipeline|Conference pipeline and submission dates]]
 - [[Co-Authorship & Contribution Records|Co-authorship and contribution records]]
 
 ---
@@ -50,6 +50,6 @@ SORT submission_deadline ASC
 
 ## Published and active outputs
 
-- [[LN - Sakala2025 - APL Lightning Protection|Sakala et al. (IEEE APL 2025)]] — DOI: `10.1109/APL65034.2025.11108944`
+- [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection|Sakala et al. (IEEE APL 2025)]] — DOI: `10.1109/APL65034.2025.11108944`
 - [[LN - Mikes2024 - Laser Spark Gaps|Mikeš & Sakala (ICOLSE 2024)]]
 - [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026|IEEE Transactions manuscript]] — in preparation

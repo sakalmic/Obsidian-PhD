@@ -12,7 +12,7 @@ dg-publish: true
 
 # LAB-01 — Atmospheric no-laser baseline
 
-**Parent:** [[RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[LAB-00 - Apparatus and Timing Readiness]]. **Next:** [[LAB-02 - Laser and Channel Diagnostic Pilot]].
+**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-00 - Apparatus and Timing Readiness]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-02 - Laser and Channel Diagnostic Pilot]].
 
 ## Purpose and fixed scope
 
@@ -28,6 +28,6 @@ Estimate the contemporary no-laser breakdown response of **one reference geometr
 
 ## Records and exit gate
 
-Store a versioned protocol, attempt-level manifest, waveform links, electrode/environment log, QC record and analysis script. Connect the result to [[Historical Measurements 2024-2025 - Provenance]] without treating the old series as new repetitions.
+Store a versioned protocol, attempt-level manifest, waveform links, electrode/environment log, QC record and analysis script. Connect the result to [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance]] without treating the old series as new repetitions.
 
 **Done when:** $U_{50}$ and its uncertainty are reported for the defined geometry, polarity and observation time; session drift is quantified or bounded; the chosen laser operating region can be stated without extrapolating outside the measured reference. If the baseline is unstable, resolve the dominant apparatus/environment cause before widening the experiment.

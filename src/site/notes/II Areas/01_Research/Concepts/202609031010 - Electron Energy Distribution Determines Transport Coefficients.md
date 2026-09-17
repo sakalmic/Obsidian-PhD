@@ -60,7 +60,7 @@ with coefficients derived consistently from one cross-section set.
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics|Reduced Electric Field Governs Electron Kinetics]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031020 - Townsend Avalanche Is Exponential but Not Yet a Streamer|Townsend Avalanche Is Exponential but Not Yet a Streamer]]
-- **Down:** [[H4 - Reduced predictive model]] · [[COMSOL Plasma Simulation Model]]
+- **Down:** [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]] · [[COMSOL Plasma Simulation Model]]
 
 ## Anchor source
 

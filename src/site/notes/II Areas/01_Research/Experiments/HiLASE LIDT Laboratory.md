@@ -44,4 +44,4 @@ dg-publish: true
 - [ ] Determine whether the LIDT and high-voltage campaigns shared only a laser source or also the optical pick-off, photodiode and trigger signal.
 - [ ] Request the applicable calibration or service record for that branch; record its existence and applicability in the [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan|timing verification note]].
 
-Back to [[HiLASE Research Hub|HiLASE research hub]].
+Back to [[II Areas/01_Research/Experiments/HiLASE Research Hub|HiLASE research hub]].

@@ -61,4 +61,4 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 
 Cost collection starts in WP0 and continues during acquisition. The prediction/evidence core closes by February 2028 and TCO synthesis by April. Tier 2/3 may continue from autumn 2028 into 2029 under separate resources; those dates do not extend the dissertation target. Submission is not acceptance of a paper and is not the defence date.
 
-Scientific details: [[LTSG Core Research Package 2026-2028]]. Administrative gates: [[ISP & Milestone Tracking]]. Contribution/evidence mapping: [[Claim Ledger & Evidence Matrix]]. Historical records: [[Meeting - 2026-09-01 Supervisor Sync]].
+Scientific details: [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]. Administrative gates: [[ISP & Milestone Tracking]]. Contribution/evidence mapping: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]]. Historical records: [[Meeting - 2026-09-01 Supervisor Sync]].

@@ -28,7 +28,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 
 A laser-triggered spark gap uses an optically created seed or low-density channel to control where and when a high-voltage gap becomes conductive. Optical triggering provides galvanic separation of the trigger source and can remove the need for an immersed trigger electrode. Actual voltage, current, delay and jitter depend strongly on gap geometry, gas/pressure, working coefficient, laser pulse duration and channel topology; no single literature value should be treated as a device specification.
 
-The full physical basis is maintained in [[Theory - Laser-Triggered Breakdown and Switching]]. The executable dissertation plan is [[LTSG Core Research Package 2026-2028]], and the September 2026 scope freeze is [[Minimum Dissertation Study & Research Discussion 2026]].
+The full physical basis is maintained in [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching]]. The executable dissertation plan is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]], and the September 2026 scope freeze is [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026]].
 
 ---
 
@@ -51,10 +51,10 @@ These results motivate hypotheses; they do not verify the performance of the pre
 
 **Tier 1:** atmospheric metrology, stochastic operating domain, independently validated M0/M1 prediction and mandatory bounded TCO.
 
-**Tier 2:** separately resourced CO₂/pressure transfer. **Tier 3:** applications and their system validation. EMP/radiation research, recovery/lifetime, extended chemistry and demonstrators remain gated follow-on topics. See [[Research Extensions Roadmap]].
+**Tier 2:** separately resourced CO₂/pressure transfer. **Tier 3:** applications and their system validation. EMP/radiation research, recovery/lifetime, extended chemistry and demonstrators remain gated follow-on topics. See [[II Areas/01_Research/Concepts/Research Extensions Roadmap]].
 
 ## Connections
 
-- **Up:** [[Theory - Laser-Triggered Breakdown and Switching]]
-- **Side:** [[Laser-Induced Plasma Dynamics]]
-- **Down:** [[LTSG Core Research Package 2026-2028]]
+- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching]]
+- **Side:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics]]
+- **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]

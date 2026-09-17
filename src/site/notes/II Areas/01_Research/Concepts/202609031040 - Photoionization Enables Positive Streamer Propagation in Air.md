@@ -53,7 +53,7 @@ where $I$ is an emitting-state source and $f$ is an absorption kernel. Helmholtz
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition|Space Charge Marks the Avalanche to Streamer Transition]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field|Electrode Geometry and Polarity Shape the Local Field]]
-- **Down:** [[H3 - Polarity and field geometry]] · [[H4 - Reduced predictive model]]
+- **Down:** [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]
 
 ## Anchor sources
 

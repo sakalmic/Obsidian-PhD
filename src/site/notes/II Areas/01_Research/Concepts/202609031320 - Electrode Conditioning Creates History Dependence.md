@@ -57,7 +57,7 @@ These do not fully represent erosion but make history testable.
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031230 - Breakdown Voltage Is a Probability Distribution Not a Constant|Breakdown Voltage Is a Probability Distribution Not a Constant]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031240 - Hierarchical Shot-Level Models Separate Effects from Drift|Hierarchical Shot-Level Models Separate Effects from Drift]] · [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field|Electrode Geometry and Polarity Shape the Local Field]]
-- **Down:** [[H1 - Laser-assisted breakdown probability]] · [[P1 - Delay and jitter response]]
+- **Down:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response]]
 
 ## Anchor source
 

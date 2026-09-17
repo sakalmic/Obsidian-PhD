@@ -253,8 +253,8 @@ Mandatory controls are therefore:
 
 ## Connections
 
-- **Side:** [[Diagnostics - Timing EMP and Radiation]] · [[Statistics - Breakdown Probability Delay and Jitter]]
-- **Down:** [[Laser-Triggered Spark Gaps (LTSG)]] · [[Laser-Induced Plasma Dynamics]]
+- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation]] · [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter]]
+- **Down:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)]] · [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics]]
 
 ## Anchor references
 

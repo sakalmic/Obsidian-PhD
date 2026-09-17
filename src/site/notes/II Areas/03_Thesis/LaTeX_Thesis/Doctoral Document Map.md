@@ -36,12 +36,12 @@ H3 is supporting robustness within the frozen atmospheric configuration family. 
 | What governs the current scope? | [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]] | Current reviewer baseline, 14 September 2026 |
 | Which dissertation variants have been compared? | [[Variant Dissertation Topics 2026]] | Six executable variants with equipment and schedule estimates |
 | Which emerging commercial directions are worth testing? | [[Outside-the-Box Dissertation Topics 2026]] | Opportunity scan with gates, risks and market routes |
-| What is the dissertation about? | [[Dissertation Manuscript]] | Working title, promise and writing status |
-| How is the argument organised? | [[Thesis Structure & Chapter Outline]] | Chapter architecture |
-| What must be tested? | [[Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]] and atomic H/P notes | Claims and evidence rules |
-| What evidence exists? | [[Evidence Index]] | Calibrations, datasets and analyses |
-| Which outputs are planned? | [[Publication Strategy & Targets]] | Scientific publication sequence |
-| What is the experimental baseline? | [[LTSG Apparatus & Laboratory Safety]] | Verified configuration versus requirements |
+| What is the dissertation about? | [[I Projects/01_Manuscripts/Dissertation Manuscript]] | Working title, promise and writing status |
+| How is the argument organised? | [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline]] | Chapter architecture |
+| What must be tested? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]] and atomic H/P notes | Claims and evidence rules |
+| What evidence exists? | [[II Areas/01_Research/Experiments/Evidence Index]] | Calibrations, datasets and analyses |
+| Which outputs are planned? | [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets]] | Scientific publication sequence |
+| What is the experimental baseline? | [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety]] | Verified configuration versus requirements |
 
 Scientific claims, formal approvals and manuscript completion are separate states. A polished PDF is not evidence that any of these has been completed.
 

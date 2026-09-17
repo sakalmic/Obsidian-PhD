@@ -63,7 +63,7 @@ coupled to Poisson's equation. The streamer head has the strongest field and ste
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031020 - Townsend Avalanche Is Exponential but Not Yet a Streamer|Townsend Avalanche Is Exponential but Not Yet a Streamer]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031040 - Photoionization Enables Positive Streamer Propagation in Air|Photoionization Enables Positive Streamer Propagation in Air]] · [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field|Electrode Geometry and Polarity Shape the Local Field]]
-- **Down:** [[P2 - Reproducible optical and electrical stages]] · [[H4 - Reduced predictive model]]
+- **Down:** [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]
 
 ## Anchor sources
 

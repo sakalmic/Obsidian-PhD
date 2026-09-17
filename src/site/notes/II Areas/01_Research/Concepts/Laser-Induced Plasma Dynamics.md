@@ -33,7 +33,7 @@ The times are regime-dependent and must be measured for the present apparatus. R
 
 ## Minimal governing equations
 
-The working model combines electron balance, drift-diffusion, Poisson's equation and reduced gas heating/density evolution. See [[Theory - Laser-Triggered Breakdown and Switching#4. Electron balance and reduced electric field]] for equations, assumptions and model tiers.
+The working model combines electron balance, drift-diffusion, Poisson's equation and reduced gas heating/density evolution. See [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching#4. Electron balance and reduced electric field]] for equations, assumptions and model tiers.
 
 The model chain is decomposed into permanent notes:
 
@@ -56,6 +56,6 @@ The model chain is decomposed into permanent notes:
 
 ## Connections
 
-- **Up:** [[Theory - Laser-Triggered Breakdown and Switching]]
-- **Side:** [[Diagnostics - Timing EMP and Radiation]]
-- **Down:** [[Laser-Triggered Spark Gaps (LTSG)]] · [[H2 - Channel state versus pulse energy]]
+- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching]]
+- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation]]
+- **Down:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)]] · [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy]]

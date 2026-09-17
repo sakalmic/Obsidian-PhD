@@ -60,9 +60,9 @@ Bandwidth limits the slope and can therefore increase apparent jitter. Threshold
 
 ## Connections
 
-- **Up:** [[Diagnostics - Timing EMP and Radiation]]
+- **Up:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities|Measurement Uncertainty Must Propagate Through Derived Quantities]] · [[II Areas/01_Research/Concepts/202609031210 - Statistical and Formative Time Lags Are Different Processes|Statistical and Formative Time Lags Are Different Processes]]
-- **Down:** [[P1 - Delay and jitter response]] · [[P2 - Reproducible optical and electrical stages]]
+- **Down:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages]]
 
 ## Anchor sources
 

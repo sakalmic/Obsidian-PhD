@@ -18,4 +18,4 @@ This is a provenance record, not a frozen or QC-passed shot-level dataset. Locat
 
 Acquisition source: the HiLASE experiment directory in the parent research archive. Preserve inherited data and mark any reanalysis explicitly; no new doctoral acquisition is inferred from publication year.
 
-Open checks: [[Historical Counts and Delay Trend - Verification Pending]].
+Open checks: [[II Areas/01_Research/Experiments/Analysis Records/Historical Counts and Delay Trend - Verification Pending]].

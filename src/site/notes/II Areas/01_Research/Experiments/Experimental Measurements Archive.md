@@ -36,7 +36,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 
 ## Evidence records
 
-- [[Historical Measurements 2024-2025 - Provenance]]
-- [[Historical Counts and Delay Trend - Verification Pending]]
-- [[Evidence Index]]
+- [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance]]
+- [[II Areas/01_Research/Experiments/Analysis Records/Historical Counts and Delay Trend - Verification Pending]]
+- [[II Areas/01_Research/Experiments/Evidence Index]]
 - [[Experimental Diagnostics Campaign]]

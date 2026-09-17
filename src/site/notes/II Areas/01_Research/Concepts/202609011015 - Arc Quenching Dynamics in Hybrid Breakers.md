@@ -42,9 +42,9 @@ The coupled thermal/electrical mechanism is developed in [[II Areas/01_Research/
 
 ## Connections
 
-- **Up:** [[High-Voltage Arc Quenching & Protection]]
+- **Up:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031350 - Arc Conductance and Recovery Compete After Current Zero|Arc Conductance and Recovery Compete After Current Zero]] · [[II Areas/01_Research/Concepts/202609031330 - Plasma and External Circuit Form One Dynamical System|Plasma and External Circuit Form One Dynamical System]]
-- **Down:** [[Techno-Economic Modeling of Grid Switching]]
+- **Down:** [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching]]
 
 ## Anchor sources
 

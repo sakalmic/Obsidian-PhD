@@ -40,6 +40,6 @@ Record of formal qualifications, safety certifications, technical competencies, 
 
 ## 🔗 Related Notes
 
-- [[07_MOC|Academic Profile MOC]]
-- [[LTSG Apparatus & Laboratory Safety|LTSG Apparatus & Safety]]
-- [[Credits & Exam Tracker|Credits & Exam Tracker]]
+- [[II Areas/07_Academic_Profile/07_MOC|Academic Profile MOC]]
+- [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety|LTSG Apparatus & Safety]]
+- [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker|Credits & Exam Tracker]]

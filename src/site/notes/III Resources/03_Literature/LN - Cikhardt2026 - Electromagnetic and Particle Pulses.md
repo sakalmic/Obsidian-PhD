@@ -84,8 +84,8 @@ The thesis unifies two routes to high-energy-density plasma: high-power laser-ta
 
 ## Links to dissertation
 
-- [[Diagnostics - Timing EMP and Radiation]]
-- [[Theory - Laser-Triggered Breakdown and Switching]]
-- [[Research Extensions Roadmap#E1 - Quantitative EMP fingerprinting]]
-- [[Research Extensions Roadmap#E2 - Ionising-radiation field mapping]]
-- [[Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap#E1 - Quantitative EMP fingerprinting]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap#E2 - Ionising-radiation field mapping]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]

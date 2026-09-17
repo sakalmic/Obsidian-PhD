@@ -65,9 +65,9 @@ Thus a channel may become electrically more favourable even while $n_e$ falls.
 
 ## Connections
 
-- **Up:** [[Laser-Induced Plasma Dynamics]]
+- **Up:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics|Reduced Electric Field Governs Electron Kinetics]]
-- **Down:** [[P2 - Reproducible optical and electrical stages]] · [[H4 - Reduced predictive model]]
+- **Down:** [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]
 
 ## Anchor sources
 
