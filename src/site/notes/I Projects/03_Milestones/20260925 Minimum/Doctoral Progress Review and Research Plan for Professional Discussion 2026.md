@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/doctoral-progress-review-and-research-plan-2026/","permalink":"/doctoral-progress-review-and-research-plan-2026/","title":"Doctoral Progress Review & Dissertation Plan (2024–2028)","dgHomeLink":true,"noteIcon":"","created":"2026-09-10","updated":"2026-09-14","dg-note-properties":{"title":"Doctoral Progress Review & Dissertation Plan (2024–2028)","aliases":["Doctoral Progress Review and Research Plan for Professional Discussion 2026","Professional Discussion Reviewer Dossier 2026","Two-Year Doctoral Progress Report 2026","W Dissertation Research Plan"],"project_id":"MIN-2026-REVIEW","type":"milestone","status":"draft-for-supervisor-review","context":"thesis","priority":"critical","date":"2026-09-10","last_updated":"2026-09-14","candidate":"Ing. Michal Sakala","supervisor":"doc. Ing. Jan Mikeš, Ph.D.","supervising_department":"Department of Economics, Management and Humanities (K13116), CTU FEE","study_start":"2024-09-01","milestone":"Dissertation progress report and professional discussion","selected_direction":"W","permalink":"/doctoral-progress-review-and-research-plan-2026/","submission_target":"2028-08","mandatory_scope":"atmospheric-air-prediction-with-bounded-robustness-and-techno-economic-assessment","follow_on_tiers":"outside-mandatory-dissertation-completion"}}
+{"dg-publish":true,"dg-permalink":"/doctoral-progress-review-and-research-plan-2026/","permalink":"/doctoral-progress-review-and-research-plan-2026/","title":"Doctoral Progress Review & Dissertation Plan (2024–2028)","dgHomeLink":true,"noteIcon":"","created":"2026-09-10","updated":"2026-09-16","dg-note-properties":{"title":"Doctoral Progress Review & Dissertation Plan (2024–2028)","aliases":["Doctoral Progress Review and Research Plan for Professional Discussion 2026","Professional Discussion Reviewer Dossier 2026","Two-Year Doctoral Progress Report 2026","W Dissertation Research Plan"],"project_id":"MIN-2026-REVIEW","type":"milestone","status":"draft-for-supervisor-review","context":"thesis","priority":"critical","date":"2026-09-10","last_updated":"2026-09-16","candidate":"Ing. Michal Sakala","supervisor":"doc. Ing. Jan Mikeš, Ph.D.","supervising_department":"Department of Economics, Management and Humanities (K13116), CTU FEE","study_start":"2024-09-01","milestone":"Dissertation progress report and professional discussion","selected_direction":"W","permalink":"/doctoral-progress-review-and-research-plan-2026/","submission_target":"2028-08","mandatory_scope":"atmospheric-air-prediction-with-bounded-robustness-and-techno-economic-assessment","follow_on_tiers":"outside-mandatory-dissertation-completion"}}
 ---
 
 
@@ -11,7 +11,7 @@
 **Supervisor:** doc. Ing. Jan Mikeš, Ph.D.  
 **Supervising department:** Department of Economics, Management and Humanities (K13116), Faculty of Electrical Engineering, Czech Technical University in Prague  
 **Experimental collaboration:** HiLASE Centre, Institute of Physics of the Czech Academy of Sciences  
-**Review date:** 15 September 2026  
+**Review date:** 16 September 2026  
 **Study start used for planning:** 1 September 2024  
 **Target:** dissertation submission in August 2028; the defence date is a separate administrative milestone.
 
@@ -257,20 +257,102 @@ This contribution links physical performance to resource allocation and investme
 
 ## 9. Work packages and completion gates
 
-| Package | Period | Required result and gate |
+Campaign numbers identify the same laboratory sequence throughout this plan: Campaign 0–5 map one-to-one to WP0–WP5. Integration 6 / WP6 and Completion 7 / WP7 are subsequent synthesis and writing stages. Dates are planning windows, subject to laboratory access and academic approval.
+
+| Campaign / package | Period | Required result and gate |
 | --- | --- | --- |
-| WP0: scope and metrology | Sep–Dec 2026 | Confirm configuration, safety, optical reference, data protocol, service definition and cost boundary |
-| WP1: baseline | Jan–Feb 2027 | Repeatable no-laser reference and environmental/electrode blocks |
-| WP2: channel pilot | Mar–Apr 2027 | At least one interpretable, repeatable descriptor or documented diagnostic limit |
-| WP3: screening | May–Jun 2027 | Compact confirmatory matrix, sample size, performance requirements and frozen analysis; June stop/go |
-| WP4: confirmation | Jul–Oct 2027 | Locked atmospheric dataset and independent session repeat; Paper 1 preparation |
-| WP5: prediction | Nov 2027–Feb 2028 | Held-out M0/M1 assessment and independently tested choice rule |
-| WP6: TCO integration | Cost collection from WP0; synthesis Mar–Apr 2028 | Traceable cost model, feasibility, sensitivity and break-even results; Paper 2 |
-| WP7: thesis | Draft continuously; full draft Jun 2028 | Review, publication/administrative eligibility check and August 2028 submission |
+| Campaign 0 / WP0: scope and metrology | Sep–Dec 2026 | Confirm configuration, safety, optical reference, data protocol, service definition and cost boundary |
+| Campaign 1 / WP1: baseline | Jan–Feb 2027 | Repeatable no-laser reference and environmental/electrode blocks |
+| Campaign 2 / WP2: channel pilot | Mar–Apr 2027 | At least one interpretable, repeatable descriptor or documented diagnostic limit |
+| Campaign 3 / WP3: screening | May–Jun 2027 | Compact confirmatory matrix, sample size, performance requirements and frozen analysis; June stop/go |
+| Campaign 4 / WP4: confirmation | Jul–Oct 2027 | Locked atmospheric dataset and independent session repeat; Paper 1 preparation |
+| Campaign 5 / WP5: prediction | Nov 2027–Feb 2028 | Held-out M0/M1 assessment and independently tested choice rule |
+| Integration 6 / WP6: TCO | Cost collection from WP0; synthesis Mar–Apr 2028 | Traceable cost model, feasibility, sensitivity and break-even results; Paper 2 |
+| Completion 7 / WP7: thesis | Draft continuously; full draft Jun 2028 | Review, publication/administrative eligibility check and August 2028 submission |
 
 The June 2027 gate tests whether the apparatus resolves the target effect, the operating domain is repeatable and the descriptor can be linked to shots without leakage. If diagnostics fail, narrow the predictive question and quantify the diagnostic limit while retaining the calibrated operating-domain and economic comparison. Any change in the promised scientific contribution must be brought to the supervisor; a fallback is not an automatic guarantee of degree sufficiency.
 
 The atmospheric evidence and core model are closed by February 2028, with TCO synthesis by April. No new core campaign is planned for July–August 2028. Writing proceeds during experimentation. Cost collection begins with the first campaign rather than becoming an unsupported final chapter.
+
+### 9.1 Campaign 0 / WP0 — Make the experiment measurable (Sep–Dec 2026)
+
+**What to establish:** the available apparatus can produce traceable, shot-linked optical and electrical records.
+
+1. Confirm the actual laser branch, gap/circuit, sensor inventory, laboratory permissions and booking.
+2. Verify electrical-trigger timing against optical pulse arrival at the gap; define the breakdown marker, failed-shot codes and uncertainty budget.
+3. Freeze the shot record and begin logging equipment use, electrical consumption and operator/reset time for TCO.
+
+**Output:** approved configuration and measurement protocol.
+
+### 9.2 Campaign 1 / WP1 — Establish the no-laser reference (Jan–Feb 2027)
+
+**What to establish:** how the selected atmospheric gap behaves without laser assistance.
+
+1. Fix one reference geometry and polarity; document electrode history and ambient conditions.
+2. Record both breakdown and no-breakdown attempts under a declared voltage/observation procedure, repeated across independent sessions.
+3. Estimate the contemporary $U_{50}$ curve and uncertainty; define $k=U/U_{50}$ for subsequent comparisons.
+
+**Output:** reproducible baseline and its limits. **Theory in parallel:** calculate the static field in the actual geometry and test sensitivity to geometry, voltage and numerical mesh.
+
+### 9.3 Campaign 2 / WP2 — Test whether the laser channel is observable (Mar–Apr 2027)
+
+**What to establish:** whether a pre-breakdown channel feature can be measured reliably for each relevant shot.
+
+1. Measure actual pulse energy, beam/focus properties and optical arrival time in the confirmed laser configuration.
+2. Run a small laser-only and combined laser/HV pilot with synchronised waveforms and one candidate optical descriptor.
+3. Repeat after realignment; determine whether the descriptor is available before breakdown and is more than detector noise or the breakdown flash.
+
+**Output:** an interpretable descriptor **or** a quantified diagnostic limit. **Theory in parallel:** specify a minimal channel-evolution model using only identifiable states; keep an optical proxy distinct from direct electron density.
+
+### 9.4 Campaign 3 / WP3 — Choose the decisive test (May–Jun 2027)
+
+**What to establish:** a compact confirmatory design that can answer the dissertation question with available time.
+
+1. Screen a small set of measured voltage/laser conditions; block by session and electrode history.
+2. Use pilot event rates and session variation to determine attempt counts, primary contrasts and a stopping rule.
+3. Freeze outcome definitions, M0/M1 inputs, channel-feature window and whole-session validation split. Hold a June supervisor stop/go review.
+
+**Output:** dated decision and frozen confirmation protocol.
+
+### 9.5 Campaign 4 / WP4 — Acquire new confirmatory evidence (Jul–Oct 2027)
+
+**What to establish:** probability and delay distributions, with uncertainty, for the selected atmospheric conditions.
+
+1. Execute the frozen matrix; retain every ready-state attempt, including no-breakdown and premature events.
+2. Link optical timing, voltage/current, laser input, channel descriptor, environment and electrode history by shot ID.
+3. Repeat principal contrasts in a separately initiated/realigned session and reserve complete sessions for later validation.
+
+**Output:** QC-passed new dataset and Paper 1 evidence, clearly separated from the seven May 2024 and three February 2025 historical series. **Theory in parallel:** fit a baseline probability/delay model on training data and compare measured channel timescales with the reduced physical description.
+
+### 9.6 Campaign 5 / WP5 — Test prediction on unseen sessions (Nov 2027–Feb 2028)
+
+**What to establish:** whether channel information improves prediction beyond voltage and measured laser input, and whether a chosen setting remains technically feasible.
+
+1. Freeze M0 (settings/context), M1 (M0 plus a predeclared pre-breakdown channel feature), preprocessing and scoring before opening reserved sessions.
+2. Compare predicted breakdown probability and time-to-event distributions with complete held-out sessions; retain censored attempts and show failure regions.
+3. Select an operating point from training/calibration evidence, then test that **preselected** point independently. A feature measured after a pulse cannot retrospectively select that pulse's energy.
+
+**Output:** validated prediction or a documented lack of improvement, plus an independent technical check.
+
+### 9.7 Integration 6 — TCO synthesis (Mar–Apr 2028; WP6)
+
+**What to establish:** whether any validated configuration meets a predefined laboratory switching requirement at a defensible cost.
+
+1. Consolidate costs logged since Campaign 0: equipment use, electricity, operator/reset time, servicing and replacement. Distinguish research diagnostics from diagnostics required for routine operation.
+2. Combine independently validated performance from Campaign 5 with these costs; compare shared-facility and dedicated-installation scenarios separately.
+3. Report feasible choices, uncertainty, sensitivity and break-even boundaries, or no demonstrated feasible/stable choice. Prepare Paper 2.
+
+**Output:** bounded TCO and a defensible operating-choice result.
+
+### 9.8 Completion 7 — Dissertation and submission (continuous writing; Jun–Aug 2028; WP7)
+
+**What to establish:** a coherent account of new contributions, historical evidence and limitations, suitable for submission.
+
+1. Write methods, results and limitations throughout Campaigns 0–5 and Integration 6.
+2. Complete the full dissertation draft by June 2028; obtain review and check publication/study eligibility.
+3. Revise and target submission in August 2028. The defence date is a separate administrative milestone.
+
+**Output:** reviewed dissertation and submission package. No new core campaign is planned for July–August 2028; Tier 2 and Tier 3 remain outside mandatory completion.
 
 ## 10. Publications, study obligations and resources
 
