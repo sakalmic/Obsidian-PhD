@@ -1,7 +1,30 @@
 ---
-{"dg-publish":true,"dg-permalink":"/doctoral-progress-review-and-research-plan-2026/","permalink":"/doctoral-progress-review-and-research-plan-2026/","title":"Doctoral Progress Review & Dissertation Plan (2024–2028)","dgHomeLink":true,"noteIcon":"","created":"2026-09-10","updated":"2026-09-16","dg-note-properties":{"title":"Doctoral Progress Review & Dissertation Plan (2024–2028)","aliases":["Doctoral Progress Review and Research Plan for Professional Discussion 2026","Professional Discussion Reviewer Dossier 2026","Two-Year Doctoral Progress Report 2026","W Dissertation Research Plan"],"project_id":"MIN-2026-REVIEW","type":"milestone","status":"draft-for-supervisor-review","context":"thesis","priority":"critical","date":"2026-09-10","last_updated":"2026-09-16","candidate":"Ing. Michal Sakala","supervisor":"doc. Ing. Jan Mikeš, Ph.D.","supervising_department":"Department of Economics, Management and Humanities (K13116), CTU FEE","study_start":"2024-09-01","milestone":"Dissertation progress report and professional discussion","selected_direction":"W","permalink":"/doctoral-progress-review-and-research-plan-2026/","submission_target":"2028-08","mandatory_scope":"atmospheric-air-prediction-with-bounded-robustness-and-techno-economic-assessment","follow_on_tiers":"outside-mandatory-dissertation-completion"}}
+title: "Doctoral Progress Review & Dissertation Plan (2024–2028)"
+aliases:
+  - "Doctoral Progress Review and Research Plan for Professional Discussion 2026"
+  - Professional Discussion Reviewer Dossier 2026
+  - Two-Year Doctoral Progress Report 2026
+project_id: MIN-2026-REVIEW
+type: milestone
+status: draft-for-supervisor-review
+context: thesis
+priority: critical
+date: 2026-09-10
+last_updated: 2026-09-16
+candidate: Ing. Michal Sakala
+supervisor: doc. Ing. Jan Mikeš, Ph.D.
+supervising_department: Department of Economics, Management and Humanities (K13116), CTU FEE
+study_start: 2024-09-01
+milestone: Dissertation progress report and professional discussion
+selected_direction: atmospheric-air Tier 1 with separate follow-on research
+dg-publish: true
+dg-home-link: true
+permalink: /doctoral-progress-review-and-research-plan-2026/
+dg-permalink: /doctoral-progress-review-and-research-plan-2026/
+submission_target: 2028-08
+mandatory_scope: atmospheric-air-prediction-with-bounded-robustness-and-techno-economic-assessment
+follow_on_tiers: outside-mandatory-dissertation-completion
 ---
-
 
 # Doctoral Progress Review and Research Plan
 
@@ -17,7 +40,7 @@
 
 This study supports the professional discussion after the first two years of doctoral study. Its purpose is to assess the research completed so far and determine whether the proposed scope, methods and resources provide a credible route to a doctoral contribution. It is a research proposal for assessment by the supervisor and board, not a record of their approval. The document is self-contained: its scientific argument does not require access to a personal knowledge base or accompanying planning documents.
 
-**Long-term goal: replacement of SF₆.** The ultimate goal of research programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. This dissertation establishes the atmospheric-air measurement, prediction and TCO foundation for that direction. Subsequent Tier 2 and Tier 3 research may assess transfer to alternative media and applications. Demonstrating a complete SF₆ replacement is outside the mandatory dissertation scope and is not a condition for submission in August 2028.
+**Long-term goal: replacement of SF₆.** The ultimate goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. This dissertation establishes the atmospheric-air measurement, prediction and TCO foundation for that direction. Subsequent Tier 2 and Tier 3 research may assess transfer to alternative media and applications. Demonstrating a complete SF₆ replacement is outside the mandatory dissertation scope and is not a condition for submission in August 2028.
 
 **Proposed English title:** Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling.
 
@@ -129,16 +152,28 @@ Before the confirmatory campaign, the literature comparison will explicitly reco
 | RQ3: Does the prediction support admissible operating choices? | Evaluate a frozen choice rule on independent validation data | Identify conditions where the rule fails or cannot certify performance |
 | RQ4: Which admissible condition has the lowest cost? | TCO and cost per compliant operation with sensitivity analysis | Report no stable optimum or no cost advantage within uncertainty |
 
-The principal predictive hypothesis is that at least one channel descriptor improves a predeclared probability or delay score out of sample. A second hypothesis is that the resulting operating choice can satisfy the specified technical constraints on independent data. The economic hypothesis is not that the laser is necessarily profitable: it is that measured performance changes the ranking or admissible domain of operating choices relative to a rule based only on nominal settings.
+Here RQ denotes a research question, H a predeclared testable hypothesis, and P a research proposition whose scope and limits are evaluated. The identifiers are independent: one question may motivate several statements. The current evidence register contains H1–H4 and P1–P3.
+
+| Statement | Planned test and interpretation |
+| --- | --- |
+| H1: laser excitation changes gated breakdown probability | Matched no-laser comparison at fixed normalised voltage; report the effect or a quantitative bound |
+| P1: delay distributions can be characterised within the measured domain | Calibrated timing and a two-sided analysis accounting for voltage, session and electrode state; report unresolved trends as limits |
+| H2: channel descriptors improve held-out prediction | Frozen M0/M1 comparison on independent sessions; report gain or an upper bound |
+| H3: polarity or geometry modifies a channel–breakdown relationship | Conditional robustness test only if the core evidence is repeatable; a null result bounds the interaction |
+| H4: a reduced model predicts a core observable on independent sessions | Test against a declared tolerance without adding unconstrained states after validation |
+| P2: optical and electrical event ordering is identifiable within diagnostic resolution | Synchronized measurements and independent repeat; restrict physical stage labels to supported observations |
+| P3: measured performance and costs delimit technically admissible operating choices | Independent technical validation and TCO sensitivity; report an empty or unstable feasible set when indicated |
+
+H3 is supporting rather than a completion condition. P1–P3 make no assumption that effects are monotonic, that physical stages are always identifiable, or that an economically favourable operating point exists.
 
 | Contribution | Mandatory evidence | Completion meaning |
 | --- | --- | --- |
-| C-W1: atmospheric operating domain | Calibrated conditions, attempted-shot records, uncertainty and independent repetition | A bounded, reproducible probability and timing map |
-| C-W2: predictive assessment | Frozen M0/M1 comparison and held-out sessions | Quantified benefit or defensible upper bound on benefit |
-| C-WE: techno-economic decision method | Defined service, traceable costs, feasibility constraints and uncertainty | Reproducible cost comparison and break-even conditions |
-| C-W5: reproducible evidence | Versioned data, calibration, analysis and provenance | Every reported result traceable to its supporting records |
+| C1: atmospheric operating domain | Calibrated conditions, attempted-shot records, uncertainty and independent repetition | A bounded, reproducible probability and timing map |
+| C2: predictive assessment | Frozen M0/M1 comparison and held-out sessions | Quantified benefit or defensible upper bound on benefit |
+| C3: techno-economic decision method | Defined service, traceable costs, feasibility constraints and uncertainty | Reproducible cost comparison and break-even conditions |
+| C4: reproducible evidence | Versioned data, calibration, analysis and provenance | Every reported result traceable to its supporting records |
 
-The earlier CO₂ contributions C-W3/C-W4 belong exclusively to Tier 2. They are not conditions for completing the above contribution set. The selected scope and the adequacy of C-WE for the candidate's programme require academic assessment at the discussion. The departmental context motivates this integration, but does not by itself certify programme compliance [10].
+The contribution sequence follows expected completion: C1 and C2 precede C3; C4 closes the traceable Tier 1 evidence package after TCO synthesis. C5 and C6 are subsequent CO₂/pressure-transfer contributions in Tier 2, subject to a separate protocol and resources. Their internal order will follow the approved Tier 2 schedule. They are not conditions for Tier 1 completion. The selected scope and the adequacy of C3 for the candidate's programme require academic assessment at the discussion. The departmental context motivates this integration, but does not by itself certify programme compliance [10].
 
 ## 6. Experimental design and metrology for Tier 1
 
@@ -257,24 +292,24 @@ This contribution links physical performance to resource allocation and investme
 
 ## 9. Work packages and completion gates
 
-Campaign numbers identify the same laboratory sequence throughout this plan: Campaign 0–5 map one-to-one to WP0–WP5. Integration 6 / WP6 and Completion 7 / WP7 are subsequent synthesis and writing stages. Dates are planning windows, subject to laboratory access and academic approval.
+WP0–WP5 cover preparation, acquisition and prediction in the atmospheric-air study. WP6 integrates the TCO analysis, and WP7 covers writing and submission. "Experimental campaign" refers generally to the laboratory acquisition; it has no separate numbered series. Dates are planning windows, subject to laboratory access and academic approval.
 
-| Campaign / package | Period | Required result and gate |
+| Work package | Period | Required result and gate |
 | --- | --- | --- |
-| Campaign 0 / WP0: scope and metrology | Sep–Dec 2026 | Confirm configuration, safety, optical reference, data protocol, service definition and cost boundary |
-| Campaign 1 / WP1: baseline | Jan–Feb 2027 | Repeatable no-laser reference and environmental/electrode blocks |
-| Campaign 2 / WP2: channel pilot | Mar–Apr 2027 | At least one interpretable, repeatable descriptor or documented diagnostic limit |
-| Campaign 3 / WP3: screening | May–Jun 2027 | Compact confirmatory matrix, sample size, performance requirements and frozen analysis; June stop/go |
-| Campaign 4 / WP4: confirmation | Jul–Oct 2027 | Locked atmospheric dataset and independent session repeat; Paper 1 preparation |
-| Campaign 5 / WP5: prediction | Nov 2027–Feb 2028 | Held-out M0/M1 assessment and independently tested choice rule |
-| Integration 6 / WP6: TCO | Cost collection from WP0; synthesis Mar–Apr 2028 | Traceable cost model, feasibility, sensitivity and break-even results; Paper 2 |
-| Completion 7 / WP7: thesis | Draft continuously; full draft Jun 2028 | Review, publication/administrative eligibility check and August 2028 submission |
+| WP0: scope and metrology | Sep–Dec 2026 | Confirm configuration, safety, optical reference, data protocol, service definition and cost boundary |
+| WP1: baseline | Jan–Feb 2027 | Repeatable no-laser reference and environmental/electrode blocks |
+| WP2: channel pilot | Mar–Apr 2027 | At least one interpretable, repeatable descriptor or documented diagnostic limit |
+| WP3: screening | May–Jun 2027 | Compact confirmatory matrix, sample size, performance requirements and frozen analysis; June stop/go |
+| WP4: confirmation | Jul–Oct 2027 | Locked atmospheric dataset and independent session repeat; Paper 1 preparation |
+| WP5: prediction | Nov 2027–Feb 2028 | Held-out M0/M1 assessment and independently tested choice rule |
+| WP6: TCO | Cost collection from WP0; synthesis Mar–Apr 2028 | Traceable cost model, feasibility, sensitivity and break-even results; Paper 2 |
+| WP7: thesis | Draft continuously; full draft Jun 2028 | Review, publication/administrative eligibility check and August 2028 submission |
 
 The June 2027 gate tests whether the apparatus resolves the target effect, the operating domain is repeatable and the descriptor can be linked to shots without leakage. If diagnostics fail, narrow the predictive question and quantify the diagnostic limit while retaining the calibrated operating-domain and economic comparison. Any change in the promised scientific contribution must be brought to the supervisor; a fallback is not an automatic guarantee of degree sufficiency.
 
 The atmospheric evidence and core model are closed by February 2028, with TCO synthesis by April. No new core campaign is planned for July–August 2028. Writing proceeds during experimentation. Cost collection begins with the first campaign rather than becoming an unsupported final chapter.
 
-### 9.1 Campaign 0 / WP0 — Make the experiment measurable (Sep–Dec 2026)
+### 9.1 WP0 — Make the experiment measurable (Sep–Dec 2026)
 
 **What to establish:** the available apparatus can produce traceable, shot-linked optical and electrical records.
 
@@ -284,7 +319,7 @@ The atmospheric evidence and core model are closed by February 2028, with TCO sy
 
 **Output:** approved configuration and measurement protocol.
 
-### 9.2 Campaign 1 / WP1 — Establish the no-laser reference (Jan–Feb 2027)
+### 9.2 WP1 — Establish the no-laser reference (Jan–Feb 2027)
 
 **What to establish:** how the selected atmospheric gap behaves without laser assistance.
 
@@ -294,7 +329,7 @@ The atmospheric evidence and core model are closed by February 2028, with TCO sy
 
 **Output:** reproducible baseline and its limits. **Theory in parallel:** calculate the static field in the actual geometry and test sensitivity to geometry, voltage and numerical mesh.
 
-### 9.3 Campaign 2 / WP2 — Test whether the laser channel is observable (Mar–Apr 2027)
+### 9.3 WP2 — Test whether the laser channel is observable (Mar–Apr 2027)
 
 **What to establish:** whether a pre-breakdown channel feature can be measured reliably for each relevant shot.
 
@@ -304,7 +339,7 @@ The atmospheric evidence and core model are closed by February 2028, with TCO sy
 
 **Output:** an interpretable descriptor **or** a quantified diagnostic limit. **Theory in parallel:** specify a minimal channel-evolution model using only identifiable states; keep an optical proxy distinct from direct electron density.
 
-### 9.4 Campaign 3 / WP3 — Choose the decisive test (May–Jun 2027)
+### 9.4 WP3 — Choose the decisive test (May–Jun 2027)
 
 **What to establish:** a compact confirmatory design that can answer the dissertation question with available time.
 
@@ -314,7 +349,7 @@ The atmospheric evidence and core model are closed by February 2028, with TCO sy
 
 **Output:** dated decision and frozen confirmation protocol.
 
-### 9.5 Campaign 4 / WP4 — Acquire new confirmatory evidence (Jul–Oct 2027)
+### 9.5 WP4 — Acquire new confirmatory evidence (Jul–Oct 2027)
 
 **What to establish:** probability and delay distributions, with uncertainty, for the selected atmospheric conditions.
 
@@ -324,7 +359,7 @@ The atmospheric evidence and core model are closed by February 2028, with TCO sy
 
 **Output:** QC-passed new dataset and Paper 1 evidence, clearly separated from the seven May 2024 and three February 2025 historical series. **Theory in parallel:** fit a baseline probability/delay model on training data and compare measured channel timescales with the reduced physical description.
 
-### 9.6 Campaign 5 / WP5 — Test prediction on unseen sessions (Nov 2027–Feb 2028)
+### 9.6 WP5 — Test prediction on unseen sessions (Nov 2027–Feb 2028)
 
 **What to establish:** whether channel information improves prediction beyond voltage and measured laser input, and whether a chosen setting remains technically feasible.
 
@@ -334,21 +369,21 @@ The atmospheric evidence and core model are closed by February 2028, with TCO sy
 
 **Output:** validated prediction or a documented lack of improvement, plus an independent technical check.
 
-### 9.7 Integration 6 — TCO synthesis (Mar–Apr 2028; WP6)
+### 9.7 WP6 — TCO synthesis (Mar–Apr 2028)
 
 **What to establish:** whether any validated configuration meets a predefined laboratory switching requirement at a defensible cost.
 
-1. Consolidate costs logged since Campaign 0: equipment use, electricity, operator/reset time, servicing and replacement. Distinguish research diagnostics from diagnostics required for routine operation.
-2. Combine independently validated performance from Campaign 5 with these costs; compare shared-facility and dedicated-installation scenarios separately.
+1. Consolidate costs logged since WP0: equipment use, electricity, operator/reset time, servicing and replacement. Distinguish research diagnostics from diagnostics required for routine operation.
+2. Combine independently validated performance from WP5 with these costs; compare shared-facility and dedicated-installation scenarios separately.
 3. Report feasible choices, uncertainty, sensitivity and break-even boundaries, or no demonstrated feasible/stable choice. Prepare Paper 2.
 
 **Output:** bounded TCO and a defensible operating-choice result.
 
-### 9.8 Completion 7 — Dissertation and submission (continuous writing; Jun–Aug 2028; WP7)
+### 9.8 WP7 — Dissertation and submission (continuous writing; Jun–Aug 2028)
 
 **What to establish:** a coherent account of new contributions, historical evidence and limitations, suitable for submission.
 
-1. Write methods, results and limitations throughout Campaigns 0–5 and Integration 6.
+1. Write methods, results and limitations throughout WP0–WP5 and WP6.
 2. Complete the full dissertation draft by June 2028; obtain review and check publication/study eligibility.
 3. Revise and target submission in August 2028. The defence date is a separate administrative milestone.
 
@@ -393,7 +428,7 @@ Laser and high-voltage authorisations, configuration-specific risk assessment, g
 | Publication review delays eligibility | Core paper not submitted in 2027 | Prioritise bounded publishable evidence and address eligibility early |
 | Scope expands to CO₂ or a demonstrator | New dependencies enter the core schedule | Move them to separately resourced Tier 2/3 |
 
-Progress reviews should track the evidence remaining for C-W1, C-W2 and C-WE, not only completed activities. A missed gate triggers a scope review and a revised resource plan, not automatic postponement to 2029. Major conflicts in source evidence are recorded and resolved before being converted into thesis claims.
+Progress reviews should track the evidence remaining for C1, C2 and C3, not only completed activities. A missed gate triggers a scope review and a revised resource plan, not automatic postponement to 2029. Major conflicts in source evidence are recorded and resolved before being converted into thesis claims.
 
 ## 12. Follow-on programme: Tier 2 and Tier 3
 
@@ -409,7 +444,7 @@ The planned monograph contains: (1) problem and technical/economic decision; (2)
 
 The opponent and board are asked to assess the following substantive points:
 
-1. Is the combination of C-W1, C-W2 and C-WE sufficiently original and deep for the registered programme?
+1. Is the combination of C1, C2 and C3 sufficiently original and deep for the registered programme?
 2. Is the bounded atmospheric-air configuration family, with one optional robustness comparison, an adequate boundary for the dissertation?
 3. Does the chosen channel observable have a defensible physical interpretation and timing relationship to breakdown?
 4. Is the distinction between post-pulse prediction and pre-trigger operating choice methodologically sound?

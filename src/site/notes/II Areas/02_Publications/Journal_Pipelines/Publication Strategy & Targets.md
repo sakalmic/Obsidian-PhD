@@ -1,13 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/02-publications/journal-pipelines/publication-strategy-and-targets/","title":"Publication Strategy & Targets","tags":["topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Publication Strategy & Targets","aliases":["Publication Strategy"],"type":"project","status":"active","context":"publications","priority":"high","topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-14"}}
+title: "Publication Strategy & Targets"
+aliases:
+  - Publication Strategy
+type: project
+status: active
+context: publications
+priority: high
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/model
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/model
+date: 2026-09-01
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Publication Strategy & Targets
 
-The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ## Compliance first
 
@@ -29,15 +44,15 @@ Seven voltage-reduction series originate in the Master's work of **May 2024**, w
 
 The general claim that increasing irradiance shortens delay is **not adopted pending verification**. Historical electrical-trigger delay is not equated with calibrated optical-arrival-to-breakdown delay. The new doctoral validation and TCO remain planned work.
 
-See [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]] and the current reviewer report for the full-text assessment and its limits. Historical reuse must be explicit in both new manuscripts.
+See [[LN - Sakala2025 - APL Lightning Protection]] and the current reviewer report for the full-text assessment and its limits. Historical reuse must be explicit in both new manuscripts.
 
 ### Paper 1 — experimental operating window
 
-**C-W1; CL-01/CL-02, supporting CL-06.** Atmospheric metrology, self-breakdown reference, stochastic operating domain and independent repeat. Target submission October–November 2027. [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]].
+**C1; H1/P1, supporting P2.** Atmospheric metrology, self-breakdown reference, stochastic operating domain and independent repeat. Target submission October–November 2027. [[Paper - IEEE Transactions 2026]].
 
 ### Paper 2 — mechanism and predictive model
 
-**C-W2/C-WE; CL-03/CL-05/CL-07.** Held-out M0/M1 prediction and mandatory bounded TCO/operating choice in atmospheric air. Target submission March–April 2028. [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]].
+**C2/C3; H2/H4/P3.** Held-out M0/M1 prediction and mandatory bounded TCO/operating choice in atmospheric air. Target submission March–April 2028. [[Paper 2 - Atmospheric Prediction and TCO]].
 
 ### Additional output
 
@@ -68,8 +83,8 @@ Waiting until April 2028 for the first journal submission leaves insufficient re
 
 ## Related notes
 
-- [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]
-- [[II Areas/02_Publications/Conferences/Conference Pipeline\|Conference Pipeline]]
-- [[II Areas/02_Publications/Journal_Pipelines/Co-Authorship & Contribution Records\|Co-Authorship & Contribution Records]]
+- [[Paper - IEEE Transactions 2026]]
+- [[Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
+- [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
+- [[Conference Pipeline]]
+- [[Co-Authorship & Contribution Records]]

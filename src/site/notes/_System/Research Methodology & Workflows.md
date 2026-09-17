@@ -1,13 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/system/research-methodology-and-workflows/","title":"Research Methodology & Workflows","tags":["topic/system/workflow","topic/ltsg/metrology"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Research Methodology & Workflows","aliases":["Scientific Workflow","Research Operating Manual"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/workflow","topic/ltsg/metrology"],"tags":["topic/system/workflow","topic/ltsg/metrology"],"date":"2026-09-01","last_updated":"2026-09-14"}}
+title: "Research Methodology & Workflows"
+aliases:
+  - Scientific Workflow
+  - Research Operating Manual
+type: guide
+status: evergreen
+context: phd
+topics:
+  - topic/system/workflow
+  - topic/ltsg/metrology
+tags:
+  - topic/system/workflow
+  - topic/ltsg/metrology
+date: 2026-09-01
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Research Methodology & Workflows
 
-Cost evidence follows the same traceability chain: record service requirements and cost inputs from WP0, freeze the operating-choice rule before testing, and distinguish measured costs from assumptions. The current scope authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]].
+Cost evidence follows the same traceability chain: record service requirements and cost inputs from WP0, freeze the operating-choice rule before testing, and distinguish measured costs from assumptions. The current scope authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]].
 
-This is the canonical operating manual for converting literature, models and laboratory work into defensible dissertation claims. The active scientific programme is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]] and the immediate priority is [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]].
+This is the canonical operating manual for converting literature, models and laboratory work into defensible dissertation claims. The active scientific programme is [[LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]] and the immediate priority is [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]].
 
 ## 1. Research spine
 
@@ -29,7 +44,7 @@ No arrow may be skipped for a principal dissertation claim.
 
 ## 2. Canonical research question
 
-The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
 Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
@@ -37,12 +52,12 @@ Can measurements of a laser-created channel improve prediction of breakdown prob
 
 | Contribution | Evidence and role |
 | --- | --- |
-| C-W1 | Reproducible atmospheric operating domain; probability and calibrated timing; CL-01, CL-02 and supporting CL-06 |
-| C-W2 | Independent comparison of M0 and channel-informed M1; CL-03 and CL-05 |
-| C-WE | Mandatory bounded TCO and technically feasible operating choice; CL-07 |
-| C-W5 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
+| C1 | Reproducible atmospheric operating domain; probability and calibrated timing; H1, P1 and supporting P2 |
+| C2 | Independent comparison of M0 and channel-informed M1; H2 and H4 |
+| C3 | Mandatory bounded TCO and technically feasible operating choice; P3 |
+| C4 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
 
-CL-04 is supporting robustness within the frozen atmospheric configuration family. C-W3/C-W4 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
+H3 is supporting robustness within the frozen atmospheric configuration family. C5 and C6 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
 
 ## 3. Literature workflow
 
@@ -164,8 +179,8 @@ The core evidence package is complete when:
 - one compact confirmatory experiment is completed with censored outcomes retained;
 - the principal result is independently repeated;
 - the reduced model is evaluated on untouched conditions;
-- CL-01, CL-02, CL-03, CL-05 and CL-06 are supported or quantitatively bounded;
-- CL-07 provides a bounded TCO/feasibility decision with traceable assumptions and sensitivity;
+- H1, P1, H2, H4 and P2 are supported or quantitatively bounded;
+- P3 provides a bounded TCO/feasibility decision with traceable assumptions and sensitivity;
 - the evidence is incorporated into the two planned core manuscripts and thesis Chapters 3–6;
 - no Tier 2/3 outcome is needed to close this evidence package.
 

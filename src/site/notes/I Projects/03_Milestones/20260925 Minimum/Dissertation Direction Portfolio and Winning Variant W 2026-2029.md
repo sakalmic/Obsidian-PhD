@@ -1,18 +1,30 @@
 ---
-{"dg-publish":true,"dg-permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/","permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/","title":"Dissertation Research Paths & Selected W Scope (2026–2028; follow-on outlook)","noteIcon":"","created":"2026-09-10","updated":"2026-09-14","dg-note-properties":{"title":"Dissertation Research Paths & Selected W Scope (2026–2028; follow-on outlook)","aliases":["Dissertation Direction Portfolio and Winning Variant W 2026-2029","Dissertation Portfolio A-F O1-O8 and W","Winning Dissertation Variant W"],"type":"decision-support","status":"proposal","context":"thesis","date":"2026-09-10","last_updated":"2026-09-14","permalink":"/dissertation-direction-portfolio-and-winning-variant-w-2026-2029/"}}
+title: "Dissertation Research Paths & Selected W Scope (2026–2028; follow-on outlook)"
+aliases:
+  - "Dissertation Direction Portfolio and Winning Variant W 2026-2029"
+  - "Dissertation Portfolio A-F O1-O8 and W"
+  - "Winning Dissertation Variant W"
+type: decision-support
+status: proposal
+context: thesis
+date: 2026-09-10
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: false
+permalink: /dissertation-direction-portfolio-and-winning-variant-w-2026-2029/
+dg-permalink: /dissertation-direction-portfolio-and-winning-variant-w-2026-2029/
 ---
-
 
 # Dissertation Research Paths & Selected W Scope (2026–2028; follow-on outlook)
 
 > [!summary] Decision status
-> This document compares all currently defined dissertation directions and proposes **W** as the preferred integrated route. It is a decision-support document, not evidence that the title, collaboration, apparatus access or authorship plan has been approved. Approval and later scope changes must be recorded in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Dissertation Scope & Decision Log]].
+> This document compares all currently defined dissertation directions and proposes **W** as the preferred integrated route. It is a decision-support document, not evidence that the title, collaboration, apparatus access or authorship plan has been approved. Approval and later scope changes must be recorded in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Dissertation Scope & Decision Log]].
 
 ## Executive recommendation
 
 The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 **Selected title:** Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling.
 
@@ -153,18 +165,18 @@ Can measurements of a laser-created channel improve prediction of breakdown prob
 
 | Contribution | Evidence and role |
 | --- | --- |
-| C-W1 | Reproducible atmospheric operating domain; probability and calibrated timing; CL-01, CL-02 and supporting CL-06 |
-| C-W2 | Independent comparison of M0 and channel-informed M1; CL-03 and CL-05 |
-| C-WE | Mandatory bounded TCO and technically feasible operating choice; CL-07 |
-| C-W5 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
+| C1 | Reproducible atmospheric operating domain; probability and calibrated timing; H1, P1 and supporting P2 |
+| C2 | Independent comparison of M0 and channel-informed M1; H2 and H4 |
+| C3 | Mandatory bounded TCO and technically feasible operating choice; P3 |
+| C4 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
 
-CL-04 is supporting robustness within the frozen atmospheric configuration family. C-W3/C-W4 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
+H3 is supporting robustness within the frozen atmospheric configuration family. C5 and C6 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
 
 ### Tiered execution plan
 
 The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ### Integrated schedule and hard gates
 
@@ -199,7 +211,7 @@ Potential CO₂ collaboration belongs to Tier 2. Roles, apparatus, data rights, 
 
 ### Expected publications and thesis architecture
 
-Paper 1: atmospheric metrology/operating domain, October–November 2027. Paper 2: atmospheric prediction and TCO, March–April 2028. See [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy & Targets]] and [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]].
+Paper 1: atmospheric metrology/operating domain, October–November 2027. Paper 2: atmospheric prediction and TCO, March–April 2028. See [[Publication Strategy & Targets]] and [[Thesis Structure & Chapter Outline]].
 
 ### Definition of done
 
@@ -207,14 +219,14 @@ Test and document the atmospheric contributions, independent validation and boun
 
 ## Final selection statement
 
-Variant 2 is the candidate-selected planning route: mandatory atmospheric Tier 1 with TCO; Tier 2/3 outside mandatory completion. Formal approval remains pending evidence in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].
+Variant 2 is the candidate-selected planning route: mandatory atmospheric Tier 1 with TCO; Tier 2/3 outside mandatory completion. Formal approval remains pending evidence in [[Doctoral Scope & Decision Register]].
 
 ## Related documents
 
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
+- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
 
 ## Sources checked for the W proposal
 

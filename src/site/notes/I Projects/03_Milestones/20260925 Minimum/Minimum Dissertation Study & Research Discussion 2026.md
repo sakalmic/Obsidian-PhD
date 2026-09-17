@@ -1,17 +1,49 @@
 ---
-{"dg-publish":true,"dg-permalink":"/minimum-dissertation-study-2026/","permalink":"/minimum-dissertation-study-2026/","title":"Professional Discussion: Dissertation Study & Research Plan (2026)","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model","topic/sf6-free/co2"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Professional Discussion: Dissertation Study & Research Plan (2026)","aliases":["Minimum Dissertation Study & Research Discussion 2026","Dissertation Minimum 2026","Professional Discussion 2026","Direction W Minimum Study"],"project_id":"MIN-2026","type":"project","status":"active","context":"thesis","priority":"critical","selected_direction":"W","due":"2026-09-24","due_note":"Working date; replace with the confirmed discussion date.","definition_of_done":"Direction W reviewed, minimum-study document accepted, presentation delivered, scope gates recorded, and committee feedback assigned.","parent_project":"PhD-Dissertation","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model","topic/sf6-free/co2"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model","topic/sf6-free/co2"],"created":"2026-09-03","last_updated":"2026-09-14","permalink":"/minimum-dissertation-study-2026/"}}
+title: "Professional Discussion: Dissertation Study & Research Plan (2026)"
+aliases:
+  - "Minimum Dissertation Study & Research Discussion 2026"
+  - Dissertation Minimum 2026
+  - Professional Discussion 2026
+  - Direction W Minimum Study
+project_id: MIN-2026
+type: project
+status: active
+context: thesis
+priority: critical
+selected_direction: atmospheric-air Tier 1 with separate follow-on research
+due: 2026-09-24
+due_note: "Working date; replace with the confirmed discussion date."
+definition_of_done: "Direction W reviewed, minimum-study document accepted, presentation delivered, scope gates recorded, and committee feedback assigned."
+parent_project: PhD-Dissertation
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/timing
+  - topic/ltsg/model
+  - topic/sf6-free/co2
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/timing
+  - topic/ltsg/model
+  - topic/sf6-free/co2
+created: 2026-09-03
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
+permalink: /minimum-dissertation-study-2026/
+dg-permalink: /minimum-dissertation-study-2026/
 ---
-
 
 # Professional Discussion: Dissertation Study & Research Plan (2026)
 
-The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ## Planning status
 
-The September discussion's exact date and allotted time remain subject to the invitation. The old 24 September date is an unconfirmed placeholder; the folder name is not evidence of an official date. The candidate has selected variant 2 for planning. Formal approval and completed administrative obligations must be recorded separately in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]].
+The September discussion's exact date and allotted time remain subject to the invitation. The old 24 September date is an unconfirmed placeholder; the folder name is not evidence of an official date. The candidate has selected variant 2 for planning. Formal approval and completed administrative obligations must be recorded separately in [[Doctoral Scope & Decision Register]].
 
 ## Mission
 
@@ -35,18 +67,18 @@ Seven voltage-reduction series originate in the Master's work of **May 2024**, w
 
 The general claim that increasing irradiance shortens delay is **not adopted pending verification**. Historical electrical-trigger delay is not equated with calibrated optical-arrival-to-breakdown delay. The new doctoral validation and TCO remain planned work.
 
-Historical apparatus and numerical results are detailed in [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]. No validated new predictor, TCO optimum or formal approval is asserted by this tracker.
+Historical apparatus and numerical results are detailed in [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]]. No validated new predictor, TCO optimum or formal approval is asserted by this tracker.
 
 ## Intended original contributions
 
 | Contribution | Evidence and role |
 | --- | --- |
-| C-W1 | Reproducible atmospheric operating domain; probability and calibrated timing; CL-01, CL-02 and supporting CL-06 |
-| C-W2 | Independent comparison of M0 and channel-informed M1; CL-03 and CL-05 |
-| C-WE | Mandatory bounded TCO and technically feasible operating choice; CL-07 |
-| C-W5 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
+| C1 | Reproducible atmospheric operating domain; probability and calibrated timing; H1, P1 and supporting P2 |
+| C2 | Independent comparison of M0 and channel-informed M1; H2 and H4 |
+| C3 | Mandatory bounded TCO and technically feasible operating choice; P3 |
+| C4 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
 
-CL-04 is supporting robustness within the frozen atmospheric configuration family. C-W3/C-W4 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
+H3 is supporting robustness within the frozen atmospheric configuration family. C5 and C6 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
 
 ## Tiered scope
 
@@ -56,7 +88,7 @@ Atmospheric air only: calibrated optical time zero, electrical markers, no-laser
 
 ### Tier 2 — follow-on research
 
-CO₂ and a selected pressure domain, with separate apparatus, safety, resources and collaboration agreement. C-W3/C-W4 and cross-medium papers are not mandatory dissertation deliverables.
+CO₂ and a selected pressure domain, with separate apparatus, safety, resources and collaboration agreement. C5, C6 and cross-medium papers are not mandatory dissertation deliverables.
 
 ### Tier 3 — follow-on application
 
@@ -91,7 +123,7 @@ Data collection begins in WP0; WP6 integrates it by April 2028. Unsupported life
 
 ## Decision requested from the discussion
 
-1. Assess originality and sufficiency of C-W1, C-W2 and C-WE, supported by C-W5.
+1. Assess originality and sufficiency of C1, C2 and C3, supported by C4.
 2. Confirm the bounded atmospheric configuration family and evidence standard.
 3. Review the channel descriptor's physical interpretation and measurement timing.
 4. Review the distinction between post-pulse prediction and pre-trigger operating choice.
@@ -130,9 +162,9 @@ Prioritise atmospheric apparatus access, timing/energy calibration, repeat sessi
 
 ## Current reviewer package
 
-- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]
+- [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]]
 - The current PDF and PPTX outputs are stored outside this vault in `I Projects/03_Milestones/2026_minimum/_tmp/Reviewer package/`. This is the designated location for subsequent exports; they are not Digital Garden attachments.
 - Reviewer PDF: `Sakala_Doctoral_Progress_Review_2026_reviewed.pdf`.
 - CTU presentation: `Sakala_Rozprava_2026_CVUT_reviewed.pptx`; matching PDF: `Sakala_Rozprava_2026_CVUT_reviewed.pdf`.
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
+- [[LTSG Core Research Package 2026-2028]]
+- [[Claim Ledger & Evidence Matrix]]

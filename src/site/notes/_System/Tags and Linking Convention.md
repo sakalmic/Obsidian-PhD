@@ -1,7 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/system/tags-and-linking-convention/","title":"Properties, Tags and Linking Convention","tags":["topic/system/metadata"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Properties, Tags and Linking Convention","aliases":["Tags and Linking Convention","Tagging Rules"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/metadata"],"tags":["topic/system/metadata"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+title: "Properties, Tags and Linking Convention"
+aliases:
+  - Tags and Linking Convention
+  - Tagging Rules
+type: guide
+status: evergreen
+context: phd
+topics:
+  - topic/system/metadata
+tags:
+  - topic/system/metadata
+date: 2026-09-01
+last_updated: 2026-09-03
+dg-publish: true
+dg-render-dataview: true
+dg-home-link: true
 ---
-
 
 # Properties, Tags and Linking Convention
 
@@ -18,8 +32,8 @@ context: research
 project: LTSG-Core
 work_package: WP3
 claims:
-  - CL-01
-  - CL-03
+  - H1
+  - H2
 topics:
   - topic/ltsg/breakdown
   - topic/ltsg/channel
@@ -68,7 +82,7 @@ last_updated: 2026-09-03
 
 ### Claims
 
-- `claim_id`
+- `statement_id` (`H1`–`H4` or `P1`–`P3` in the current Tier 1 register)
 - `contribution`
 - `claim_role: primary` or `supporting`
 - `status: hypothesis`, `in-progress`, `supported`, `falsified-bounded`
@@ -130,43 +144,26 @@ Use the narrowest useful topical tag. Do not create synonyms such as both `theme
 
 1. Every evidence note links upward through properties: project → WP → CL.
 2. Literature notes link to the concepts and claims they constrain, not merely to a generic MOC.
-3. Claim IDs are permanent and never reused. Link to the atomic note, for example `[[CL-03 - Channel state versus pulse energy]]`.
+3. Claim IDs are permanent and never reused. Link to the atomic note, for example `[[H2 - Channel state versus pulse energy]]`.
 4. Public notes link only to public notes. Private evidence may be referenced in public prose by a non-sensitive identifier without exposing its path.
 5. Use descriptive labels in prose and aliases for common abbreviations.
 6. Template placeholder links must be replaced before a note leaves the inbox.
 
 ## Dataview examples
 
-Active evidence for CL-03:
+Active evidence for H2:
 
-| File | type | evidence_state | dataset_id | last_updated |
-| ---- | ---- | -------------- | ---------- | ------------ |
-
-{ .block-language-dataview}
+```dataview
+TABLE type, evidence_state, dataset_id, last_updated
+FROM "II Areas/01_Research/Experiments"
+WHERE contains(claims, "H2") AND row["dg-publish"] = true
+SORT last_updated DESC
+```
 Upcoming projects:
 
-| File                                                                                                                                                                                                      | priority | due                | status                      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------ | --------------------------- |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction A - Reliability and Robust Operating Window\|Direction A - Reliability and Robust Operating Window]]                           | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction B - Channel State and Prediction of Switching\|Direction B - Channel State and Prediction of Switching]]                       | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction C - Adaptive Control and Operational Utility\|Direction C - Adaptive Control and Operational Utility]]                         | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction D - Spatial Shaping of the Laser-Created Channel\|Direction D - Spatial Shaping of the Laser-Created Channel]]                 | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction E - Synchronization of Two Spark Gaps\|Direction E - Synchronization of Two Spark Gaps]]                                       | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction F - Dielectric Recovery and Component Wear\|Direction F - Dielectric Recovery and Component Wear]]                             | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O2 - Fluorine-Free Media\|Direction O2 - Fluorine-Free Media]]                                                                 | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O3 - Switchgear Digital Twin\|Direction O3 - Switchgear Digital Twin]]                                                         | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O4 - Hybrid Crowbar\|Direction O4 - Hybrid Crowbar]]                                                                           | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O1 - SF6-Free Diagnostics\|Direction O1 - SF6-Free Diagnostics]]                                                               | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O5 - Multi-Gap Synchronisation\|Direction O5 - Multi-Gap Synchronisation]]                                                     | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O6 - Lightning Attachment\|Direction O6 - Lightning Attachment]]                                                               | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O7 - Luminous Plasma Structures\|Direction O7 - Luminous Plasma Structures]]                                                   | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Direction Tickets/Direction O8 - Hydrogen-Ammonia Ignition\|Direction O8 - Hydrogen-Ammonia Ignition]]                                                     | high     | \-                 | historical-alternative      |
-| [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Direction Portfolio and Winning Variant W 2026-2029]]                       | \-       | \-                 | proposal                    |
-| [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review and Research Plan for Professional Discussion 2026]] | critical | \-                 | draft-for-supervisor-review |
-| [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]                                             | critical | September 24, 2026 | active                      |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                                                                                                           | high     | November 30, 2027  | active                      |
-| [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]]                                                                                       | \-       | April 30, 2028     | planned                     |
-| [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]                                                                                                 | critical | April 30, 2028     | active                      |
-| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]                                                                                                                         | high     | August 31, 2028    | active                      |
-
-{ .block-language-dataview}
+```dataview
+TABLE priority, due, status
+FROM "I Projects"
+WHERE status != "complete" AND status != "archived" AND row["dg-publish"] = true
+SORT due ASC
+```

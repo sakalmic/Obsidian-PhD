@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry","topic/ltsg/breakdown"],"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","last_updated":"2026-09-14"}}
+{"dg-publish":true,"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Home","aliases":["Home","Research Dashboard"],"tags":["gardenEntry","topic/ltsg/breakdown"],"date":"2026-09-01","last_updated":"2026-09-14","dgHome":true,"dgShowFileTree":true},"last_updated":"2026-09-14"}
 ---
-
 
 
 # Laser-Controlled High-Voltage Breakdown
@@ -13,9 +12,9 @@
 > - **Proposed dissertation:** *Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling*
 > - **Programme:** Economics of Energy and Electrical Engineering · 2024–2028
 
-The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ---
 
@@ -25,7 +24,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 | :--- | :---: | :--- | :---: |
 | **01 · Research** | <span class="phd-area-tag"><strong class="phd-area-symbol phd-area-symbol--research">●</strong> RESEARCH</span> | Plasma physics, laser-triggered spark gaps, COMSOL modelling & diagnostics | [[II Areas/01_Research/01_MOC\|Explore research]] |
 | **02 · Publications** | <span class="phd-area-tag"><strong class="phd-area-symbol">◎</strong> PUBLICATIONS</span> | Manuscript pipeline, target journals (IEEE, PSST), conferences & outputs | [[II Areas/02_Publications/02_MOC\|View publications]] |
-| **03 · Thesis** | <span class="phd-area-tag"><strong class="phd-area-symbol">◉</strong> THESIS</span> | Thesis architecture, claim ledger (CL-01–07), evidence mapping & SDZ | [[II Areas/03_Thesis/03_MOC\|Open dissertation hub]] |
+| **03 · Thesis** | <span class="phd-area-tag"><strong class="phd-area-symbol">◉</strong> THESIS</span> | Thesis architecture, research statements (H1–H4, P1–P3), evidence mapping & SDZ | [[II Areas/03_Thesis/03_MOC\|Open dissertation hub]] |
 | **04 · Teaching** | <span class="phd-area-tag"><strong class="phd-area-symbol">▯</strong> TEACHING</span> | Physics & plasma lab courses, student consultation, supervised theses (BP/DP) | Local vault only |
 | **05 · Grants** | <span class="phd-area-tag"><strong class="phd-area-symbol">▤</strong> GRANTS</span> | CTU SGS grant applications, budgets, procurement, mobility & external funding | Local vault only |
 | **06 · Administration** | <span class="phd-area-tag"><strong class="phd-area-symbol">✖︎</strong> ADMIN</span> | Individual Study Plan (ISP), doctoral exams, credits, faculty directives & supervisor sync | [[II Areas/06_Administration/06_MOC\|Administration hub]] |
@@ -183,7 +182,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
           <span style="color: var(--text-muted, #7f848e); font-size: 0.75em;">Done</span>
         </div>
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">PARA + Zettelkasten Knowledge Architecture</div>
-        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Integrated atomized claim structure CL-01 to CL-06 and verified Digital Garden synchronization.</div>
+        <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Integrated seven research statements (H1–H4, P1–P3) and verified Digital Garden synchronization.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
           <a class="internal-link" href="/ii-areas/03-thesis/claim-ledger-and-evidence-matrix/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Claim Matrix</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">✓ Completed</span>
@@ -279,7 +278,7 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Essential links
 
-- **Current document hierarchy:** [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]
+- **Current document hierarchy:** [[Doctoral Document Map]]
 
 - **Dissertation keystones:** [[Keystones/Keystones\|Core Claims & Findings]]
 - **Experimental archive:** [[II Areas/01_Research/Experiments/Experiments Index\|Experiments & Diagnostics]]
@@ -291,4 +290,4 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Mandatory economic contribution
 
-[[II Areas/03_Thesis/Claims/CL-07 - Techno-economic operating choice\|CL-07 - Techno-economic operating choice]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.
+[[P3 - Techno-economic operating choice]] · [[Techno-Economic Modeling of Grid Switching]] · [[Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.

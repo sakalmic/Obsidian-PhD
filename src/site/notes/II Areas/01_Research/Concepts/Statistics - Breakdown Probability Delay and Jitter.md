@@ -1,13 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/statistics-breakdown-probability-delay-and-jitter/","title":"Statistics - Breakdown Probability, Delay and Jitter","tags":["topic/ltsg/statistics","topic/ltsg/timing"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-14","dg-note-properties":{"title":"Statistics - Breakdown Probability, Delay and Jitter","aliases":["LTSG Statistics","Breakdown Statistics"],"type":"method","status":"evergreen","context":"research","topics":["topic/ltsg/statistics","topic/ltsg/timing"],"tags":["topic/ltsg/statistics","topic/ltsg/timing"],"date":"2026-09-02","last_updated":"2026-09-14"}}
+title: "Statistics - Breakdown Probability, Delay and Jitter"
+aliases:
+  - LTSG Statistics
+  - Breakdown Statistics
+type: method
+status: evergreen
+context: research
+topics:
+  - topic/ltsg/statistics
+  - topic/ltsg/timing
+tags:
+  - topic/ltsg/statistics
+  - topic/ltsg/timing
+date: 2026-09-02
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Statistics - Breakdown Probability, Delay and Jitter
 
 ## Why a statistical model is part of the physics
 
-Gas breakdown is stochastic because seed production, avalanche development, streamer branching, surface state and environmental conditions fluctuate. Reporting one “breakdown voltage” or only successful delays discards this structure. The statistical plan must be frozen before the confirmatory campaign in [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]].
+Gas breakdown is stochastic because seed production, avalanche development, streamer branching, surface state and environmental conditions fluctuate. Reporting one “breakdown voltage” or only successful delays discards this structure. The statistical plan must be frozen before the confirmatory campaign in [[LTSG Core Research Package 2026-2028]].
 
 ## 1. Binary trigger outcome
 
@@ -145,10 +160,10 @@ Physics failures must not be relabelled as technical failures. Predeclare tolera
 - scripts generating every figure/table;
 - software environment/version lock;
 - read-only confirmatory dataset snapshot;
-- machine-readable claim-to-result map linked to [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]].
+- machine-readable claim-to-result map linked to [[Claim Ledger & Evidence Matrix]].
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
-- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
-- **Down:** [[II Areas/01_Research/Concepts/202609031230 - Breakdown Voltage Is a Probability Distribution Not a Constant\|Breakdown Voltage Is a Probability Distribution Not a Constant]] · [[II Areas/01_Research/Concepts/202609031210 - Statistical and Formative Time Lags Are Different Processes\|Statistical and Formative Time Lags Are Different Processes]] · [[II Areas/03_Thesis/Claims/CL-01 - Laser-assisted breakdown probability\|CL-01 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/CL-02 - Delay and jitter response\|CL-02 - Delay and jitter response]]
+- **Up:** [[Theory - Laser-Triggered Breakdown and Switching]]
+- **Side:** [[Diagnostics - Timing EMP and Radiation]]
+- **Down:** [[II Areas/01_Research/Concepts/202609031230 - Breakdown Voltage Is a Probability Distribution Not a Constant|Breakdown Voltage Is a Probability Distribution Not a Constant]] · [[II Areas/01_Research/Concepts/202609031210 - Statistical and Formative Time Lags Are Different Processes|Statistical and Formative Time Lags Are Different Processes]] · [[H1 - Laser-assisted breakdown probability]] · [[P1 - Delay and jitter response]]

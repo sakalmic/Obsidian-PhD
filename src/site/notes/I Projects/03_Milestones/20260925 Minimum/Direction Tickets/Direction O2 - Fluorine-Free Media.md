@@ -1,15 +1,32 @@
 ---
-{"dg-publish":true,"dg-permalink":"/direction-o2-fluorine-free-media/","permalink":"/direction-o2-fluorine-free-media/","title":"O2 · Fluorine-Free Dielectric Recovery","noteIcon":"","created":"2026-09-10","updated":"2026-09-14","dg-note-properties":{"title":"O2 · Fluorine-Free Dielectric Recovery","aliases":["Direction O2 - Breakdown and Dielectric Recovery in Fluorine-Free Media","Dissertation Direction O2"],"ticket_id":"DIR-O2","type":"project","status":"historical-alternative","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"outside-the-box","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-14","permalink":"/direction-o2-fluorine-free-media/","scope_status":"superseded-by-review-2026-09-14"}}
+title: "O2 · Fluorine-Free Dielectric Recovery"
+aliases:
+  - "Direction O2 - Breakdown and Dielectric Recovery in Fluorine-Free Media"
+  - "Dissertation Direction O2"
+ticket_id: DIR-O2
+type: project
+status: "historical-alternative"
+context: thesis
+priority: high
+parent_project: MIN-2026
+direction_family: outside-the-box
+decision_state: not-selected
+date: 2026-09-10
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: false
+permalink: /direction-o2-fluorine-free-media/
+dg-permalink: /direction-o2-fluorine-free-media/
+scope_status: "superseded-by-review-2026-09-14"
 ---
-
 
 # O2 · Fluorine-Free Dielectric Recovery
 
 > [!info] Historical alternative, not the current assignment (14 September 2026)
-> This document preserves an earlier design option. Current planning authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]: long-term SF₆ replacement; mandatory atmospheric-air Tier 1 with TCO; August 2028 submission; Tier 2/3 outside mandatory completion. Earlier dates, promises and parameters below are not current obligations or newly verified evidence. Historical shot counts and the general irradiance–delay trend remain unverified.
+> This document preserves an earlier design option. Current planning authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]]: long-term SF₆ replacement; mandatory atmospheric-air Tier 1 with TCO; August 2028 submission; Tier 2/3 outside mandatory completion. Earlier dates, promises and parameters below are not current obligations or newly verified evidence. Historical shot counts and the general irradiance–delay trend remain unverified.
 
 > [!summary] Direction decision
-> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
+> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
 
 ## Purpose
 
@@ -92,6 +109,6 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related research
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
-- [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics\|Reduced-field electron kinetics]]
-- [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Plasma-memory decay]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
+- [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics|Reduced-field electron kinetics]]
+- [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory|Plasma-memory decay]]

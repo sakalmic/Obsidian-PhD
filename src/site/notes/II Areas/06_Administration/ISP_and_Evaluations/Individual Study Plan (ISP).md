@@ -1,15 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/06-administration/isp-and-evaluations/individual-study-plan-isp/","title":"Individual Study Plan (ISP)","tags":["topic/system/workflow"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Individual Study Plan (ISP)","aliases":["Individual Study Plan","ISP"],"type":"administration","status":"active","context":"administration","topics":["topic/system/workflow"],"tags":["topic/system/workflow"],"date":"2026-09-01","last_updated":"2026-09-14"}}
+title: Individual Study Plan (ISP)
+aliases:
+  - Individual Study Plan
+  - ISP
+type: administration
+status: active
+context: administration
+topics:
+  - topic/system/workflow
+tags:
+  - topic/system/workflow
+date: 2026-09-01
+last_updated: "2026-09-14"
+dg-publish: true
 ---
-
 
 # Individual Study Plan
 
-The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
-This note records the narrative alignment of the research programme with the official ISP. Exact courses, results and formal obligations are verified in KOS and tracked in [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker\|Credits & Exam Tracker]].
+This note records the narrative alignment of the research programme with the official ISP. Exact courses, results and formal obligations are verified in KOS and tracked in [[Credits & Exam Tracker]].
 
 Approval evidence and unresolved dates are maintained in the private decision register. This narrative does not certify study-block completion.
 
@@ -27,7 +39,7 @@ Consolidation of the inherited work, literature and research-plan preparation fo
 
 ## Year 3 — 2026/2027 — current critical year
 
-- [ ] Complete [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]] and fix the topic in September 2026.
+- [ ] Complete [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]] and fix the topic in September 2026.
 - [ ] Freeze metrology, protocol, data schema, claim structure and TCO service/cost boundary by December 2026.
 - [ ] Establish the reproducible $U_{50}$ baseline by February 2027.
 - [ ] Complete laser/channel calibration by April 2027.
@@ -50,7 +62,7 @@ Consolidation of the inherited work, literature and research-plan preparation fo
 
 ## Canonical plans
 
-- Scientific programme: [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]]
-- Immediate minimum sprint: [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]]
-- Administrative critical path: [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|Doctoral Milestones & ISP Tracker]]
-- Evidence status: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
+- Scientific programme: [[LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
+- Immediate minimum sprint: [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
+- Administrative critical path: [[ISP & Milestone Tracking|Doctoral Milestones & ISP Tracker]]
+- Evidence status: [[Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]

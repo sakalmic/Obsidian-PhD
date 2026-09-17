@@ -1,30 +1,48 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claim-ledger/claim-ledger-and-evidence-matrix/","title":"Claim Ledger & Evidence Matrix","tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Claim Ledger & Evidence Matrix","aliases":["Claim Ledger","Evidence Matrix"],"type":"moc","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-14"}}
+title: "Claim Ledger & Evidence Matrix"
+aliases:
+  - Claim Ledger
+  - Evidence Matrix
+type: moc
+status: active
+context: thesis
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/statistics
+  - topic/ltsg/model
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/statistics
+  - topic/ltsg/model
+date: 2026-09-01
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
+dg-render-dataview: true
 ---
-
 
 # Claim Ledger & Evidence Matrix
 
-The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
-This is the dashboard for all scientific claims permitted in the dissertation. The stable CL identifiers are now represented by atomic notes so that datasets, analyses, manuscripts and chapters can link to them through properties.
+This is the dashboard for all scientific claims permitted in the dissertation. The stable H/P identifiers are now represented by atomic notes so that datasets, analyses, manuscripts and chapters can link to them through properties.
 
 ## Document authority
 
-Use [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]] for the document hierarchy. The reviewer report governs current scope; stable atomic CL-01 through CL-07 define the tests. C-W1/C-W2/C-WE/C-W5 are contribution groups, not a competing claim-number sequence. Earlier C-A/C-B/C-C and LaTeX C-01–C-16 are historical mappings. C-W3/C-W4 are follow-on only.
+Use [[Doctoral Document Map]] for the document hierarchy. The reviewer report governs current scope; stable atomic H1–H4 and P1–P3 define the tests. C1–C4 are Tier 1 contribution groups in expected completion order. C5 and C6 are separately resourced Tier 2 contributions. RQ identifies a question, H a testable hypothesis, and P a research proposition.
 
 ## Contribution architecture
 
 | Contribution | Evidence and role |
 | --- | --- |
-| C-W1 | Reproducible atmospheric operating domain; probability and calibrated timing; CL-01, CL-02 and supporting CL-06 |
-| C-W2 | Independent comparison of M0 and channel-informed M1; CL-03 and CL-05 |
-| C-WE | Mandatory bounded TCO and technically feasible operating choice; CL-07 |
-| C-W5 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
+| C1 | Reproducible atmospheric operating domain; probability and calibrated timing; H1, P1 and supporting P2 |
+| C2 | Independent comparison of M0 and channel-informed M1; H2 and H4 |
+| C3 | Mandatory bounded TCO and technically feasible operating choice; P3 |
+| C4 | Traceable data, calibrations, analysis, uncertainty and reproducibility across all claims |
 
-CL-04 is supporting robustness within the frozen atmospheric configuration family. C-W3/C-W4 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
+H3 is supporting robustness within the frozen atmospheric configuration family. C5 and C6 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
 
 ## Claim dashboard
 
@@ -39,7 +57,7 @@ TABLE WITHOUT ID
     manuscripts AS "Output"
 FROM "II Areas/03_Thesis/Claims"
 WHERE row["dg-publish"] = true
-SORT claim_id ASC
+SORT statement_id ASC
 ```
 ## Evidence linked to claims
 
@@ -81,7 +99,7 @@ SORT last_updated DESC
 
 ```mermaid
 flowchart LR
-    C[Atomic CL note] --> P[Frozen protocol]
+    C[Atomic H/P note] --> P[Frozen protocol]
     P --> E[Experiment or simulation]
     E --> D[Dataset manifest]
     D --> Q[QC record]
@@ -94,15 +112,15 @@ flowchart LR
 
 | Claim | WP | Evidence | Output | Chapter |
 | --- | --- | --- | --- | --- |
-| CL-01 | WP1, WP3, WP4 | Atmospheric probability and independent repeat | Paper 1 | 4 |
-| CL-02 | WP0, WP3, WP4 | Calibrated delay distributions without assumed monotonicity | Paper 1 | 4 |
-| CL-03 | WP2–WP5 | Independent M0/M1 comparison | Paper 2 | 5 |
-| CL-04 | WP1, WP4 if activated | Supporting geometry/polarity robustness | Supporting only | 4 |
-| CL-05 | WP5 | Reduced prediction with held-out validation | Paper 2 | 5 |
-| CL-06 | WP0, WP2, WP4 | Observable optical/electrical timing and limits | Supporting Paper 1 | 4 |
-| CL-07 | Cost collection from WP0; WP6 synthesis | Feasible operating choice, TCO and uncertainty | Paper 2 | 6 |
+| H1 | WP1, WP3, WP4 | Atmospheric probability and independent repeat | Paper 1 | 4 |
+| P1 | WP0, WP3, WP4 | Calibrated delay distributions without assumed monotonicity | Paper 1 | 4 |
+| H2 | WP2–WP5 | Independent M0/M1 comparison | Paper 2 | 5 |
+| H3 | WP1, WP4 if activated | Supporting geometry/polarity robustness | Supporting only | 4 |
+| H4 | WP5 | Reduced prediction with held-out validation | Paper 2 | 5 |
+| P2 | WP0, WP2, WP4 | Observable optical/electrical timing and limits | Supporting Paper 1 | 4 |
+| P3 | Cost collection from WP0; WP6 synthesis | Feasible operating choice, TCO and uncertainty | Paper 2 | 6 |
 
-C-W5 spans all rows. Planned evidence is not a completed result.
+C4 spans all rows. Planned evidence is not a completed result.
 
 ## Extension claims — inactive by default
 
@@ -114,7 +132,7 @@ C-W5 spans all rows. Planned evidence is not a completed result.
 | **EX-APP-01** | System-level advantage in a named pulsed-power demonstrator | Core reliability, recovery and lifetime data | Planned |
 | **EX-ECO-01** | System-level reliability/cost envelope beyond the mandatory laboratory TCO | Demonstrator evidence + defensible cost distributions | Planned |
 
-All extension rows are outside mandatory completion. They cannot replace C-WE or impose a dependency on August 2028 submission.
+All extension rows are outside mandatory completion. They cannot replace C3 or impose a dependency on August 2028 submission.
 
 ## Literature constraints
 
@@ -134,29 +152,29 @@ Earlier unsupported values concerning delay reduction, model agreement, wear red
 
 These headings preserve existing block links. The atomic claim note is authoritative.
 
-### CL-01
+### H1
 
-See [[CL-01 - Laser-assisted breakdown probability]].
+See [[H1 - Laser-assisted breakdown probability]].
 
-### CL-02
+### P1
 
-See [[CL-02 - Delay and jitter response]].
+See [[P1 - Delay and jitter response]].
 
-### CL-03
+### H2
 
-See [[CL-03 - Channel state versus pulse energy]].
+See [[H2 - Channel state versus pulse energy]].
 
-### CL-04
+### H3
 
-See [[CL-04 - Polarity and field geometry]].
+See [[H3 - Polarity and field geometry]].
 
-### CL-05
+### H4
 
-See [[CL-05 - Reduced predictive model]].
+See [[H4 - Reduced predictive model]].
 
-### CL-06
+### P2
 
-See [[CL-06 - Reproducible optical and electrical stages]].
+See [[P2 - Reproducible optical and electrical stages]].
 
 ### EX-EMP-01
 
@@ -176,11 +194,11 @@ Inactive named pulsed-power demonstrator extension.
 
 ### EX-ECO-01
 
-Inactive system-level economic extension. Mandatory laboratory TCO is CL-07/C-WE and does not depend on EX-APP-01 or EX-ECO-01.
+Inactive system-level economic extension. Mandatory laboratory TCO is P3/C3 and does not depend on EX-APP-01 or EX-ECO-01.
 
 ## Operating review
 
-Review this ledger weekly during acquisition and at every supervisor meeting. The atomic CL note is the authoritative statement; this dashboard shows relationships and current scope.
+Review this ledger weekly during acquisition and at every supervisor meeting. Each atomic H/P note is the authoritative statement; this dashboard shows relationships and current scope.
 
 ## Related notes
 
@@ -190,6 +208,6 @@ Review this ledger weekly during acquisition and at every supervisor meeting. Th
 - [[Research Methodology & Workflows]]
 - [[Paper - IEEE Transactions 2026]]
 
-## CL-07
+## P3
 
-[[CL-07 - Techno-economic operating choice]] — mandatory C-WE; Chapter 6 and Paper 2. State: hypothesis/planned evidence, not an established optimum.
+[[P3 - Techno-economic operating choice]] — mandatory C3; Chapter 6 and Paper 2. State: proposition with planned evidence; no operating optimum has yet been established.

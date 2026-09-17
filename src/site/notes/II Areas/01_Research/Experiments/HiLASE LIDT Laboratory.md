@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/experiments/hi-lase-lidt-laboratory/","title":"HiLASE LIDT Laboratory - relevance to PERLA timing","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"HiLASE LIDT Laboratory - relevance to PERLA timing","aliases":["HiLASE LIDT laboratory"],"type":"laboratory-context","status":"evidence-review","context":"research","topics":["topic/ltsg/metrology"],"created":"2026-09-16","last_updated":"2026-09-16"}}
+title: "HiLASE LIDT Laboratory - relevance to PERLA timing"
+aliases:
+  - HiLASE LIDT laboratory
+type: laboratory-context
+status: evidence-review
+context: research
+topics:
+  - topic/ltsg/metrology
+created: 2026-09-16
+last_updated: 2026-09-16
+dg-publish: true
 ---
-
 
 # HiLASE LIDT laboratory and its relevance to spark-gap timing
 
@@ -33,6 +42,6 @@
 
 - [ ] Identify whether the 2024–2025 high-voltage experiment actually used PERLA B and how the pulse was delivered to the gap.
 - [ ] Determine whether the LIDT and high-voltage campaigns shared only a laser source or also the optical pick-off, photodiode and trigger signal.
-- [ ] Request the applicable calibration or service record for that branch; record its existence and applicability in the [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan\|timing verification note]].
+- [ ] Request the applicable calibration or service record for that branch; record its existence and applicability in the [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan|timing verification note]].
 
-Back to [[II Areas/01_Research/Experiments/HiLASE Research Hub\|HiLASE research hub]].
+Back to [[HiLASE Research Hub|HiLASE research hub]].

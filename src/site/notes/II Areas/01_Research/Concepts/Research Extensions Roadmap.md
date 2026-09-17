@@ -1,17 +1,38 @@
 ---
-{"dg-publish":true,"dg-permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","title":"Research Extensions Roadmap","tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-14","dg-note-properties":{"title":"Research Extensions Roadmap","aliases":["LTSG Extensions","Dissertation Extensions"],"type":"roadmap","status":"planned","context":"research","topics":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"date":"2026-09-02","last_updated":"2026-09-14","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/"}}
+title: "Research Extensions Roadmap"
+aliases:
+  - LTSG Extensions
+  - Dissertation Extensions
+type: roadmap
+status: planned
+context: research
+topics:
+  - topic/ltsg/emp
+  - topic/ltsg/radiation
+  - topic/ltsg/application
+  - topic/ltsg/economics
+tags:
+  - topic/ltsg/emp
+  - topic/ltsg/radiation
+  - topic/ltsg/application
+  - topic/ltsg/economics
+date: 2026-09-02
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
+permalink: /ii-areas/01-research/concepts/research-extensions-roadmap/
+dg-permalink: /ii-areas/01-research/concepts/research-extensions-roadmap/
 ---
-
 
 # Research Extensions Roadmap
 
-The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ## Principle
 
-Tier 2 is a bounded CO₂/pressure-transfer study; Tier 3 concerns applications and their system validation. The E1–E10 notes below are a library of possible follow-on work, not ten required work packages. Each needs separate resources and a recorded decision. Mandatory laboratory TCO is in [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] and is not gated on a demonstrator.
+Tier 2 is a bounded CO₂/pressure-transfer study; Tier 3 concerns applications and their system validation. The E1–E10 notes below are a library of possible follow-on work, not ten required work packages. Each needs separate resources and a recorded decision. Mandatory laboratory TCO is in [[Techno-Economic Modeling of Grid Switching]] and is not gated on a demonstrator.
 
 ## E1 - Quantitative EMP fingerprinting
 
@@ -101,7 +122,7 @@ Begin only with a separately approved chamber, gas-handling protocol, resources 
 
 **Tier 3 only:** product/system economics beyond the atmospheric laboratory service. This requires an application demonstrator and substantiated reliability, lifetime, failure and maintenance inputs.
 
-Do not confuse this extension with mandatory C-WE/CL-07, which starts cost collection in WP0 and integrates TCO by April 2028 without a product demonstrator.
+Do not confuse this extension with mandatory C3/P3, which starts cost collection in WP0 and integrates TCO by April 2028 without a product demonstrator.
 
 ## Prioritisation
 
@@ -118,6 +139,6 @@ Every follow-on decision must name the question, owner, funding, apparatus, evid
 
 ## Connections
 
-- **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]]
-- **Down:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]]
+- **Up:** [[LTSG Core Research Package 2026-2028]]
+- **Side:** [[Diagnostics - Timing EMP and Radiation]] · [[Techno-Economic Modeling of Grid Switching]]
+- **Down:** [[High-Voltage Arc Quenching & Protection]]

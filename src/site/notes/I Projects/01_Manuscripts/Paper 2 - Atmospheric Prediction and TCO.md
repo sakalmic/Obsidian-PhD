@@ -1,13 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/i-projects/01-manuscripts/paper-2-atmospheric-prediction-and-tco/","title":"Paper 2 - Atmospheric Prediction and TCO","noteIcon":"","created":"2026-09-14","updated":"2026-09-14","dg-note-properties":{"title":"Paper 2 - Atmospheric Prediction and TCO","type":"manuscript","status":"planned","context":"publications","project_id":"Paper-2","parent_project":"LTSG-Core","claims":["CL-03","CL-05","CL-07"],"contribution":["C-W2","C-WE"],"due":"2028-04-30","submission_deadline":"2028-04-30","date":"2026-09-14","last_updated":"2026-09-14"}}
+title: "Paper 2 - Atmospheric Prediction and TCO"
+type: manuscript
+status: planned
+context: publications
+project_id: Paper-2
+parent_project: LTSG-Core
+claims: [H2, H4, P3]
+contribution: [C2, C3]
+due: 2028-04-30
+submission_deadline: 2028-04-30
+date: 2026-09-14
+last_updated: 2026-09-14
+dg-publish: true
 ---
-
 
 # Paper 2: Atmospheric Prediction and TCO
 
-The long-term goal of programme W is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ## Objective and evidence gate
 
@@ -21,9 +32,9 @@ Develop methods and collect costs from WP0. Complete predictive validation in WP
 
 ## Claims and figures
 
-- [[II Areas/03_Thesis/Claims/CL-03 - Channel state versus pulse energy\|CL-03 - Channel state versus pulse energy]] and [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]: held-out predictions, calibration and failure regions.
-- [[II Areas/03_Thesis/Claims/CL-07 - Techno-economic operating choice\|CL-07 - Techno-economic operating choice]]: feasible domain, cost ranking, uncertainty and independently tested decision.
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]: Chapters 5–6.
+- [[H2 - Channel state versus pulse energy]] and [[H4 - Reduced predictive model]]: held-out predictions, calibration and failure regions.
+- [[P3 - Techno-economic operating choice]]: feasible domain, cost ranking, uncertainty and independently tested decision.
+- [[Thesis Structure & Chapter Outline]]: Chapters 5–6.
 
 ## Cost boundary
 

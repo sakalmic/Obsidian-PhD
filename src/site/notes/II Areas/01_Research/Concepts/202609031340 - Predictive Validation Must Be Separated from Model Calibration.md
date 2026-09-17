@@ -1,13 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031340-predictive-validation-must-be-separated-from-model-calibration/","title":"Predictive Validation Must Be Separated from Model Calibration","tags":["type/permanent","context/research","topic/ltsg/model","topic/ltsg/statistics"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Predictive Validation Must Be Separated from Model Calibration","aliases":["Calibration-validation separation","Held-out physical model validation"],"type":"concept","status":"evergreen","context":"research","claims":["CL-03","CL-05"],"topics":["topic/ltsg/model","topic/ltsg/statistics"],"tags":["type/permanent","context/research","topic/ltsg/model","topic/ltsg/statistics"],"created":"2026-09-03","last_updated":"2026-09-14"}}
+title: "Predictive Validation Must Be Separated from Model Calibration"
+aliases:
+  - Calibration-validation separation
+  - Held-out physical model validation
+type: concept
+status: evergreen
+context: research
+claims: [H2, H4]
+topics:
+  - topic/ltsg/model
+  - topic/ltsg/statistics
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/model
+  - topic/ltsg/statistics
+created: 2026-09-03
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Predictive Validation Must Be Separated from Model Calibration
 
 ## Core atomic concept
 
-A model calibrated and judged on the same shots measures fit, not predictive validity. CL-03 and CL-05 require an untouched condition, later session or predeclared validation partition that is not used for feature selection, parameter tuning or threshold choice.
+A model calibrated and judged on the same shots measures fit, not predictive validity. H2 and H4 require an untouched condition, later session or predeclared validation partition that is not used for feature selection, parameter tuning or threshold choice.
 
 ## Mathematical criteria
 
@@ -39,9 +57,9 @@ and global variance decomposition when interactions/nonlinearity matter. Non-ide
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031240 - Hierarchical Shot-Level Models Separate Effects from Drift\|Hierarchical Shot-Level Models Separate Effects from Drift]] · [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]]
-- **Down:** [[II Areas/03_Thesis/Claims/CL-05 - Reduced predictive model\|CL-05 - Reduced predictive model]]
+- **Up:** [[Statistics - Breakdown Probability Delay and Jitter]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031240 - Hierarchical Shot-Level Models Separate Effects from Drift|Hierarchical Shot-Level Models Separate Effects from Drift]] · [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities|Measurement Uncertainty Must Propagate Through Derived Quantities]]
+- **Down:** [[H4 - Reduced predictive model]]
 
 ## Anchor sources
 

@@ -1,11 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/system/ph-d-vault-architecture-guide/","title":"PhD Vault Architecture Guide","tags":["topic/system/vault"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"PhD Vault Architecture Guide","aliases":["System Guide"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/vault"],"tags":["topic/system/vault"],"date":"2026-09-01","last_updated":"2026-09-14"}}
+title: "PhD Vault Architecture Guide"
+aliases:
+  - System Guide
+type: guide
+status: evergreen
+context: phd
+topics:
+  - topic/system/vault
+tags:
+  - topic/system/vault
+date: 2026-09-01
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # PhD Vault Architecture Guide
 
-Scope authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]. Working contributions are C-W1/C-W2/C-WE/C-W5, with atomic CL-01–CL-07. Tier 1 includes bounded TCO; Tier 2/3 are follow-on. Preserve historical notes with an explicit historical status and keep current schedules consistent with the reviewer baseline.
+Scope authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]]. Working contributions are C1/C2/C3/C4, with atomic H1–H4 and P1–P3. Tier 1 includes bounded TCO; Tier 2/3 are follow-on. Preserve historical notes with an explicit historical status and keep current schedules consistent with the reviewer baseline.
 
 This document defines the canonical architecture of **Obsidian-PhD**. The vault must support four connected outcomes: a defensible dissertation, reproducible evidence, timely publications and completion of doctoral obligations.
 
@@ -32,7 +44,7 @@ The existing PARA structure is retained. Public notes are not moved merely for c
 <span style="color: #ffffff;">│   ├── 02_Publications/            manuscript pipeline, venues, reviews and publication status</span>
 <span style="color: #ffffff;">│   ├── 03_Thesis/                  dissertation structure, argument and evidence map</span>
 <span style="color: #ffffff;">│   │   ├── LaTeX_Thesis/           LaTeX manuscript source (main.tex)</span>
-<span style="color: #ffffff;">│   │   └── Claims/                 one atomic note per stable CL identifier</span>
+<span style="color: #ffffff;">│   │   └── Claims/                 one atomic note per H or P statement</span>
 <span style="color: #8796a0;">│   ├── 04_Teaching/                courses, teaching evidence and supervised work</span>
 <span style="color: #8796a0;">│   ├── 05_Grants/                  SGS funding, proposals, budgets and mobility support</span>
 <span style="color: #8796a0;">│   └── 06_Administration/          ISP, examinations, regulations and official records</span>
@@ -57,13 +69,13 @@ The existing PARA structure is retained. Public notes are not moved merely for c
 
 | Question | Canonical note |
 | --- | --- |
-| What is the active scientific programme and schedule? | [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]] |
-| What must be delivered in the next three weeks? | [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]] |
-| What is the dissertation title and chapter structure? | [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] |
-| Which scientific assertions are allowed? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]] and atomic CL notes |
-| How is evidence generated and promoted? | [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]] |
-| Which metadata are valid? | [[_System/Tags and Linking Convention\|Tags and Linking Convention]] |
-| What are the doctoral deadlines? | [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|Doctoral Milestones & ISP Tracker]] |
+| What is the active scientific programme and schedule? | [[LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]] |
+| What must be delivered in the next three weeks? | [[Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]] |
+| What is the dissertation title and chapter structure? | [[Thesis Structure & Chapter Outline]] |
+| Which scientific assertions are allowed? | [[Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]] and atomic H/P notes |
+| How is evidence generated and promoted? | [[Research Methodology & Workflows]] |
+| Which metadata are valid? | [[Tags and Linking Convention]] |
+| What are the doctoral deadlines? | [[ISP & Milestone Tracking|Doctoral Milestones & ISP Tracker]] |
 
 Other notes link to or embed these sections. They must not maintain independent copies of the same schedule or claim status.
 
