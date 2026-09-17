@@ -26,7 +26,7 @@ dg-publish: true
 
 # H3 - Polarity and field geometry
 
-Contribution: supporting-C1. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]].
+Contribution: supporting-C1. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]].
 
 ## Hypothesis
 
@@ -49,5 +49,5 @@ Report an interaction estimate with uncertainty. A null result becomes a quantit
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field|Electrode Geometry and Polarity Shape the Local Field]] · [[II Areas/01_Research/Concepts/202609031040 - Photoionization Enables Positive Streamer Propagation in Air|Photoionization Enables Positive Streamer Propagation in Air]] · [[II Areas/01_Research/Concepts/202609031320 - Electrode Conditioning Creates History Dependence|Electrode Conditioning Creates History Dependence]]
-- **Side:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability]]
-- **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]
+- **Side:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability|H1 - Laser-assisted breakdown probability]]
+- **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]

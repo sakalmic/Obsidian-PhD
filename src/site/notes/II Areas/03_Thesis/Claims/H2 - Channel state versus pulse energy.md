@@ -26,7 +26,7 @@ dg-publish: true
 
 # H2 - Channel state versus pulse energy
 
-Contribution: C2. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]].
+Contribution: C2. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]].
 
 ## Hypothesis
 
@@ -51,5 +51,5 @@ The metric and minimum worthwhile predictive improvement are fixed after screeni
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory|Hydrodynamic Density Depression Creates Electrical Memory]] · [[II Areas/01_Research/Concepts/202609031340 - Predictive Validation Must Be Separated from Model Calibration|Predictive Validation Must Be Separated from Model Calibration]]
-- **Side:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]
-- **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]
+- **Side:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
+- **Down:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]

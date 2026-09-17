@@ -62,10 +62,10 @@ Write methods during WP0–WP2, freeze contrasts in May–June 2027, confirm Jul
 
 ## Claim and thesis mapping
 
-- [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability]]
-- [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response]]
-- [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages]] (supporting)
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline]]: Chapters 3–4.
-- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO]] owns the held-out M0/M1 comparison and economic synthesis.
+- [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability|H1 - Laser-assisted breakdown probability]]
+- [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]]
+- [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages|P2 - Reproducible optical and electrical stages]] (supporting)
+- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline|Thesis Structure & Chapter Outline]]: Chapters 3–4.
+- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO|Paper 2 - Atmospheric Prediction and TCO]] owns the held-out M0/M1 comparison and economic synthesis.
 
 The filename is retained for stable links. Select the journal after WP3 clarifies the contribution; no venue acceptance is assumed.

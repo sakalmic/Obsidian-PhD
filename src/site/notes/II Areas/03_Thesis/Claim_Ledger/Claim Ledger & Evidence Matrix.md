@@ -31,7 +31,7 @@ This is the dashboard for all scientific claims permitted in the dissertation. T
 
 ## Document authority
 
-Use [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map]] for the document hierarchy. The reviewer report governs current scope; stable atomic H1–H4 and P1–P3 define the tests. C1–C4 are Tier 1 contribution groups in expected completion order. C5 and C6 are separately resourced Tier 2 contributions. RQ identifies a question, H a testable hypothesis, and P a research proposition.
+Use [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]] for the document hierarchy. The reviewer report governs current scope; stable atomic H1–H4 and P1–P3 define the tests. C1–C4 are Tier 1 contribution groups in expected completion order. C5 and C6 are separately resourced Tier 2 contributions. RQ identifies a question, H a testable hypothesis, and P a research proposition.
 
 ## Contribution architecture
 
@@ -141,8 +141,8 @@ All extension rows are outside mandatory completion. They cannot replace C3 or i
 | Luther et al. 2001, [doi:10.1063/1.1419036](https://doi.org/10.1063/1.1419036) | Very low jitter is possible in an optimised small pressurised gap | Performance of the present atmospheric system |
 | Arantchouk et al. 2013, [doi:10.1063/1.4802927](https://doi.org/10.1063/1.4802927) | Filament triggering can achieve high-current, low-jitter switching | Transfer to the present geometry and laser regime |
 | Rosenthal et al. 2020, [doi:10.1364/OE.398836](https://doi.org/10.1364/OE.398836) | Heating and density-channel evolution can be central | Dominance under the present pulse duration and timing |
-| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses]] | EMP measurement and source-attribution discipline | Atmospheric LTSG EMP amplitude or particle yield |
-| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Passive diagnostics, spatial mapping and background controls | Radiation presence or mechanism in laser-triggered shots |
+| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]] | EMP measurement and source-attribution discipline | Atmospheric LTSG EMP amplitude or particle yield |
+| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Passive diagnostics, spatial mapping and background controls | Radiation presence or mechanism in laser-triggered shots |
 
 ## Integrity note
 
@@ -154,27 +154,27 @@ These headings preserve existing block links. The atomic claim note is authorita
 
 ### H1
 
-See [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability]].
+See [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability|H1 - Laser-assisted breakdown probability]].
 
 ### P1
 
-See [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response]].
+See [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]].
 
 ### H2
 
-See [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy]].
+See [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]].
 
 ### H3
 
-See [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry]].
+See [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry|H3 - Polarity and field geometry]].
 
 ### H4
 
-See [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]].
+See [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]].
 
 ### P2
 
-See [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages]].
+See [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages|P2 - Reproducible optical and electrical stages]].
 
 ### EX-EMP-01
 
@@ -202,12 +202,12 @@ Review this ledger weekly during acquisition and at every supervisor meeting. Ea
 
 ## Related notes
 
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline]]
-- [[_System/Research Methodology & Workflows]]
-- [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline|Thesis Structure & Chapter Outline]]
+- [[_System/Research Methodology & Workflows|Research Methodology & Workflows]]
+- [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026|Paper - IEEE Transactions 2026]]
 
 ## P3
 
-[[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]] — mandatory C3; Chapter 6 and Paper 2. State: proposition with planned evidence; no operating optimum has yet been established.
+[[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice|P3 - Techno-economic operating choice]] — mandatory C3; Chapter 6 and Paper 2. State: proposition with planned evidence; no operating optimum has yet been established.

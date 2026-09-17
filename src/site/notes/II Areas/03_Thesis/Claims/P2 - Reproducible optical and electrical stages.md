@@ -29,7 +29,7 @@ dg-publish: true
 
 # P2 - Reproducible optical and electrical stages
 
-Contribution: supporting-C1. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]].
+Contribution: supporting-C1. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]].
 
 ## Proposition
 
@@ -50,5 +50,5 @@ Support requires stable event ordering or a predeclared model comparison across 
 ## Connections
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition|Space Charge Marks the Avalanche to Streamer Transition]] · [[II Areas/01_Research/Concepts/202609031200 - Competing Timescales Determine the Triggering Regime|Competing Timescales Determine the Triggering Regime]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
-- **Side:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response]]
-- **Down:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation]] · [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]
+- **Side:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]]
+- **Down:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Diagnostics - Timing EMP and Radiation]] · [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]

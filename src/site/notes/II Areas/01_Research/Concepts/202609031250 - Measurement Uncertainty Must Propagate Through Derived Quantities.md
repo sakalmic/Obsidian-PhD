@@ -60,7 +60,7 @@ Nonlinear, bounded or non-Gaussian models should use Monte Carlo propagation: sa
 
 - **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
-- **Down:** [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages]]
+- **Down:** [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages|P2 - Reproducible optical and electrical stages]]
 
 ## Anchor sources
 

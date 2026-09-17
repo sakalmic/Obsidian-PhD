@@ -32,7 +32,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 
 ## Principle
 
-Tier 2 is a bounded CO₂/pressure-transfer study; Tier 3 concerns applications and their system validation. The E1–E10 notes below are a library of possible follow-on work, not ten required work packages. Each needs separate resources and a recorded decision. Mandatory laboratory TCO is in [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching]] and is not gated on a demonstrator.
+Tier 2 is a bounded CO₂/pressure-transfer study; Tier 3 concerns applications and their system validation. The E1–E10 notes below are a library of possible follow-on work, not ten required work packages. Each needs separate resources and a recorded decision. Mandatory laboratory TCO is in [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]] and is not gated on a demonstrator.
 
 ## E1 - Quantitative EMP fingerprinting
 
@@ -139,6 +139,6 @@ Every follow-on decision must name the question, owner, funding, apparatus, evid
 
 ## Connections
 
-- **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]
-- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching]]
-- **Down:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection]]
+- **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Diagnostics - Timing EMP and Radiation]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]]
+- **Down:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection|High-Voltage Arc Quenching & Protection]]

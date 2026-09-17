@@ -43,7 +43,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 
 ## Planning status
 
-The September discussion's exact date and allotted time remain subject to the invitation. The old 24 September date is an unconfirmed placeholder; the folder name is not evidence of an official date. The candidate has selected variant 2 for planning. Formal approval and completed administrative obligations must be recorded separately in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register]].
+The September discussion's exact date and allotted time remain subject to the invitation. The old 24 September date is an unconfirmed placeholder; the folder name is not evidence of an official date. The candidate has selected variant 2 for planning. Formal approval and completed administrative obligations must be recorded separately in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Doctoral Scope & Decision Register]].
 
 ## Mission
 
@@ -166,5 +166,5 @@ Prioritise atmospheric apparatus access, timing/energy calibration, repeat sessi
 - The current PDF and PPTX outputs are stored outside this vault in `I Projects/03_Milestones/2026_minimum/_tmp/Reviewer package/`. This is the designated location for subsequent exports; they are not Digital Garden attachments.
 - Reviewer PDF: `Sakala_Doctoral_Progress_Review_2026_reviewed.pdf`.
 - CTU presentation: `Sakala_Rozprava_2026_CVUT_reviewed.pptx`; matching PDF: `Sakala_Rozprava_2026_CVUT_reviewed.pdf`.
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]

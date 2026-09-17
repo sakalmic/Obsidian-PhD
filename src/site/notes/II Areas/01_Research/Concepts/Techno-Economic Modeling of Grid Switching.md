@@ -34,7 +34,7 @@ Use the discounted TCO model in the reviewer report and report cost per expected
 
 Data collection begins in WP0; WP6 integrates it by April 2028. Unsupported lifetime, avoided grid outages, avoided SF₆ costs and full product replacement are excluded from the base case. They belong only to separately evidenced follow-on applications.
 
-The technical/economic contribution is C3, represented by [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]]. It belongs to Chapter 6 and [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO]]. Technical feasibility comes from the same atmospheric probability/timing evidence used by C1/C2, rather than an assumed future breaker.
+The technical/economic contribution is C3, represented by [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice|P3 - Techno-economic operating choice]]. It belongs to Chapter 6 and [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO|Paper 2 - Atmospheric Prediction and TCO]]. Technical feasibility comes from the same atmospheric probability/timing evidence used by C1/C2, rather than an assumed future breaker.
 
 ## Evidence to collect
 
@@ -48,7 +48,7 @@ For subsequent energy accounting, distinguish arc energy (the time integral of v
 
 ## Connections
 
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]]
-- [[II Areas/01_Research/Concepts/202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection]]
-- [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
+- [[II Areas/01_Research/Concepts/202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection|202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection]]
+- [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection|High-Voltage Arc Quenching & Protection]]

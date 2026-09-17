@@ -186,7 +186,7 @@ The core evidence package is complete when:
 
 ## Related system notes
 
-- [[_System/PhD Vault Architecture Guide]]
-- [[_System/Tags and Linking Convention]]
-- [[_System/Digital Garden & Vercel Deployment Guide]]
+- [[_System/PhD Vault Architecture Guide|PhD Vault Architecture Guide]]
+- [[_System/Tags and Linking Convention|Tags and Linking Convention]]
+- [[_System/Digital Garden & Vercel Deployment Guide|Digital Garden & Vercel Deployment Guide]]
 

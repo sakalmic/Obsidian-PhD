@@ -31,6 +31,6 @@ Rapid suppression and quenching of electrical arcs is important to power-system 
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)]]
-- **Side:** [[II Areas/01_Research/Concepts/202609011015 - Arc Quenching Dynamics in Hybrid Breakers]]
-- **Down:** [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching]]
+- **Up:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)|Laser-Triggered Spark Gaps (LTSG)]]
+- **Side:** [[II Areas/01_Research/Concepts/202609011015 - Arc Quenching Dynamics in Hybrid Breakers|202609011015 - Arc Quenching Dynamics in Hybrid Breakers]]
+- **Down:** [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]]

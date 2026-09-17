@@ -64,7 +64,7 @@ This unifies “success probability” and “delay” rather than treating them
 
 - **Up:** [[II Areas/01_Research/Concepts/202609031210 - Statistical and Formative Time Lags Are Different Processes|Statistical and Formative Time Lags Are Different Processes]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031230 - Breakdown Voltage Is a Probability Distribution Not a Constant|Breakdown Voltage Is a Probability Distribution Not a Constant]]
-- **Down:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response]]
+- **Down:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability|H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]]
 
 ## Anchor source
 

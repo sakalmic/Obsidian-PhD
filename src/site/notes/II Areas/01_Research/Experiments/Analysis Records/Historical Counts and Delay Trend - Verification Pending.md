@@ -18,4 +18,4 @@ This is an open verification record, not a completed analysis.
 - Separate electrical-trigger delay from optical-arrival delay and instrument jitter.
 - Record sources, exclusions, analysis version and decision before changing a claim state.
 
-[[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance]] · [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response]]
+[[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance|Historical Measurements 2024-2025 - Provenance]] · [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]]

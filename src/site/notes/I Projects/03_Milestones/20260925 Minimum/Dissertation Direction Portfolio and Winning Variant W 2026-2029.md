@@ -211,7 +211,7 @@ Potential CO₂ collaboration belongs to Tier 2. Roles, apparatus, data rights, 
 
 ### Expected publications and thesis architecture
 
-Paper 1: atmospheric metrology/operating domain, October–November 2027. Paper 2: atmospheric prediction and TCO, March–April 2028. See [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets]] and [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline]].
+Paper 1: atmospheric metrology/operating domain, October–November 2027. Paper 2: atmospheric prediction and TCO, March–April 2028. See [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets|Publication Strategy & Targets]] and [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline|Thesis Structure & Chapter Outline]].
 
 ### Definition of done
 
@@ -219,7 +219,7 @@ Test and document the atmospheric contributions, independent validation and boun
 
 ## Final selection statement
 
-Variant 2 is the candidate-selected planning route: mandatory atmospheric Tier 1 with TCO; Tier 2/3 outside mandatory completion. Formal approval remains pending evidence in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register]].
+Variant 2 is the candidate-selected planning route: mandatory atmospheric Tier 1 with TCO; Tier 2/3 outside mandatory completion. Formal approval remains pending evidence in [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Doctoral Scope & Decision Register]].
 
 ## Related documents
 

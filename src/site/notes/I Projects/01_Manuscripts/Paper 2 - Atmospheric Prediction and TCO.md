@@ -32,9 +32,9 @@ Develop methods and collect costs from WP0. Complete predictive validation in WP
 
 ## Claims and figures
 
-- [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy]] and [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]: held-out predictions, calibration and failure regions.
-- [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]]: feasible domain, cost ranking, uncertainty and independently tested decision.
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline]]: Chapters 5–6.
+- [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]] and [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]: held-out predictions, calibration and failure regions.
+- [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice|P3 - Techno-economic operating choice]]: feasible domain, cost ranking, uncertainty and independently tested decision.
+- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline|Thesis Structure & Chapter Outline]]: Chapters 5–6.
 
 ## Cost boundary
 

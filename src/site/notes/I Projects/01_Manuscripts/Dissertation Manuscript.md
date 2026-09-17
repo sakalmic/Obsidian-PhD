@@ -35,7 +35,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 
 Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování**.
 
-This is the candidate-selected working title, pending formal recorded approval. See [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map]].
+This is the candidate-selected working title, pending formal recorded approval. See [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]].
 
 ## Dissertation promise
 
@@ -59,7 +59,7 @@ H3 is supporting robustness within the frozen atmospheric configuration family. 
 
 ## Source status
 
-[[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline]] is the current structural target. The existing LaTeX source and PDFs have not yet been rewritten to this scope; do not present them as a current final minimum or dissertation. The adjacent manuscript README identifies reusable and historical material.
+[[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline|Thesis Structure & Chapter Outline]] is the current structural target. The existing LaTeX source and PDFs have not yet been rewritten to this scope; do not present them as a current final minimum or dissertation. The adjacent manuscript README identifies reusable and historical material.
 
 ## Milestone policy
 
@@ -74,7 +74,7 @@ Chapters 1–3 develop during preparation/metrology; Chapter 4 follows the atmos
 ## Next actions
 
 - [ ] Freeze title, question and contribution map at the September 2026 discussion.
-- [ ] Transfer only verified sources from [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching]].
+- [ ] Transfer only verified sources from [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory - Laser-Triggered Breakdown and Switching]].
 - [ ] Add a claim ID to every intended original statement.
 - [ ] Create the apparatus, causal-chain and claim-to-evidence figures during the minimum sprint.
 - [ ] Confirm the permitted dissertation format and formal requirements.
@@ -82,7 +82,7 @@ Chapters 1–3 develop during preparation/metrology; Chapter 4 follows the atmos
 ## Related documents
 
 - [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]]
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline]]
+- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline|Thesis Structure & Chapter Outline]]
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
 - [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
-- [[_System/Research Methodology & Workflows]]
+- [[_System/Research Methodology & Workflows|Research Methodology & Workflows]]

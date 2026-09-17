@@ -144,7 +144,7 @@ Use the narrowest useful topical tag. Do not create synonyms such as both `theme
 
 1. Every evidence note links upward through properties: project → WP → CL.
 2. Literature notes link to the concepts and claims they constrain, not merely to a generic MOC.
-3. Claim IDs are permanent and never reused. Link to the atomic note, for example `[[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy]]`.
+3. Claim IDs are permanent and never reused. Link to the atomic note, for example `[[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]]`.
 4. Public notes link only to public notes. Private evidence may be referenced in public prose by a non-sensitive identifier without exposing its path.
 5. Use descriptive labels in prose and aliases for common abbreviations.
 6. Template placeholder links must be replaced before a note leaves the inbox.

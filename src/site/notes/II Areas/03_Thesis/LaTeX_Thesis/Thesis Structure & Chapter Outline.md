@@ -34,7 +34,7 @@ Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: d
 
 ## Structure status
 
-This is the current monograph planning architecture. It does not certify migration of an older LaTeX manuscript stored outside this vault. [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map]] distinguishes current reviewer files from historical manuscripts.
+This is the current monograph planning architecture. It does not certify migration of an older LaTeX manuscript stored outside this vault. [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]] distinguishes current reviewer files from historical manuscripts.
 
 ## Dissertation argument
 
@@ -85,7 +85,7 @@ Chapters 1–7 include the economic contribution as mandatory. Tier 2/3 results 
 
 ## Related notes
 
-- [[I Projects/01_Manuscripts/Dissertation Manuscript]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/01_Manuscripts/Dissertation Manuscript|Dissertation Manuscript]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Minimum Dissertation Study & Research Discussion 2026]]

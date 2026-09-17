@@ -64,7 +64,7 @@ For nanosecond air breakdown, impurities, aerosols, excited-state pathways and i
 
 - **Up:** [[II Areas/01_Research/Concepts/202609011000 - Optical Breakdown Mechanism in Air|Optical Breakdown Mechanism in Air]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[II Areas/01_Research/Concepts/202609031110 - Avalanche Ionization Can Dominate Nanosecond Breakdown|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
-- **Down:** [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]
+- **Down:** [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
 
 ## Anchor sources
 

@@ -21,7 +21,7 @@ dg-publish: true
 
 The electrical triggering system **may have been calibrated** during the historical campaigns. The publications and working records reviewed so far do not document a numerical correction and uncertainty for the complete timing chain used with the high-voltage spark gap. This **does not mean that no calibration exists**. A record must be requested from the responsible laboratory and matched to the actual 2024/2025 configuration.
 
-In APL 2025, February 2025 series 8–10 use an electrical laser-trigger edge as the time reference. The reported range of 0.164–8.124 µs therefore must not be relabelled as time from optical arrival at the gap without further evidence. The seven May 2024 series mainly address breakdown-voltage reduction; their provenance and unresolved attempt counts are recorded in [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance]]. The general claim that greater irradiance always shortens delay remains unverified.
+In APL 2025, February 2025 series 8–10 use an electrical laser-trigger edge as the time reference. The reported range of 0.164–8.124 µs therefore must not be relabelled as time from optical arrival at the gap without further evidence. The seven May 2024 series mainly address breakdown-voltage reduction; their provenance and unresolved attempt counts are recorded in [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance|Historical Measurements 2024-2025 - Provenance]]. The general claim that greater irradiance always shortens delay remains unverified.
 
 ## Three distinct time events
 

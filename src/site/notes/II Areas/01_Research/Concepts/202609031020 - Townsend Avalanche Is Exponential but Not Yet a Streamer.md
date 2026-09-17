@@ -60,7 +60,7 @@ is therefore a useful reduced-model diagnostic, not a universal breakdown switch
 
 - **Up:** [[II Areas/01_Research/Concepts/202609011000 - Optical Breakdown Mechanism in Air|Optical Breakdown Mechanism in Air]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics|Reduced Electric Field Governs Electron Kinetics]] · [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition|Space Charge Marks the Avalanche to Streamer Transition]]
-- **Down:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]
+- **Down:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability|H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
 
 ## Anchor sources
 

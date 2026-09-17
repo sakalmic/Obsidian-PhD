@@ -57,9 +57,9 @@ and global variance decomposition when interactions/nonlinearity matter. Non-ide
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter]]
+- **Up:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter|Statistics - Breakdown Probability Delay and Jitter]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031240 - Hierarchical Shot-Level Models Separate Effects from Drift|Hierarchical Shot-Level Models Separate Effects from Drift]] · [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities|Measurement Uncertainty Must Propagate Through Derived Quantities]]
-- **Down:** [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]
+- **Down:** [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
 
 ## Anchor sources
 

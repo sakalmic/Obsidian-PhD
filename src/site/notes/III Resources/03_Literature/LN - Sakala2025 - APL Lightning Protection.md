@@ -51,7 +51,7 @@ The paper provides historical voltage-reduction and electrical-trigger-delay res
 
 ## Relevance to the dissertation
 
-Background and method history for Chapters 1–3. Reused series must be identified explicitly. New H1/P1 confirmation requires the frozen atmospheric protocol; H2/H4/P3 remain planned validation/economic work. This bibliographic note is not a raw-data or QC record. See [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance]].
+Background and method history for Chapters 1–3. Reused series must be identified explicitly. New H1/P1 confirmation requires the frozen atmospheric protocol; H2/H4/P3 remain planned validation/economic work. This bibliographic note is not a raw-data or QC record. See [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance|Historical Measurements 2024-2025 - Provenance]].
 
 ## Verification sources
 

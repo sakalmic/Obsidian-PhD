@@ -76,7 +76,7 @@ The mandatory core includes bounded TCO and operating-choice validation. EMP, ra
 
 H3 is supporting robustness within the frozen atmospheric configuration family. C5 and C6 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
 
-Use [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]] and the atomic H/P notes for evidence rules.
+Use [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]] and the atomic H/P notes for evidence rules.
 
 ## Measurands and operational definitions
 
@@ -93,7 +93,7 @@ Use [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]] and the a
 
 ## Configuration and timing decision
 
-[[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety]] defines the configuration evidence required before WP0. For a laser-to-HV scan, specify the independently controlled HV event and measure its waveform. A continuously applied DC voltage alone does not define an adjustable HV-onset delay; without an appropriate pulsed/gated configuration, narrow the experiment to laser-to-breakdown timing at fixed DC bias.
+[[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety|LTSG Apparatus & Laboratory Safety]] defines the configuration evidence required before WP0. For a laser-to-HV scan, specify the independently controlled HV event and measure its waveform. A continuously applied DC voltage alone does not define an adjustable HV-onset delay; without an appropriate pulsed/gated configuration, narrow the experiment to laser-to-breakdown timing at fixed DC bias.
 
 [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Dissertation Scope & Decision Log]] records the pending apparatus decision.
 
@@ -215,7 +215,7 @@ Continuous drafting, complete draft by June 2028, eligibility review and August 
 
 ## Statistical plan
 
-Detailed rationale and equations: [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter]].
+Detailed rationale and equations: [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter|Statistics - Breakdown Probability Delay and Jitter]].
 
 - Trigger success is binomial: report probability with Wilson or exact confidence intervals.
 - Failed shots are right-censored observations, not automatically discarded.
@@ -285,12 +285,12 @@ If not, review the limiting diagnostic and the minimum detectable effect with th
 
 ## Dependencies and related notes
 
-- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching]]
-- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation]]
-- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter]]
-- [[II Areas/01_Research/Concepts/Research Extensions Roadmap]]
-- [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)]]
-- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory - Laser-Triggered Breakdown and Switching]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Diagnostics - Timing EMP and Radiation]]
+- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter|Statistics - Breakdown Probability Delay and Jitter]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap|Research Extensions Roadmap]]
+- [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)|Laser-Triggered Spark Gaps (LTSG)]]
+- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics|Laser-Induced Plasma Dynamics]]
 - [[Experimental Diagnostics Campaign]]
 - [[ISP & Milestone Tracking|Doctoral Milestones & ISP Tracker]]
 - [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]

@@ -69,9 +69,9 @@ The waist term is doubled in sensitivity and often dominates. Correlations requi
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics]]
+- **Up:** [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics|Laser-Induced Plasma Dynamics]]
 - **Side:** [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes|Keldysh Parameter Separates Strong-Field Ionization Regimes]] · [[II Areas/01_Research/Concepts/202609031130 - Kerr Self-Focusing Creates Extended Filamentary Channels|Kerr Self-Focusing Creates Extended Filamentary Channels]]
-- **Down:** [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy]] · [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities|Measurement Uncertainty Must Propagate Through Derived Quantities]]
+- **Down:** [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]] · [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities|Measurement Uncertainty Must Propagate Through Derived Quantities]]
 
 ## Anchor source
 

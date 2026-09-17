@@ -43,8 +43,8 @@ Avoided grid outages, avoided SF₆ costs, complete switchgear qualification and
 
 ## Connections
 
-- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching]]
-- [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy]]
-- [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix]]
-- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO]]
+- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]]
+- [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]]
+- [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
+- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO|Paper 2 - Atmospheric Prediction and TCO]]

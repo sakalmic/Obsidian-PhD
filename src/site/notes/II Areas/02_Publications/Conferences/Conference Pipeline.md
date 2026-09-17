@@ -23,7 +23,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 ## Historical outputs
 
 - ICOLSE 2024: reuse of the seven May 2024 Master's voltage series.
-- IEEE APL 2025: those seven series plus three February 2025 delay series. [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection]].
+- IEEE APL 2025: those seven series plus three February 2025 delay series. [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection|LN - Sakala2025 - APL Lightning Protection]].
 
 Publication, acquisition and conference dates are separate fields. Shot counts remain unverified; participation and formal credit require their own evidence.
 
@@ -34,5 +34,5 @@ Choose an event only when the atmospheric contribution, call, dates, funding and
 ## Related notes
 
 - [[II Areas/02_Publications/02_MOC|Publications MOC]]
-- [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets]]
-- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO]]
+- [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets|Publication Strategy & Targets]]
+- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO|Paper 2 - Atmospheric Prediction and TCO]]

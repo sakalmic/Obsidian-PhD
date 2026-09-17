@@ -38,7 +38,7 @@ Read from top to bottom. Laboratory work and theory develop together; each outpu
 2. Verify electrical-trigger timing against optical pulse arrival at the gap; define the breakdown marker, failed-shot codes and uncertainty budget.
 3. Freeze the shot record and begin logging equipment use, electrical consumption and operator/reset time for TCO.
 
-**Output:** approved configuration and measurement protocol. Detail: [[II Areas/01_Research/Research Plans/LAB-00 - Apparatus and Timing Readiness]] and [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan]].
+**Output:** approved configuration and measurement protocol. Detail: [[II Areas/01_Research/Research Plans/LAB-00 - Apparatus and Timing Readiness|LAB-00 - Apparatus and Timing Readiness]] and [[II Areas/01_Research/Experiments/Calibrations/HiLASE Trigger-to-Optical Timing - Verification Plan|HiLASE Trigger-to-Optical Timing - Verification Plan]].
 
 ## WP1 — Establish the no-laser reference (Jan–Feb 2027)
 
@@ -48,7 +48,7 @@ Read from top to bottom. Laboratory work and theory develop together; each outpu
 2. Record both breakdown and no-breakdown attempts under a declared voltage/observation procedure, repeated across independent sessions.
 3. Estimate the contemporary $U_{50}$ curve and uncertainty; define $k=U/U_{50}$ for subsequent comparisons.
 
-**Output:** reproducible baseline and its limits. Detail: [[II Areas/01_Research/Research Plans/LAB-01 - Atmospheric No-Laser Baseline]]. **Theory in parallel:** calculate the static field in the actual geometry and test sensitivity to geometry, voltage and numerical mesh.
+**Output:** reproducible baseline and its limits. Detail: [[II Areas/01_Research/Research Plans/LAB-01 - Atmospheric No-Laser Baseline|LAB-01 - Atmospheric No-Laser Baseline]]. **Theory in parallel:** calculate the static field in the actual geometry and test sensitivity to geometry, voltage and numerical mesh.
 
 ## WP2 — Test whether the laser channel is observable (Mar–Apr 2027)
 
@@ -58,7 +58,7 @@ Read from top to bottom. Laboratory work and theory develop together; each outpu
 2. Run a small laser-only and combined laser/HV pilot with synchronised waveforms and one candidate optical descriptor.
 3. Repeat after realignment; determine whether the descriptor is available before breakdown and is more than detector noise or the breakdown flash.
 
-**Output:** an interpretable descriptor **or** a quantified diagnostic limit. Detail: [[II Areas/01_Research/Research Plans/LAB-02 - Laser and Channel Diagnostic Pilot]]. **Theory in parallel:** specify a minimal channel-evolution model using only identifiable states; keep an optical proxy distinct from direct electron density.
+**Output:** an interpretable descriptor **or** a quantified diagnostic limit. Detail: [[II Areas/01_Research/Research Plans/LAB-02 - Laser and Channel Diagnostic Pilot|LAB-02 - Laser and Channel Diagnostic Pilot]]. **Theory in parallel:** specify a minimal channel-evolution model using only identifiable states; keep an optical proxy distinct from direct electron density.
 
 ## WP3 — Choose the decisive test (May–Jun 2027)
 
@@ -68,7 +68,7 @@ Read from top to bottom. Laboratory work and theory develop together; each outpu
 2. Use pilot event rates and session variation to determine attempt counts, primary contrasts and a stopping rule.
 3. Freeze outcome definitions, M0/M1 inputs, channel-feature window and whole-session validation split. Hold a June supervisor stop/go review.
 
-**Output:** dated decision and frozen confirmation protocol. Detail: [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate]]. If the apparatus or descriptor fails, narrow the claim explicitly; do not silently expand to another gas or a full plasma simulation.
+**Output:** dated decision and frozen confirmation protocol. Detail: [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate|LAB-03 - Screening and June Decision Gate]]. If the apparatus or descriptor fails, narrow the claim explicitly; do not silently expand to another gas or a full plasma simulation.
 
 ## WP4 — Acquire new confirmatory evidence (Jul–Oct 2027)
 
@@ -78,7 +78,7 @@ Read from top to bottom. Laboratory work and theory develop together; each outpu
 2. Link optical timing, voltage/current, laser input, channel descriptor, environment and electrode history by shot ID.
 3. Repeat principal contrasts in a separately initiated/realigned session and reserve complete sessions for later validation.
 
-**Output:** QC-passed new dataset and Paper 1 evidence, clearly separated from the seven May 2024 and three February 2025 historical series. Detail: [[II Areas/01_Research/Research Plans/LAB-04 - Atmospheric Confirmatory Campaign]]. **Theory in parallel:** fit a baseline probability/delay model on training data and compare measured channel timescales with the reduced physical description.
+**Output:** QC-passed new dataset and Paper 1 evidence, clearly separated from the seven May 2024 and three February 2025 historical series. Detail: [[II Areas/01_Research/Research Plans/LAB-04 - Atmospheric Confirmatory Campaign|LAB-04 - Atmospheric Confirmatory Campaign]]. **Theory in parallel:** fit a baseline probability/delay model on training data and compare measured channel timescales with the reduced physical description.
 
 ## WP5 — Test prediction on unseen sessions (Nov 2027–Feb 2028)
 
@@ -88,7 +88,7 @@ Read from top to bottom. Laboratory work and theory develop together; each outpu
 2. Compare predicted breakdown probability and time-to-event distributions with complete held-out sessions; retain censored attempts and show failure regions.
 3. Select an operating point from training/calibration evidence, then test that **preselected** point independently. A feature measured after a pulse cannot retrospectively select that pulse's energy.
 
-**Output:** validated prediction or a documented lack of improvement, plus an independent technical check. Detail: [[II Areas/01_Research/Research Plans/LAB-05 - Independent Prediction and Operating-Choice Check]].
+**Output:** validated prediction or a documented lack of improvement, plus an independent technical check. Detail: [[II Areas/01_Research/Research Plans/LAB-05 - Independent Prediction and Operating-Choice Check|LAB-05 - Independent Prediction and Operating-Choice Check]].
 
 ## WP6 — TCO synthesis (Mar–Apr 2028)
 
@@ -98,7 +98,7 @@ Read from top to bottom. Laboratory work and theory develop together; each outpu
 2. Combine independently validated performance from WP5 with these costs; compare shared-facility and dedicated-installation scenarios separately.
 3. Report feasible choices, uncertainty, sensitivity and break-even boundaries, or no demonstrated feasible/stable choice. Prepare Paper 2.
 
-**Output:** bounded TCO and a defensible operating-choice result. Detail: [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]]. This stage uses WP0–WP5; it does not add a new mandatory laboratory campaign.
+**Output:** bounded TCO and a defensible operating-choice result. Detail: [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice|P3 - Techno-economic operating choice]]. This stage uses WP0–WP5; it does not add a new mandatory laboratory campaign.
 
 ## WP7 — Dissertation and submission (continuous writing; Jun–Aug 2028)
 
@@ -114,4 +114,4 @@ Read from top to bottom. Laboratory work and theory develop together; each outpu
 
 `approved apparatus → calibrated time and shot record → no-laser reference → observable channel → frozen confirmatory design → independent prediction → bounded TCO → dissertation`
 
-**Detailed master plan:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Controlling reviewer scope:** [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]].
+**Detailed master plan:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028|RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Controlling reviewer scope:** [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]].

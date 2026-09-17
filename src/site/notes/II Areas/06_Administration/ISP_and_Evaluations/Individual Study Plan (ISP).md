@@ -21,7 +21,7 @@ The long-term goal of the research programme is to contribute to technically and
 
 Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
-This note records the narrative alignment of the research programme with the official ISP. Exact courses, results and formal obligations are verified in KOS and tracked in [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker]].
+This note records the narrative alignment of the research programme with the official ISP. Exact courses, results and formal obligations are verified in KOS and tracked in [[II Areas/06_Administration/Credits_and_Exams/Credits & Exam Tracker|Credits & Exam Tracker]].
 
 Approval evidence and unresolved dates are maintained in the private decision register. This narrative does not certify study-block completion.
 

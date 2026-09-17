@@ -193,7 +193,11 @@ function computeAnchorAttributes(filePath, linkTitle) {
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
-  let permalink = `/notes/${slugify(fileName)}`;
+  // Without an explicit permalink, Eleventy preserves the note's vault path.
+  // Use that same path for wikilinks; flattening it with slugify points to a
+  // different URL and makes otherwise valid links land on the 404 page.
+  const notePath = fileName.replace(/\.(md|canvas)$/i, "").replaceAll("\\", "/");
+  let permalink = `/notes/${notePath.split("/").map(encodeURIComponent).join("/")}/`;
   let deadLink = false;
   try {
     const startPath = "./src/site/notes/";

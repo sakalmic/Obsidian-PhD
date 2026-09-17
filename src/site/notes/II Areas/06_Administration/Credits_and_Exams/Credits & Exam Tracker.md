@@ -55,4 +55,4 @@ The historical filename is retained for links. Do not assume the older credit sy
 
 - [[ISP & Milestone Tracking|Doctoral Milestones & ISP Tracker]]
 - [[State Doctoral Exam & Minimum Thesis]]
-- [[II Areas/06_Administration/ISP_and_Evaluations/Individual Study Plan (ISP)]]
+- [[II Areas/06_Administration/ISP_and_Evaluations/Individual Study Plan (ISP)|Individual Study Plan (ISP)]]

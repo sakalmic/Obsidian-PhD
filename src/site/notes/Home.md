@@ -76,7 +76,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Measurement Chain Jitter De-Embedding</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Implement numerical de-convolution algorithms for Rogowski coil and photodiode response times.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/01-research/concepts/202609031300-timing-jitter-must-be-de-embedded-from-the-measurement-chain/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Timing Jitter</a>
+          <a class="internal-link" href="/notes/II%20Areas/01_Research/Concepts/202609031300%20-%20Timing%20Jitter%20Must%20Be%20De-Embedded%20from%20the%20Measurement%20Chain/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Timing Jitter</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Diagnostics</span>
         </div>
       </div>
@@ -99,7 +99,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Reduced Atmospheric Model Preparation</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Prepare electrostatic/reduced M0/M1 models; implementation and validation require evidence.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/01-research/simulations/comsol-multiphysics-setups/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 COMSOL Setup</a>
+          <a class="internal-link" href="/notes/II%20Areas/01_Research/Simulations/COMSOL%20Multiphysics%20Setups/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 COMSOL Setup</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Simulation</span>
         </div>
       </div>
@@ -112,7 +112,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Paper 1 Manuscript Drafting</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Prepare atmospheric metrology and statistical methods for the 2027 confirmation study.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/i-projects/01-manuscripts/paper-ieee-transactions-2026/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Paper 1 IEEE</a>
+          <a class="internal-link" href="/notes/I%20Projects/01_Manuscripts/Paper%20-%20IEEE%20Transactions%202026/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Paper 1 IEEE</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Drafting</span>
         </div>
       </div>
@@ -125,7 +125,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Year 2 ISP Evidence Review</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Consolidate completed doctoral examinations, credits, and conference plans for evaluation.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/06-administration/isp-and-evaluations/individual-study-plan-isp/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 ISP Tracker</a>
+          <a class="internal-link" href="/notes/II%20Areas/06_Administration/ISP_and_Evaluations/Individual%20Study%20Plan%20(ISP)/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 ISP Tracker</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">Annual Report</span>
         </div>
       </div>
@@ -148,7 +148,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Laser Energy Sensor Calibration Audit</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Verify pyroelectric joulemeter response curve and beam focal diameter measurements.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/01-research/experiments/calibrations/calibrations-index/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Calibrations</a>
+          <a class="internal-link" href="/notes/II%20Areas/01_Research/Experiments/Calibrations/Calibrations%20Index/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Calibrations</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">To verify</span>
         </div>
       </div>
@@ -184,7 +184,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">PARA + Zettelkasten Knowledge Architecture</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Integrated seven research statements (H1–H4, P1–P3) and verified Digital Garden synchronization.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/ii-areas/03-thesis/claim-ledger-and-evidence-matrix/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Claim Matrix</a>
+          <a class="internal-link" href="/notes/II%20Areas/03_Thesis/Claim_Ledger/Claim%20Ledger%20%26%20Evidence%20Matrix/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Claim Matrix</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">✓ Completed</span>
         </div>
       </div>
@@ -197,7 +197,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Research Methodology &amp; Protocols Standard</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Defined hypothesis verification protocols, parameter isolation rules, and error budgets.</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/system/research-methodology-and-workflows/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Methodology</a>
+          <a class="internal-link" href="/notes/_System/Research%20Methodology%20%26%20Workflows/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Methodology</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">✓ Completed</span>
         </div>
       </div>
@@ -210,7 +210,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
         <div style="color: var(--text-normal, #abb2bf); font-weight: 600; margin-bottom: 4px;">Core Literature Synthesis &amp; Indexing</div>
         <div style="color: var(--text-muted, #7f848e); font-size: 0.8em; margin-bottom: 6px;">Indexed key publications (Mikes2024, Sakala2025, Stepanova2026, Cikhardt2026).</div>
         <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75em;">
-          <a class="internal-link" href="/iii-resources/03-literature/literature-index/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Lit. Index</a>
+          <a class="internal-link" href="/notes/III%20Resources/03_Literature/Literature%20Index/" style="background: rgba(255,255,255,0.05); padding: 1px 5px; border-radius: 3px; color: var(--text-accent, #61afef); text-decoration: none;">📁 Lit. Index</a>
           <span style="color: var(--text-muted, #7f848e); font-weight: 600;">✓ Completed</span>
         </div>
       </div>
@@ -278,7 +278,7 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Essential links
 
-- **Current document hierarchy:** [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map]]
+- **Current document hierarchy:** [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]]
 
 - **Dissertation keystones:** [[Keystones/Keystones\|Core Claims & Findings]]
 - **Experimental archive:** [[II Areas/01_Research/Experiments/Experiments Index\|Experiments & Diagnostics]]
@@ -290,4 +290,4 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Mandatory economic contribution
 
-[[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.
+[[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice|P3 - Techno-economic operating choice]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO|Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.
