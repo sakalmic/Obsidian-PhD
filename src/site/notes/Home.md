@@ -244,10 +244,10 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Current public work
 
-| Project                                                                          | Priority | Status      | Updated    |
-| -------------------------------------------------------------------------------- | -------- | ----------- | ---------- |
-| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]               | high     | active | 2026-09-03 |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Atmospheric Metrology]] | high | active | 2026-09-03 |
+| Project                                                                                       | Priority | Status | Updated    |
+| --------------------------------------------------------------------------------------------- | -------- | ------ | ---------- |
+| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]                | high     | active | 2026-09-03 |
+| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Atmospheric Metrology]] | high     | active | 2026-09-03 |
 
 
 ---
