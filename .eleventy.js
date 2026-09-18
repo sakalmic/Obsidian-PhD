@@ -193,6 +193,30 @@ function computeAnchorAttributes(filePath, linkTitle) {
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
+
+  const assetExtensions = [".pdf", ".svg", ".pptx", ".docx", ".zip", ".png", ".jpg", ".jpeg", ".webp"];
+  const lowerFileName = fileName.toLowerCase();
+  const isAsset = assetExtensions.some(ext => lowerFileName.endsWith(ext));
+  if (isAsset) {
+    const baseName = fileName.split("/").pop().split("\\").pop();
+    let assetUrl = "/documents/" + encodeURIComponent(baseName);
+    if (fs.existsSync("./src/site/documents/" + baseName)) {
+      assetUrl = "/documents/" + encodeURIComponent(baseName);
+    } else if (fs.existsSync("./src/site/img/" + baseName)) {
+      assetUrl = "/img/" + encodeURIComponent(baseName);
+    } else if (fs.existsSync("./src/site/img/user/" + baseName)) {
+      assetUrl = "/img/user/" + encodeURIComponent(baseName);
+    }
+    return {
+      attributes: {
+        "class": "internal-link attachment-link",
+        "href": assetUrl,
+        "target": "_blank",
+        "rel": "noopener noreferrer",
+      },
+      innerHTML: title,
+    };
+  }
   // Without an explicit permalink, Eleventy preserves the note's vault path.
   // Use that same path for wikilinks; flattening it with slugify points to a
   // different URL and makes otherwise valid links land on the 404 page.
@@ -859,6 +883,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("src/site/img");
+  eleventyConfig.addPassthroughCopy("src/site/documents");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
