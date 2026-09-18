@@ -1,16 +1,7 @@
 ---
-title: "Dissertation Scope & Decision Log"
-aliases:
-  - "Doctoral Scope & Decision Register"
-type: administration
-status: active
-context: thesis
-date: 2026-09-07
-last_updated: "2026-09-14"
-dg-publish: true
-permalink: /ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/
-dg-permalink: /ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/
+{"dg-publish":true,"dg-permalink":"/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/","permalink":"/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/","title":"Dissertation Scope & Decision Log","noteIcon":"","created":"2026-09-07","updated":"2026-09-14","dg-note-properties":{"title":"Dissertation Scope & Decision Log","aliases":["Doctoral Scope & Decision Register"],"type":"administration","status":"active","context":"thesis","date":"2026-09-07","last_updated":"2026-09-14","permalink":"/ii-areas/06-administration/supervisor-sync/doctoral-scope-and-decision-register/"}}
 ---
+
 
 # Dissertation Scope & Decision Log
 
@@ -20,7 +11,7 @@ The candidate has approved variant 2 for planning and the vault alignment. This 
 
 The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 | ID | Decision | Current state / next evidence |
 | --- | --- | --- |
@@ -61,4 +52,4 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 
 Cost collection starts in WP0 and continues during acquisition. The prediction/evidence core closes by February 2028 and TCO synthesis by April. Tier 2/3 may continue from autumn 2028 into 2029 under separate resources; those dates do not extend the dissertation target. Submission is not acceptance of a paper and is not the defence date.
 
-Scientific details: [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]. Administrative gates: [[ISP & Milestone Tracking]]. Contribution/evidence mapping: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]. Historical records: [[Meeting - 2026-09-01 Supervisor Sync]].
+Scientific details: [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]. Administrative gates: [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]. Contribution/evidence mapping: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]. Historical records: [[II Areas/06_Administration/Supervisor_Sync/Meeting - 2026-09-01 Supervisor Sync\|Meeting - 2026-09-01 Supervisor Sync]].
