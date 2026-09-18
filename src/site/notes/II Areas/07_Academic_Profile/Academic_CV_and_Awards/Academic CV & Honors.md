@@ -11,7 +11,7 @@ type: cv
 status: active
 context: career
 date: 2026-09-01
-last_updated: 2026-09-06
+last_updated: 2026-09-18
 dg-publish: true
 dg-home-link: true
 dg-render-dataview: true
