@@ -29,19 +29,48 @@ This is the canonical operating manual for converting literature, models and lab
 > [!note] Alternativní varianty zobrazení workflow
 > Níže jsou připraveny 4 alternativní varianty zobrazení research spine (od strukturovaného procesního pipeline s přímými odkazy do Obsidianu až po kompaktní grafiku). Po otestování na desktopu i mobilu si vyberte preferovanou variantu a ostatní smažte.
 
-### Alternativa 1: Strukturovaný procesní pipeline s odkazy (Doporučeno)
+### Alternativa 1: Strukturovaný fázový pipeline s odkazy (Doporučeno)
 
-1. **[[III Resources/03_Literature/Literature Index|Verified source]]** — primární vědecký zdroj, bibliografické ověření a archivace originálu (`III Resources/03_Literature`)
-2. **[[III Resources/03_Literature/Literature Index|Literature note]]** — strukturovaný výtah metody, výsledků, limitů a nejistot (`LN - ...`)
-3. **[[II Areas/01_Research/01_MOC#Concepts|Atomic concept or synthesis]]** — trvalá atomická poznámka v Zettelkasten (`II Areas/01_Research/Concepts`)
-4. **[[II Areas/03_Thesis/03_MOC#Claims|Research question and CL]]** — formulace hypotézy a vazba na disertační claimy (`CL-01` až `CL-06`)
-5. **[[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Frozen protocol and analysis plan]]** — zmrazený experimentální protokol a plán vyhodnocení (`I Projects/02_Campaigns`)
-6. **[[II Areas/01_Research/Experiments/Evidence Index|Calibration and experiment]]** — exaktní kalibrace a měřicí kampaň LTSG (`II Areas/01_Research/Experiments`)
-7. **[[II Areas/01_Research/Experiments/Evidence Index#Dataset Manifests|Immutable dataset manifest]]** — neměnná laboratorní data se stopou a kontrolními součty (`Dataset Manifests/`)
-8. **[[II Areas/01_Research/Experiments/Evidence Index#Analysis Records|QC and analysis record]]** — strukturální kontrola kvality dat a reprodukovatelné skripty (`Analysis Records/`)
-9. **[[II Areas/01_Research/Experiments/Evidence Index|Independent repetition]]** — nezávislá replikace v jiné sérii nebo po výměně elektrod
-10. **[[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim decision]]** — vyhodnocení stavu hypotézy v Claim Ledgeru (`Supported` / `Bounded`)
-11. **[[I Projects/01_Manuscripts/Dissertation Manuscript|Manuscript and thesis chapter]]** — integrace výsledku do recenzovaného článku a kapitol disertace (`I Projects/01_Manuscripts`)
+> [!abstract] Fáze I · Rešerše a Zettelkasten (Vstup)
+> 1. **[[III Resources/03_Literature/Literature Index|Verified source]]**  
+>    *Primární vědecký zdroj, bibliografické ověření DOI a archivace originálu.*  
+>    📂 `III Resources/03_Literature`
+> 2. **[[III Resources/03_Literature/Literature Index|Literature note]]**  
+>    *Strukturovaný výtah metody, výsledků, mezí platnosti a experimentálních nejistot.*  
+>    📂 `III Resources/03_Literature (LN - ...)`
+> 3. **[[II Areas/01_Research/01_MOC#Concepts|Atomic concept or synthesis]]**  
+>    *Trvalá atomická poznámka v Zettelkasten formulovaná vlastními slovy.*  
+>    📂 `II Areas/01_Research/Concepts`
+
+> [!tip] Fáze II · Formulace hypotéz a plánu (Protokol)
+> 4. **[[II Areas/03_Thesis/03_MOC#Claims|Research question and CL]]**  
+>    *Formulace výzkumné otázky a provázání na claimy disertace.*  
+>    📂 `II Areas/03_Thesis/Claims (CL-01 až CL-06)`
+> 5. **[[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Frozen protocol and analysis plan]]**  
+>    *Předem zmrazený experimentální protokol a predeklarovaná pravidla vyhodnocení.*  
+>    📂 `I Projects/02_Campaigns`
+
+> [!example] Fáze III · Laboratorní verifikace a QC (Měření)
+> 6. **[[II Areas/01_Research/Experiments/Evidence Index|Calibration and experiment]]**  
+>    *Měřicí kampaň na LTSG aparatuře s ověřenou kalibrací a bezpečnostními zámky.*  
+>    📂 `II Areas/01_Research/Experiments`
+> 7. **[[II Areas/01_Research/Experiments/Evidence Index#Dataset Manifests|Immutable dataset manifest]]**  
+>    *Neměnná laboratorní data, časové značky a kryptografické kontrolní součty.*  
+>    📂 `II Areas/01_Research/Experiments/Dataset Manifests`
+> 8. **[[II Areas/01_Research/Experiments/Evidence Index#Analysis Records|QC and analysis record]]**  
+>    *Strukturální kontrola kvality dat a reprodukovatelné analytické skripty.*  
+>    📂 `II Areas/01_Research/Experiments/Analysis Records`
+> 9. **[[II Areas/01_Research/Experiments/Evidence Index|Independent repetition]]**  
+>    *Nezávislá replikace v jiné měřicí sérii nebo po výměně/servisu elektrod.*  
+>    📂 `II Areas/01_Research/Experiments`
+
+> [!check] Fáze IV · Syntéza a obhajoba (Výstup)
+> 10. **[[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim decision]]**  
+>     *Vyhodnocení stavu hypotézy v Claim Ledgeru (Supported / Falsified / Bounded).*  
+>     📂 `II Areas/03_Thesis/Claim_Ledger`
+> 11. **[[I Projects/01_Manuscripts/Dissertation Manuscript|Manuscript and thesis chapter]]**  
+>     *Začlenění podloženého výsledku do recenzovaného článku a kapitol disertace.*  
+>     📂 `I Projects/01_Manuscripts`
 
 ---
 

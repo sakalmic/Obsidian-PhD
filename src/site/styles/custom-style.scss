@@ -286,7 +286,20 @@ pre.mermaid .node path {
 
 .callout[data-callout="abstract"],
 .callout[data-callout="info"] {
+  border-left-color: var(--navy) !important;
+}
+
+.callout[data-callout="tip"] {
+  border-left-color: var(--blue) !important;
+}
+
+.callout[data-callout="example"] {
   border-left-color: var(--copper) !important;
+}
+
+.callout[data-callout="check"],
+.callout[data-callout="success"] {
+  border-left-color: var(--sage) !important;
 }
 
 .callout-title {
@@ -309,8 +322,38 @@ pre.mermaid .node path {
   padding-left: 1.2rem;
 }
 
-.callout-content li {
+.callout-content ul > li {
   margin: 0.28rem 0;
+}
+
+.callout-content ol {
+  margin: 0.85rem 0 0.35rem;
+  padding-left: 1.4rem;
+}
+
+.callout-content ol > li {
+  margin: 0.75rem 0;
+  line-height: 1.5;
+  color: var(--ink);
+}
+
+.callout-content ol > li strong {
+  font-family: var(--font-interface);
+  font-size: 1.02rem;
+  color: var(--navy-deep);
+}
+
+.callout-content ol > li em {
+  display: inline-block;
+  margin-top: 0.15rem;
+  color: var(--ink-soft);
+}
+
+.callout-content ol > li code {
+  font-size: 0.82em;
+  background: var(--paper-deep);
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
 }
 
 /* Tables */

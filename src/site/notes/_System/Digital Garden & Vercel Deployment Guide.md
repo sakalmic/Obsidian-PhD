@@ -23,13 +23,28 @@ This guide describes how selected notes from the **Obsidian-PhD** vault are publ
 > [!note] Alternativní varianty zobrazení publikační architektury
 > Níže jsou připraveny 4 alternativní varianty zobrazení publikačního řetězce (od strukturovaného procesního pipeline s přímými odkazy do Obsidianu a na externí služby až po kompaktní grafiku). Po otestování na desktopu i mobilu si vyberte preferovanou variantu a ostatní smažte.
 
-### Alternativa 1: Strukturovaný procesní pipeline s odkazy (Doporučeno)
+### Alternativa 1: Strukturovaný fázový pipeline s odkazy (Doporučeno)
 
-1. **[[_System/PhD Vault Architecture Guide|Obsidian Vault (Obsidian-PhD)]]** — lokální znalostní trezor; publikují se pouze vybrané poznámky s hlavičkou `dg-publish: true`.
-2. **[[_System/Digital Garden & Vercel Deployment Guide#Publishing notes|Digital Garden Plugin]]** — interní plugin Obsidianu přenášející změněné poznámky přes GitHub API.
-3. **[GitHub Repository (sakalmic/Obsidian-PhD)](https://github.com/sakalmic/Obsidian-PhD)** — centrální verzovaný repozitář se zdrojovými texty poznámek a šablonou Eleventy.
-4. **[Vercel CI/CD Build](https://vercel.com)** — automatický build runner spouštějící statický generátor Eleventy (`npm run build`).
-5. **[Veřejný Digital Garden (sakalmic-phd.vercel.app)](https://sakalmic-phd.vercel.app)** — výsledná statická publikace distribuovaná po globální síti Vercel Edge CDN.
+> [!abstract] Fáze A · Znalostní báze (Zdroj)
+> 1. **[[_System/PhD Vault Architecture Guide|Obsidian Vault (Obsidian-PhD)]]**  
+>    *Lokální znalostní trezor s akademickými poznámkami a hierarchií PARA.*  
+>    📂 `_Obsidian-PhD/` · publikační filtr: `dg-publish: true`
+
+> [!tip] Fáze B · Přenos a repozitář (Synchronizace)
+> 2. **[[_System/Digital Garden & Vercel Deployment Guide#Publishing notes|Digital Garden Plugin]]**  
+>    *Interní plugin Obsidianu přenášející vybrané poznámky přes GitHub API.*  
+>    ⚙️ `Obsidian → Settings → Digital Garden`
+> 3. **[GitHub Repository (sakalmic/Obsidian-PhD)](https://github.com/sakalmic/Obsidian-PhD)**  
+>    *Centrální verzovaný repozitář se zdrojovými kódy Eleventy webu.*  
+>    🌐 `github.com/sakalmic/Obsidian-PhD`
+
+> [!check] Fáze C · Sestavení a CDN (Distribuce)
+> 4. **[Vercel CI/CD Build](https://vercel.com)**  
+>    *Automatický build runner spouštějící statický kompilátor Eleventy.*  
+>    ⚡ `npm run build` · Eleventy + SASS
+> 5. **[Veřejný Digital Garden (sakalmic-phd.vercel.app)](https://sakalmic-phd.vercel.app)**  
+>    *Rychlá statická publikace s vyhledáváním a interaktivním grafem na Vercel CDN.*  
+>    🌍 `sakalmic-phd.vercel.app`
 
 ---
 
