@@ -284,23 +284,6 @@ pre.mermaid .node path {
   mix-blend-mode: normal !important;
 }
 
-.callout[data-callout="abstract"],
-.callout[data-callout="info"] {
-  border-left-color: var(--navy) !important;
-}
-
-.callout[data-callout="tip"] {
-  border-left-color: var(--blue) !important;
-}
-
-.callout[data-callout="example"] {
-  border-left-color: var(--copper) !important;
-}
-
-.callout[data-callout="check"],
-.callout[data-callout="success"] {
-  border-left-color: var(--sage) !important;
-}
 
 .callout-title {
   color: var(--navy-deep) !important;

@@ -20,11 +20,6 @@ This guide describes how selected notes from the **Obsidian-PhD** vault are publ
 
 ## Publication architecture
 
-> [!note] Alternativní varianty zobrazení publikační architektury
-> Níže jsou připraveny 4 alternativní varianty zobrazení publikačního řetězce (od strukturovaného procesního pipeline s přímými odkazy do Obsidianu a na externí služby až po kompaktní grafiku). Po otestování na desktopu i mobilu si vyberte preferovanou variantu a ostatní smažte.
-
-### Alternativa 1: Strukturovaný fázový pipeline s odkazy (Doporučeno)
-
 > [!abstract] Fáze A · Znalostní báze (Zdroj)
 > 1. **[[_System/PhD Vault Architecture Guide|Obsidian Vault (Obsidian-PhD)]]**  
 >    *Lokální znalostní trezor s akademickými poznámkami a hierarchií PARA.*  
@@ -42,38 +37,9 @@ This guide describes how selected notes from the **Obsidian-PhD** vault are publ
 > 4. **[Vercel CI/CD Build](https://vercel.com)**  
 >    *Automatický build runner spouštějící statický kompilátor Eleventy.*  
 >    ⚡ `npm run build` · Eleventy + SASS
-> 5. **[Veřejný Digital Garden (sakalmic-phd.vercel.app)](https://sakalmic-phd.vercel.app)**  
+> 5. **[Veřejný Digital Garden (sakalmic.phd)](https://sakalmic.phd)**  
 >    *Rychlá statická publikace s vyhledáváním a interaktivním grafem na Vercel CDN.*  
->    🌍 `sakalmic-phd.vercel.app`
-
----
-
-### Alternativa 2: Kompaktní inline řetězec (Breadcrumb Flow)
-
-`[[_System/PhD Vault Architecture Guide|Obsidian-PhD (Vault)]]` → *`Digital Garden plugin`* → **[GitHub Repo](https://github.com/sakalmic/Obsidian-PhD)** → *`Auto Build`* → **[Vercel (Eleventy)](https://vercel.com)** → *`Global CDN`* → **[sakalmic-phd.vercel.app](https://sakalmic-phd.vercel.app)**
-
----
-
-### Alternativa 3: Přehledná tabulka architektury
-
-| Vrstva | Komponenta | Funkce a role | Odkaz / Konfigurace |
-| :---: | :--- | :--- | :--- |
-| **01** | **Obsidian trezor** | Editace poznámek, správa claimů a literatury | [[_System/PhD Vault Architecture Guide\|Architektura trezoru]] |
-| **02** | **Digital Garden Plugin** | Filtrování poznámek s `dg-publish: true` a push | [[_System/Digital Garden & Vercel Deployment Guide#Publishing notes\|Postup publikace]] |
-| **03** | **GitHub repozitář** | Verzování zdrojových textů a Eleventy šablon | [sakalmic/Obsidian-PhD](https://github.com/sakalmic/Obsidian-PhD) |
-| **04** | **Vercel Build Engine** | Statická kompilace SASS a HTML přes 11ty | [[_System/Digital Garden & Vercel Deployment Guide#Language and visual configuration\|Konfigurace buildu]] |
-| **05** | **Veřejný web** | Globálně dostupná prezentace výzkumu na CDN | [sakalmic-phd.vercel.app](https://sakalmic-phd.vercel.app) |
-
----
-
-### Alternativa 4: Kompaktní responzivní Mermaid diagram
-
-```mermaid
-flowchart LR
-    A["Obsidian Vault<br/><code>Obsidian-PhD</code>"] -->|Publish| B["GitHub<br/><code>sakalmic/Obsidian-PhD</code>"]
-    B -->|Deploy| C["Vercel<br/><code>Eleventy Build</code>"]
-    C -->|CDN| D["Public Garden<br/><code>sakalmic-phd.vercel.app</code>"]
-```
+>    🌍 `sakalmic.phd`
 
 ---
 
