@@ -10,7 +10,7 @@ topics:
 tags:
   - topic/system/vault
 date: 2026-09-01
-last_updated: "2026-09-14"
+last_updated: "2026-09-18"
 dg-publish: true
 dg-home-link: true
 ---
@@ -35,47 +35,89 @@ The existing PARA structure is retained. Public notes are not moved merely for c
 <span style="color: #ffffff;">│   ├── 01_Manuscripts/             journal papers and manuscripts in preparation</span>
 <span style="color: #ffffff;">│   ├── 02_Campaigns/               measurement and diagnostic campaigns</span>
 <span style="color: #ffffff;">│   ├── 03_Milestones/              doctoral minimum study and defense</span>
-<span style="color: #ffffff;">│   └── 04_Grants/                  active grant proposals and reports</span>
+<span style="color: #8796a0;">│   └── 04_Grants/                  active grant proposals, SGS budgets and reports</span>
 <span style="color: #ffffff;">├── II Areas/                       author's scientific work and long-term responsibilities</span>
 <span style="color: #ffffff;">│   ├── 01_Research/                core research questions, models and evidence</span>
 <span style="color: #ffffff;">│   │   ├── Concepts/               atomic permanent notes (Zettelkasten)</span>
-<span style="color: #8796a0;">│   │   ├── Experiments/            measurement datasets, calibrations, logs (HiLASE)</span>
-<span style="color: #8796a0;">│   │   └── Simulations/            numerical models, configurations and scripts (COMSOL)</span>
+<span style="color: #ffffff;">│   │   ├── Experiments/            measurement datasets, calibrations, logs (HiLASE)</span>
+<span style="color: #ffffff;">│   │   ├── Simulations/            numerical models, configurations and scripts (COMSOL)</span>
+<span style="color: #ffffff;">│   │   ├── Apparatus_and_Safety/   LTSG chamber setup, optical lines, laser/HV safety</span>
+<span style="color: #ffffff;">│   │   └── Research Plans/         experimental campaign plans and ticket roadmaps</span>
 <span style="color: #ffffff;">│   ├── 02_Publications/            manuscript pipeline, venues, reviews and publication status</span>
+<span style="color: #ffffff;">│   │   ├── Conferences/            conference submissions, abstracts and proceedings</span>
+<span style="color: #ffffff;">│   │   └── Journal_Pipelines/      target peer-reviewed journals (IEEE, PSST)</span>
 <span style="color: #ffffff;">│   ├── 03_Thesis/                  dissertation structure, argument and evidence map</span>
-<span style="color: #ffffff;">│   │   ├── LaTeX_Thesis/           LaTeX manuscript source (main.tex)</span>
-<span style="color: #ffffff;">│   │   └── Claims/                 one atomic note per H or P statement</span>
+<span style="color: #ffffff;">│   │   ├── Claims/                 atomic scientific claims (CL-01 to CL-06)</span>
+<span style="color: #ffffff;">│   │   ├── Claim_Ledger/           evidence matrix linking experiments/models to claims</span>
+<span style="color: #ffffff;">│   │   ├── LaTeX_Thesis/           LaTeX manuscript source (main.tex) and structure</span>
+<span style="color: #8796a0;">│   │   └── State_Exam_Minimum/     doctoral state exam preparation & minimum notes</span>
 <span style="color: #8796a0;">│   ├── 04_Teaching/                courses, teaching evidence and supervised work</span>
+<span style="color: #8796a0;">│   │   ├── Courses/                physics and plasma laboratory exercises</span>
+<span style="color: #8796a0;">│   │   └── Student_Supervision/    supervision and review of BSc/MSc theses</span>
 <span style="color: #8796a0;">│   ├── 05_Grants/                  SGS funding, proposals, budgets and mobility support</span>
-<span style="color: #8796a0;">│   └── 06_Administration/          ISP, examinations, regulations and official records</span>
+<span style="color: #8796a0;">│   │   ├── External_Grants/        GAČR, TAČR and external consortium proposals</span>
+<span style="color: #8796a0;">│   │   ├── SGS_Projects/           SGS project administration, finances, reports</span>
+<span style="color: #8796a0;">│   │   └── Travel_Funding/         mobility grants and travel funding</span>
+<span style="color: #ffffff;">│   ├── 06_Administration/          ISP, examinations, regulations and official records</span>
+<span style="color: #ffffff;">│   │   ├── Credits_and_Exams/      doctoral credits, exam protocols and records</span>
+<span style="color: #ffffff;">│   │   ├── Directives_and_Regulations/ study and examination code, faculty directives</span>
+<span style="color: #ffffff;">│   │   ├── ISP_and_Evaluations/    individual study plan and annual evaluation reviews</span>
+<span style="color: #ffffff;">│   │   └── Supervisor_Sync/        meeting minutes and agreed actions with supervisor</span>
+<span style="color: #ffffff;">│   └── 07_Academic_Profile/        scientific profiles, CV and certifications</span>
+<span style="color: #ffffff;">│       ├── Academic_CV_and_Awards/ academic CV, scholarships and honors</span>
+<span style="color: #ffffff;">│       ├── Scientific_Profiles/    ORCID, ResearcherID, Scopus, Google Scholar</span>
+<span style="color: #ffffff;">│       └── Training_and_Workshops/ laser safety officer (LSO), summer schools, courses</span>
 <span style="color: #ffffff;">├── III Resources/                  external inputs, references and literature from others</span>
 <span style="color: #8796a0;">│   ├── 01_Books/                   reference books and monographs</span>
 <span style="color: #8796a0;">│   ├── 02_Lectures/                doctoral courses and lecture materials</span>
 <span style="color: #ffffff;">│   ├── 03_Literature/              source notes (LN - ...) and external scientific papers</span>
 <span style="color: #8796a0;">│   ├── 04_Methods/                 standard protocols, measurement SOPs and datasheets</span>
 <span style="color: #8796a0;">│   ├── 05_External_Data/           external databases (e.g. LXCat cross sections)</span>
-<span style="color: #ffffff;">│   └── 06_Conferences/             event calendar, submissions and conference proceedings</span>
+<span style="color: #ffffff;">│   └── 06_Conferences/             external conference calendar and events</span>
 <span style="color: #8796a0;">├── IV Archives/                    completed or superseded records retained for traceability</span>
-<span style="color: #8796a0;">├── Keystones/                      legacy location; do not add new notes</span>
+<span style="color: #ffffff;">├── Keystones/                      canonical keystone indices and high-level syntheses</span>
 <span style="color: #8796a0;">└── TEMPLATES/                      canonical templates for repeatable research records</span>
 </pre>
 
 > [!info] **Visibility in this diagram**
-> - <span style="background: #0c1822; color: #ffffff; border-radius: 3px; padding: 0.08rem 0.35rem;">White rows</span> identify folders that contain notes selected for the public Digital Garden.
-> - <span style="background: #0c1822; color: #8796a0; border-radius: 3px; padding: 0.08rem 0.35rem;">Grey rows</span> identify unpublished working folders that remain only in the local Obsidian vault. Their darker tone intentionally distinguishes them from the white public rows.
+> - <span style="background: #0c1822; color: #ffffff; border-radius: 3px; padding: 0.08rem 0.35rem;">White rows</span> identify folders that contain notes selected for the public Digital Garden (`sakalmic.phd`).
+> - <span style="background: #0c1822; color: #8796a0; border-radius: 3px; padding: 0.08rem 0.35rem;">Grey rows</span> identify unpublished working folders that remain only in the local Obsidian vault.
 > - The colour is an orientation aid, not a publication control. A note is published only when its frontmatter explicitly contains `dg-publish: true`; a folder can therefore contain both public and local notes.
+
+### Architecture & visibility matrix
+
+| Top-Level Folder | Subfolders & Modules | Workflow responsibility | Digital Garden Visibility |
+| :--- | :--- | :--- | :--- |
+| **`_Inbox/`** | `Fleeting/` | Rapid capture of ideas, fleeting thoughts; process within 7 days | 🔒 **Private** (local vault only) |
+| **`_Daily/`** | — | Daily logs, laboratory session tracking, intermediate task notes | 🔒 **Private** (local vault only) |
+| **`_System/`** | — | Canonical rules, workflows, publication guides, tagging schemes | 🌐 **Public** (`sakalmic.phd`) |
+| **`I Projects/`** | `01_Manuscripts/`<br>`02_Campaigns/`<br>`03_Milestones/` | Time-bounded outcomes: paper manuscripts, LTSG campaigns, doctoral milestones & direction tickets | 🌐 **Public** (`sakalmic.phd`) |
+| | `04_Grants/` | Active internal grant proposals, draft budgets and grant reports | 🔒 **Private** (local vault only) |
+| **`II Areas/`** | `01_Research/`<br>↳ `Concepts/`<br>↳ `Experiments/`<br>↳ `Simulations/`<br>↳ `Apparatus_and_Safety/`<br>↳ `Research Plans/` | Core research assets: permanent notes (Zettelkasten), experimental datasets (HiLASE), numerical models (COMSOL), setup/safety protocols, and campaign plans | 🌐 **Public** (`sakalmic.phd`) |
+| | `02_Publications/`<br>↳ `Conferences/`<br>↳ `Journal_Pipelines/` | Publication pipelines, target journals (IEEE, PSST), conference contributions | 🌐 **Public** (`sakalmic.phd`) |
+| | `03_Thesis/`<br>↳ `Claims/`<br>↳ `Claim_Ledger/`<br>↳ `LaTeX_Thesis/` | Dissertation structure, atomic claims (`CL-01`–`CL-06`), evidence ledger, LaTeX manuscripts | 🌐 **Public** (`sakalmic.phd`) |
+| | `03_Thesis/`<br>↳ `State_Exam_Minimum/` | Written materials for doctoral state exam and minimum study | 🔒 **Private** (internal review) |
+| | `04_Teaching/`<br>↳ `Courses/`<br>↳ `Student_Supervision/` | University teaching, physics laboratory exercises, BSc/MSc thesis supervision | 🔒 **Private** (local vault only) |
+| | `05_Grants/`<br>↳ `External_Grants/`<br>↳ `SGS_Projects/`<br>↳ `Travel_Funding/` | Funding management: SGS grants, external agency proposals (GAČR/TAČR), travel grants | 🔒 **Private** (local vault only) |
+| | `06_Administration/`<br>↳ `Credits_and_Exams/`<br>↳ `Directives_and_Regulations/`<br>↳ `ISP_and_Evaluations/`<br>↳ `Supervisor_Sync/` | Academic administration: credit trackers, CTU regulations, ISP evaluation records, supervisor minutes | 🌐 **Public** (`sakalmic.phd`) |
+| | `07_Academic_Profile/`<br>↳ `Academic_CV_and_Awards/`<br>↳ `Scientific_Profiles/`<br>↳ `Training_and_Workshops/` | Academic CV, honors, scientific identifiers (ORCID, WoS, Scopus), LSO certifications | 🌐 **Public** (`sakalmic.phd`) |
+| **`III Resources/`** | `03_Literature/`<br>`06_Conferences/` | Source literature notes (`LN - ...`), external paper reviews, external conference calendar | 🌐 **Public** (`sakalmic.phd`) |
+| | `01_Books/`<br>`02_Lectures/`<br>`04_Methods/`<br>`05_External_Data/` | External reference books, lecture materials, SOP measurement protocols, external datasets | 🔒 **Private** (local vault only) |
+| **`IV Archives/`** | — | Completed, inactive or superseded records retained for provenance; IDs are never reused | 🔒 **Private** (local vault only) |
+| **`Keystones/`** | — | High-level synthesis indices (`Keystones.md`) | 🌐 **Public** (`sakalmic.phd`) |
+| **`TEMPLATES/`** | — | Canonical note templates for consistent structure across the vault | 🔒 **Private** (local vault only) |
 
 ## Canonical sources of truth
 
 | Question | Canonical note |
 | --- | --- |
-| What is the active scientific programme and schedule? | [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]] |
-| What must be delivered in the next three weeks? | [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]] |
+| What is the active scientific programme and schedule? | [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]] |
+| What must be delivered in the next three weeks? | [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]] |
 | What is the dissertation title and chapter structure? | [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] |
-| Which scientific assertions are allowed? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]] and atomic H/P notes |
+| Which scientific assertions are allowed? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]] and atomic H/P notes |
 | How is evidence generated and promoted? | [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]] |
 | Which metadata are valid? | [[_System/Tags and Linking Convention\|Tags and Linking Convention]] |
-| What are the doctoral deadlines? | [[ISP & Milestone Tracking|Doctoral Milestones & ISP Tracker]] |
+| What are the doctoral deadlines? | [[ISP & Milestone Tracking\|Doctoral Milestones & ISP Tracker]] |
 
 Other notes link to or embed these sections. They must not maintain independent copies of the same schedule or claim status.
 
@@ -88,12 +130,13 @@ A project has a deadline, deliverable and finish condition. Divided into `01_Man
 ### II Areas
 
 Areas contain the author's primary scientific work, living syntheses and long-term responsibilities:
-- `01_Research/`: Concepts (Permanent notes), Experiments (HiLASE raw/processed data), Simulations (COMSOL models).
-- `02_Publications/`: Publication strategy, target journals, review records.
-- `03_Thesis/`: LaTeX thesis manuscript and atomic claims under `Claims/`.
-- `04_Teaching/`: Supervised student theses and course teaching.
-- `05_Grants/`: SGS grant administration and funding calls.
-- `06_Administration/`: ISP, study plan, and official faculty directives.
+- `01_Research/`: Concepts (Permanent notes / Zettelkasten), Experiments (HiLASE raw and processed data, calibrations, manifests), Simulations (COMSOL numerical models), Apparatus & Safety (LTSG chamber, optical lines, laser/HV safety), Research Plans (experimental campaign roadmaps).
+- `02_Publications/`: Publication strategy, target journals, review records, conference contributions.
+- `03_Thesis/`: LaTeX thesis manuscript, atomic scientific claims under `Claims/`, and evidence matrix under `Claim_Ledger/`.
+- `04_Teaching/`: Supervised student theses and course teaching (physics and plasma laboratories).
+- `05_Grants/`: SGS grant administration, external proposals and mobility support.
+- `06_Administration/`: ISP, study plan, supervisor sync records, credits, and official faculty directives.
+- `07_Academic_Profile/`: Scientific identifiers (ORCID, ResearcherID, Scopus), academic CV, honors, and certifications (LSO).
 
 ### III Resources
 
