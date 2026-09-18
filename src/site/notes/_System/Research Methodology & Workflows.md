@@ -26,18 +26,63 @@ This is the canonical operating manual for converting literature, models and lab
 
 ## 1. Research spine
 
+> [!note] Alternativní varianty zobrazení workflow
+> Níže jsou připraveny 4 alternativní varianty zobrazení research spine (od strukturovaného procesního pipeline s přímými odkazy do Obsidianu až po kompaktní grafiku). Po otestování na desktopu i mobilu si vyberte preferovanou variantu a ostatní smažte.
+
+### Alternativa 1: Strukturovaný procesní pipeline s odkazy (Doporučeno)
+
+1. **[[III Resources/03_Literature/Literature Index|Verified source]]** — primární vědecký zdroj, bibliografické ověření a archivace originálu (`III Resources/03_Literature`)
+2. **[[III Resources/03_Literature/Literature Index|Literature note]]** — strukturovaný výtah metody, výsledků, limitů a nejistot (`LN - ...`)
+3. **[[II Areas/01_Research/01_MOC#Concepts|Atomic concept or synthesis]]** — trvalá atomická poznámka v Zettelkasten (`II Areas/01_Research/Concepts`)
+4. **[[II Areas/03_Thesis/03_MOC#Claims|Research question and CL]]** — formulace hypotézy a vazba na disertační claimy (`CL-01` až `CL-06`)
+5. **[[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Frozen protocol and analysis plan]]** — zmrazený experimentální protokol a plán vyhodnocení (`I Projects/02_Campaigns`)
+6. **[[II Areas/01_Research/Experiments/Evidence Index|Calibration and experiment]]** — exaktní kalibrace a měřicí kampaň LTSG (`II Areas/01_Research/Experiments`)
+7. **[[II Areas/01_Research/Experiments/Evidence Index#Dataset Manifests|Immutable dataset manifest]]** — neměnná laboratorní data se stopou a kontrolními součty (`Dataset Manifests/`)
+8. **[[II Areas/01_Research/Experiments/Evidence Index#Analysis Records|QC and analysis record]]** — strukturální kontrola kvality dat a reprodukovatelné skripty (`Analysis Records/`)
+9. **[[II Areas/01_Research/Experiments/Evidence Index|Independent repetition]]** — nezávislá replikace v jiné sérii nebo po výměně elektrod
+10. **[[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim decision]]** — vyhodnocení stavu hypotézy v Claim Ledgeru (`Supported` / `Bounded`)
+11. **[[I Projects/01_Manuscripts/Dissertation Manuscript|Manuscript and thesis chapter]]** — integrace výsledku do recenzovaného článku a kapitol disertace (`I Projects/01_Manuscripts`)
+
+---
+
+### Alternativa 2: Kompaktní inline řetězec (Breadcrumb Flow)
+
+`[[III Resources/03_Literature/Literature Index|Verified source]]` → `[[III Resources/03_Literature/Literature Index|Literature note]]` → `[[II Areas/01_Research/01_MOC#Concepts|Atomic concept]]` → `[[II Areas/03_Thesis/03_MOC#Claims|Research question & CL]]` → `[[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Frozen protocol]]` → `[[II Areas/01_Research/Experiments/Evidence Index|Calibration & experiment]]` → `[[II Areas/01_Research/Experiments/Evidence Index#Dataset Manifests|Dataset manifest]]` → `[[II Areas/01_Research/Experiments/Evidence Index#Analysis Records|QC & analysis]]` → `[[II Areas/01_Research/Experiments/Evidence Index|Independent repetition]]` → `[[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim decision]]` → `[[I Projects/01_Manuscripts/Dissertation Manuscript|Manuscript & thesis]]`
+
+---
+
+### Alternativa 3: Přehledná tabulka fází výzkumu
+
+| Fáze | Krok procesu | Umístění v trezoru | Výstup / Kontrola |
+| :---: | :--- | :--- | :--- |
+| **01** | **Verified source** | [[III Resources/03_Literature/Literature Index\|III Resources / Literature]] | Ověřená bibliografie a DOI |
+| **02** | **Literature note** | [[III Resources/03_Literature/Literature Index\|Literature Notes (LN)]] | Metodika a extrahované poznatky |
+| **03** | **Atomic concept** | [[II Areas/01_Research/01_MOC#Concepts\|Concepts (Zettelkasten)]] | Formulace vlastními slovy |
+| **04** | **Research question & CL** | [[II Areas/03_Thesis/03_MOC#Claims\|Thesis Claims (CL)]] | Testovatelné tvrzení s falsifikací |
+| **05** | **Frozen protocol** | [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Research Campaigns]] | Zmrazené parametry a plán analýzy |
+| **06** | **Calibration & experiment** | [[II Areas/01_Research/Experiments/Evidence Index\|Experiments]] | Validní kalibrace a log měření |
+| **07** | **Dataset manifest** | [[II Areas/01_Research/Experiments/Evidence Index#Dataset Manifests\|Dataset Manifests]] | Neměnný dataset s kontrolními součty |
+| **08** | **QC & analysis record** | [[II Areas/01_Research/Experiments/Evidence Index#Analysis Records\|Analysis Records]] | Primární analýza a QC report |
+| **09** | **Independent repetition** | [[II Areas/01_Research/Experiments/Evidence Index\|Experiments]] | Replikace v jiné sérii / geometrii |
+| **10** | **Claim decision** | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger]] | Podložené rozhodnutí o platnosti |
+| **11** | **Manuscript & thesis** | [[I Projects/01_Manuscripts/Dissertation Manuscript\|Manuscripts & Thesis]] | Recenzovaný výstup a obhajitelný text |
+
+---
+
+### Alternativa 4: Kompaktní responzivní Mermaid diagram
+
 ```mermaid
 flowchart TB
-    A[Verified source] --> B[Literature note]
-    B --> C[Atomic concept or synthesis]
-    C --> D[Research question and CL]
-    D --> E[Frozen protocol and analysis plan]
-    E --> F[Calibration and experiment]
-    F --> G[Immutable dataset manifest]
-    G --> H[QC and analysis record]
-    H --> I[Independent repetition]
-    I --> J[Claim decision]
-    J --> K[Manuscript and thesis chapter]
+    A["1. Verified source"] --> B["2. Literature note"]
+    B --> C["3. Atomic concept"]
+    C --> D["4. Research question & CL"]
+    D --> E["5. Frozen protocol"]
+    E --> F["6. Calibration & experiment"]
+    F --> G["7. Dataset manifest"]
+    G --> H["8. QC & analysis record"]
+    H --> I["9. Independent repetition"]
+    I --> J["10. Claim decision"]
+    J --> K["11. Manuscript & thesis"]
 ```
 
 No arrow may be skipped for a principal dissertation claim.

@@ -233,8 +233,8 @@ pre code {
 pre.mermaid {
   display: flex;
   justify-content: center;
-  margin: 2rem 0;
-  padding: clamp(1.25rem, 3vw, 2.25rem) !important;
+  margin: 1.5rem 0;
+  padding: clamp(0.75rem, 2vw, 1.5rem) !important;
   border: 1px solid var(--line);
   border-radius: var(--radius-md);
   background: var(--surface) !important;
@@ -245,9 +245,8 @@ pre.mermaid {
 
 pre.mermaid svg {
   display: block;
-  width: 100% !important;
-  min-width: 520px;
-  max-width: 760px !important;
+  width: auto !important;
+  max-width: 100% !important;
   height: auto !important;
   margin: 0 auto;
 }
@@ -256,12 +255,12 @@ pre.mermaid .nodeLabel,
 pre.mermaid .edgeLabel {
   color: var(--navy-deep) !important;
   font-family: var(--font-interface) !important;
-  font-size: 17px !important;
+  font-size: 14px !important;
   line-height: 1.35 !important;
 }
 
 pre.mermaid .edgeLabel p {
-  padding: 0.22rem 0.42rem;
+  padding: 0.18rem 0.38rem;
   border-radius: 4px;
   background: var(--paper) !important;
 }
@@ -269,7 +268,7 @@ pre.mermaid .edgeLabel p {
 pre.mermaid .node rect,
 pre.mermaid .node polygon,
 pre.mermaid .node path {
-  stroke-width: 2px !important;
+  stroke-width: 1.5px !important;
 }
 
 /* Callouts */
