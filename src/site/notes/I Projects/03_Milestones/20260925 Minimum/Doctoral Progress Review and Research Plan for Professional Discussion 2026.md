@@ -415,6 +415,7 @@ Tier 3 may address one application of the resulting knowledge: recovery/history 
 
 The indicative continuation from autumn 2028 into 2029 is a research outlook. It is not an extended deadline for the dissertation. Earlier completion of an optional study does not make it a new obligation; inclusion of any mature optional result must not displace the writing or publication work required for Tier 1.
 
+
 ## 13. Proposed dissertation structure and questions for the discussion
 
 The planned monograph contains: (1) problem and technical/economic decision; (2) literature and inherited evidence; (3) apparatus, metrology and data integrity; (4) atmospheric operating domain; (5) predictive model and independent validation; (6) TCO and constrained operating choice; (7) synthesis, limits and follow-on research. Tier 2 and Tier 3 appear as outlooks, not required results chapters.
@@ -436,6 +437,13 @@ The requested resolution should record the proposed title, adequacy of the atmos
 The research foundation consists of seven voltage-reduction series from Master's work in May 2024 and three new doctoral delay series from February 2025. Their publication in ICOLSE and APL establishes continuity and experimental feasibility, but does not yet establish the calibrated predictive and economic contribution proposed here. The disputed monotonic irradiance–delay interpretation is not used.
 
 The next doctoral step is a reproducible atmospheric experiment with a calibrated optical reference, independent validation and a cost model constrained by measured performance. This provides a coherent route from discharge physics to a technical and economic decision while keeping the experimental scope manageable. Tier 1 is designed for submission in August 2028; CO₂ transfer and application development remain separate follow-on research. The professional discussion should test the adequacy and feasibility of this scope rather than require completion of the entire future programme.
+
+## 15. Attachments
+
+- [Milestone Timeline (PDF)](/img/user/I%20Projects/03_Milestones/20260925%20Minimum/phd_timeline_wp_cl.pdf)
+- [Milestone Timeline (SVG)](/img/user/I%20Projects/03_Milestones/20260925%20Minimum/phd_timeline_wp_cl.svg)
+- [Doctoral Progress Review 2026 (Reviewed)](/img/user/I%20Projects/03_Milestones/20260925%20Minimum/Sakala_Doctoral_Progress_Review_2026_reviewed.pdf)
+- [Rozprava 2026 CVUT (Reviewed)](/img/user/I%20Projects/03_Milestones/20260925%20Minimum/Sakala_Rozprava_2026_CVUT_reviewed.pdf)
 
 ## References
 
