@@ -244,35 +244,49 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Current public work
 
-| Project                                                                                       | Priority | Status | Updated    |
-| --------------------------------------------------------------------------------------------- | -------- | ------ | ---------- |
-| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]                | high     | active | 2026-09-03 |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Atmospheric Metrology]] | high     | active | 2026-09-03 |
+| File                                                                                                                                                          | Priority | Status | Updated            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ | ------------------ |
+| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]                                                                             | high     | active | September 14, 2026 |
+| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                                                               | high     | active | September 14, 2026 |
+| [[I Projects/02_Campaigns/COMSOL Plasma Simulation Model\|COMSOL Plasma Simulation Model]]                                                                 | high     | active | September 14, 2026 |
+| [[I Projects/02_Campaigns/Experimental Diagnostics Campaign\|Experimental Diagnostics Campaign]]                                                           | high     | active | September 14, 2026 |
+| [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]                                                     | critical | active | September 14, 2026 |
+| [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]                                                           | critical | active | September 14, 2026 |
+| [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] | critical | active | September 14, 2026 |
+
+{ .block-language-dataview}
 
 
 ---
 
 ## Publication pipeline
 
-| Manuscript                                                                       | Target venue                                         | Status      | Deadline          |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------- | ----------------- |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper 1 - Atmospheric Metrology]] | Venue selected after WP3 | active | November 30, 2027 |
+| File                                                                                                                | Target venue                                                                                                                                             | Status  | Deadline          |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- |
+| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                     | Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal. | active  | November 30, 2027 |
+| [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]] | \-                                                                                                                                                       | planned | April 30, 2028    |
+
+{ .block-language-dataview}
 
 
 ---
 
 ## Latest research notes
 
-| Note                                                                                                                                                                           | Updated    | Status |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------ |
-| [[II Areas/01_Research/Concepts/202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection\|202609011030 - Techno-Economic Valuation of Ultrafast Grid Protection]] | 2026-09-01 | \-     |
-| [[II Areas/01_Research/Concepts/202609011015 - Arc Quenching Dynamics in Hybrid Breakers\|202609011015 - Arc Quenching Dynamics in Hybrid Breakers]]                           | 2026-09-01 | \-     |
-| [[II Areas/01_Research/Concepts/202609011000 - Optical Breakdown Mechanism in Air\|202609011000 - Optical Breakdown Mechanism in Air]]                                         | 2026-09-01 | \-     |
-| [[II Areas/01_Research/Concepts/Zettelkasten Index\|Zettelkasten Index]]                                                                                                       | 2026-09-01 | \-     |
-| [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]]                                                         | 2026-09-01 | \-     |
-| [[III Resources/03_Literature/LN - Mikes2024 - Laser Spark Gaps\|LN - Mikes2024 - Laser Spark Gaps]]                                                                           | 2026-09-01 | \-     |
-| [[III Resources/03_Literature/Literature Index\|Literature Index]]                                                                                                             | 2026-09-01 | \-     |
-| [[III Resources/06_Conferences/Academic Conferences Directory\|Academic Conferences Directory]]                                                                                 | 2026-09-01 | \-     |
+| File                                                                                                                                                                | Updated            | Status                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------- |
+| [[II Areas/01_Research/Research Plans/RESEARCH-01 - Dissertation Research Roadmap\|RESEARCH-01 - Dissertation Research Roadmap]]                                 | September 16, 2026 | planned                          |
+| [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028\|RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]                 | September 16, 2026 | planned                          |
+| [[II Areas/06_Administration/ISP_and_Evaluations/Individual Study Plan (ISP)\|Individual Study Plan (ISP)]]                                                      | September 14, 2026 | active                           |
+| [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]]                                            | September 14, 2026 | active                           |
+| [[II Areas/06_Administration/Supervisor_Sync/Vault Alignment Record 2026-09-14\|Vault Alignment Record 2026-09-14]]                                              | September 16, 2026 | completed-with-open-verification |
+| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]                 | September 03, 2026 | complete                         |
+| [[III Resources/03_Literature/LN - Mikes2024 - Laser Spark Gaps\|LN - Mikes2024 - Laser Spark Gaps]]                                                             | September 03, 2026 | review                           |
+| [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]]                                           | September 14, 2026 | review                           |
+| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | September 03, 2026 | complete                         |
+| [[II Areas/06_Administration/Directives_and_Regulations/Doctoral Study Regulations & Directives\|Doctoral Study Regulations & Directives]]                       | September 03, 2026 | review                           |
+
+{ .block-language-dataview}
 
 
 ---
