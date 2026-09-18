@@ -1,16 +1,7 @@
 ---
-aliases:
-  - Digital Garden & Vercel Deployment Guide
-  - Digital Garden Setup
-tags:
-  - type/guide
-  - context/phd
-  - theme/system
-date: 2026-09-01
-last_updated: 2026-09-01
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/system/digital-garden-and-vercel-deployment-guide/","tags":["type/guide","context/phd","theme/system"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-01","dg-note-properties":{"aliases":["Digital Garden & Vercel Deployment Guide","Digital Garden Setup"],"tags":["type/guide","context/phd","theme/system"],"date":"2026-09-01","last_updated":"2026-09-01"}}
 ---
+
 
 # Digital Garden & Vercel Deployment Guide
 
@@ -21,12 +12,12 @@ This guide describes how selected notes from the **Obsidian-PhD** vault are publ
 ## Publication architecture
 
 > [!abstract] Fáze A · Znalostní báze (Zdroj)
-> 1. **[[_System/PhD Vault Architecture Guide|Obsidian Vault (Obsidian-PhD)]]**  
+> 1. **[[_System/PhD Vault Architecture Guide\|Obsidian Vault (Obsidian-PhD)]]**  
 >    *Lokální znalostní trezor s akademickými poznámkami a hierarchií PARA.*  
 >    📂 `_Obsidian-PhD/` · publikační filtr: `dg-publish: true`
 
 > [!tip] Fáze B · Přenos a repozitář (Synchronizace)
-> 2. **[[_System/Digital Garden & Vercel Deployment Guide#Publishing notes|Digital Garden Plugin]]**  
+> 2. **[[_System/Digital Garden & Vercel Deployment Guide#Publishing notes\|Digital Garden Plugin]]**  
 >    *Interní plugin Obsidianu přenášející vybrané poznámky přes GitHub API.*  
 >    ⚙️ `Obsidian → Settings → Digital Garden`
 > 3. **[GitHub Repository (sakalmic/Obsidian-PhD)](https://github.com/sakalmic/Obsidian-PhD)**  

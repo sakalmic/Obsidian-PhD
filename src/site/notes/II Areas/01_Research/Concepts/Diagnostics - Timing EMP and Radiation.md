@@ -1,26 +1,7 @@
 ---
-title: "Diagnostics - Timing, EMP and Radiation"
-aliases:
-  - LTSG Diagnostics
-  - EMP and Radiation Diagnostics
-type: method
-status: evergreen
-context: research
-topics:
-  - topic/ltsg/metrology
-  - topic/ltsg/timing
-  - topic/ltsg/emp
-  - topic/ltsg/radiation
-tags:
-  - topic/ltsg/metrology
-  - topic/ltsg/timing
-  - topic/ltsg/emp
-  - topic/ltsg/radiation
-date: 2026-09-02
-last_updated: "2026-09-14"
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/diagnostics-timing-emp-and-radiation/","title":"Diagnostics - Timing, EMP and Radiation","tags":["topic/ltsg/metrology","topic/ltsg/timing","topic/ltsg/emp","topic/ltsg/radiation"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-14","dg-note-properties":{"title":"Diagnostics - Timing, EMP and Radiation","aliases":["LTSG Diagnostics","EMP and Radiation Diagnostics"],"type":"method","status":"evergreen","context":"research","topics":["topic/ltsg/metrology","topic/ltsg/timing","topic/ltsg/emp","topic/ltsg/radiation"],"tags":["topic/ltsg/metrology","topic/ltsg/timing","topic/ltsg/emp","topic/ltsg/radiation"],"date":"2026-09-02","last_updated":"2026-09-14"}}
 ---
+
 
 # Diagnostics - Timing, EMP and Radiation
 
@@ -243,9 +224,9 @@ Campaign-level products include calibration files, sensor positions, uncertainty
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory - Laser-Triggered Breakdown and Switching]]
-- **Side:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter|Statistics - Breakdown Probability Delay and Jitter]]
-- **Down:** [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain|Timing Jitter Must Be De-Embedded from the Measurement Chain]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages|P2 - Reproducible optical and electrical stages]]
+- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
+- **Side:** [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
+- **Down:** [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages\|P2 - Reproducible optical and electrical stages]]
 
 ## Anchor sources
 

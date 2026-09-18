@@ -1,35 +1,11 @@
 ---
-title: "P2 - Reproducible optical and electrical stages"
-aliases:
-  - P2
-statement_id: P2
-type: research_proposition
-status: planned
-claim_role: "supporting"
-contribution: "supporting-C1"
-context: thesis
-work_packages:
-  - WP0
-  - WP2
-  - WP4
-datasets: []
-analyses: []
-manuscripts: ["Paper-1"]
-chapters: ["Chapter-4"]
-topics:
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-tags:
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-created: 2026-09-03
-last_updated: "2026-09-14"
-dg-publish: true
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/p2-reproducible-optical-and-electrical-stages/","title":"P2 - Reproducible optical and electrical stages","tags":["topic/ltsg/channel","topic/ltsg/timing"],"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"P2 - Reproducible optical and electrical stages","aliases":["P2"],"statement_id":"P2","type":"research_proposition","status":"planned","claim_role":"supporting","contribution":"supporting-C1","context":"thesis","work_packages":["WP0","WP2","WP4"],"datasets":[],"analyses":[],"manuscripts":["Paper-1"],"chapters":["Chapter-4"],"topics":["topic/ltsg/channel","topic/ltsg/timing"],"tags":["topic/ltsg/channel","topic/ltsg/timing"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
+
 
 # P2 - Reproducible optical and electrical stages
 
-Contribution: supporting-C1. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]].
+Contribution: supporting-C1. Atmospheric Tier 1 only; the statement remains unverified until linked evidence supports or bounds it. C4 supplies traceability. See [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]].
 
 ## Proposition
 
@@ -49,6 +25,6 @@ Support requires stable event ordering or a predeclared model comparison across 
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition|Space Charge Marks the Avalanche to Streamer Transition]] · [[II Areas/01_Research/Concepts/202609031200 - Competing Timescales Determine the Triggering Regime|Competing Timescales Determine the Triggering Regime]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
-- **Side:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]]
-- **Down:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Diagnostics - Timing EMP and Radiation]] · [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- **Up:** [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]] · [[II Areas/01_Research/Concepts/202609031200 - Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
+- **Side:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response\|P1 - Delay and jitter response]]
+- **Down:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]] · [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]

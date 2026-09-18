@@ -1,25 +1,7 @@
 ---
-title: "Avalanche Ionization Can Dominate Nanosecond Breakdown"
-aliases:
-  - Inverse Bremsstrahlung avalanche
-  - Cascade ionization
-type: concept
-status: evergreen
-context: research
-claims: [H1, H2, H4]
-topics:
-  - topic/ltsg/channel
-  - topic/ltsg/breakdown
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/channel
-  - topic/ltsg/breakdown
-created: 2026-09-03
-last_updated: "2026-09-14"
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031110-avalanche-ionization-can-dominate-nanosecond-breakdown/","title":"Avalanche Ionization Can Dominate Nanosecond Breakdown","tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/breakdown"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Avalanche Ionization Can Dominate Nanosecond Breakdown","aliases":["Inverse Bremsstrahlung avalanche","Cascade ionization"],"type":"concept","status":"evergreen","context":"research","claims":["H1","H2","H4"],"topics":["topic/ltsg/channel","topic/ltsg/breakdown"],"tags":["type/permanent","context/research","topic/ltsg/channel","topic/ltsg/breakdown"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
+
 
 # Avalanche Ionization Can Dominate Nanosecond Breakdown
 
@@ -56,9 +38,9 @@ The collision frequency affects energy absorption; pressure can increase collisi
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes|Keldysh Parameter Separates Strong-Field Ionization Regimes]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
-- **Down:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability|H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]]
+- **Up:** [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
+- **Down:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability\|H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy\|H2 - Channel state versus pulse energy]]
 
 ## Anchor sources
 

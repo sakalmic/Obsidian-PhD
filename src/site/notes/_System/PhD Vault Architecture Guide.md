@@ -1,23 +1,11 @@
 ---
-title: "PhD Vault Architecture Guide"
-aliases:
-  - System Guide
-type: guide
-status: evergreen
-context: phd
-topics:
-  - topic/system/vault
-tags:
-  - topic/system/vault
-date: 2026-09-01
-last_updated: "2026-09-18"
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/system/ph-d-vault-architecture-guide/","title":"PhD Vault Architecture Guide","tags":["topic/system/vault"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-18","dg-note-properties":{"title":"PhD Vault Architecture Guide","aliases":["System Guide"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/vault"],"tags":["topic/system/vault"],"date":"2026-09-01","last_updated":"2026-09-18"}}
 ---
+
 
 # PhD Vault Architecture Guide
 
-Scope authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]]. Working contributions are C1/C2/C3/C4, with atomic H1–H4 and P1–P3. Tier 1 includes bounded TCO; Tier 2/3 are follow-on. Preserve historical notes with an explicit historical status and keep current schedules consistent with the reviewer baseline.
+Scope authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]. Working contributions are C1/C2/C3/C4, with atomic H1–H4 and P1–P3. Tier 1 includes bounded TCO; Tier 2/3 are follow-on. Preserve historical notes with an explicit historical status and keep current schedules consistent with the reviewer baseline.
 
 This document defines the canonical architecture of **Obsidian-PhD**. The vault must support four connected outcomes: a defensible dissertation, reproducible evidence, timely publications and completion of doctoral obligations.
 
@@ -94,7 +82,7 @@ The existing PARA structure is retained. Public notes are not moved merely for c
 | Which scientific assertions are allowed? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]] and atomic H/P notes |
 | How is evidence generated and promoted? | [[_System/Research Methodology & Workflows\|Research Methodology & Workflows]] |
 | Which metadata are valid? | [[_System/Tags and Linking Convention\|Tags and Linking Convention]] |
-| What are the doctoral deadlines? | [[ISP & Milestone Tracking\|Doctoral Milestones & ISP Tracker]] |
+| What are the doctoral deadlines? | [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|Doctoral Milestones & ISP Tracker]] |
 
 Other notes link to or embed these sections. They must not maintain independent copies of the same schedule or claim status.
 

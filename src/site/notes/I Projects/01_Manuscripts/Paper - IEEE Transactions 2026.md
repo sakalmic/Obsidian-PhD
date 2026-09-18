@@ -1,39 +1,13 @@
 ---
-title: "Paper 1 - Atmospheric metrology and stochastic operating domain"
-aliases:
-  - Paper - IEEE Transactions 2026
-  - Paper 1 - Core LTSG Study
-project_id: Paper-1
-type: manuscript
-status: active
-context: publications
-priority: high
-parent_project: LTSG-Core
-due: 2027-11-30
-submission_deadline: 2027-11-30
-definition_of_done: "Submitted reproducible atmospheric metrology and stochastic-domain study, with independent repeat; C1 and supporting P2."
-target_journal_conference: "Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal."
-authors: "Michal Sakala, Jan Mikeš, collaborators to be confirmed by contribution"
-claims: ["H1", "P1", "P2"]
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-  - topic/ltsg/timing
-date: 2026-09-01
-last_updated: "2026-09-14"
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/i-projects/01-manuscripts/paper-ieee-transactions-2026/","title":"Paper 1 - Atmospheric metrology and stochastic operating domain","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Paper 1 - Atmospheric metrology and stochastic operating domain","aliases":["Paper - IEEE Transactions 2026","Paper 1 - Core LTSG Study"],"project_id":"Paper-1","type":"manuscript","status":"active","context":"publications","priority":"high","parent_project":"LTSG-Core","due":"2027-11-30","submission_deadline":"2027-11-30","definition_of_done":"Submitted reproducible atmospheric metrology and stochastic-domain study, with independent repeat; C1 and supporting P2.","target_journal_conference":"Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal.","authors":"Michal Sakala, Jan Mikeš, collaborators to be confirmed by contribution","claims":["H1","P1","P2"],"topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
+
 
 # Paper 1: Atmospheric metrology and stochastic operating domain
 
 The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ## Manuscript objective
 
@@ -62,10 +36,10 @@ Write methods during WP0–WP2, freeze contrasts in May–June 2027, confirm Jul
 
 ## Claim and thesis mapping
 
-- [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability|H1 - Laser-assisted breakdown probability]]
-- [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]]
-- [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages|P2 - Reproducible optical and electrical stages]] (supporting)
-- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline|Thesis Structure & Chapter Outline]]: Chapters 3–4.
-- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO|Paper 2 - Atmospheric Prediction and TCO]] owns the held-out M0/M1 comparison and economic synthesis.
+- [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability\|H1 - Laser-assisted breakdown probability]]
+- [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response\|P1 - Delay and jitter response]]
+- [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages\|P2 - Reproducible optical and electrical stages]] (supporting)
+- [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]]: Chapters 3–4.
+- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]] owns the held-out M0/M1 comparison and economic synthesis.
 
 The filename is retained for stable links. Select the journal after WP3 clarifies the contribution; no venue acceptance is assumed.

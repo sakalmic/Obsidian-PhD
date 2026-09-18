@@ -1,25 +1,7 @@
 ---
-title: "Photoionization Enables Positive Streamer Propagation in Air"
-aliases:
-  - Streamer photoionization
-  - Nonlocal ionization source
-type: concept
-status: evergreen
-context: research
-claims: [H3, H4]
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-created: 2026-09-03
-last_updated: "2026-09-14"
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031040-photoionization-enables-positive-streamer-propagation-in-air/","title":"Photoionization Enables Positive Streamer Propagation in Air","tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Photoionization Enables Positive Streamer Propagation in Air","aliases":["Streamer photoionization","Nonlocal ionization source"],"type":"concept","status":"evergreen","context":"research","claims":["H3","H4"],"topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
+
 
 # Photoionization Enables Positive Streamer Propagation in Air
 
@@ -51,9 +33,9 @@ where $I$ is an emitting-state source and $f$ is an absorption kernel. Helmholtz
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition|Space Charge Marks the Avalanche to Streamer Transition]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field|Electrode Geometry and Polarity Shape the Local Field]]
-- **Down:** [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry|H3 - Polarity and field geometry]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
+- **Up:** [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field\|Electrode Geometry and Polarity Shape the Local Field]]
+- **Down:** [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry\|H3 - Polarity and field geometry]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model\|H4 - Reduced predictive model]]
 
 ## Anchor sources
 

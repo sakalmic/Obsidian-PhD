@@ -1,37 +1,19 @@
 ---
-title: "Claim Ledger & Evidence Matrix"
-aliases:
-  - Claim Ledger
-  - Evidence Matrix
-type: moc
-status: active
-context: thesis
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-  - topic/ltsg/model
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/statistics
-  - topic/ltsg/model
-date: 2026-09-01
-last_updated: "2026-09-14"
-dg-publish: true
-dg-home-link: true
-dg-render-dataview: true
+{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claim-ledger/claim-ledger-and-evidence-matrix/","title":"Claim Ledger & Evidence Matrix","tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Claim Ledger & Evidence Matrix","aliases":["Claim Ledger","Evidence Matrix"],"type":"moc","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/statistics","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
+
 
 # Claim Ledger & Evidence Matrix
 
 The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 This is the dashboard for all scientific claims permitted in the dissertation. The stable H/P identifiers are now represented by atomic notes so that datasets, analyses, manuscripts and chapters can link to them through properties.
 
 ## Document authority
 
-Use [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]] for the document hierarchy. The reviewer report governs current scope; stable atomic H1–H4 and P1–P3 define the tests. C1–C4 are Tier 1 contribution groups in expected completion order. C5 and C6 are separately resourced Tier 2 contributions. RQ identifies a question, H a testable hypothesis, and P a research proposition.
+Use [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]] for the document hierarchy. The reviewer report governs current scope; stable atomic H1–H4 and P1–P3 define the tests. C1–C4 are Tier 1 contribution groups in expected completion order. C5 and C6 are separately resourced Tier 2 contributions. RQ identifies a question, H a testable hypothesis, and P a research proposition.
 
 ## Contribution architecture
 

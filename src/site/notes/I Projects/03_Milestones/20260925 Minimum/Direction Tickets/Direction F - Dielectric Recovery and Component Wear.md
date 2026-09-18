@@ -1,32 +1,15 @@
 ---
-title: "F · Dielectric Recovery & Electrode Wear"
-aliases:
-  - "Direction F - Dielectric Recovery and Component Wear"
-  - "Dissertation Direction F"
-ticket_id: DIR-F
-type: project
-status: "historical-alternative"
-context: thesis
-priority: high
-parent_project: MIN-2026
-direction_family: core
-decision_state: not-selected
-date: 2026-09-10
-last_updated: "2026-09-14"
-dg-publish: true
-dg-home-link: false
-permalink: /direction-f-dielectric-recovery-and-component-wear/
-dg-permalink: /direction-f-dielectric-recovery-and-component-wear/
-scope_status: "superseded-by-review-2026-09-14"
+{"dg-publish":true,"dg-permalink":"/direction-f-dielectric-recovery-and-component-wear/","permalink":"/direction-f-dielectric-recovery-and-component-wear/","title":"F · Dielectric Recovery & Electrode Wear","noteIcon":"","created":"2026-09-10","updated":"2026-09-14","dg-note-properties":{"title":"F · Dielectric Recovery & Electrode Wear","aliases":["Direction F - Dielectric Recovery and Component Wear","Dissertation Direction F"],"ticket_id":"DIR-F","type":"project","status":"historical-alternative","context":"thesis","priority":"high","parent_project":"MIN-2026","direction_family":"core","decision_state":"not-selected","date":"2026-09-10","last_updated":"2026-09-14","permalink":"/direction-f-dielectric-recovery-and-component-wear/","scope_status":"superseded-by-review-2026-09-14"}}
 ---
+
 
 # F · Dielectric Recovery & Electrode Wear
 
 > [!info] Historical alternative, not the current assignment (14 September 2026)
-> This document preserves an earlier design option. Current planning authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]]: long-term SF₆ replacement; mandatory atmospheric-air Tier 1 with TCO; August 2028 submission; Tier 2/3 outside mandatory completion. Earlier dates, promises and parameters below are not current obligations or newly verified evidence. Historical shot counts and the general irradiance–delay trend remain unverified.
+> This document preserves an earlier design option. Current planning authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]]: long-term SF₆ replacement; mandatory atmospheric-air Tier 1 with TCO; August 2028 submission; Tier 2/3 outside mandatory completion. Earlier dates, promises and parameters below are not current obligations or newly verified evidence. Historical shot counts and the general irradiance–delay trend remain unverified.
 
 > [!summary] Direction decision
-> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
+> **Current state:** not selected. Review and selection are coordinated in [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]. Formal approval is recorded once in the central decision log.
 
 ## Purpose
 
@@ -109,6 +92,6 @@ The direction is complete when its core claim is supported, falsified or quantit
 
 ## Related research
 
-- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
-- [[II Areas/01_Research/Concepts/202609031350 - Arc Conductance and Recovery Compete After Current Zero|Arc conductance and post-zero recovery]]
-- [[II Areas/01_Research/Concepts/202609031320 - Electrode Conditioning Creates History Dependence|Electrode conditioning and history]]
+- [[I Projects/03_Milestones/20260925 Minimum/Dissertation Direction Portfolio and Winning Variant W 2026-2029\|Dissertation Research Paths & Final Choice (2026–2028, 2029)]]
+- [[II Areas/01_Research/Concepts/202609031350 - Arc Conductance and Recovery Compete After Current Zero\|Arc conductance and post-zero recovery]]
+- [[II Areas/01_Research/Concepts/202609031320 - Electrode Conditioning Creates History Dependence\|Electrode conditioning and history]]

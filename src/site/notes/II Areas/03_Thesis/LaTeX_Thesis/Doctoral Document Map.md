@@ -1,14 +1,7 @@
 ---
-title: "Doctoral Document Map"
-type: administration
-status: active
-context: thesis
-date: 2026-09-07
-last_updated: "2026-09-14"
-dg-publish: true
-permalink: /ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/
-dg-permalink: /ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/
+{"dg-publish":true,"dg-permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/","permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/","title":"Doctoral Document Map","noteIcon":"","created":"2026-09-07","updated":"2026-09-14","dg-note-properties":{"title":"Doctoral Document Map","type":"administration","status":"active","context":"thesis","date":"2026-09-07","last_updated":"2026-09-14","permalink":"/ii-areas/03-thesis/la-te-x-thesis/doctoral-document-map/"}}
 ---
+
 
 # Doctoral Document Map
 
@@ -18,7 +11,7 @@ Current atomic register: H1–H4 and P1–P3; P3 adds mandatory TCO. The current
 
 The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 | Contribution | Evidence and role |
 | --- | --- |
@@ -33,12 +26,12 @@ H3 is supporting robustness within the frozen atmospheric configuration family. 
 
 | Question | Authoritative working document | Role |
 | --- | --- | --- |
-| What governs the current scope? | [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]] | Current reviewer baseline, 14 September 2026 |
-| Which dissertation variants have been compared? | [[Variant Dissertation Topics 2026]] | Six executable variants with equipment and schedule estimates |
-| Which emerging commercial directions are worth testing? | [[Outside-the-Box Dissertation Topics 2026]] | Opportunity scan with gates, risks and market routes |
+| What governs the current scope? | [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]] | Current reviewer baseline, 14 September 2026 |
+| Which dissertation variants have been compared? | [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]] | Six executable variants with equipment and schedule estimates |
+| Which emerging commercial directions are worth testing? | [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]] | Opportunity scan with gates, risks and market routes |
 | What is the dissertation about? | [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]] | Working title, promise and writing status |
 | How is the argument organised? | [[II Areas/03_Thesis/LaTeX_Thesis/Thesis Structure & Chapter Outline\|Thesis Structure & Chapter Outline]] | Chapter architecture |
-| What must be tested? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]] and atomic H/P notes | Claims and evidence rules |
+| What must be tested? | [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]] and atomic H/P notes | Claims and evidence rules |
 | What evidence exists? | [[II Areas/01_Research/Experiments/Evidence Index\|Evidence Index]] | Calibrations, datasets and analyses |
 | Which outputs are planned? | [[II Areas/02_Publications/Journal_Pipelines/Publication Strategy & Targets\|Publication Strategy & Targets]] | Scientific publication sequence |
 | What is the experimental baseline? | [[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety\|LTSG Apparatus & Laboratory Safety]] | Verified configuration versus requirements |

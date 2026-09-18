@@ -1,22 +1,7 @@
 ---
-title: "Theory - Laser-Triggered Breakdown and Switching"
-aliases:
-  - LTSG Theory
-  - Laser-Triggered Breakdown Theory
-type: synthesis
-status: evergreen
-context: research
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-tags:
-  - topic/ltsg/breakdown
-  - topic/ltsg/channel
-date: 2026-09-02
-last_updated: "2026-09-14"
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/theory-laser-triggered-breakdown-and-switching/","title":"Theory - Laser-Triggered Breakdown and Switching","tags":["topic/ltsg/breakdown","topic/ltsg/channel"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-14","dg-note-properties":{"title":"Theory - Laser-Triggered Breakdown and Switching","aliases":["LTSG Theory","Laser-Triggered Breakdown Theory"],"type":"synthesis","status":"evergreen","context":"research","topics":["topic/ltsg/breakdown","topic/ltsg/channel"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel"],"date":"2026-09-02","last_updated":"2026-09-14"}}
 ---
+
 
 # Theory - Laser-Triggered Breakdown and Switching
 
@@ -44,13 +29,13 @@ The dissertation should therefore distinguish at least four timescales:
 
 The atomic derivations, assumptions and measurement consequences are maintained separately:
 
-- **Optics and seed production:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] → [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes|Keldysh Parameter Separates Strong-Field Ionization Regimes]] / [[II Areas/01_Research/Concepts/202609031110 - Avalanche Ionization Can Dominate Nanosecond Breakdown|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
-- **Electron kinetics:** [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics|Reduced Electric Field Governs Electron Kinetics]] → [[II Areas/01_Research/Concepts/202609031010 - Electron Energy Distribution Determines Transport Coefficients|Electron Energy Distribution Determines Transport Coefficients]] → [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory|Electron Attachment Recombination and Diffusion Erase Plasma Memory]]
-- **Discharge transition:** [[II Areas/01_Research/Concepts/202609031020 - Townsend Avalanche Is Exponential but Not Yet a Streamer|Townsend Avalanche Is Exponential but Not Yet a Streamer]] → [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition|Space Charge Marks the Avalanche to Streamer Transition]] → [[II Areas/01_Research/Concepts/202609031040 - Photoionization Enables Positive Streamer Propagation in Air|Photoionization Enables Positive Streamer Propagation in Air]]
-- **Delayed channel:** [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory|Hydrodynamic Density Depression Creates Electrical Memory]] and [[II Areas/01_Research/Concepts/202609031200 - Competing Timescales Determine the Triggering Regime|Competing Timescales Determine the Triggering Regime]]
-- **Geometry and history:** [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field|Electrode Geometry and Polarity Shape the Local Field]] and [[II Areas/01_Research/Concepts/202609031320 - Electrode Conditioning Creates History Dependence|Electrode Conditioning Creates History Dependence]]
-- **Measurement and inference:** [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain|Timing Jitter Must Be De-Embedded from the Measurement Chain]], [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities|Measurement Uncertainty Must Propagate Through Derived Quantities]] and [[II Areas/01_Research/Concepts/202609031340 - Predictive Validation Must Be Separated from Model Calibration|Predictive Validation Must Be Separated from Model Calibration]]
-- **Post-breakdown dynamics:** [[II Areas/01_Research/Concepts/202609031330 - Plasma and External Circuit Form One Dynamical System|Plasma and External Circuit Form One Dynamical System]]
+- **Optics and seed production:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] → [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] / [[II Areas/01_Research/Concepts/202609031110 - Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
+- **Electron kinetics:** [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]] → [[II Areas/01_Research/Concepts/202609031010 - Electron Energy Distribution Determines Transport Coefficients\|Electron Energy Distribution Determines Transport Coefficients]] → [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]]
+- **Discharge transition:** [[II Areas/01_Research/Concepts/202609031020 - Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]] → [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]] → [[II Areas/01_Research/Concepts/202609031040 - Photoionization Enables Positive Streamer Propagation in Air\|Photoionization Enables Positive Streamer Propagation in Air]]
+- **Delayed channel:** [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]] and [[II Areas/01_Research/Concepts/202609031200 - Competing Timescales Determine the Triggering Regime\|Competing Timescales Determine the Triggering Regime]]
+- **Geometry and history:** [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field\|Electrode Geometry and Polarity Shape the Local Field]] and [[II Areas/01_Research/Concepts/202609031320 - Electrode Conditioning Creates History Dependence\|Electrode Conditioning Creates History Dependence]]
+- **Measurement and inference:** [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]], [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]] and [[II Areas/01_Research/Concepts/202609031340 - Predictive Validation Must Be Separated from Model Calibration\|Predictive Validation Must Be Separated from Model Calibration]]
+- **Post-breakdown dynamics:** [[II Areas/01_Research/Concepts/202609031330 - Plasma and External Circuit Form One Dynamical System\|Plasma and External Circuit Form One Dynamical System]]
 
 ## 2. Laser field and focal intensity
 
@@ -253,8 +238,8 @@ Mandatory controls are therefore:
 
 ## Connections
 
-- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Diagnostics - Timing EMP and Radiation]] · [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter|Statistics - Breakdown Probability Delay and Jitter]]
-- **Down:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)|Laser-Triggered Spark Gaps (LTSG)]] · [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics|Laser-Induced Plasma Dynamics]]
+- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]] · [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
+- **Down:** [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]] · [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
 
 ## Anchor references
 

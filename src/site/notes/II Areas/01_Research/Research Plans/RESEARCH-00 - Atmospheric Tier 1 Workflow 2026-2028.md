@@ -1,36 +1,28 @@
 ---
-title: RESEARCH-00 - Atmospheric Tier 1 workflow 2026-2028
-aliases:
-  - Atmospheric Tier 1 workflow
-type: research-ticket
-status: planned
-parent_project: LTSG-Core
-scope: mandatory-tier-1
-created: 2026-09-16
-last_updated: 2026-09-16
-dg-publish: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/research-plans/research-00-atmospheric-tier-1-workflow-2026-2028/","title":"RESEARCH-00 - Atmospheric Tier 1 workflow 2026-2028","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"RESEARCH-00 - Atmospheric Tier 1 workflow 2026-2028","aliases":["Atmospheric Tier 1 workflow"],"type":"research-ticket","status":"planned","parent_project":"LTSG-Core","scope":"mandatory-tier-1","created":"2026-09-16","last_updated":"2026-09-16"}}
 ---
+
 
 # RESEARCH-00 — Atmospheric Tier 1 workflow, 2026–2028
 
-For the concise two-level schedule, start with [[II Areas/01_Research/Research Plans/RESEARCH-01 - Dissertation Research Roadmap|RESEARCH-01 - Dissertation Research Roadmap]]. This ticket retains the detailed experiment–theory handoffs and completion rules.
+For the concise two-level schedule, start with [[II Areas/01_Research/Research Plans/RESEARCH-01 - Dissertation Research Roadmap\|RESEARCH-01 - Dissertation Research Roadmap]]. This ticket retains the detailed experiment–theory handoffs and completion rules.
 
 ## Decision and boundary
 
 **Objective:** produce a defensible atmospheric-air dissertation that links calibrated breakdown measurements, a constrained physical interpretation, independently validated stochastic prediction and a bounded techno-economic operating choice. The working target is **submission in August 2028**. Tier 2 (CO₂/pressure) and Tier 3 (applications or online control) are outside mandatory completion. The long-term SF₆ replacement objective motivates the programme but is not an achieved Tier 1 result.
 
-**Authority:** [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Current reviewer report]]. This ticket translates that plan into tasks; laboratory access, equipment availability, formal study approval and numerical performance requirements still need confirmation.
+**Authority:** [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Current reviewer report]]. This ticket translates that plan into tasks; laboratory access, equipment availability, formal study approval and numerical performance requirements still need confirmation.
 
 ## Linked laboratory tickets
 
 | Order and target period | Ticket | Required handoff |
 | --- | --- | --- |
-| 0 · Sep–Dec 2026 | [[II Areas/01_Research/Research Plans/LAB-00 - Apparatus and Timing Readiness|Apparatus and timing readiness]] | Approved configuration, calibrated measurement chain, shot schema, safe operating procedure and cost-log boundary. |
-| 1 · Jan–Feb 2027 | [[II Areas/01_Research/Research Plans/LAB-01 - Atmospheric No-Laser Baseline|No-laser baseline]] | Contemporary $U_{50}$ estimate, uncertainty and session/electrode history. |
-| 2 · Mar–Apr 2027 | [[II Areas/01_Research/Research Plans/LAB-02 - Laser and Channel Diagnostic Pilot|Laser and channel pilot]] | Measured optical inputs and one interpretable shot-linked channel descriptor, or a documented diagnostic limit. |
-| 3 · May–Jun 2027 | [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate|Screening and June gate]] | Small confirmatory matrix, precision-based attempt count, frozen analysis and explicit stop/go decision. |
-| 4 · Jul–Oct 2027 | [[II Areas/01_Research/Research Plans/LAB-04 - Atmospheric Confirmatory Campaign|Atmospheric confirmation]] | QC-passed, shot-level dataset including failures and an independent realignment/session repeat. |
-| 5 · Nov 2027–Feb 2028 | [[II Areas/01_Research/Research Plans/LAB-05 - Independent Prediction and Operating-Choice Check|Independent prediction and choice check]] | Untouched-session test of frozen M0/M1 and technical feasibility of a preselected operating choice. |
+| 0 · Sep–Dec 2026 | [[II Areas/01_Research/Research Plans/LAB-00 - Apparatus and Timing Readiness\|Apparatus and timing readiness]] | Approved configuration, calibrated measurement chain, shot schema, safe operating procedure and cost-log boundary. |
+| 1 · Jan–Feb 2027 | [[II Areas/01_Research/Research Plans/LAB-01 - Atmospheric No-Laser Baseline\|No-laser baseline]] | Contemporary $U_{50}$ estimate, uncertainty and session/electrode history. |
+| 2 · Mar–Apr 2027 | [[II Areas/01_Research/Research Plans/LAB-02 - Laser and Channel Diagnostic Pilot\|Laser and channel pilot]] | Measured optical inputs and one interpretable shot-linked channel descriptor, or a documented diagnostic limit. |
+| 3 · May–Jun 2027 | [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate\|Screening and June gate]] | Small confirmatory matrix, precision-based attempt count, frozen analysis and explicit stop/go decision. |
+| 4 · Jul–Oct 2027 | [[II Areas/01_Research/Research Plans/LAB-04 - Atmospheric Confirmatory Campaign\|Atmospheric confirmation]] | QC-passed, shot-level dataset including failures and an independent realignment/session repeat. |
+| 5 · Nov 2027–Feb 2028 | [[II Areas/01_Research/Research Plans/LAB-05 - Independent Prediction and Operating-Choice Check\|Independent prediction and choice check]] | Untouched-session test of frozen M0/M1 and technical feasibility of a preselected operating choice. |
 
 Ticket dates are planning windows, not booked beam time. Each laboratory ticket must link its protocol version, calibration records, dataset manifest and QC/analysis record before being marked complete. Keep private apparatus details and raw storage locations in internal records, not public notes.
 
@@ -48,7 +40,7 @@ Ticket dates are planning windows, not booked beam time. Each laboratory ticket 
 
 ## Model boundary and optional upgrade
 
-The mandatory model is **field calculation → measurement-constrained channel description → stochastic probability/delay prediction → independent validation**. It describes how measured channel state changes breakdown risk over time, but does not promise a spatial movie of every streamer or the completed arc. Time-resolved imaging or interferometry may support a bounded 2D mechanism study only if available early, synchronised to the same shot and independently comparable with the simulation. Full 3D plasma chemistry is not a completion requirement. See [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]] and [[II Areas/01_Research/Simulations/COMSOL Multiphysics Setups|COMSOL Multiphysics Setups]].
+The mandatory model is **field calculation → measurement-constrained channel description → stochastic probability/delay prediction → independent validation**. It describes how measured channel state changes breakdown risk over time, but does not promise a spatial movie of every streamer or the completed arc. Time-resolved imaging or interferometry may support a bounded 2D mechanism study only if available early, synchronised to the same shot and independently comparable with the simulation. Full 3D plasma chemistry is not a completion requirement. See [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model\|H4 - Reduced predictive model]] and [[II Areas/01_Research/Simulations/COMSOL Multiphysics Setups\|COMSOL Multiphysics Setups]].
 
 The model specification should make the following sequence testable:
 

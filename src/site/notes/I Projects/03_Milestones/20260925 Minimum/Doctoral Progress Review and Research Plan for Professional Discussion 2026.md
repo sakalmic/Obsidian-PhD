@@ -1,30 +1,7 @@
 ---
-title: "Doctoral Progress Review & Dissertation Plan (2024–2028)"
-aliases:
-  - "Doctoral Progress Review and Research Plan for Professional Discussion 2026"
-  - Professional Discussion Reviewer Dossier 2026
-  - Two-Year Doctoral Progress Report 2026
-project_id: MIN-2026-REVIEW
-type: milestone
-status: draft-for-supervisor-review
-context: thesis
-priority: critical
-date: 2026-09-10
-last_updated: 2026-09-16
-candidate: Ing. Michal Sakala
-supervisor: doc. Ing. Jan Mikeš, Ph.D.
-supervising_department: Department of Economics, Management and Humanities (K13116), CTU FEE
-study_start: 2024-09-01
-milestone: Dissertation progress report and professional discussion
-selected_direction: atmospheric-air Tier 1 with separate follow-on research
-dg-publish: true
-dg-home-link: true
-permalink: /doctoral-progress-review-and-research-plan-2026/
-dg-permalink: /doctoral-progress-review-and-research-plan-2026/
-submission_target: 2028-08
-mandatory_scope: atmospheric-air-prediction-with-bounded-robustness-and-techno-economic-assessment
-follow_on_tiers: outside-mandatory-dissertation-completion
+{"dg-publish":true,"dg-permalink":"/doctoral-progress-review-and-research-plan-2026/","permalink":"/doctoral-progress-review-and-research-plan-2026/","title":"Doctoral Progress Review & Dissertation Plan (2024–2028)","dgHomeLink":true,"noteIcon":"","created":"2026-09-10","updated":"2026-09-16","dg-note-properties":{"title":"Doctoral Progress Review & Dissertation Plan (2024–2028)","aliases":["Doctoral Progress Review and Research Plan for Professional Discussion 2026","Professional Discussion Reviewer Dossier 2026","Two-Year Doctoral Progress Report 2026"],"project_id":"MIN-2026-REVIEW","type":"milestone","status":"draft-for-supervisor-review","context":"thesis","priority":"critical","date":"2026-09-10","last_updated":"2026-09-16","candidate":"Ing. Michal Sakala","supervisor":"doc. Ing. Jan Mikeš, Ph.D.","supervising_department":"Department of Economics, Management and Humanities (K13116), CTU FEE","study_start":"2024-09-01","milestone":"Dissertation progress report and professional discussion","selected_direction":"atmospheric-air Tier 1 with separate follow-on research","permalink":"/doctoral-progress-review-and-research-plan-2026/","submission_target":"2028-08","mandatory_scope":"atmospheric-air-prediction-with-bounded-robustness-and-techno-economic-assessment","follow_on_tiers":"outside-mandatory-dissertation-completion"}}
 ---
+
 
 # Doctoral Progress Review and Research Plan
 

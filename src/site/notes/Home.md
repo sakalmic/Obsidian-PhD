@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Home","aliases":["Home","Research Dashboard"],"tags":["gardenEntry","topic/ltsg/breakdown"],"date":"2026-09-01","last_updated":"2026-09-14","dgHome":true,"dgShowFileTree":true},"last_updated":"2026-09-14"}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry","topic/ltsg/breakdown"],"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","last_updated":"2026-09-14"}}
 ---
+
 
 
 # Laser-Controlled High-Voltage Breakdown
@@ -14,7 +15,7 @@
 
 The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ---
 
@@ -278,7 +279,7 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Essential links
 
-- **Current document hierarchy:** [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]]
+- **Current document hierarchy:** [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]
 
 - **Dissertation keystones:** [[Keystones/Keystones\|Core Claims & Findings]]
 - **Experimental archive:** [[II Areas/01_Research/Experiments/Experiments Index\|Experiments & Diagnostics]]
@@ -290,4 +291,4 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Mandatory economic contribution
 
-[[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice|P3 - Techno-economic operating choice]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO|Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.
+[[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice\|P3 - Techno-economic operating choice]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.

@@ -1,25 +1,7 @@
 ---
-title: "Measurement Uncertainty Must Propagate Through Derived Quantities"
-aliases:
-  - Measurement uncertainty propagation
-  - GUM uncertainty model
-type: concept
-status: evergreen
-context: research
-claims: [H1, P1, H2, H4, P2]
-topics:
-  - topic/ltsg/metrology
-  - topic/ltsg/model
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/metrology
-  - topic/ltsg/model
-created: 2026-09-03
-last_updated: "2026-09-14"
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031250-measurement-uncertainty-must-propagate-through-derived-quantities/","title":"Measurement Uncertainty Must Propagate Through Derived Quantities","tags":["type/permanent","context/research","topic/ltsg/metrology","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Measurement Uncertainty Must Propagate Through Derived Quantities","aliases":["Measurement uncertainty propagation","GUM uncertainty model"],"type":"concept","status":"evergreen","context":"research","claims":["H1","P1","H2","H4","P2"],"topics":["topic/ltsg/metrology","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/metrology","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
+
 
 # Measurement Uncertainty Must Propagate Through Derived Quantities
 
@@ -58,9 +40,9 @@ Nonlinear, bounded or non-Gaussian models should use Monte Carlo propagation: sa
 
 ## Connections
 
-- **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
-- **Down:** [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages|P2 - Reproducible optical and electrical stages]]
+- **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain\|Timing Jitter Must Be De-Embedded from the Measurement Chain]]
+- **Down:** [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model\|H4 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages\|P2 - Reproducible optical and electrical stages]]
 
 ## Anchor sources
 

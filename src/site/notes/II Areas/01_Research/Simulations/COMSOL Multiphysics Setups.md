@@ -1,20 +1,11 @@
 ---
-title: "COMSOL Multiphysics Setups"
-aliases:
-  - COMSOL Multiphysics Setups
-tags:
-  - type/study
-  - context/research
-  - theme/comsol-simulation
-  - status/in-progress
-date: 2026-09-01
-last_updated: "2026-09-14"
-dg-publish: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/simulations/comsol-multiphysics-setups/","title":"COMSOL Multiphysics Setups","tags":["type/study","context/research","theme/comsol-simulation","status/in-progress"],"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"COMSOL Multiphysics Setups","aliases":["COMSOL Multiphysics Setups"],"tags":["type/study","context/research","theme/comsol-simulation","status/in-progress"],"date":"2026-09-01","last_updated":"2026-09-14"}}
 ---
+
 
 # COMSOL Multiphysics Setups
 
-The module, solver and numerical settings below are candidate setup notes, not a validated apparatus-specific configuration. Use the smallest atmospheric model required for [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]], document numerical convergence and compare M0/M1 on held-out data. Full coupled chemistry/flow and additional gases are not prerequisites for submission.
+The module, solver and numerical settings below are candidate setup notes, not a validated apparatus-specific configuration. Use the smallest atmospheric model required for [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model\|H4 - Reduced predictive model]], document numerical convergence and compare M0/M1 on held-out data. Full coupled chemistry/flow and additional gases are not prerequisites for submission.
 
 Documentation of physics interfaces, material properties, solver settings, and model coupling in COMSOL Multiphysics.
 

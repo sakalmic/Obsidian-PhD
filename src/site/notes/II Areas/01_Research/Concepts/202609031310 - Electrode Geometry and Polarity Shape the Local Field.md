@@ -1,25 +1,7 @@
 ---
-title: "Electrode Geometry and Polarity Shape the Local Field"
-aliases:
-  - Electric-field enhancement
-  - Polarity and electrode geometry
-type: concept
-status: evergreen
-context: research
-claims: [H1, H3, H4]
-topics:
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-tags:
-  - type/permanent
-  - context/research
-  - topic/ltsg/breakdown
-  - topic/ltsg/model
-created: 2026-09-03
-last_updated: "2026-09-14"
-dg-publish: true
-dg-home-link: true
+{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031310-electrode-geometry-and-polarity-shape-the-local-field/","title":"Electrode Geometry and Polarity Shape the Local Field","tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Electrode Geometry and Polarity Shape the Local Field","aliases":["Electric-field enhancement","Polarity and electrode geometry"],"type":"concept","status":"evergreen","context":"research","claims":["H1","H3","H4"],"topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-14"}}
 ---
+
 
 # Electrode Geometry and Polarity Shape the Local Field
 
@@ -57,9 +39,9 @@ Positive and negative streamers differ because electron drift is reversed relati
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition|Space Charge Marks the Avalanche to Streamer Transition]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031040 - Photoionization Enables Positive Streamer Propagation in Air|Photoionization Enables Positive Streamer Propagation in Air]] · [[II Areas/01_Research/Concepts/202609031320 - Electrode Conditioning Creates History Dependence|Electrode Conditioning Creates History Dependence]]
-- **Down:** [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry|H3 - Polarity and field geometry]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
+- **Up:** [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031040 - Photoionization Enables Positive Streamer Propagation in Air\|Photoionization Enables Positive Streamer Propagation in Air]] · [[II Areas/01_Research/Concepts/202609031320 - Electrode Conditioning Creates History Dependence\|Electrode Conditioning Creates History Dependence]]
+- **Down:** [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry\|H3 - Polarity and field geometry]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model\|H4 - Reduced predictive model]]
 
 ## Anchor sources
 
