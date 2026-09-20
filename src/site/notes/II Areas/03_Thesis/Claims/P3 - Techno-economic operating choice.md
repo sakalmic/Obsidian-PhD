@@ -1,7 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/claims/p3-techno-economic-operating-choice/","title":"P3 - Techno-economic operating choice","tags":["topic/ltsg/economics","topic/ltsg/model"],"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"P3 - Techno-economic operating choice","aliases":["P3"],"statement_id":"P3","type":"research_proposition","status":"planned","claim_role":"primary","contribution":"C3","context":"thesis","work_packages":["WP0","WP4","WP5","WP6"],"datasets":[],"analyses":[],"manuscripts":["Paper-2"],"chapters":["Chapter-6"],"topics":["topic/ltsg/economics","topic/ltsg/model"],"tags":["topic/ltsg/economics","topic/ltsg/model"],"created":"2026-09-14","last_updated":"2026-09-14"}}
+title: "P3 - Techno-economic operating choice"
+aliases: [P3]
+statement_id: P3
+type: research_proposition
+status: planned
+claim_role: primary
+contribution: C3
+context: thesis
+work_packages: [WP0, WP4, WP5, WP6]
+datasets: []
+analyses: []
+manuscripts: [Paper-2]
+chapters: [Chapter-6]
+topics: [topic/ltsg/economics, topic/ltsg/model]
+tags: [topic/ltsg/economics, topic/ltsg/model]
+created: 2026-09-14
+last_updated: 2026-09-14
+dg-publish: true
 ---
-
 
 # P3 - Techno-economic operating choice
 
@@ -27,8 +43,8 @@ Avoided grid outages, avoided SF₆ costs, complete switchgear qualification and
 
 ## Connections
 
-- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]]
-- [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy\|H2 - Channel state versus pulse energy]]
-- [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model\|H4 - Reduced predictive model]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]]
+- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]]
+- [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]]
+- [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
+- [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO|Paper 2 - Atmospheric Prediction and TCO]]

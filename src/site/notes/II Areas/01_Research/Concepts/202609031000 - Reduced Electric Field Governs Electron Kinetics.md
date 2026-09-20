@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031000-reduced-electric-field-governs-electron-kinetics/","title":"Reduced Electric Field Governs Electron Kinetics","tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Reduced Electric Field Governs Electron Kinetics","aliases":["Reduced electric field","E over N similarity"],"type":"concept","status":"evergreen","context":"research","claims":["H1","H3","H4"],"topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-14"}}
+title: "Reduced Electric Field Governs Electron Kinetics"
+aliases:
+  - Reduced electric field
+  - E over N similarity
+type: concept
+status: evergreen
+context: research
+claims: [H1, H3, H4]
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/model
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/breakdown
+  - topic/ltsg/model
+created: 2026-09-03
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Reduced Electric Field Governs Electron Kinetics
 
@@ -44,9 +62,9 @@ $E/N$ parameterisation assumes a local-field or local-mean-energy closure. It be
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031010 - Electron Energy Distribution Determines Transport Coefficients\|Electron Energy Distribution Determines Transport Coefficients]] · [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
-- **Down:** [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model\|H4 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry\|H3 - Polarity and field geometry]]
+- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory - Laser-Triggered Breakdown and Switching]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031010 - Electron Energy Distribution Determines Transport Coefficients|Electron Energy Distribution Determines Transport Coefficients]] · [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory|Hydrodynamic Density Depression Creates Electrical Memory]]
+- **Down:** [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]] · [[II Areas/03_Thesis/Claims/H3 - Polarity and field geometry|H3 - Polarity and field geometry]]
 
 ## Anchor sources
 

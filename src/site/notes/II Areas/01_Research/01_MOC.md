@@ -1,15 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/01-moc/","title":"01_MOC: Research & Methodology","tags":["type/moc","context/research"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"01_MOC: Research & Methodology","aliases":["01_MOC","Research MOC"],"tags":["type/moc","context/research"],"type":"moc","status":"active","context":"research","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-14"}}
+title: "01_MOC: Research & Methodology"
+aliases:
+  - 01_MOC
+  - Research MOC
+tags:
+  - type/moc
+  - context/research
+type: moc
+status: active
+context: research
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/model
+date: 2026-09-01
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
+dg-render-dataview: true
 ---
-
 
 # 01_MOC: Research & Methodology
 
-The broader application context is the transition toward SF₆-free and, where feasible, F-gas-free high-voltage switching. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure of a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Any relevance to SF₆ substitution is therefore conditional on later validation for a defined switching function and duty. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
+The broader application context encompasses pulsed power, fusion synchronization, synthetic testing (e.g., KEMA/CESI), fast HVDC protection/crowbars, and eco-efficient switching (Clean Air) transitioning away from SF₆. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure and predictive physics in a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
-Current evidence register: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]; mandatory economics: [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice\|P3 - Techno-economic operating choice]].
+Current evidence register: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]; mandatory economics: [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice|P3 - Techno-economic operating choice]].
 
 This map brings together the scientific and experimental foundations of the doctoral research across three primary branches: **Concepts**, **Experiments**, and **Simulations**.
 
@@ -19,14 +36,14 @@ This map brings together the scientific and experimental foundations of the doct
 
 Core physical theory, analytical scaling laws, and atomic conceptual notes:
 
-- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Physical dynamics of laser-induced plasma]]
-- [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-triggered spark gaps and switching mechanisms]]
-- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory, scaling laws and modelling assumptions]]
-- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Timing, EMP and ionising-radiation diagnostics]]
-- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Breakdown probability, censoring and jitter statistics]]
-- [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-voltage arc quenching and grid protection]]
-- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Mandatory atmospheric TCO and follow-on grid economics]]
-- [[II Areas/01_Research/Concepts/Zettelkasten Index\|Atomic Permanent Notes Index (Concepts)]]
+- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics|Physical dynamics of laser-induced plasma]]
+- [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)|Laser-triggered spark gaps and switching mechanisms]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory, scaling laws and modelling assumptions]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Timing, EMP and ionising-radiation diagnostics]]
+- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter|Breakdown probability, censoring and jitter statistics]]
+- [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection|High-voltage arc quenching and grid protection]]
+- [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Mandatory atmospheric TCO and follow-on grid economics]]
+- [[II Areas/01_Research/Concepts/Zettelkasten Index|Atomic Permanent Notes Index (Concepts)]]
 
 ```dataview
 LIST

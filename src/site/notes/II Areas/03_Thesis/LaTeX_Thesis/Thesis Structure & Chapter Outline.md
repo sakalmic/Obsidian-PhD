@@ -1,23 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/03-thesis/la-te-x-thesis/thesis-structure-and-chapter-outline/","title":"Thesis Structure & Chapter Outline","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Thesis Structure & Chapter Outline","aliases":["Thesis Structure","Chapter Outline"],"type":"chapter","status":"active","context":"thesis","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"date":"2026-09-01","last_updated":"2026-09-14"}}
+title: "Thesis Structure & Chapter Outline"
+aliases:
+  - Thesis Structure
+  - Chapter Outline
+type: chapter
+status: active
+context: thesis
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/model
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/model
+date: 2026-09-01
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Thesis Structure & Chapter Outline
 
-The broader application context is the transition toward SF₆-free and, where feasible, F-gas-free high-voltage switching. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure of a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Any relevance to SF₆ substitution is therefore conditional on later validation for a defined switching function and duty. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
+The broader application context encompasses pulsed power, fusion synchronization, synthetic testing (e.g., KEMA/CESI), fast HVDC protection/crowbars, and eco-efficient switching (Clean Air) transitioning away from SF₆. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure and predictive physics in a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ## Recommended fixed title
 
 **Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling**
 
-Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování**.
+Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, stochastická dynamika spínání a prediktivní modelování**.
 
 ## Structure status
 
-This is the current monograph planning architecture. It does not certify migration of an older LaTeX manuscript stored outside this vault. [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]] distinguishes current reviewer files from historical manuscripts.
+This is the current monograph planning architecture. It does not certify migration of an older LaTeX manuscript stored outside this vault. [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]] distinguishes current reviewer files from historical manuscripts.
 
 ## Dissertation argument
 
@@ -68,7 +85,7 @@ Chapters 1–7 include the economic contribution as mandatory. Tier 2/3 results 
 
 ## Related notes
 
-- [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]]
-- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]]
+- [[I Projects/01_Manuscripts/Dissertation Manuscript|Dissertation Manuscript]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]
+- [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Minimum Dissertation Study & Research Discussion 2026]]

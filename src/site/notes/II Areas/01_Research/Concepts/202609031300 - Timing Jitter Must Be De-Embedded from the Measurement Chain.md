@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031300-timing-jitter-must-be-de-embedded-from-the-measurement-chain/","title":"Timing Jitter Must Be De-Embedded from the Measurement Chain","tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/metrology"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Timing Jitter Must Be De-Embedded from the Measurement Chain","aliases":["Timing de-embedding","Instrument-limited jitter"],"type":"concept","status":"evergreen","context":"research","claims":["P1","P2"],"topics":["topic/ltsg/timing","topic/ltsg/metrology"],"tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/metrology"],"created":"2026-09-03","last_updated":"2026-09-14"}}
+title: "Timing Jitter Must Be De-Embedded from the Measurement Chain"
+aliases:
+  - Timing de-embedding
+  - Instrument-limited jitter
+type: concept
+status: evergreen
+context: research
+claims: [P1, P2]
+topics:
+  - topic/ltsg/timing
+  - topic/ltsg/metrology
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/timing
+  - topic/ltsg/metrology
+created: 2026-09-03
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Timing Jitter Must Be De-Embedded from the Measurement Chain
 
@@ -42,9 +60,9 @@ Bandwidth limits the slope and can therefore increase apparent jitter. Threshold
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities\|Measurement Uncertainty Must Propagate Through Derived Quantities]] · [[II Areas/01_Research/Concepts/202609031210 - Statistical and Formative Time Lags Are Different Processes\|Statistical and Formative Time Lags Are Different Processes]]
-- **Down:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response\|P1 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages\|P2 - Reproducible optical and electrical stages]]
+- **Up:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Diagnostics - Timing EMP and Radiation]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031250 - Measurement Uncertainty Must Propagate Through Derived Quantities|Measurement Uncertainty Must Propagate Through Derived Quantities]] · [[II Areas/01_Research/Concepts/202609031210 - Statistical and Formative Time Lags Are Different Processes|Statistical and Formative Time Lags Are Different Processes]]
+- **Down:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages|P2 - Reproducible optical and electrical stages]]
 
 ## Anchor sources
 

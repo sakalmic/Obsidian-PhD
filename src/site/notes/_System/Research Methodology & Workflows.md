@@ -1,54 +1,69 @@
 ---
-{"dg-publish":true,"permalink":"/system/research-methodology-and-workflows/","title":"Research Methodology & Workflows","tags":["topic/system/workflow","topic/ltsg/metrology"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Research Methodology & Workflows","aliases":["Scientific Workflow","Research Operating Manual"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/workflow","topic/ltsg/metrology"],"tags":["topic/system/workflow","topic/ltsg/metrology"],"date":"2026-09-01","last_updated":"2026-09-14"}}
+title: "Research Methodology & Workflows"
+aliases:
+  - Scientific Workflow
+  - Research Operating Manual
+type: guide
+status: evergreen
+context: phd
+topics:
+  - topic/system/workflow
+  - topic/ltsg/metrology
+tags:
+  - topic/system/workflow
+  - topic/ltsg/metrology
+date: 2026-09-01
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Research Methodology & Workflows
 
-Cost evidence follows the same traceability chain: record service requirements and cost inputs from WP0, freeze the operating-choice rule before testing, and distinguish measured costs from assumptions. The current scope authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]].
+Cost evidence follows the same traceability chain: record service requirements and cost inputs from WP0, freeze the operating-choice rule before testing, and distinguish measured costs from assumptions. The current scope authority is [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]].
 
-This is the canonical operating manual for converting literature, models and laboratory work into defensible dissertation claims. The active scientific programme is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Core LTSG Research Programme (2026–2028)]] and the immediate priority is [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]].
+This is the canonical operating manual for converting literature, models and laboratory work into defensible dissertation claims. The active scientific programme is [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Core LTSG Research Programme (2026–2028)]] and the immediate priority is [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]].
 
 ## 1. Research spine
 
 > [!abstract] Fáze I · Rešerše a Zettelkasten (Vstup)
-> 1. **[[III Resources/03_Literature/Literature Index\|Verified source]]**  
+> 1. **[[III Resources/03_Literature/Literature Index|Verified source]]**  
 >    *Primární vědecký zdroj, bibliografické ověření DOI a archivace originálu.*  
 >    📂 `III Resources/03_Literature`
-> 2. **[[III Resources/03_Literature/Literature Index\|Literature note]]**  
+> 2. **[[III Resources/03_Literature/Literature Index|Literature note]]**  
 >    *Strukturovaný výtah metody, výsledků, mezí platnosti a experimentálních nejistot.*  
 >    📂 `III Resources/03_Literature (LN - ...)`
-> 3. **[[II Areas/01_Research/01_MOC#Concepts\|Atomic concept or synthesis]]**  
+> 3. **[[II Areas/01_Research/01_MOC#Concepts|Atomic concept or synthesis]]**  
 >    *Trvalá atomická poznámka v Zettelkasten formulovaná vlastními slovy.*  
 >    📂 `II Areas/01_Research/Concepts`
 
 > [!tip] Fáze II · Formulace hypotéz a plánu (Protokol)
-> 4. **[[II Areas/03_Thesis/03_MOC#Claims\|Research question and CL]]**  
+> 4. **[[II Areas/03_Thesis/03_MOC#Claims|Research question and CL]]**  
 >    *Formulace výzkumné otázky a provázání na claimy disertace.*  
 >    📂 `II Areas/03_Thesis/Claims (CL-01 až CL-06)`
-> 5. **[[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|Frozen protocol and analysis plan]]**  
+> 5. **[[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|Frozen protocol and analysis plan]]**  
 >    *Předem zmrazený experimentální protokol a predeklarovaná pravidla vyhodnocení.*  
 >    📂 `I Projects/02_Campaigns`
 
 > [!example] Fáze III · Laboratorní verifikace a QC (Měření)
-> 6. **[[II Areas/01_Research/Experiments/Evidence Index\|Calibration and experiment]]**  
+> 6. **[[II Areas/01_Research/Experiments/Evidence Index|Calibration and experiment]]**  
 >    *Měřicí kampaň na LTSG aparatuře s ověřenou kalibrací a bezpečnostními zámky.*  
 >    📂 `II Areas/01_Research/Experiments`
-> 7. **[[II Areas/01_Research/Experiments/Evidence Index#Dataset Manifests\|Immutable dataset manifest]]**  
+> 7. **[[II Areas/01_Research/Experiments/Evidence Index#Dataset Manifests|Immutable dataset manifest]]**  
 >    *Neměnná laboratorní data, časové značky a kryptografické kontrolní součty.*  
 >    📂 `II Areas/01_Research/Experiments/Dataset Manifests`
-> 8. **[[II Areas/01_Research/Experiments/Evidence Index#Analysis Records\|QC and analysis record]]**  
+> 8. **[[II Areas/01_Research/Experiments/Evidence Index#Analysis Records|QC and analysis record]]**  
 >    *Strukturální kontrola kvality dat a reprodukovatelné analytické skripty.*  
 >    📂 `II Areas/01_Research/Experiments/Analysis Records`
-> 9. **[[II Areas/01_Research/Experiments/Evidence Index\|Independent repetition]]**  
+> 9. **[[II Areas/01_Research/Experiments/Evidence Index|Independent repetition]]**  
 >    *Nezávislá replikace v jiné měřicí sérii nebo po výměně/servisu elektrod.*  
 >    📂 `II Areas/01_Research/Experiments`
 
 > [!check] Fáze IV · Syntéza a obhajoba (Výstup)
-> 10. **[[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim decision]]**  
+> 10. **[[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim decision]]**  
 >     *Vyhodnocení stavu hypotézy v Claim Ledgeru (Supported / Falsified / Bounded).*  
 >     📂 `II Areas/03_Thesis/Claim_Ledger`
-> 11. **[[I Projects/01_Manuscripts/Dissertation Manuscript\|Manuscript and thesis chapter]]**  
+> 11. **[[I Projects/01_Manuscripts/Dissertation Manuscript|Manuscript and thesis chapter]]**  
 >     *Začlenění podloženého výsledku do recenzovaného článku a kapitol disertace.*  
 >     📂 `I Projects/01_Manuscripts`
 
@@ -56,9 +71,9 @@ No arrow may be skipped for a principal dissertation claim.
 
 ## 2. Canonical research question
 
-The broader application context is the transition toward SF₆-free and, where feasible, F-gas-free high-voltage switching. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure of a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Any relevance to SF₆ substitution is therefore conditional on later validation for a defined switching function and duty. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
+The broader application context encompasses pulsed power, fusion synchronization, synthetic testing (e.g., KEMA/CESI), fast HVDC protection/crowbars, and eco-efficient switching (Clean Air) transitioning away from SF₆. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure and predictive physics in a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 Can measurements of a laser-created channel improve prediction of breakdown probability and timing in atmospheric air, and support selection of the least-cost operating conditions that satisfy a predefined technical requirement?
 
@@ -198,7 +213,7 @@ The core evidence package is complete when:
 
 ## Related system notes
 
-- [[_System/PhD Vault Architecture Guide\|PhD Vault Architecture Guide]]
-- [[_System/Tags and Linking Convention\|Tags and Linking Convention]]
-- [[_System/Digital Garden & Vercel Deployment Guide\|Digital Garden & Vercel Deployment Guide]]
+- [[_System/PhD Vault Architecture Guide|PhD Vault Architecture Guide]]
+- [[_System/Tags and Linking Convention|Tags and Linking Convention]]
+- [[_System/Digital Garden & Vercel Deployment Guide|Digital Garden & Vercel Deployment Guide]]
 

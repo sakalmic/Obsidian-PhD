@@ -1,7 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031130-kerr-self-focusing-creates-extended-filamentary-channels/","title":"Kerr Self-Focusing Creates Extended Filamentary Channels","tags":["type/permanent","context/research","topic/ltsg/channel"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Kerr Self-Focusing Creates Extended Filamentary Channels","aliases":["Laser filamentation","Critical self-focusing power"],"type":"concept","status":"evergreen","context":"research","claims":["H2","P2"],"topics":["topic/ltsg/channel"],"tags":["type/permanent","context/research","topic/ltsg/channel"],"created":"2026-09-03","last_updated":"2026-09-14"}}
+title: "Kerr Self-Focusing Creates Extended Filamentary Channels"
+aliases:
+  - Laser filamentation
+  - Critical self-focusing power
+type: concept
+status: evergreen
+context: research
+claims: [H2, P2]
+topics:
+  - topic/ltsg/channel
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/channel
+created: 2026-09-03
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Kerr Self-Focusing Creates Extended Filamentary Channels
 
@@ -37,9 +53,9 @@ The controlling ratio $P/P_{cr}$ is more relevant to self-focusing onset than pu
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions\|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
-- **Down:** [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy\|H2 - Channel state versus pulse energy]] · [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]]
+- **Up:** [[II Areas/01_Research/Concepts/202609031120 - Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions|Peak Laser Intensity Requires Spatial Temporal and Uncertainty Definitions]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory|Hydrodynamic Density Depression Creates Electrical Memory]]
+- **Down:** [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]] · [[II Areas/01_Research/Concepts/Research Extensions Roadmap|Research Extensions Roadmap]]
 
 ## Anchor sources
 

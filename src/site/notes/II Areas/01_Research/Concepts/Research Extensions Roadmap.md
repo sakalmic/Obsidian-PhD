@@ -1,17 +1,38 @@
 ---
-{"dg-publish":true,"dg-permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/","title":"Research Extensions Roadmap","tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-14","dg-note-properties":{"title":"Research Extensions Roadmap","aliases":["LTSG Extensions","Dissertation Extensions"],"type":"roadmap","status":"planned","context":"research","topics":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"tags":["topic/ltsg/emp","topic/ltsg/radiation","topic/ltsg/application","topic/ltsg/economics"],"date":"2026-09-02","last_updated":"2026-09-14","permalink":"/ii-areas/01-research/concepts/research-extensions-roadmap/"}}
+title: "Research Extensions Roadmap"
+aliases:
+  - LTSG Extensions
+  - Dissertation Extensions
+type: roadmap
+status: planned
+context: research
+topics:
+  - topic/ltsg/emp
+  - topic/ltsg/radiation
+  - topic/ltsg/application
+  - topic/ltsg/economics
+tags:
+  - topic/ltsg/emp
+  - topic/ltsg/radiation
+  - topic/ltsg/application
+  - topic/ltsg/economics
+date: 2026-09-02
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
+permalink: /ii-areas/01-research/concepts/research-extensions-roadmap/
+dg-permalink: /ii-areas/01-research/concepts/research-extensions-roadmap/
 ---
-
 
 # Research Extensions Roadmap
 
-The broader application context is the transition toward SF₆-free and, where feasible, F-gas-free high-voltage switching. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure of a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Any relevance to SF₆ substitution is therefore conditional on later validation for a defined switching function and duty. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
+The broader application context encompasses pulsed power, fusion synchronization, synthetic testing (e.g., KEMA/CESI), fast HVDC protection/crowbars, and eco-efficient switching (Clean Air) transitioning away from SF₆. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure and predictive physics in a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ## Principle
 
-Tier 2 is a bounded CO₂/pressure-transfer study; Tier 3 concerns applications and their system validation. The E1–E10 notes below are a library of possible follow-on work, not ten required work packages. Each needs separate resources and a recorded decision. Mandatory laboratory TCO is in [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] and is not gated on a demonstrator.
+Tier 2 is a bounded CO₂/pressure-transfer study; Tier 3 concerns applications and their system validation. The E1–E10 notes below are a library of possible follow-on work, not ten required work packages. Each needs separate resources and a recorded decision. Mandatory laboratory TCO is in [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]] and is not gated on a demonstrator.
 
 ## E1 - Quantitative EMP fingerprinting
 
@@ -118,6 +139,6 @@ Every follow-on decision must name the question, owner, funding, apparatus, evid
 
 ## Connections
 
-- **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]
-- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]]
-- **Down:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection\|High-Voltage Arc Quenching & Protection]]
+- **Up:** [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028|LTSG Core Research Package 2026-2028]]
+- **Side:** [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Diagnostics - Timing EMP and Radiation]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]]
+- **Down:** [[II Areas/01_Research/Concepts/High-Voltage Arc Quenching & Protection|High-Voltage Arc Quenching & Protection]]

@@ -1,11 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/research-plans/lab-03-screening-and-june-decision-gate/","title":"LAB-03 - Screening and June decision gate","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"LAB-03 - Screening and June decision gate","type":"laboratory-ticket","status":"planned","parent_ticket":"RESEARCH-00","work_package":"WP3","target_window":"2027-05/2027-06","created":"2026-09-16","last_updated":"2026-09-16"}}
+title: LAB-03 - Screening and June decision gate
+type: laboratory-ticket
+status: planned
+parent_ticket: RESEARCH-00
+work_package: WP3
+target_window: 2027-05/2027-06
+created: 2026-09-16
+last_updated: 2026-09-16
+dg-publish: true
 ---
-
 
 # LAB-03 — Screening and June decision gate
 
-**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028\|RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-02 - Laser and Channel Diagnostic Pilot\|LAB-02 - Laser and Channel Diagnostic Pilot]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-04 - Atmospheric Confirmatory Campaign\|LAB-04 - Atmospheric Confirmatory Campaign]].
+**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028|RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-02 - Laser and Channel Diagnostic Pilot|LAB-02 - Laser and Channel Diagnostic Pilot]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-04 - Atmospheric Confirmatory Campaign|LAB-04 - Atmospheric Confirmatory Campaign]].
 
 ## Purpose
 

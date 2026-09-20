@@ -1,11 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/research-plans/lab-04-atmospheric-confirmatory-campaign/","title":"LAB-04 - Atmospheric confirmatory campaign","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"LAB-04 - Atmospheric confirmatory campaign","type":"laboratory-ticket","status":"planned","parent_ticket":"RESEARCH-00","work_package":"WP4","target_window":"2027-07/2027-10","created":"2026-09-16","last_updated":"2026-09-16"}}
+title: LAB-04 - Atmospheric confirmatory campaign
+type: laboratory-ticket
+status: planned
+parent_ticket: RESEARCH-00
+work_package: WP4
+target_window: 2027-07/2027-10
+created: 2026-09-16
+last_updated: 2026-09-16
+dg-publish: true
 ---
-
 
 # LAB-04 — Atmospheric confirmatory campaign
 
-**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028\|RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate\|LAB-03 - Screening and June Decision Gate]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-05 - Independent Prediction and Operating-Choice Check\|LAB-05 - Independent Prediction and Operating-Choice Check]].
+**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028|RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate|LAB-03 - Screening and June Decision Gate]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-05 - Independent Prediction and Operating-Choice Check|LAB-05 - Independent Prediction and Operating-Choice Check]].
 
 ## Purpose and frozen design
 

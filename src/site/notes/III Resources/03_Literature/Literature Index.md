@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/iii-resources/03-literature/literature-index/","title":"Literature Index","tags":["type/moc","context/research"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-02","dg-note-properties":{"title":"Literature Index","aliases":["Literature Index"],"tags":["type/moc","context/research"],"date":"2026-09-01","last_updated":"2026-09-02"}}
+title: "Literature Index"
+aliases:
+  - Literature Index
+tags:
+  - type/moc
+  - context/research
+date: 2026-09-01
+last_updated: 2026-09-02
+dg-publish: true
+dg-render-dataview: true
+dg-home-link: true
 ---
-
 
 # Literature Index & Bibliographic Synthesis
 
@@ -9,15 +18,18 @@ Index of reviewed scientific literature, research syntheses and bibliographic no
 
 ## Priority synthesis
 
-- [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|Cikhardt 2026 - EMP, particles and pulsed-power diagnostics]]
-- [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|Štěpánová 2026 - mixed radiation fields of impulse generators]]
-- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Cross-paper theoretical synthesis for the LTSG core]]
-- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostic synthesis and false-signal controls]]
+- [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses|Cikhardt 2026 - EMP, particles and pulsed-power diagnostics]]
+- [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators|Štěpánová 2026 - mixed radiation fields of impulse generators]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Cross-paper theoretical synthesis for the LTSG core]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Diagnostic synthesis and false-signal controls]]
 
-| File                                                                                                                                                                | Authors                                                                  | Year | Journal / conference             | DOI                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---- | -------------------------------- | ------------------------------ |
-| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]                 | Jakub Cikhardt                                                           | 2026 | Habilitation thesis, CTU FEE     |                                |
-| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | Dagmar Štěpánová                                                         | 2026 | Doctoral dissertation, CTU FNSPE |                                |
-| [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]]                                           | Michal Sakala, Jan Mikeš, Ondřej Hanuš, Marcela Efmertová, Martin Mydlar | 2025 | IEEE APL 2025                    | 10.1109/APL65034.2025.11108944 |
-
-{ .block-language-dataview}
+```dataview
+TABLE
+    authors as "Authors",
+    year as "Year",
+    journal_conference as "Journal / conference",
+    doi as "DOI"
+FROM "III Resources/03_Literature"
+WHERE (type = "literature" OR contains(tags, "type/literature")) AND row["dg-publish"] = true
+SORT year DESC
+```

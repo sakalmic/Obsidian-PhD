@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/experiments/calibrations/hi-lase-trigger-to-optical-timing-verification-plan/","title":"HiLASE - verification of electrical-trigger to optical-arrival timing","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"HiLASE - verification of electrical-trigger to optical-arrival timing","aliases":["HiLASE electrical-trigger timing calibration","HiLASE trigger-to-optical timing"],"type":"calibration-plan","status":"verification-pending","evidence_state":"unverified","calibration_id":"HILASE-TIME-2024-2025-OPEN","created":"2026-09-16","last_updated":"2026-09-16","topics":["topic/ltsg/timing","topic/ltsg/metrology"]}}
+title: "HiLASE - verification of electrical-trigger to optical-arrival timing"
+aliases:
+  - HiLASE electrical-trigger timing calibration
+  - HiLASE trigger-to-optical timing
+type: calibration-plan
+status: verification-pending
+evidence_state: unverified
+calibration_id: HILASE-TIME-2024-2025-OPEN
+created: 2026-09-16
+last_updated: 2026-09-16
+topics:
+  - topic/ltsg/timing
+  - topic/ltsg/metrology
+dg-publish: true
 ---
-
 
 # HiLASE: verifying electrical-trigger → optical-pulse → breakdown timing
 
@@ -9,7 +21,7 @@
 
 The electrical triggering system **may have been calibrated** during the historical campaigns. The publications and working records reviewed so far do not document a numerical correction and uncertainty for the complete timing chain used with the high-voltage spark gap. This **does not mean that no calibration exists**. A record must be requested from the responsible laboratory and matched to the actual 2024/2025 configuration.
 
-In APL 2025, February 2025 series 8–10 use an electrical laser-trigger edge as the time reference. The reported range of 0.164–8.124 µs therefore must not be relabelled as time from optical arrival at the gap without further evidence. The seven May 2024 series mainly address breakdown-voltage reduction; their provenance and unresolved attempt counts are recorded in [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance\|Historical Measurements 2024-2025 - Provenance]]. The general claim that greater irradiance always shortens delay remains unverified.
+In APL 2025, February 2025 series 8–10 use an electrical laser-trigger edge as the time reference. The reported range of 0.164–8.124 µs therefore must not be relabelled as time from optical arrival at the gap without further evidence. The seven May 2024 series mainly address breakdown-voltage reduction; their provenance and unresolved attempt counts are recorded in [[II Areas/01_Research/Experiments/Dataset Manifests/Historical Measurements 2024-2025 - Provenance|Historical Measurements 2024-2025 - Provenance]]. The general claim that greater irradiance always shortens delay remains unverified.
 
 ## Three distinct time events
 
@@ -30,7 +42,7 @@ For an optical pick-off at location $P$, the photodiode time must also be conver
 - A photodiode in an earlier LIDT study detects scattered light from optical damage. This does not establish an optical time reference for the spark gap. [Vanda et al., 2016](https://doi.org/10.1017/hpl.2016.11).
 - The local February 2025 archive contains four-channel oscilloscope waveforms. CSV headers establish a shared recorded time axis but do not identify physical channel wiring, a calibration record or optical arrival at the gap. This is a file-format check, **not** a full audit of all waveforms.
 
-Laboratory context: [[II Areas/01_Research/Experiments/HiLASE LIDT Laboratory\|LIDT laboratory]] · [[II Areas/01_Research/Experiments/HiLASE Research Hub\|HiLASE research hub]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain\|Measurement-chain jitter]].
+Laboratory context: [[II Areas/01_Research/Experiments/HiLASE LIDT Laboratory|LIDT laboratory]] · [[II Areas/01_Research/Experiments/HiLASE Research Hub|HiLASE research hub]] · [[II Areas/01_Research/Concepts/202609031300 - Timing Jitter Must Be De-Embedded from the Measurement Chain|Measurement-chain jitter]].
 
 ## Verification tasks
 

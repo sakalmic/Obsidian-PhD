@@ -1,11 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/research-plans/lab-02-laser-and-channel-diagnostic-pilot/","title":"LAB-02 - Laser and channel diagnostic pilot","noteIcon":"","updated":"2026-09-16","dg-note-properties":{"title":"LAB-02 - Laser and channel diagnostic pilot","type":"laboratory-ticket","status":"planned","parent_ticket":"RESEARCH-00","work_package":"WP2","target_window":"2027-03/2027-04","created":"2026-09-16","last_updated":"2026-09-16"}}
+title: LAB-02 - Laser and channel diagnostic pilot
+type: laboratory-ticket
+status: planned
+parent_ticket: RESEARCH-00
+work_package: WP2
+target_window: 2027-03/2027-04
+created: 2026-09-16
+last_updated: 2026-09-16
+dg-publish: true
 ---
-
 
 # LAB-02 — Laser and channel diagnostic pilot
 
-**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028\|RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-01 - Atmospheric No-Laser Baseline\|LAB-01 - Atmospheric No-Laser Baseline]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate\|LAB-03 - Screening and June Decision Gate]].
+**Parent:** [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028|RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]. **Depends on:** [[II Areas/01_Research/Research Plans/LAB-01 - Atmospheric No-Laser Baseline|LAB-01 - Atmospheric No-Laser Baseline]]. **Next:** [[II Areas/01_Research/Research Plans/LAB-03 - Screening and June Decision Gate|LAB-03 - Screening and June Decision Gate]].
 
 ## Purpose
 

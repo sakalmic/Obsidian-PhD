@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031020-townsend-avalanche-is-exponential-but-not-yet-a-streamer/","title":"Townsend Avalanche Is Exponential but Not Yet a Streamer","tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Townsend Avalanche Is Exponential but Not Yet a Streamer","aliases":["Townsend avalanche","Effective ionisation integral"],"type":"concept","status":"evergreen","context":"research","claims":["H1","H4"],"topics":["topic/ltsg/breakdown","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-14"}}
+title: "Townsend Avalanche Is Exponential but Not Yet a Streamer"
+aliases:
+  - Townsend avalanche
+  - Effective ionisation integral
+type: concept
+status: evergreen
+context: research
+claims: [H1, H4]
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/model
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/breakdown
+  - topic/ltsg/model
+created: 2026-09-03
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Townsend Avalanche Is Exponential but Not Yet a Streamer
 
@@ -40,9 +58,9 @@ is therefore a useful reduced-model diagnostic, not a universal breakdown switch
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/202609011000 - Optical Breakdown Mechanism in Air\|Optical Breakdown Mechanism in Air]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics\|Reduced Electric Field Governs Electron Kinetics]] · [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition\|Space Charge Marks the Avalanche to Streamer Transition]]
-- **Down:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability\|H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model\|H4 - Reduced predictive model]]
+- **Up:** [[II Areas/01_Research/Concepts/202609011000 - Optical Breakdown Mechanism in Air|Optical Breakdown Mechanism in Air]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031000 - Reduced Electric Field Governs Electron Kinetics|Reduced Electric Field Governs Electron Kinetics]] · [[II Areas/01_Research/Concepts/202609031030 - Space Charge Marks the Avalanche to Streamer Transition|Space Charge Marks the Avalanche to Streamer Transition]]
+- **Down:** [[II Areas/03_Thesis/Claims/H1 - Laser-assisted breakdown probability|H1 - Laser-assisted breakdown probability]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
 
 ## Anchor sources
 

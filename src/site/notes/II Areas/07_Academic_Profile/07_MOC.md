@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/07-academic-profile/07-moc/","title":"07_MOC: Academic Profile & Career Development","tags":["type/moc","context/career"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-06","dg-note-properties":{"title":"07_MOC: Academic Profile & Career Development","aliases":["07_MOC","Academic Profile MOC"],"tags":["type/moc","context/career"],"type":"moc","status":"active","context":"career","date":"2026-09-01","last_updated":"2026-09-06"}}
+title: "07_MOC: Academic Profile & Career Development"
+aliases:
+  - 07_MOC
+  - Academic Profile MOC
+tags:
+  - type/moc
+  - context/career
+type: moc
+status: active
+context: career
+date: 2026-09-01
+last_updated: 2026-09-06
+dg-publish: true
+dg-home-link: true
+dg-render-dataview: true
 ---
-
 
 # 07_MOC: Academic Profile & Career Development
 

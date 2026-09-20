@@ -1,16 +1,42 @@
 ---
-{"dg-publish":true,"dg-permalink":"/ltsg-core-research-package-2026-2028/","permalink":"/ltsg-core-research-package-2026-2028/","title":"Core LTSG Research Programme (2026–2028)","tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-02","updated":"2026-09-14","dg-note-properties":{"title":"Core LTSG Research Programme (2026–2028)","aliases":["LTSG Core Research Package 2026-2028","LTSG Core Package","Basic Experimental Package"],"project_id":"LTSG-Core","type":"project","context":"research","priority":"critical","status":"active","due":"2028-04-30","definition_of_done":"Core claims tested with traceable evidence, independent repeat, held-out prediction, mandatory TCO and incorporation into manuscripts and thesis Chapters 3-6.","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"tags":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/timing","topic/ltsg/model"],"date":"2026-09-02","last_updated":"2026-09-14","permalink":"/ltsg-core-research-package-2026-2028/"}}
+title: "Core LTSG Research Programme (2026–2028)"
+aliases:
+  - "LTSG Core Research Package 2026-2028"
+  - LTSG Core Package
+  - Basic Experimental Package
+project_id: LTSG-Core
+type: project
+context: research
+priority: critical
+status: active
+due: 2028-04-30
+definition_of_done: "Core claims tested with traceable evidence, independent repeat, held-out prediction, mandatory TCO and incorporation into manuscripts and thesis Chapters 3-6."
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/timing
+  - topic/ltsg/model
+tags:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+  - topic/ltsg/timing
+  - topic/ltsg/model
+date: 2026-09-02
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
+permalink: /ltsg-core-research-package-2026-2028/
+dg-permalink: /ltsg-core-research-package-2026-2028/
 ---
-
 
 # Core LTSG Research Programme (2026–2028)
 
-The broader application context is the transition toward SF₆-free and, where feasible, F-gas-free high-voltage switching. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure of a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Any relevance to SF₆ substitution is therefore conditional on later validation for a defined switching function and duty. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
+The broader application context encompasses pulsed power, fusion synchronization, synthetic testing (e.g., KEMA/CESI), fast HVDC protection/crowbars, and eco-efficient switching (Clean Air) transitioning away from SF₆. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure and predictive physics in a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 > [!info] Public working baseline
-> This package defines the minimum defensible experimental core. It remains a proposal until the dissertation scope is formally agreed. Alternative scopes are compared in [[Variant Dissertation Topics 2026\|Variant Dissertation Topics 2026]] and [[I Projects/03_Milestones/20260925 Minimum/Outside-the-Box Dissertation Topics 2026\|Outside-the-Box Dissertation Topics 2026]].
+> This package defines the minimum defensible experimental core. It remains a proposal until the dissertation scope is formally agreed. Alternative scopes are compared in [[Variant Dissertation Topics 2026]] and [[Outside-the-Box Dissertation Topics 2026]].
 
 ## Decision statement
 
@@ -50,7 +76,7 @@ The mandatory core includes bounded TCO and operating-choice validation. EMP, ra
 
 H3 is supporting robustness within the frozen atmospheric configuration family. C5 and C6 belong only to follow-on Tier 2. A null result must be accompanied by adequate sensitivity and a quantitative limit; it does not automatically guarantee degree sufficiency.
 
-Use [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledger & Evidence Matrix]] and the atomic H/P notes for evidence rules.
+Use [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]] and the atomic H/P notes for evidence rules.
 
 ## Measurands and operational definitions
 
@@ -67,9 +93,9 @@ Use [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Claim Ledg
 
 ## Configuration and timing decision
 
-[[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety\|LTSG Apparatus & Laboratory Safety]] defines the configuration evidence required before WP0. For a laser-to-HV scan, specify the independently controlled HV event and measure its waveform. A continuously applied DC voltage alone does not define an adjustable HV-onset delay; without an appropriate pulsed/gated configuration, narrow the experiment to laser-to-breakdown timing at fixed DC bias.
+[[II Areas/01_Research/Apparatus_and_Safety/LTSG Apparatus & Laboratory Safety|LTSG Apparatus & Laboratory Safety]] defines the configuration evidence required before WP0. For a laser-to-HV scan, specify the independently controlled HV event and measure its waveform. A continuously applied DC voltage alone does not define an adjustable HV-onset delay; without an appropriate pulsed/gated configuration, narrow the experiment to laser-to-breakdown timing at fixed DC bias.
 
-[[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Dissertation Scope & Decision Log]] records the pending apparatus decision.
+[[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register|Dissertation Scope & Decision Log]] records the pending apparatus decision.
 
 ## Minimum diagnostic stack
 
@@ -189,7 +215,7 @@ Continuous drafting, complete draft by June 2028, eligibility review and August 
 
 ## Statistical plan
 
-Detailed rationale and equations: [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]].
+Detailed rationale and equations: [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter|Statistics - Breakdown Probability Delay and Jitter]].
 
 - Trigger success is binomial: report probability with Wilson or exact confidence intervals.
 - Failed shots are right-censored observations, not automatically discarded.
@@ -245,7 +271,7 @@ If not, review the limiting diagnostic and the minimum detectable effect with th
 
 ## Immediate next actions (next three weeks)
 
-- [ ] Complete [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Professional Discussion: Dissertation Study & Research Plan (2026)]].
+- [ ] Complete [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026|Professional Discussion: Dissertation Study & Research Plan (2026)]].
 - [ ] Obtain a supervisor decision on the Czech/English title, central question and C1, C2, C3 and supporting C4.
 - [ ] Confirm in writing the SDZ deadline, publication conditions and internationalisation requirement applicable to the 2024 cohort.
 - [ ] Confirm the active generator, maximum safe voltage/current, waveform and repetition limit with the laboratory owner.
@@ -255,19 +281,19 @@ If not, review the limiting diagnostic and the minimum detectable effect with th
 - [ ] Create the shot-metadata table and one example dataset.
 - [ ] Run the four-state EMI/noise test matrix from WP0.
 - [ ] Schedule the first three baseline sessions on different days.
-- [ ] Review this package with the supervisor and record scope changes in [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]] and the discussion minutes.
+- [ ] Review this package with the supervisor and record scope changes in [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]] and the discussion minutes.
 
 ## Dependencies and related notes
 
-- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
-- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation\|Diagnostics - Timing EMP and Radiation]]
-- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter\|Statistics - Breakdown Probability Delay and Jitter]]
-- [[II Areas/01_Research/Concepts/Research Extensions Roadmap\|Research Extensions Roadmap]]
-- [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)\|Laser-Triggered Spark Gaps (LTSG)]]
-- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics\|Laser-Induced Plasma Dynamics]]
-- [[I Projects/02_Campaigns/Experimental Diagnostics Campaign\|Experimental Diagnostics Campaign]]
-- [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|Doctoral Milestones & ISP Tracker]]
-- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix\|Dissertation Claims & Evidence Ledger]]
+- [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory - Laser-Triggered Breakdown and Switching]]
+- [[II Areas/01_Research/Concepts/Diagnostics - Timing EMP and Radiation|Diagnostics - Timing EMP and Radiation]]
+- [[II Areas/01_Research/Concepts/Statistics - Breakdown Probability Delay and Jitter|Statistics - Breakdown Probability Delay and Jitter]]
+- [[II Areas/01_Research/Concepts/Research Extensions Roadmap|Research Extensions Roadmap]]
+- [[II Areas/01_Research/Concepts/Laser-Triggered Spark Gaps (LTSG)|Laser-Triggered Spark Gaps (LTSG)]]
+- [[II Areas/01_Research/Concepts/Laser-Induced Plasma Dynamics|Laser-Induced Plasma Dynamics]]
+- [[Experimental Diagnostics Campaign]]
+- [[ISP & Milestone Tracking|Doctoral Milestones & ISP Tracker]]
+- [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Dissertation Claims & Evidence Ledger]]
 
 ## Standards and anchor sources
 

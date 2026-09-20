@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031200-competing-timescales-determine-the-triggering-regime/","title":"Competing Timescales Determine the Triggering Regime","tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/model"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Competing Timescales Determine the Triggering Regime","aliases":["Breakdown timescale competition","Regime map for laser triggering"],"type":"concept","status":"evergreen","context":"research","claims":["P1","H4","P2"],"topics":["topic/ltsg/timing","topic/ltsg/model"],"tags":["type/permanent","context/research","topic/ltsg/timing","topic/ltsg/model"],"created":"2026-09-03","last_updated":"2026-09-14"}}
+title: "Competing Timescales Determine the Triggering Regime"
+aliases:
+  - Breakdown timescale competition
+  - Regime map for laser triggering
+type: concept
+status: evergreen
+context: research
+claims: [P1, H4, P2]
+topics:
+  - topic/ltsg/timing
+  - topic/ltsg/model
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/timing
+  - topic/ltsg/model
+created: 2026-09-03
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Competing Timescales Determine the Triggering Regime
 
@@ -43,9 +61,9 @@ $Da_{ion/att}>1$ suggests net electron multiplication can outrun attachment; $\P
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory\|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory\|Hydrodynamic Density Depression Creates Electrical Memory]]
-- **Down:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response\|P1 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages\|P2 - Reproducible optical and electrical stages]]
+- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory - Laser-Triggered Breakdown and Switching]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031050 - Electron Attachment Recombination and Diffusion Erase Plasma Memory|Electron Attachment Recombination and Diffusion Erase Plasma Memory]] · [[II Areas/01_Research/Concepts/202609031140 - Hydrodynamic Density Depression Creates Electrical Memory|Hydrodynamic Density Depression Creates Electrical Memory]]
+- **Down:** [[II Areas/03_Thesis/Claims/P1 - Delay and jitter response|P1 - Delay and jitter response]] · [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages|P2 - Reproducible optical and electrical stages]]
 
 ## Anchor sources
 

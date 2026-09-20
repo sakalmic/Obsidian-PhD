@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609011000-optical-breakdown-mechanism-in-air/","title":"Optical Breakdown Mechanism in Air","tags":["type/permanent","context/research","theme/breakdown-physics","status/evergreen"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Optical Breakdown Mechanism in Air","aliases":["Zettel - Optical Breakdown Mechanism in Air","Optical Breakdown Mechanism in Air"],"tags":["type/permanent","context/research","theme/breakdown-physics","status/evergreen"],"date":"2026-09-01","last_updated":"2026-09-14"}}
+title: "Optical Breakdown Mechanism in Air"
+aliases:
+  - "Zettel - Optical Breakdown Mechanism in Air"
+  - "Optical Breakdown Mechanism in Air"
+tags:
+  - type/permanent
+  - context/research
+  - theme/breakdown-physics
+  - status/evergreen
+date: 2026-09-01
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Optical Breakdown Mechanism in Air
 
@@ -31,13 +42,13 @@ where $\nu_i$ is an effective ionisation frequency, $\nu_a$ attachment, $\nu_r$ 
 - Treat visible emission as a proxy, not a direct measurement of electron density.
 - Record failed shots and right-censored delays instead of deleting them.
 - Vary focus position and delay because the optically produced channel and the electrically useful channel need not coincide in space or time.
-- Use the mechanism-resolved treatment in [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]].
+- Use the mechanism-resolved treatment in [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory - Laser-Triggered Breakdown and Switching]].
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching\|Theory - Laser-Triggered Breakdown and Switching]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes\|Keldysh Parameter Separates Strong-Field Ionization Regimes]] · [[II Areas/01_Research/Concepts/202609031110 - Avalanche Ionization Can Dominate Nanosecond Breakdown\|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
-- **Down:** [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy\|H2 - Channel state versus pulse energy]]
+- **Up:** [[II Areas/01_Research/Concepts/Theory - Laser-Triggered Breakdown and Switching|Theory - Laser-Triggered Breakdown and Switching]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031100 - Keldysh Parameter Separates Strong-Field Ionization Regimes|Keldysh Parameter Separates Strong-Field Ionization Regimes]] · [[II Areas/01_Research/Concepts/202609031110 - Avalanche Ionization Can Dominate Nanosecond Breakdown|Avalanche Ionization Can Dominate Nanosecond Breakdown]]
+- **Down:** [[II Areas/03_Thesis/Claims/H2 - Channel state versus pulse energy|H2 - Channel state versus pulse energy]]
 
 ## Anchor sources
 

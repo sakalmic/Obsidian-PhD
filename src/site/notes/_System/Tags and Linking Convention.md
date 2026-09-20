@@ -1,7 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/system/tags-and-linking-convention/","title":"Properties, Tags and Linking Convention","tags":["topic/system/metadata"],"dgHomeLink":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-03","dg-note-properties":{"title":"Properties, Tags and Linking Convention","aliases":["Tags and Linking Convention","Tagging Rules"],"type":"guide","status":"evergreen","context":"phd","topics":["topic/system/metadata"],"tags":["topic/system/metadata"],"date":"2026-09-01","last_updated":"2026-09-03"}}
+title: "Properties, Tags and Linking Convention"
+aliases:
+  - Tags and Linking Convention
+  - Tagging Rules
+type: guide
+status: evergreen
+context: phd
+topics:
+  - topic/system/metadata
+tags:
+  - topic/system/metadata
+date: 2026-09-01
+last_updated: 2026-09-03
+dg-publish: true
+dg-render-dataview: true
+dg-home-link: true
 ---
-
 
 # Properties, Tags and Linking Convention
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry","topic/ltsg/breakdown"],"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","last_updated":"2026-09-14"}}
+{"dg-render-dataview":true,"dg-publish":true,"permalink":"/home/","title":"Home","contentClasses":"phd-home","tags":["gardenEntry","topic/ltsg/breakdown"],"type":"moc","status":"active","context":"phd","topics":["topic/ltsg/breakdown","topic/ltsg/channel","topic/ltsg/model"],"dgHomeLink":true,"dgShowFileTree":true,"noteIcon":"","created":"2026-09-01","updated":"2026-09-14","dg-note-properties":{"title":"Home","aliases":["Home","Research Dashboard"],"tags":["gardenEntry","topic/ltsg/breakdown"],"date":"2026-09-01","last_updated":"2026-09-14","dgHome":true,"dgShowFileTree":true},"last_updated":"2026-09-14"}
 ---
-
 
 
 # Laser-Controlled High-Voltage Breakdown
@@ -13,9 +12,15 @@
 > - **Proposed dissertation:** *Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling*
 > - **Programme:** Economics of Energy and Electrical Engineering · 2024–2028
 
-The broader application context is the transition toward SF₆-free and, where feasible, F-gas-free high-voltage switching. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure of a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Any relevance to SF₆ substitution is therefore conditional on later validation for a defined switching function and duty. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
+The research investigates laser-triggered spark gaps (LTSG) and optical discharge control across high-voltage and pulsed-power applications requiring sub-nanosecond jitter, complete optical galvanic isolation, and contact-free switching. Primary application domains include:
+1. **Pulsed power and fusion technologies:** Precise multi-stage synchronization in Marx generators and linear transformer drivers (LTDs), where optical triggering eliminates electromagnetic interference (EMI) coupling;
+2. **Synthetic testing of HV switchgear (e.g., KEMA, CESI):** Highly reproducible, jitter-free current injection around current zero ($i = 0$) for circuit-breaker qualification;
+3. **Fast protection and HVDC commutation:** Sub-microsecond crowbar protection for sensitive RF tubes (klystrons, gyrotrons) and fast current commutation in hybrid HVDC systems;
+4. **Eco-efficient switching media (Clean Air):** Contact-free triggering to mitigate the higher statistical jitter and electrode erosion inherent to eco-friendly gases (Clean Air, CO₂) in the ongoing phase-out of SF₆.
 
-Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
+The doctoral dissertation is strictly bounded to **Tier 1: atmospheric-air metrology, stochastic switching dynamics, and bounded techno-economic (TCO) modelling**, with **submission targeted for August 2028**. Tier 1 focuses on laser-triggered gap closure and predictive physics in atmospheric air; it does not claim to deliver a complete commercial switchgear product or test 50 Hz power-frequency arc interruption. Subsequent transfer to alternative gases (Tier 2) and industrial demonstrators (Tier 3) represent separately resourced follow-on research outside mandatory completion.
+
+Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
 ---
 
@@ -244,56 +249,44 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Current public work
 
-| File                                                                                                                                                          | Priority | Status | Updated            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ | ------------------ |
-| [[I Projects/01_Manuscripts/Dissertation Manuscript\|Dissertation Manuscript]]                                                                             | high     | active | September 14, 2026 |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                                                               | high     | active | September 14, 2026 |
-| [[I Projects/02_Campaigns/COMSOL Plasma Simulation Model\|COMSOL Plasma Simulation Model]]                                                                 | high     | active | September 14, 2026 |
-| [[I Projects/02_Campaigns/Experimental Diagnostics Campaign\|Experimental Diagnostics Campaign]]                                                           | high     | active | September 14, 2026 |
-| [[I Projects/02_Campaigns/LTSG Core Research Package 2026-2028\|LTSG Core Research Package 2026-2028]]                                                     | critical | active | September 14, 2026 |
-| [[I Projects/03_Milestones/20260925 Minimum/ISP & Milestone Tracking\|ISP & Milestone Tracking]]                                                           | critical | active | September 14, 2026 |
-| [[I Projects/03_Milestones/20260925 Minimum/Minimum Dissertation Study & Research Discussion 2026\|Minimum Dissertation Study & Research Discussion 2026]] | critical | active | September 14, 2026 |
-
-{ .block-language-dataview}
+```dataview
+TABLE priority as "Priority", status as "Status", default(last_updated, dateformat(file.mtime, "yyyy-MM-dd")) as "Updated"
+FROM "I Projects"
+WHERE status = "active" AND (type = "project" OR type = "manuscript")
+SORT default(last_updated, file.mtime) DESC
+```
 
 
 ---
 
 ## Publication pipeline
 
-| File                                                                                                                | Target venue                                                                                                                                             | Status  | Deadline          |
-| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- |
-| [[I Projects/01_Manuscripts/Paper - IEEE Transactions 2026\|Paper - IEEE Transactions 2026]]                     | Select after WP3 from IEEE Transactions on Plasma Science, IEEE Transactions on Dielectrics and Electrical Insulation, or another scope-matched journal. | active  | November 30, 2027 |
-| [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]] | \-                                                                                                                                                       | planned | April 30, 2028    |
-
-{ .block-language-dataview}
+```dataview
+TABLE target_journal_conference as "Target venue", status as "Status", default(submission_deadline, due) as "Deadline"
+FROM "I Projects/01_Manuscripts"
+WHERE type = "manuscript"
+SORT default(submission_deadline, due) ASC
+```
 
 
 ---
 
 ## Latest research notes
 
-| File                                                                                                                                                                | Updated            | Status                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------- |
-| [[II Areas/01_Research/Research Plans/RESEARCH-01 - Dissertation Research Roadmap\|RESEARCH-01 - Dissertation Research Roadmap]]                                 | September 16, 2026 | planned                          |
-| [[II Areas/01_Research/Research Plans/RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028\|RESEARCH-00 - Atmospheric Tier 1 Workflow 2026-2028]]                 | September 16, 2026 | planned                          |
-| [[II Areas/06_Administration/ISP_and_Evaluations/Individual Study Plan (ISP)\|Individual Study Plan (ISP)]]                                                      | September 14, 2026 | active                           |
-| [[II Areas/06_Administration/Supervisor_Sync/Doctoral Scope & Decision Register\|Doctoral Scope & Decision Register]]                                            | September 14, 2026 | active                           |
-| [[II Areas/06_Administration/Supervisor_Sync/Vault Alignment Record 2026-09-14\|Vault Alignment Record 2026-09-14]]                                              | September 16, 2026 | completed-with-open-verification |
-| [[III Resources/03_Literature/LN - Cikhardt2026 - Electromagnetic and Particle Pulses\|LN - Cikhardt2026 - Electromagnetic and Particle Pulses]]                 | September 03, 2026 | complete                         |
-| [[III Resources/03_Literature/LN - Mikes2024 - Laser Spark Gaps\|LN - Mikes2024 - Laser Spark Gaps]]                                                             | September 03, 2026 | review                           |
-| [[III Resources/03_Literature/LN - Sakala2025 - APL Lightning Protection\|LN - Sakala2025 - APL Lightning Protection]]                                           | September 14, 2026 | review                           |
-| [[III Resources/03_Literature/LN - Stepanova2026 - Ionising Radiation from Impulse Generators\|LN - Stepanova2026 - Ionising Radiation from Impulse Generators]] | September 03, 2026 | complete                         |
-| [[II Areas/06_Administration/Directives_and_Regulations/Doctoral Study Regulations & Directives\|Doctoral Study Regulations & Directives]]                       | September 03, 2026 | review                           |
-
-{ .block-language-dataview}
+```dataview
+TABLE default(last_updated, dateformat(file.mtime, "yyyy-MM-dd")) as "Updated", status as "Status"
+FROM "II Areas" OR "III Resources"
+WHERE type != "moc" AND type != "index" AND type != "cv" AND type != "profile"
+SORT file.mtime DESC
+LIMIT 10
+```
 
 
 ---
 
 ## Essential links
 
-- **Current document hierarchy:** [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map\|Doctoral Document Map]]
+- **Current document hierarchy:** [[II Areas/03_Thesis/LaTeX_Thesis/Doctoral Document Map|Doctoral Document Map]]
 
 - **Dissertation keystones:** [[Keystones/Keystones\|Core Claims & Findings]]
 - **Experimental archive:** [[II Areas/01_Research/Experiments/Experiments Index\|Experiments & Diagnostics]]
@@ -305,4 +298,4 @@ Historical basis: seven May 2024 series, reused in ICOLSE/APL, plus three Februa
 
 ## Mandatory economic contribution
 
-[[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice\|P3 - Techno-economic operating choice]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching\|Techno-Economic Modeling of Grid Switching]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO\|Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.
+[[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice|P3 - Techno-economic operating choice]] · [[II Areas/01_Research/Concepts/Techno-Economic Modeling of Grid Switching|Techno-Economic Modeling of Grid Switching]] · [[I Projects/01_Manuscripts/Paper 2 - Atmospheric Prediction and TCO|Paper 2 - Atmospheric Prediction and TCO]]. Cost collection begins with WP0; Chapter 6 and Paper 2 integrate the result by April 2028.

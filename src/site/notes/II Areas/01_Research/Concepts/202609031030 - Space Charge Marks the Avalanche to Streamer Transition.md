@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ii-areas/01-research/concepts/202609031030-space-charge-marks-the-avalanche-to-streamer-transition/","title":"Space Charge Marks the Avalanche to Streamer Transition","tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/channel"],"dgHomeLink":true,"noteIcon":"","updated":"2026-09-14","dg-note-properties":{"title":"Space Charge Marks the Avalanche to Streamer Transition","aliases":["Avalanche-streamer transition","Raether-Meek criterion"],"type":"concept","status":"evergreen","context":"research","claims":["H1","H3","H4","P2"],"topics":["topic/ltsg/breakdown","topic/ltsg/channel"],"tags":["type/permanent","context/research","topic/ltsg/breakdown","topic/ltsg/channel"],"created":"2026-09-03","last_updated":"2026-09-14"}}
+title: "Space Charge Marks the Avalanche to Streamer Transition"
+aliases:
+  - Avalanche-streamer transition
+  - Raether-Meek criterion
+type: concept
+status: evergreen
+context: research
+claims: [H1, H3, H4, P2]
+topics:
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+tags:
+  - type/permanent
+  - context/research
+  - topic/ltsg/breakdown
+  - topic/ltsg/channel
+created: 2026-09-03
+last_updated: "2026-09-14"
+dg-publish: true
+dg-home-link: true
 ---
-
 
 # Space Charge Marks the Avalanche to Streamer Transition
 
@@ -43,9 +61,9 @@ coupled to Poisson's equation. The streamer head has the strongest field and ste
 
 ## Connections
 
-- **Up:** [[II Areas/01_Research/Concepts/202609031020 - Townsend Avalanche Is Exponential but Not Yet a Streamer\|Townsend Avalanche Is Exponential but Not Yet a Streamer]]
-- **Side:** [[II Areas/01_Research/Concepts/202609031040 - Photoionization Enables Positive Streamer Propagation in Air\|Photoionization Enables Positive Streamer Propagation in Air]] · [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field\|Electrode Geometry and Polarity Shape the Local Field]]
-- **Down:** [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages\|P2 - Reproducible optical and electrical stages]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model\|H4 - Reduced predictive model]]
+- **Up:** [[II Areas/01_Research/Concepts/202609031020 - Townsend Avalanche Is Exponential but Not Yet a Streamer|Townsend Avalanche Is Exponential but Not Yet a Streamer]]
+- **Side:** [[II Areas/01_Research/Concepts/202609031040 - Photoionization Enables Positive Streamer Propagation in Air|Photoionization Enables Positive Streamer Propagation in Air]] · [[II Areas/01_Research/Concepts/202609031310 - Electrode Geometry and Polarity Shape the Local Field|Electrode Geometry and Polarity Shape the Local Field]]
+- **Down:** [[II Areas/03_Thesis/Claims/P2 - Reproducible optical and electrical stages|P2 - Reproducible optical and electrical stages]] · [[II Areas/03_Thesis/Claims/H4 - Reduced predictive model|H4 - Reduced predictive model]]
 
 ## Anchor sources
 
