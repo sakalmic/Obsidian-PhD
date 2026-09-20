@@ -9,7 +9,7 @@ For the concise two-level schedule, start with [[II Areas/01_Research/Research P
 
 ## Decision and boundary
 
-**Objective:** produce a defensible atmospheric-air dissertation that links calibrated breakdown measurements, a constrained physical interpretation, independently validated stochastic prediction and a bounded techno-economic operating choice. The working target is **submission in August 2028**. Tier 2 (CO₂/pressure) and Tier 3 (applications or online control) are outside mandatory completion. The long-term SF₆ replacement objective motivates the programme but is not an achieved Tier 1 result.
+**Objective:** produce a defensible atmospheric-air dissertation that links calibrated breakdown measurements, a constrained physical interpretation, independently validated stochastic prediction and a bounded techno-economic operating choice. The working target is **submission in August 2028**. Tier 2 (CO₂/pressure) and Tier 3 (applications or online control) are outside mandatory completion. The transition away from SF₆ is the broader application context. Tier 1 does not demonstrate replacement of complete switchgear or any of its interruption and recovery functions.
 
 **Authority:** [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Current reviewer report]]. This ticket translates that plan into tasks; laboratory access, equipment availability, formal study approval and numerical performance requirements still need confirmation.
 

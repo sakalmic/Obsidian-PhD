@@ -10,7 +10,7 @@ status: draft-for-supervisor-review
 context: thesis
 priority: critical
 date: 2026-09-10
-last_updated: 2026-09-16
+last_updated: 2026-09-20
 candidate: Ing. Michal Sakala
 supervisor: doc. Ing. Jan Mikeš, Ph.D.
 supervising_department: Department of Economics, Management and Humanities (K13116), CTU FEE
@@ -40,7 +40,7 @@ follow_on_tiers: outside-mandatory-dissertation-completion
 
 This study supports the professional discussion after the first two years of doctoral study. Its purpose is to assess the research completed so far and determine whether the proposed scope, methods and resources provide a credible route to a doctoral contribution. It is a research proposal for assessment by the supervisor and board, not a record of their approval. The document is self-contained: its scientific argument does not require access to a personal knowledge base or accompanying planning documents.
 
-**Long-term goal: replacement of SF₆.** The ultimate goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. This dissertation establishes the atmospheric-air measurement, prediction and TCO foundation for that direction. Subsequent Tier 2 and Tier 3 research may assess transfer to alternative media and applications. Demonstrating a complete SF₆ replacement is outside the mandatory dissertation scope and is not a condition for submission in August 2028.
+**Long-term application context: transition away from SF₆.** The power sector is replacing SF₆ because of its climate impact and new European restrictions, using architectures such as vacuum interruption with clean air or pressurised alternative gases [11,12]. Tier 1 does not claim to replace complete SF₆ switchgear. It studies laser-triggered closure of a bounded atmospheric-air gap, independently validates probability and delay, and evaluates TCO for a defined laboratory switching service. It does not test insulation coordination, short-circuit current interruption, post-arc dielectric recovery or product lifetime. Any relevance to SF₆ substitution therefore remains conditional on later validation for a defined switching function, medium, voltage/current rating and duty cycle. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion and its publication requirements.
 
 **Proposed English title:** Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling.
 
@@ -490,3 +490,7 @@ The next doctoral step is a reproducible atmospheric experiment with a calibrate
 [9] CTU FEE, Dean's Directive for Conducting Professional Debates in Doctoral Study at CTU FEE, approved 13 December 2017, effective 31 January 2018. Official faculty edition, consulted 13 September 2026.
 
 [10] Katedra ekonomiky, manažerství a humanitních věd, ČVUT FEL, “O katedře,” institutional profile, consulted 13 September 2026. https://ekonom.fel.cvut.cz/cs/katedra/o-katedre.
+
+[11] Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, Article 13. https://eur-lex.europa.eu/eli/reg/2024/573/oj.
+
+[12] CIGRE Working Group A3.41, *Current interruption in SF₆-free switchgear*, Technical Brochure 871, 2022. https://electra.cigre.org/322-june-2022/technical-brochures/871-current-interruption-in-sf6-free-switchgear.html.

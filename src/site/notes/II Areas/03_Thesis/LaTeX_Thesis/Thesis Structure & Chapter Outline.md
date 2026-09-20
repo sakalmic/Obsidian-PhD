@@ -5,7 +5,7 @@
 
 # Thesis Structure & Chapter Outline
 
-The long-term goal of the research programme is to contribute to technically and economically viable high-voltage equipment without SF₆. The selected dissertation is **Tier 1: atmospheric-air metrology, stochastic prediction and mandatory bounded TCO**, with **submission targeted for August 2028**. Tier 2 (CO₂/pressure transfer) and Tier 3 (applications) are separately resourced follow-on research, outside mandatory completion and its publication requirements. Full replacement of SF₆ is the programme's direction, not a demonstrated result or a dissertation completion condition.
+The broader application context is the transition toward SF₆-free and, where feasible, F-gas-free high-voltage switching. The selected dissertation remains **Tier 1: atmospheric-air metrology, stochastic prediction and bounded TCO**, with **submission targeted for August 2028**. Tier 1 studies laser-triggered closure of a laboratory gap; it does not test the insulation, short-circuit interruption, post-arc recovery or lifetime required to qualify complete switchgear. Any relevance to SF₆ substitution is therefore conditional on later validation for a defined switching function and duty. Tier 2 and Tier 3 are separately resourced follow-on research outside mandatory completion.
 
 Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress Review and Research Plan for Professional Discussion 2026\|Doctoral Progress Review & Dissertation Plan (2024–2028)]], revised 14 September 2026. This records the candidate's planning choice; formal supervisor, committee and ISP/KOS approval remains separately evidenced.
 
@@ -36,7 +36,7 @@ H3 is supporting robustness within the frozen atmospheric configuration family. 
 
 ### Chapter 1 - Problem, prior work and research gap
 
-Long-term SF₆-replacement goal, bounded atmospheric dissertation, technical/economic decision and research questions. Explain why mandatory evidence ends with Tier 1.
+SF₆-free application context, bounded atmospheric dissertation, technical/economic decision and research questions. Explain why Tier 1 evidence does not qualify complete switchgear and why mandatory evidence ends with Tier 1.
 
 ### Chapter 2 - Physical and statistical foundations
 
