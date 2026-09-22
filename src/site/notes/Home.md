@@ -3,13 +3,13 @@
 ---
 
 
-# Laser-Controlled High-Voltage Breakdown
+# Laser-Triggered High-Voltage Breakdown
 
 > [!abstract] **Doctoral research profile**
 > - **Researcher:** Ing. Michal Sakala
 > - **Supervisor:** doc. Ing. Jan Mikeš, Ph.D.
 > - **Affiliation:** Department of Economics, Management and Humanities, Faculty of Electrical Engineering, Czech Technical University in Prague
-> - **Proposed dissertation:** *Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling*
+> - **Proposed dissertation:** *Laser-Triggered Breakdown in Atmospheric-Pressure High-Voltage Air Gaps: Laser-Induced Channel Diagnostics, Statistical Prediction of Breakdown, and Techno-Economic Operating-Condition Selection*
 > - **Programme:** Economics of Energy and Electrical Engineering · 2024–2028
 
 The research investigates laser-triggered spark gaps (LTSG) and optical discharge control across high-voltage and pulsed-power applications requiring sub-nanosecond jitter, complete optical galvanic isolation, and contact-free switching. Primary application domains include:

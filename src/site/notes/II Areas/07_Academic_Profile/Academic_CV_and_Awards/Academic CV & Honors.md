@@ -26,7 +26,7 @@ Summary of academic milestones, education, professional experience, grants award
 ## 🎓 Education & Degrees
 
 - **2024 – 2028 (Expected):** Ph.D. in Economics of Energy and Electrical Engineering, Faculty of Electrical Engineering, Czech Technical University in Prague.
-  - *Dissertation:* Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps.
+  - *Dissertation:* Laser-Triggered Breakdown in Atmospheric-Pressure High-Voltage Air Gaps: Laser-Induced Channel Diagnostics, Statistical Prediction of Breakdown, and Techno-Economic Operating-Condition Selection.
   - *Supervisor:* doc. Ing. Jan Mikeš, Ph.D.
 - **2024:** Master of Science (Ing.), Electrical Power Engineering, Faculty of Electrical Engineering.
 - **2021:** Bachelor (Bc.), Computer Security and Information Technology, Faculty of Information Technology.

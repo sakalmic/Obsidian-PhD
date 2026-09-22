@@ -48,9 +48,9 @@ This study supports the professional discussion after the first two years of doc
 
 Within this broader context, the dissertation is rigorously delimited to **Tier 1: calibrated atmospheric-air metrology, stochastic switching dynamics, and bounded techno-economic (TCO) optimization**, with submission targeted for August 2028. Tier 1 investigates laser-induced pre-ionization, channel dynamics, and closing probability in a controlled laboratory air gap. It does not claim to qualify a complete commercial switchgear unit, nor does it evaluate 50 Hz power-frequency arc extinction, post-arc recovery, or multi-year dielectric aging. Any extension to alternative gas mixtures (Tier 2) or system demonstrators (Tier 3) is formally designated as follow-on research outside the mandatory requirements for doctoral completion.
 
-**Proposed English title:** Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling.
+**Proposed English title:** Laser-Triggered Breakdown in Atmospheric-Pressure High-Voltage Air Gaps: Laser-Induced Channel Diagnostics, Statistical Prediction of Breakdown, and Techno-Economic Operating-Condition Selection.
 
-**Proposed Czech title:** Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, stochastická dynamika spínání a prediktivní modelování.
+**Proposed Czech title:** Laserem iniciovaný průraz ve vysokonapěťových vzduchových mezerách za atmosférického tlaku: diagnostika laserem indukovaného kanálu, statistická predikce průrazu a technicko-ekonomický výběr provozních podmínek.
 
 The selected research programme is a three-tier structure. Only Tier 1 is the mandatory dissertation scope. Tier 1 connects calibrated experiments in atmospheric air, stochastic prediction and an economic decision model for a defined laboratory switching service. Tier 2 concerns subsequent transfer to CO₂ and controlled pressure. Tier 3 concerns a later diagnostic, control or application demonstrator. Neither Tier 2 nor Tier 3 is required for the dissertation, its mandatory publications or submission in August 2028.
 

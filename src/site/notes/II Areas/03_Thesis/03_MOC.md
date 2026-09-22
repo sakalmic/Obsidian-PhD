@@ -29,7 +29,7 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 
 Current evidence register: [[II Areas/03_Thesis/Claim_Ledger/Claim Ledger & Evidence Matrix|Claim Ledger & Evidence Matrix]]; mandatory economics: [[II Areas/03_Thesis/Claims/P3 - Techno-economic operating choice|P3 - Techno-economic operating choice]].
 
-Central workspace for the proposed dissertation **Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling**.
+Central workspace for the proposed dissertation **Laser-Triggered Breakdown in Atmospheric-Pressure High-Voltage Air Gaps: Laser-Induced Channel Diagnostics, Statistical Prediction of Breakdown, and Techno-Economic Operating-Condition Selection**.
 
 ---
 

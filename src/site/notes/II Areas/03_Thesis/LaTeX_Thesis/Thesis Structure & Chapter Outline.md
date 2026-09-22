@@ -28,9 +28,9 @@ Working authority: [[I Projects/03_Milestones/20260925 Minimum/Doctoral Progress
 
 ## Recommended fixed title
 
-**Laser-Controlled Breakdown in Atmospheric-Pressure High-Voltage Gaps: Plasma-Channel Diagnostics, Stochastic Switching Dynamics, and Predictive Modelling**
+**Laser-Triggered Breakdown in Atmospheric-Pressure High-Voltage Air Gaps: Laser-Induced Channel Diagnostics, Statistical Prediction of Breakdown, and Techno-Economic Operating-Condition Selection**
 
-Czech: **Laserem řízený průraz atmosférických vysokonapěťových mezer: diagnostika stavu plazmového kanálu, stochastická dynamika spínání a prediktivní modelování**.
+Czech: **Laserem iniciovaný průraz ve vysokonapěťových vzduchových mezerách za atmosférického tlaku: diagnostika laserem indukovaného kanálu, statistická predikce průrazu a technicko-ekonomický výběr provozních podmínek**.
 
 ## Structure status
 
