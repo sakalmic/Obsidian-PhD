@@ -517,7 +517,7 @@
     <g transform="translate(265, 692)">
       <rect width="640" height="217" rx="6" fill="url(#card-done-grad)" stroke="#10b981" stroke-width="1.3" filter="url(#shadow-card)" />
       <text class="card-tag" x="12" y="20" fill="#059669">EMPIRICKÁ VÝCHODISKA DISERTAČNÍCH CLAIMS (2024–2026) – DOKONČENO</text>
-      <text class="card-title" x="12" y="38" fill="#065f46" font-size="12px">Zděděná měření (Série 1–10), ICOLSE 2024, APL 2025 &amp; COMSOL model</text>
+      <text class="card-title" x="12" y="38" fill="#065f46" font-size="12px">Zděděná měření (Série 1–7), měření (8–10), ICOLSE 2024, APL 2025 &amp; COMSOL model</text>
       
       <line x1="12" y1="48" x2="628" y2="48" stroke="#a7f3d0" stroke-width="1" />
       
