@@ -92,7 +92,7 @@
     <rect width="1650" height="68" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.2" filter="url(#shadow-card)" />
     
     <!-- Title -->
-    <text class="main-title" x="20" y="26">Časová osa: <tspan fill="#0369a1" font-size="19px">Predikce laserem iniciovaného průrazu ve vzduchovém jiskřišti</tspan> <tspan fill="#64748b" font-size="12.5px" font-weight="600">/ Prediction of Laser-Triggered Breakdown in an Air Spark Gap</tspan></text>
+    <text class="main-title" x="20" y="26">Časová osa: <tspan fill="#0369a1" font-size="18px">Laserem iniciovaný průraz: diagnostika, predikce a technicko-ekonomické modelování</tspan> <tspan fill="#64748b" font-size="12px" font-weight="600">/ Laser-Triggered Breakdown: Diagnostics, Prediction, and Techno-Economic Modeling</tspan></text>
     
     <!-- Subtitle metadata chips (Rozmístěné s mezerou kolem X=820..1045 pro rysku Současný stav) -->
     <g transform="translate(20, 36)">
@@ -314,28 +314,30 @@
       <rect x="0" y="0" width="480" height="24" rx="6" fill="#f8fafc" />
       <text class="card-tag" x="10" y="16" fill="#475569">POVINNOSTI K DOKONČENÍ DOKTORSKÉHO PROGRAMU (2026–2028)</text>
 
-      <g transform="translate(12, 26)">
+      <g transform="translate(12, 24)">
         <circle cx="6" cy="4" r="3" fill="#0284c7" />
-        <text class="card-title" x="16" y="8" fill="#1e293b">1. Státní doktorská zkouška (SDZ) – Cíl: Červen 2027</text>
-        <text class="card-desc" x="16" y="19">Podmínky splněny (uzavřený studijní blok KOS, APL 2025, minimum 09/2026).</text>
+        <text class="card-title" x="16" y="7" fill="#1e293b">1. Státní doktorská zkouška (SDZ) – Cíl: Červen 2027</text>
+        <text class="card-desc" x="16" y="17">Podmínky splněny (uzavřený studijní blok KOS, APL 2025, minimum 09/2026).</text>
 
-        <circle cx="6" cy="28" r="3" fill="#0284c7" />
-        <text class="card-title" x="16" y="32" fill="#1e293b">2. Mezinárodní stáž – Cíl: Podzim 2027 (Německo / Norsko)</text>
-        <text class="card-desc" x="16" y="43">Dlouhodobý pobyt min. 1 měsíc dle SZŘ ČVUT (navázáno na ATHENS NTNU).</text>
+        <circle cx="6" cy="24" r="3" fill="#0284c7" />
+        <text class="card-title" x="16" y="27" fill="#1e293b">2. Mezinárodní stáž – Cíl: Podzim 2027 (Německo / Norsko)</text>
+        <text class="card-desc" x="16" y="37">Dlouhodobý pobyt min. 1 měsíc dle SZŘ ČVUT (navázáno na ATHENS NTNU).</text>
 
-        <circle cx="6" cy="52" r="3" fill="#0284c7" />
-        <text class="card-title" x="16" y="56" fill="#1e293b">3. Publikační kvóta k obhajobě disertace (srpen 2028)</text>
-        <text class="card-desc" x="16" y="67">Min. 3 články k tématu (2× 1. autor, min. 1× IF) → plní Článek 1 a 2.</text>
+        <circle cx="6" cy="44" r="3" fill="#0284c7" />
+        <text class="card-title" x="16" y="47" fill="#1e293b">3. Publikační kvóta k obhajobě disertace (srpen 2028)</text>
+        <text class="card-desc" x="16" y="57">Min. 3 články k tématu (2× 1. autor, min. 1× IF) → plní Článek 1 a 2.</text>
 
-        <circle cx="6" cy="74" r="3" fill="#ea580c" />
-        <text class="card-title" x="16" y="78" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
-        <text class="card-desc" x="16" y="92" font-size="9px"><tspan font-weight="700" fill="#64748b">• Téma v KOS:</tspan> Řízení elektroenergetických zkušebních zařízení laser. spínáním</text>
+        <circle cx="6" cy="65" r="3" fill="#ea580c" />
+        <text class="card-title" x="16" y="68" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
+        <text class="card-desc" x="16" y="80" font-size="8.8px"><tspan font-weight="700" fill="#64748b">• Téma v KOS:</tspan> Řízení elektroenergetických zkušebních zařízení laser. spínáním</text>
         
-        <rect x="14" y="99" width="452" height="18" rx="3" fill="#eff6ff" stroke="#bfdbfe" stroke-width="0.8" />
-        <text x="20" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="9.5px"><tspan font-weight="800" fill="#0284c7">Návrh CZ:</tspan> <tspan font-weight="700" fill="#0f172a">Predikce laserem iniciovaného průrazu ve vzduchovém jiskřišti</tspan></text>
+        <rect x="14" y="85" width="452" height="17" rx="3" fill="#eff6ff" stroke="#bfdbfe" stroke-width="0.8" />
+        <text x="20" y="97" font-family="'Segoe UI', Arial, sans-serif" font-size="8.8px"><tspan font-weight="800" fill="#0284c7">Název CZ:</tspan> <tspan font-weight="700" fill="#0f172a">Laserem iniciovaný průraz: diagnostika, predikce a technicko-ekonomické modelování</tspan></text>
         
-        <rect x="14" y="120" width="452" height="18" rx="3" fill="#f8fafc" stroke="#cbd5e1" stroke-width="0.8" />
-        <text x="20" y="133" font-family="'Segoe UI', Arial, sans-serif" font-size="9.5px"><tspan font-weight="800" fill="#475569">Návrh EN:</tspan> <tspan font-weight="700" fill="#0f172a">Prediction of Laser-Triggered Breakdown in an Air Spark Gap</tspan></text>
+        <rect x="14" y="104" width="452" height="17" rx="3" fill="#f8fafc" stroke="#cbd5e1" stroke-width="0.8" />
+        <text x="20" y="116" font-family="'Segoe UI', Arial, sans-serif" font-size="8.8px"><tspan font-weight="800" fill="#475569">Název EN:</tspan> <tspan font-weight="700" fill="#0f172a">Laser-Triggered Breakdown: Diagnostics, Prediction, and Techno-Economic Modeling</tspan></text>
+
+        <text x="16" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="7.8px" fill="#64748b"><tspan font-weight="700">• Zkrácený návrh (Slide 21):</tspan> Predikce laserem iniciovaného průrazu ve vzduchovém jiskřišti (Prediction of Laser-Triggered Breakdown)</text>
       </g>
     </g>
 
