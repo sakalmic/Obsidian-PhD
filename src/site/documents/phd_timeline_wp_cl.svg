@@ -315,27 +315,24 @@
       <text class="card-tag" x="10" y="16" fill="#475569">POVINNOSTI K DOKONČENÍ DOKTORSKÉHO PROGRAMU (2026–2028)</text>
 
       <g transform="translate(12, 24)">
-        <circle cx="6" cy="5" r="3" fill="#ea580c" />
-        <text class="card-title" x="16" y="8" fill="#1e293b">1. Státní doktorská zkouška (SDZ) – Cíl: Červen 2027</text>
-        <text class="card-desc" x="16" y="20">Podmínky splněny (uzavřený studijní blok KOS, APL 2025, minimum 09/2026).</text>
+        <circle cx="6" cy="6" r="3" fill="#ea580c" />
+        <text class="card-title" x="16" y="9" fill="#1e293b">1. Státní doktorská zkouška (SDZ) – Cíl: Červen 2027</text>
+        <text class="card-desc" x="16" y="21">Podmínky splněny (uzavřený studijní blok KOS, APL 2025, minimum 09/2026).</text>
 
-        <circle cx="6" cy="28" r="3" fill="#ea580c" />
-        <text class="card-title" x="16" y="31" fill="#1e293b">2. Mezinárodní stáž – Cíl: Podzim 2027 (Německo / Norsko)</text>
-        <text class="card-desc" x="16" y="43">Dlouhodobý pobyt min. 1 měsíc dle SZŘ ČVUT (navázáno na ATHENS NTNU).</text>
+        <circle cx="6" cy="32" r="3" fill="#ea580c" />
+        <text class="card-title" x="16" y="35" fill="#1e293b">2. Mezinárodní stáž – Cíl: Podzim 2027 (Německo / Norsko)</text>
+        <text class="card-desc" x="16" y="47">Dlouhodobý pobyt min. 1 měsíc dle SZŘ ČVUT (navázáno na ATHENS NTNU).</text>
 
-        <circle cx="6" cy="51" r="3" fill="#ea580c" />
-        <text class="card-title" x="16" y="54" fill="#1e293b">3. Publikační kvóta k obhajobě disertace (srpen 2028)</text>
-        <text class="card-desc" x="16" y="66">Min. 3 články k tématu (2× 1. autor, min. 1× IF) → plní Článek 1 a 2.</text>
+        <circle cx="6" cy="58" r="3" fill="#ea580c" />
+        <text class="card-title" x="16" y="61" fill="#1e293b">3. Publikační kvóta k obhajobě disertace (srpen 2028)</text>
+        <text class="card-desc" x="16" y="73">Min. 3 články k tématu (2× 1. autor, min. 1× IF) → plní Článek 1 a 2.</text>
 
-        <circle cx="6" cy="74" r="3" fill="#ea580c" />
-        <text class="card-title" x="16" y="77" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
-        <text class="card-desc" x="16" y="89" font-size="8.3px"><tspan font-weight="700" fill="#64748b">• Původní téma v KOS:</tspan> Řízení elektroenergetických zkušebních zařízení laser. spínáním</text>
-        
-        <rect x="14" y="95" width="452" height="17" rx="3" fill="#eff6ff" stroke="#bfdbfe" stroke-width="0.8" />
-        <text x="20" y="107" font-family="'Segoe UI', Arial, sans-serif" font-size="8.5px"><tspan font-weight="800" fill="#0284c7">Jednotný název CZ:</tspan> <tspan font-weight="700" fill="#0f172a">Laserem iniciovaný průraz: diagnostika, predikce a technicko-ekonomické modelování</tspan></text>
-        
-        <rect x="14" y="116" width="452" height="17" rx="3" fill="#f8fafc" stroke="#cbd5e1" stroke-width="0.8" />
-        <text x="20" y="128" font-family="'Segoe UI', Arial, sans-serif" font-size="8.4px"><tspan font-weight="800" fill="#475569">Jednotný název EN:</tspan> <tspan font-weight="700" fill="#0f172a">Laser-Triggered Breakdown: Diagnostics, Prediction, and Techno-Economic Modeling</tspan></text>
+        <circle cx="6" cy="84" r="3" fill="#ea580c" />
+        <text class="card-title" x="16" y="87" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
+        <text class="card-desc" x="16" y="100" font-size="8.3px"><tspan font-weight="700" fill="#64748b">• Původní téma odborné studie v KOSu:</tspan> Pokročilé spouštění VN jiskřiště pomocí laserového paprsku</text>
+        <text class="card-desc" x="16" y="113" font-size="8.4px"><tspan font-weight="800" fill="#0284c7">• Návrh nového názvu:</tspan></text>
+        <text class="card-desc" x="25" y="125" font-size="8.4px"><tspan font-weight="800" fill="#0369a1">CZ:</tspan> <tspan font-weight="700" fill="#0f172a">Laserem iniciovaný průraz: diagnostika, predikce a technicko-ekonomické modelování</tspan></text>
+        <text class="card-desc" x="25" y="137" font-size="8.0px"><tspan font-weight="800" fill="#64748b">EN:</tspan> <tspan font-weight="600" fill="#334155">Laser-Triggered Breakdown: Diagnostics, Prediction, and Techno-Economic Modeling</tspan></text>
       </g>
     </g>
 
