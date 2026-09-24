@@ -24,6 +24,8 @@
       .now-title { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 12px; fill: #ffffff; text-anchor: middle; }
       .now-sub { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 10.5px; fill: #f3e8ff; text-anchor: middle; }
       .legend-text { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; font-size: 11px; fill: #1e293b; }
+      .card-title-head { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 8.2px; fill: #0369a1; }
+      .card-title-sub { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 500; font-size: 7.4px; fill: #334155; }
     </style>
 
     <!-- Background Gradient -->
@@ -304,34 +306,40 @@
 
     <!-- Návaznost na SDZ a výzkum (R3/R4 info box) -->
     <g transform="translate(915, 296)">
-      <rect width="480" height="158" rx="6" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2" filter="url(#shadow-card)" />
+      <rect width="480" height="166" rx="6" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2" filter="url(#shadow-card)" />
       <rect x="0" y="0" width="480" height="24" rx="6" fill="#f8fafc" />
       <text class="card-tag" x="10" y="16" fill="#475569">POVINNOSTI K DOKONČENÍ DOKTORSKÉHO PROGRAMU (2026–2028)</text>
 
-      <g transform="translate(12, 28)">
-        <circle cx="6" cy="5" r="3" fill="#0284c7" />
-        <text class="card-title" x="16" y="9" fill="#1e293b">1. Státní doktorská zkouška (SDZ) – Cíl: Červen 2027</text>
-        <text class="card-desc" x="16" y="21">Podmínky splněny (uzavřený studijní blok KOS, APL 2025, minimum 09/2026).</text>
+      <g transform="translate(12, 26)">
+        <circle cx="6" cy="4" r="3" fill="#0284c7" />
+        <text class="card-title" x="16" y="8" fill="#1e293b">1. Státní doktorská zkouška (SDZ) – Cíl: Červen 2027</text>
+        <text class="card-desc" x="16" y="19">Podmínky splněny (uzavřený studijní blok KOS, APL 2025, minimum 09/2026).</text>
 
-        <circle cx="6" cy="33" r="3" fill="#0284c7" />
-        <text class="card-title" x="16" y="37" fill="#1e293b">2. Mezinárodní stáž – Cíl: Podzim 2027 (Německo / Norsko)</text>
-        <text class="card-desc" x="16" y="49">Dlouhodobý pobyt min. 1 měsíc dle SZŘ ČVUT (navázáno na ATHENS NTNU).</text>
+        <circle cx="6" cy="28" r="3" fill="#0284c7" />
+        <text class="card-title" x="16" y="32" fill="#1e293b">2. Mezinárodní stáž – Cíl: Podzim 2027 (Německo / Norsko)</text>
+        <text class="card-desc" x="16" y="43">Dlouhodobý pobyt min. 1 měsíc dle SZŘ ČVUT (navázáno na ATHENS NTNU).</text>
 
-        <circle cx="6" cy="61" r="3" fill="#0284c7" />
-        <text class="card-title" x="16" y="65" fill="#1e293b">3. Publikační kvóta k obhajobě disertace (srpen 2028)</text>
-        <text class="card-desc" x="16" y="77">Min. 3 články k tématu (2× 1. autor, min. 1× IF) → plní Článek 1 a 2.</text>
+        <circle cx="6" cy="52" r="3" fill="#0284c7" />
+        <text class="card-title" x="16" y="56" fill="#1e293b">3. Publikační kvóta k obhajobě disertace (srpen 2028)</text>
+        <text class="card-desc" x="16" y="67">Min. 3 články k tématu (2× 1. autor, min. 1× IF) → plní Článek 1 a 2.</text>
 
-        <circle cx="6" cy="89" r="3" fill="#0284c7" />
-        <text class="card-title" x="16" y="93" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
-        <text class="card-desc" x="16" y="105" font-size="8.8px"><tspan font-weight="700" fill="#334155">• Téma v KOS:</tspan> Řízení elektroenergetických zkušebních zařízení laser. spínáním</text>
-        <text class="card-desc" x="16" y="116" font-size="8.8px"><tspan font-weight="700" fill="#334155">• Nový návrh:</tspan> Laserem řízený průraz atmosférických vysokonapěťových mezer:</text>
-        <text class="card-desc" x="24" y="127" font-size="8.4px" fill="#334155">diagnostika stavu plazmového kanálu, statistická dynamika spínání a prediktivní modelování</text>
+        <circle cx="6" cy="76" r="3" fill="#0284c7" />
+        <text class="card-title" x="16" y="80" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
+        <text class="card-title-sub" x="16" y="91"><tspan font-weight="700" fill="#334155">• Téma v KOS:</tspan> Řízení elektroenergetických zkušebních zařízení laser. spínáním</text>
+        
+        <text class="card-title-head" x="16" y="102">• Návrh CZ:</text>
+        <text class="card-title-sub" x="70" y="102" font-weight="600" fill="#0f172a">Laserem iniciovaný průraz ve VN vzduchových mezerách za atm. tlaku:</text>
+        <text class="card-title-sub" x="24" y="112">diagnostika laserem indukovaného kanálu, statistická predikce průrazu a technicko-ekonomický výběr provozních podmínek</text>
+        
+        <text class="card-title-head" x="16" y="123">• Návrh EN:</text>
+        <text class="card-title-sub" x="72" y="123" font-weight="600" fill="#0f172a">Laser-Triggered Breakdown in Atmospheric-Pressure High-Voltage Air Gaps:</text>
+        <text class="card-title-sub" x="24" y="133">Laser-Induced Channel Diagnostics, Statistical Prediction of Breakdown, and Techno-Economic Operating-Condition Selection</text>
       </g>
     </g>
 
     <!-- Disertační odevzdání detail - VÝRAZNÁ ČERNÁ TABULKA KOS ISP -->
     <g transform="translate(1405, 296)">
-      <rect width="250" height="158" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1.5" filter="url(#shadow-card)" />
+      <rect width="250" height="166" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1.5" filter="url(#shadow-card)" />
       
       <!-- Záhlaví tabulky -->
       <rect x="0" y="0" width="250" height="28" rx="6" fill="#1e293b" />
@@ -362,7 +370,7 @@
       </g>
 
       <!-- Patička -->
-      <text font-family="'Segoe UI', Arial, sans-serif" font-weight="500" font-size="8.5px" fill="#64748b" x="12" y="145">* Závazné termíny dle KOS ISP (4leté prezenční studium).</text>
+      <text font-family="'Segoe UI', Arial, sans-serif" font-weight="500" font-size="8.5px" fill="#64748b" x="12" y="152">* Závazné termíny dle KOS ISP (4leté prezenční studium).</text>
     </g>
   </g>
 
