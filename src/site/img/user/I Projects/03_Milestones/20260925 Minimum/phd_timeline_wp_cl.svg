@@ -330,7 +330,7 @@
         <circle cx="6" cy="97" r="3" fill="#ea580c" />
         <text class="card-title" x="16" y="100" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
         <text class="card-desc" x="16" y="115" font-size="7.4px"><tspan font-weight="700" fill="#64748b">Téma odborné studie v KOSu:</tspan> Pokročilé spouštění VN jiskřiště pomocí laserového paprsku</text>
-        <text class="card-desc" x="16" y="129" font-size="6.9px" letter-spacing="-0.15px"><tspan font-weight="700" fill="#ea580c">• Nový název:</tspan> <tspan font-weight="600" fill="#0f172a">Laserem iniciovaný průraz: diagnostika, predikce a technicko-ekonomické modelování</tspan></text>
+        <text class="card-desc" x="16" y="129" font-size="7.4px"><tspan font-weight="700" fill="#64748b">Nový název:</tspan> Laserem iniciovaný průraz: diagnostika, predikce a technicko-ekonomické modelování</text>
       </g>
     </g>
 
