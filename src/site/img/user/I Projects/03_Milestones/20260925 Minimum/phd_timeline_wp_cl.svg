@@ -47,9 +47,13 @@
       <stop offset="0%" stop-color="#fff7ed" />
       <stop offset="100%" stop-color="#ffedd5" />
     </linearGradient>
+    <linearGradient id="card-orange-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff7ed" />
+      <stop offset="100%" stop-color="#ffedd5" />
+    </linearGradient>
     <linearGradient id="card-red-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#fef2f2" />
-      <stop offset="100%" stop-color="#fee2e2" />
+      <stop offset="0%" stop-color="#fff7ed" />
+      <stop offset="100%" stop-color="#ffedd5" />
     </linearGradient>
     <linearGradient id="card-now-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#faf5ff" />
@@ -88,7 +92,7 @@
     <rect width="1650" height="68" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.2" filter="url(#shadow-card)" />
     
     <!-- Title -->
-    <text class="main-title" x="20" y="28">Časová osa doktorského studia: Průchod předměty (KOS), WP balíčky a Claims</text>
+    <text class="main-title" x="20" y="26">Časová osa: <tspan fill="#0369a1" font-size="19px">Predikce laserem iniciovaného průrazu ve vzduchovém jiskřišti</tspan> <tspan fill="#64748b" font-size="12.5px" font-weight="600">/ Prediction of Laser-Triggered Breakdown in an Air Spark Gap</tspan></text>
     
     <!-- Subtitle metadata chips (Rozmístěné s mezerou kolem X=820..1045 pro rysku Současný stav) -->
     <g transform="translate(20, 36)">
@@ -206,9 +210,9 @@
 
     <!-- SDZ Přihláška & Zkouška (X=1060, dostatek místa napravo od rozpravy) -->
     <g transform="translate(1060, 222)">
-      <rect width="165" height="58" rx="6" fill="url(#card-red-grad)" stroke="#dc2626" stroke-width="1.8" />
-      <text class="card-tag" x="8" y="16" fill="#b91c1c">KLÍČOVÁ ZKOUŠKA</text>
-      <text class="card-title" x="8" y="32" fill="#991b1b">Státní doktorská zk. (SDZ)</text>
+      <rect width="165" height="58" rx="6" fill="url(#card-orange-grad)" stroke="#ea580c" stroke-width="1.8" />
+      <text class="card-tag" x="8" y="16" fill="#c2410c">KLÍČOVÁ ZKOUŠKA</text>
+      <text class="card-title" x="8" y="32" fill="#9a3412">Státní doktorská zk. (SDZ)</text>
       <text class="card-desc" x="8" y="48">Přihláška 03/27 | Termín: 06/2027</text>
     </g>
 
@@ -222,9 +226,9 @@
 
     <!-- Odevzdání disertace -->
     <g transform="translate(1440, 222)">
-      <rect width="140" height="58" rx="6" fill="url(#card-red-grad)" stroke="#dc2626" stroke-width="2" />
-      <text class="card-tag" x="8" y="16" fill="#b91c1c">PŘEDP. TERMÍN ISP</text>
-      <text class="card-title" x="8" y="32" fill="#991b1b">Odevzdání disertace</text>
+      <rect width="140" height="58" rx="6" fill="url(#card-orange-grad)" stroke="#ea580c" stroke-width="2" />
+      <text class="card-tag" x="8" y="16" fill="#c2410c">PŘEDP. TERMÍN ISP</text>
+      <text class="card-title" x="8" y="32" fill="#9a3412">Odevzdání disertace</text>
       <text class="card-desc" x="8" y="48">31.08.2028 (Monografie)</text>
     </g>
 
@@ -323,17 +327,15 @@
         <text class="card-title" x="16" y="56" fill="#1e293b">3. Publikační kvóta k obhajobě disertace (srpen 2028)</text>
         <text class="card-desc" x="16" y="67">Min. 3 články k tématu (2× 1. autor, min. 1× IF) → plní Článek 1 a 2.</text>
 
-        <circle cx="6" cy="76" r="3" fill="#0284c7" />
-        <text class="card-title" x="16" y="80" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
-        <text class="card-title-sub" x="16" y="91"><tspan font-weight="700" fill="#334155">• Téma v KOS:</tspan> Řízení elektroenergetických zkušebních zařízení laser. spínáním</text>
+        <circle cx="6" cy="74" r="3" fill="#ea580c" />
+        <text class="card-title" x="16" y="78" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
+        <text class="card-desc" x="16" y="92" font-size="9px"><tspan font-weight="700" fill="#64748b">• Téma v KOS:</tspan> Řízení elektroenergetických zkušebních zařízení laser. spínáním</text>
         
-        <text class="card-title-head" x="16" y="102">• Návrh CZ:</text>
-        <text class="card-title-sub" x="70" y="102" font-weight="600" fill="#0f172a">Laserem iniciovaný průraz ve VN vzduchových mezerách za atm. tlaku:</text>
-        <text class="card-title-sub" x="24" y="112">diagnostika laserem indukovaného kanálu, statistická predikce průrazu a technicko-ekonomický výběr provozních podmínek</text>
+        <rect x="14" y="99" width="452" height="18" rx="3" fill="#eff6ff" stroke="#bfdbfe" stroke-width="0.8" />
+        <text x="20" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="9.5px"><tspan font-weight="800" fill="#0284c7">Návrh CZ:</tspan> <tspan font-weight="700" fill="#0f172a">Predikce laserem iniciovaného průrazu ve vzduchovém jiskřišti</tspan></text>
         
-        <text class="card-title-head" x="16" y="123">• Návrh EN:</text>
-        <text class="card-title-sub" x="72" y="123" font-weight="600" fill="#0f172a">Laser-Triggered Breakdown in Atmospheric-Pressure High-Voltage Air Gaps:</text>
-        <text class="card-title-sub" x="24" y="133">Laser-Induced Channel Diagnostics, Statistical Prediction of Breakdown, and Techno-Economic Operating-Condition Selection</text>
+        <rect x="14" y="120" width="452" height="18" rx="3" fill="#f8fafc" stroke="#cbd5e1" stroke-width="0.8" />
+        <text x="20" y="133" font-family="'Segoe UI', Arial, sans-serif" font-size="9.5px"><tspan font-weight="800" fill="#475569">Návrh EN:</tspan> <tspan font-weight="700" fill="#0f172a">Prediction of Laser-Triggered Breakdown in an Air Spark Gap</tspan></text>
       </g>
     </g>
 
@@ -444,7 +446,7 @@
       <text class="card-title" x="5" y="18" fill="#c2410c">WP3</text>
       <text class="card-tag" x="5" y="32" fill="#ea580c">05-06/27</text>
       <text class="card-desc" x="5" y="48">Screening</text>
-      <text class="card-desc" x="5" y="62" font-weight="bold" fill="#b91c1c">STOP/GO</text>
+      <text class="card-desc" x="5" y="62" font-weight="bold" fill="#ea580c">STOP/GO</text>
       <text class="card-desc" x="5" y="74">GATE 06/27</text>
     </g>
 
@@ -627,18 +629,18 @@
 
     <!-- Paper 1 -->
     <g transform="translate(1190, 931)">
-      <rect width="170" height="60" rx="6" fill="url(#card-red-grad)" stroke="#dc2626" stroke-width="1.8" />
-      <text class="card-tag" x="8" y="15" fill="#b91c1c">KLÍČOVÝ IMPAKT 1 (Q1/Q2)</text>
-      <text class="card-title" x="8" y="30" fill="#991b1b">Článek 1 (Paper 1)</text>
+      <rect width="170" height="60" rx="6" fill="url(#card-orange-grad)" stroke="#ea580c" stroke-width="1.8" />
+      <text class="card-tag" x="8" y="15" fill="#c2410c">KLÍČOVÝ IMPAKT 1 (Q1/Q2)</text>
+      <text class="card-title" x="8" y="30" fill="#9a3412">Článek 1 (Paper 1)</text>
       <text class="card-desc" x="8" y="44">Submission: 10–11 / 2027</text>
       <text class="card-desc" x="8" y="56">Stochastika, t₀ &amp; atmosféra (C1)</text>
     </g>
 
     <!-- Paper 2 - Posunuto tak, aby končil před odevzdáním disertace (X=1525 < 1534) -->
     <g transform="translate(1375, 931)">
-      <rect width="150" height="60" rx="6" fill="url(#card-red-grad)" stroke="#dc2626" stroke-width="1.8" />
-      <text class="card-tag" x="8" y="15" fill="#b91c1c">KLÍČOVÝ IMPAKT 2 (Q1/Q2)</text>
-      <text class="card-title" x="8" y="30" fill="#991b1b">Článek 2 (Paper 2)</text>
+      <rect width="150" height="60" rx="6" fill="url(#card-orange-grad)" stroke="#ea580c" stroke-width="1.8" />
+      <text class="card-tag" x="8" y="15" fill="#c2410c">KLÍČOVÝ IMPAKT 2 (Q1/Q2)</text>
+      <text class="card-title" x="8" y="30" fill="#9a3412">Článek 2 (Paper 2)</text>
       <text class="card-desc" x="8" y="44">Submission: 03–04 / 2028</text>
       <text class="card-desc" x="8" y="56">Predikce &amp; TCO (C2, C3)</text>
     </g>
@@ -699,8 +701,8 @@
       <text class="legend-text" x="26" y="13">Plánovaný výzkum: WP balíčky &amp; Příspěvky C1–C4 (Tier 1 vzduch)</text>
     </g>
 
-    <g transform="translate(1125, 62)">
-      <rect width="18" height="18" rx="4" fill="url(#card-red-grad)" stroke="#dc2626" stroke-width="2" />
+    <g transform="translate(1090, 62)">
+      <rect width="18" height="18" rx="4" fill="url(#card-orange-grad)" stroke="#ea580c" stroke-width="2" />
       <text class="legend-text" x="26" y="13">Klíčové brány a výstupy (SDZ, Články 1 &amp; 2, Odevzdání)</text>
     </g>
   </g>
