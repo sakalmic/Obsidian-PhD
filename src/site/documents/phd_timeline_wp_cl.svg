@@ -315,29 +315,29 @@
       <text class="card-tag" x="10" y="16" fill="#475569">POVINNOSTI K DOKONČENÍ DOKTORSKÉHO PROGRAMU (2026–2028)</text>
 
       <g transform="translate(12, 24)">
-        <circle cx="6" cy="4" r="3" fill="#0284c7" />
+        <circle cx="6" cy="4" r="3" fill="#ea580c" />
         <text class="card-title" x="16" y="7" fill="#1e293b">1. Státní doktorská zkouška (SDZ) – Cíl: Červen 2027</text>
         <text class="card-desc" x="16" y="17">Podmínky splněny (uzavřený studijní blok KOS, APL 2025, minimum 09/2026).</text>
 
-        <circle cx="6" cy="24" r="3" fill="#0284c7" />
+        <circle cx="6" cy="24" r="3" fill="#ea580c" />
         <text class="card-title" x="16" y="27" fill="#1e293b">2. Mezinárodní stáž – Cíl: Podzim 2027 (Německo / Norsko)</text>
         <text class="card-desc" x="16" y="37">Dlouhodobý pobyt min. 1 měsíc dle SZŘ ČVUT (navázáno na ATHENS NTNU).</text>
 
-        <circle cx="6" cy="44" r="3" fill="#0284c7" />
+        <circle cx="6" cy="44" r="3" fill="#ea580c" />
         <text class="card-title" x="16" y="47" fill="#1e293b">3. Publikační kvóta k obhajobě disertace (srpen 2028)</text>
         <text class="card-desc" x="16" y="57">Min. 3 články k tématu (2× 1. autor, min. 1× IF) → plní Článek 1 a 2.</text>
 
         <circle cx="6" cy="65" r="3" fill="#ea580c" />
         <text class="card-title" x="16" y="68" fill="#0f172a">4. Disertační monografie (odevzdání 31.08.2028):</text>
-        <text class="card-desc" x="16" y="80" font-size="8.8px"><tspan font-weight="700" fill="#64748b">• Původní téma v KOS:</tspan> Řízení elektroenergetických zkušebních zařízení laser. spínáním (bude nahrazeno)</text>
+        <text class="card-desc" x="16" y="80" font-size="8.3px"><tspan font-weight="700" fill="#64748b">• Původní téma v KOS:</tspan> Řízení elektroenergetických zkušebních zařízení laser. spínáním</text>
         
         <rect x="14" y="85" width="452" height="17" rx="3" fill="#eff6ff" stroke="#bfdbfe" stroke-width="0.8" />
-        <text x="20" y="97" font-family="'Segoe UI', Arial, sans-serif" font-size="8.8px"><tspan font-weight="800" fill="#0284c7">Jednotný název CZ:</tspan> <tspan font-weight="700" fill="#0f172a">Laserem iniciovaný průraz: diagnostika, predikce a technicko-ekonomické modelování</tspan></text>
+        <text x="20" y="97" font-family="'Segoe UI', Arial, sans-serif" font-size="8.5px"><tspan font-weight="800" fill="#0284c7">Jednotný název CZ:</tspan> <tspan font-weight="700" fill="#0f172a">Laserem iniciovaný průraz: diagnostika, predikce a technicko-ekonomické modelování</tspan></text>
         
         <rect x="14" y="104" width="452" height="17" rx="3" fill="#f8fafc" stroke="#cbd5e1" stroke-width="0.8" />
-        <text x="20" y="116" font-family="'Segoe UI', Arial, sans-serif" font-size="8.8px"><tspan font-weight="800" fill="#475569">Jednotný název EN:</tspan> <tspan font-weight="700" fill="#0f172a">Laser-Triggered Breakdown: Diagnostics, Prediction, and Techno-Economic Modeling</tspan></text>
+        <text x="20" y="116" font-family="'Segoe UI', Arial, sans-serif" font-size="8.4px"><tspan font-weight="800" fill="#475569">Jednotný název EN:</tspan> <tspan font-weight="700" fill="#0f172a">Laser-Triggered Breakdown: Diagnostics, Prediction, and Techno-Economic Modeling</tspan></text>
 
-        <text x="16" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="7.8px" fill="#0369a1"><tspan font-weight="700">• Oficiální název disertačního projektu i monografie:</tspan> Nahrazuje původní téma zapsané v KOS (Slide 21)</text>
+        <text x="16" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="7.8px" fill="#0369a1"><tspan font-weight="700">• Platí jednotně pro výzkumný projekt i disertační monografii</tspan> (Slide 21)</text>
       </g>
     </g>
 
